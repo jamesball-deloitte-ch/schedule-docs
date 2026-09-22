@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARC-------------------------------" DocumentType="DT_PARTIC_UPDATE" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:00.000+02:00" LogicalDate="2026-09-09" Source="INVARC1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<Participant Code="1535420" Parent="1535420" Status="CNF" GivenName="Alejandra" FamilyName="Valencia" PassportGivenName="ALEJANDRA" PassportFamilyName="VALENCIA TRUJILLO" PrintName="VALENCIA Alejandra" PrintInitialName="VALENCIA A" TVName="Alejandra VALENCIA" TVInitialName="A. VALENCIA" TVFamilyName="VALENCIA" Gender="F" Organisation="MEX" BirthDate="1994-10-17" PlaceofBirth="HERMOSILLO SONORA MEXICO" CountryofBirth="MEX" Nationality="MEX" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="8165">
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="3" />
+					<EventEntry Type="ENTRY" Code="PB" Value="680" />
+					<EventEntry Type="ENTRY" Code="SB" Value="668" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1535429" Parent="1535429" Status="CNF" GivenName="Angela" FamilyName="Ruiz" PassportGivenName="ANGELA" PassportFamilyName="RUIZ ROSALES" PrintName="RUIZ Angela" PrintInitialName="RUIZ A" TVName="Angela RUIZ" TVInitialName="A. RUIZ" TVFamilyName="RUIZ" Gender="F" Organisation="MEX" BirthDate="2006-07-28" PlaceofBirth="COAHUILA DE ZARAGOZA MEXICO" CountryofBirth="MEX" Nationality="MEX" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="37065">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="665" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="32" />
+					<EventEntry Type="ENTRY" Code="SB" Value="657" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1536479" Parent="1536479" Status="CNF" GivenName="Ana" FamilyName="Vazquez" PassportGivenName="ANA" PassportFamilyName="VAZQUEZ FLORES" PrintName="VAZQUEZ Ana" PrintInitialName="VAZQUEZ A" TVName="Ana VAZQUEZ" TVInitialName="A. VAZQUEZ" TVFamilyName="VAZQUEZ" Gender="F" Organisation="MEX" BirthDate="2000-10-05" PlaceofBirth="SANTILLO COAHUILA DE ZARAGOZA" CountryofBirth="MEX" Nationality="MEX" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="15053">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="45" />
+					<EventEntry Type="ENTRY" Code="SB" Value="645" />
+					<EventEntry Type="ENTRY" Code="PB" Value="680" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1541265" Parent="1541265" Status="CNF" GivenName="Lisa" FamilyName="Barbelin" PassportGivenName="LISA" PassportFamilyName="BARBELIN" PrintName="BARBELIN Lisa" PrintInitialName="BARBELIN L" TVName="Lisa BARBELIN" TVInitialName="L. BARBELIN" TVFamilyName="BARBELIN" Gender="F" Organisation="FRA" BirthDate="2000-04-10" PlaceofBirth="NANCY" CountryofBirth="FRA" Nationality="FRA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="3283">
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="678" />
+					<EventEntry Type="ENTRY" Code="SB" Value="678" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="11" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1541266" Parent="1541266" Status="CNF" GivenName="Amelie" FamilyName="Cordeau" PassportGivenName="AMELIE" PassportFamilyName="CORDEAU" PrintName="CORDEAU Amelie" PrintInitialName="CORDEAU A" TVName="Amelie CORDEAU" TVInitialName="A. CORDEAU" TVFamilyName="CORDEAU" Gender="F" Organisation="FRA" BirthDate="2005-10-01" PlaceofBirth="AMBILLY" CountryofBirth="FRA" Nationality="FRA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="41668">
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="101" />
+					<EventEntry Type="ENTRY" Code="PB" Value="665" />
+					<EventEntry Type="ENTRY" Code="SB" Value="665" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1541270" Parent="1541270" Status="CNF" GivenName="Baptiste" FamilyName="Addis" PassportGivenName="BAPTISTE" PassportFamilyName="ADDIS" PrintName="ADDIS Baptiste" PrintInitialName="ADDIS B" TVName="Baptiste ADDIS" TVInitialName="B. ADDIS" TVFamilyName="ADDIS" Gender="M" Organisation="FRA" BirthDate="2006-12-07" PlaceofBirth="ORLEANS" CountryofBirth="FRA" Nationality="FRA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="32221">
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCMTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCMINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="689" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="17" />
+					<EventEntry Type="ENTRY" Code="SB" Value="689" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1546133" Parent="1546133" Status="CNF" GivenName="Bhajan" FamilyName="Kaur" PassportGivenName="KAUR BHAJAN" PassportFamilyName="KAUR BHAJAN" PrintName="KAUR Bhajan" PrintInitialName="KAUR B" TVName="Bhajan KAUR" TVInitialName="B. KAUR" TVFamilyName="KAUR" Gender="F" Organisation="IND" BirthDate="2005-08-26" PlaceofBirth="ELLENABAD HARYANA" CountryofBirth="IND" PlaceofResidence="SIRSA HARYANA" CountryofResidence="IND" Nationality="IND" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="45025">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="SB" Value="662" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="45" />
+					<EventEntry Type="ENTRY" Code="PB" Value="668" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1564630" Parent="1564630" Status="CNF" GivenName="Yu-Hsuan" FamilyName="Tai" PassportGivenName="YU-HSUAN" PassportFamilyName="TAI" PrintName="TAI Yu-Hsuan" PrintInitialName="TAI YH" TVName="TAI Yu-Hsuan" TVInitialName="TAI Y.H." TVFamilyName="TAI" Gender="M" Organisation="TPE" BirthDate="2002-11-09" PlaceofBirth="NEW TAIPEI CITY" CountryofBirth="TPE" Nationality="TPE" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="30552">
+				<RegisteredEvent Event="ARCMINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="37" />
+					<EventEntry Type="ENTRY" Code="PB" Value="674" />
+					<EventEntry Type="ENTRY" Code="SB" Value="670" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCMTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1564634" Parent="1564634" Status="CNF" GivenName="Chien-Ying" FamilyName="Lei" PassportGivenName="CHIEN-YING" PassportFamilyName="LEI" PrintName="LEI Chien-Ying" PrintInitialName="LEI CY" TVName="LEI Chien-Ying" TVInitialName="LEI C.Y." TVFamilyName="LEI" Gender="F" Organisation="TPE" BirthDate="1990-04-17" PlaceofBirth="NEW TAIPEI CITY" CountryofBirth="TPE" Nationality="TPE" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="7243">
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="680" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="36" />
+					<EventEntry Type="ENTRY" Code="SB" Value="671" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1902121" Parent="1902121" Status="CNF" GivenName="Hunyoung" FamilyName="Jeon" PassportGivenName="HUNYOUNG" PassportFamilyName="JEON" PrintName="JEON Hunyoung" PrintInitialName="JEON H" TVName="JEON Hunyoung" TVInitialName="JEON H." TVFamilyName="JEON" Gender="F" Organisation="KOR" BirthDate="1994-05-29" PlaceofBirth="SEOUL" CountryofBirth="KOR" Nationality="KOR" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="8183">
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="SB" Value="680" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="21" />
+					<EventEntry Type="ENTRY" Code="PB" Value="680" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1902135" Parent="1902135" Status="CNF" GivenName="Woojin" FamilyName="Kim" PassportGivenName="WOOJIN" PassportFamilyName="KIM" PrintName="KIM Woojin" PrintInitialName="KIM W" TVName="KIM Woojin" TVInitialName="KIM W." TVFamilyName="KIM" Gender="M" Organisation="KOR" BirthDate="1992-06-20" PlaceofBirth="SEOUL" CountryofBirth="KOR" Nationality="KOR" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="8179">
+				<RegisteredEvent Event="ARCMINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="2" />
+					<EventEntry Type="ENTRY" Code="SB" Value="699" />
+					<EventEntry Type="ENTRY" Code="PB" Value="700" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCMTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1902147" Parent="1902147" Status="CNF" GivenName="Sihyeon" FamilyName="Lim" PassportGivenName="SIHYEON" PassportFamilyName="LIM" PrintName="LIM Sihyeon" PrintInitialName="LIM S" TVName="LIM Sihyeon" TVInitialName="LIM S." TVFamilyName="LIM" Gender="F" Organisation="KOR" BirthDate="2003-06-13" PlaceofBirth="SEOUL" CountryofBirth="KOR" Nationality="KOR" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="48352">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="2" />
+					<EventEntry Type="ENTRY" Code="PB" Value="689" />
+					<EventEntry Type="ENTRY" Code="SB" Value="685" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1902148" Parent="1902148" Status="CNF" GivenName="Suhyeon" FamilyName="Nam" PassportGivenName="SUHYEON" PassportFamilyName="NAM" PrintName="NAM Suhyeon" PrintInitialName="NAM S" TVName="NAM Suhyeon" TVInitialName="NAM S." TVFamilyName="NAM" Gender="F" Organisation="KOR" BirthDate="2005-01-27" PlaceofBirth="SEOUL" CountryofBirth="KOR" Nationality="KOR" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="45685">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="670" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="61" />
+					<EventEntry Type="ENTRY" Code="SB" Value="670" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1913372" Parent="1913372" Status="CNF" GivenName="Jiaman" FamilyName="Li" PassportGivenName="JIAMAN" PassportFamilyName="LI" PrintName="LI Jiaman" PrintInitialName="LI J" TVName="LI Jiaman" TVInitialName="LI J." TVFamilyName="LI" Gender="F" Organisation="CHN" BirthDate="1997-08-18" PlaceofBirth="BEIJING" CountryofBirth="CHN" PlaceofResidence="BEIJING" CountryofResidence="CHN" Nationality="CHN" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="11691">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="SB" Value="678" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="15" />
+					<EventEntry Type="ENTRY" Code="PB" Value="678" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1913380" Parent="1913380" Status="CNF" GivenName="Xiaolei" FamilyName="Yang" PassportGivenName="XIAOLEI" PassportFamilyName="YANG" PrintName="YANG Xiaolei" PrintInitialName="YANG X" TVName="YANG Xiaolei" TVInitialName="YANG X." TVFamilyName="YANG" Gender="F" Organisation="CHN" BirthDate="2000-06-28" PlaceofBirth="ANHUI" CountryofBirth="CHN" PlaceofResidence="BEIJING" CountryofResidence="CHN" Nationality="CHN" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="20795">
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="32" />
+					<EventEntry Type="ENTRY" Code="PB" Value="673" />
+					<EventEntry Type="ENTRY" Code="SB" Value="673" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1913382" Parent="1913382" Status="CNF" GivenName="Qixuan" FamilyName="An" PassportGivenName="QIXUAN" PassportFamilyName="AN" PrintName="AN Qixuan" PrintInitialName="AN Q" TVName="AN Qixuan" TVInitialName="AN Q." TVFamilyName="AN" Gender="F" Organisation="CHN" BirthDate="2000-12-03" PlaceofBirth="XINJIANG" CountryofBirth="CHN" PlaceofResidence="BEIJING" CountryofResidence="CHN" Nationality="CHN" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="20796">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="677" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="28" />
+					<EventEntry Type="ENTRY" Code="SB" Value="662" />
+				</RegisteredEvent>
+			</Discipline>
+		</Participant>
+		<Participant Code="1913983" Parent="1913983" Status="CNF" GivenName="Diananda" FamilyName="Choirunisa" PassportGivenName="DIANANDA" PassportFamilyName="CHOIRUNISA" PrintName="CHOIRUNISA Diananda" PrintInitialName="CHOIRUNISA D" TVName="Diananda CHOIRUNISA" TVInitialName="D. CHOIRUNISA" TVFamilyName="CHOIRUNISA" Gender="F" Organisation="INA" BirthDate="1997-03-16" PlaceofBirth="SURABAYA" CountryofBirth="INA" PlaceofResidence="JAKARTA" CountryofResidence="INA" Nationality="INA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="11122">
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="SB" Value="669" />
+					<EventEntry Type="ENTRY" Code="PB" Value="669" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="38" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1915454" Parent="1915454" Status="CNF" GivenName="Mauro" FamilyName="Nespoli" PassportGivenName="MAURO" PassportFamilyName="NESPOLI" PrintName="NESPOLI Mauro" PrintInitialName="NESPOLI M" TVName="Mauro NESPOLI" TVInitialName="M. NESPOLI" TVFamilyName="NESPOLI" Gender="M" Organisation="ITA" BirthDate="1987-11-22" PlaceofBirth="VOGHERA" CountryofBirth="ITA" Nationality="ITA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="5796">
+				<RegisteredEvent Event="ARCMINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="691" />
+					<EventEntry Type="ENTRY" Code="SB" Value="687" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="5" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCMTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1915461" Parent="1915461" Status="CNF" GivenName="Chiara" FamilyName="Rebagliati" PassportGivenName="CHIARA" PassportFamilyName="REBAGLIATI" PrintName="REBAGLIATI Chiara" PrintInitialName="REBAGLIATI C" TVName="Chiara REBAGLIATI" TVInitialName="C. REBAGLIATI" TVFamilyName="REBAGLIATI" Gender="F" Organisation="ITA" BirthDate="1997-01-23" PlaceofBirth="SAVONA" CountryofBirth="ITA" Nationality="ITA" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="16298">
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="PB" Value="672" />
+					<EventEntry Type="ENTRY" Code="SB" Value="672" />
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="9" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1973408" Parent="1973408" Status="CNF" GivenName="Quinty" FamilyName="Roeffen" PassportGivenName="QUINTY" PassportFamilyName="ROEFFEN" PrintName="ROEFFEN Quinty" PrintInitialName="ROEFFEN Q" TVName="Quinty ROEFFEN" TVInitialName="Q. ROEFFEN" TVFamilyName="ROEFFEN" Gender="F" Organisation="NED" BirthDate="2005-09-08" PlaceofBirth="HORST AAN DE MAAS" CountryofBirth="NED" Nationality="NED" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="35734">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="76" />
+					<EventEntry Type="ENTRY" Code="PB" Value="667" />
+					<EventEntry Type="ENTRY" Code="SB" Value="667" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1973409" Parent="1973409" Status="CNF" GivenName="Laura" FamilyName="van der Winkel" PassportGivenName="LAURA FILIPPA" PassportFamilyName="VAN DER WINKEL" PrintName="van der WINKEL Laura" PrintInitialName="van der WINKEL L" TVName="Laura van der WINKEL" TVInitialName="L. van der WINKEL" TVFamilyName="van der WINKEL" Gender="F" Organisation="NED" BirthDate="2001-11-15" PlaceofBirth="GUSTAV ADOLF" CountryofBirth="SWE" Nationality="NED" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="20460">
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="50" />
+					<EventEntry Type="ENTRY" Code="PB" Value="670" />
+					<EventEntry Type="ENTRY" Code="SB" Value="655" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+			</Discipline>
+		</Participant>
+		<Participant Code="1973411" Parent="1973411" Status="CNF" GivenName="Gaby" FamilyName="Schloesser" PassportGivenName="ANA GABRIELA" PassportFamilyName="BAYARDO CHAN" PrintName="SCHLOESSER Gaby" PrintInitialName="SCHLOESSER G" TVName="Gaby SCHLOESSER" TVInitialName="G. SCHLOESSER" TVFamilyName="SCHLOESSER" Gender="F" Organisation="NED" BirthDate="1994-02-18" PlaceofBirth="TIJUANA" CountryofBirth="MEX" Nationality="NED" MainFunctionId="AA01" Current="true">
+			<Discipline Code="ARC-------------------------------" IFId="8906">
+				<RegisteredEvent Event="ARCWINDIVID-----------------------">
+					<EventEntry Type="ENTRY" Code="RANK_WLD" Value="20" />
+					<EventEntry Type="ENTRY" Code="PB" Value="667" />
+					<EventEntry Type="ENTRY" Code="SB" Value="663" />
+				</RegisteredEvent>
+				<RegisteredEvent Event="ARCXTEAM2-------------------------" />
+				<RegisteredEvent Event="ARCWTEAM3-------------------------" />
+			</Discipline>
+		</Participant>
+	</Competition>
+</OdfBody>

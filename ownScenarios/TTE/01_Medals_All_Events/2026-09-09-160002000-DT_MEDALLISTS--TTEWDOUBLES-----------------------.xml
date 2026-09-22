@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEWDOUBLES-----------------------" DocumentType="DT_MEDALLISTS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T16:00:02.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1" ResultStatus="OFFICIAL">
+	<Competition Gen="OG2028-GEN-5.1" Sport="OG2028-TTE-0.1" Codes="OG2028-1.3.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Table Tennis" EventName="Women's Doubles" Gender="W" />
+			<VenueDescription Venue="LC3" VenueName="LA Convention Center Hall 3" />
+		</ExtendedInfos>
+		<Medal Code="ME_GOLD" Unit="TTEWDOUBLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="TTEWDOUBLES-----------CHN01" Type="T" Order="1" Organisation="CHN">
+				<Description TeamName="CHEN Meng / SUN Yingsha" />
+				<Composition>
+					<Athlete Code="9442007" Order="1">
+						<Description GivenName="Meng" FamilyName="Chen" Gender="F" Organisation="CHN" BirthDate="1994-01-15" IFId="112019" />
+					</Athlete>
+					<Athlete Code="9442013" Order="2">
+						<Description GivenName="Yingsha" FamilyName="Sun" Gender="F" Organisation="CHN" BirthDate="2000-11-04" IFId="131163" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_SILVER" Unit="TTEWDOUBLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="TTEWDOUBLES-----------JPN01" Type="T" Order="1" Organisation="JPN">
+				<Description TeamName="HAYATA Hina / HARIMOTO Miwa" />
+				<Composition>
+					<Athlete Code="9441300" Order="1">
+						<Description GivenName="Hina" FamilyName="Hayata" Gender="F" Organisation="JPN" BirthDate="2000-07-07" IFId="123672" />
+					</Athlete>
+					<Athlete Code="9441398" Order="2">
+						<Description GivenName="Miwa" FamilyName="Harimoto" Gender="F" Organisation="JPN" BirthDate="2008-06-16" IFId="136711" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_BRONZE" Unit="TTEWDOUBLES-----------FNL-000200--" Date="2026-09-09">
+			<Competitor Code="TTEWDOUBLES-----------KOR01" Type="T" Order="1" Organisation="KOR">
+				<Description TeamName="SHIN Yubin / JEON Jihee" />
+				<Composition>
+					<Athlete Code="9446335" Order="1">
+						<Description GivenName="Yubin" FamilyName="Shin" Gender="F" Organisation="KOR" BirthDate="2004-07-05" IFId="123977" />
+					</Athlete>
+					<Athlete Code="9440035" Order="2">
+						<Description GivenName="Jihee" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1992-10-28" IFId="118994" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+	</Competition>
+</OdfBody>

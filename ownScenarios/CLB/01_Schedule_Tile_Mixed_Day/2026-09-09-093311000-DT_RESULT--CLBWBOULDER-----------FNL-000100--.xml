@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="CLBWBOULDER-----------FNL-000100--" DocumentType="DT_RESULT" ResultStatus="START_LIST" Version="4" FeedFlag="T" TimeStamp="2026-09-09T09:33:11.000+02:00" LogicalDate="2026-09-09" Source="LCTCLB1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-CLB-0.2" Codes="OG2028-CC-1.2.0">
+		<ExtendedInfos>
+			<ExtendedInfo Type="UI" Code="ZONE_OPEN" Value="8:45" />
+			<ExtendedInfo Type="UI" Code="ZONE_CLOSE" Value="9:00" />
+			<ExtendedInfo Type="UI" Code="OBSERVE_TIME" Value="2" />
+			<ExtendedInfo Type="UI" Code="CLIMB_TIME" Value="4" />
+			<SportDescription DisciplineName="Climbing" EventName="Women's Boulder" Gender="W" SubEventName="Final" />
+			<VenueDescription Venue="LCT" VenueName="LB Climbing Theater" Location="CL4" LocationName="Boulder &amp; Lead" />
+		</ExtendedInfos>
+		<Result SortOrder="1" StartOrder="1" StartSortOrder="1">
+			<Competitor Code="9101206" Type="A" Organisation="SLO">
+				<Composition>
+					<Athlete Order="1" Code="9101206" Bib="3">
+						<Description GivenName="Mia" FamilyName="Krampl" Gender="F" Organisation="SLO" BirthDate="2000-07-21" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:00:00+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="2" StartOrder="2" StartSortOrder="2">
+			<Competitor Code="9102698" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Order="1" Code="9102698" Bib="7">
+						<Description GivenName="Camilla" FamilyName="Moroni" Gender="F" Organisation="ITA" BirthDate="2001-07-08" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:04:15+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="3" StartOrder="3" StartSortOrder="3">
+			<Competitor Code="9100302" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Order="1" Code="9100302" Bib="4">
+						<Description GivenName="Natalia" FamilyName="Grossman" Gender="F" Organisation="USA" BirthDate="2001-06-22" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:08:30+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="4" StartOrder="4" StartSortOrder="4">
+			<Competitor Code="9108271" Type="A" Organisation="RSA">
+				<Composition>
+					<Athlete Order="1" Code="9108271" Bib="2">
+						<Description GivenName="Lauren" FamilyName="Mukheibir" Gender="F" Organisation="RSA" BirthDate="2001-10-08" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:12:45+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="5" StartOrder="5" StartSortOrder="5">
+			<Competitor Code="9102697" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Order="1" Code="9102697" Bib="1">
+						<Description GivenName="Laura" FamilyName="Rogora" Gender="F" Organisation="ITA" BirthDate="2001-04-28" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:17:00+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="6" StartOrder="6" StartSortOrder="6">
+			<Competitor Code="9103697" Type="A" Organisation="CHN">
+				<Composition>
+					<Athlete Order="1" Code="9103697" Bib="8">
+						<Description GivenName="Zhilu" FamilyName="Luo" Gender="F" Organisation="CHN" BirthDate="2006-01-11" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:21:15+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="7" StartOrder="7" StartSortOrder="7">
+			<Competitor Code="9103695" Type="A" Organisation="CHN">
+				<Composition>
+					<Athlete Order="1" Code="9103695" Bib="9">
+						<Description GivenName="Yuetong" FamilyName="Zhang" Gender="F" Organisation="CHN" BirthDate="2003-02-22" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:25:30+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="8" StartOrder="8" StartSortOrder="8">
+			<Competitor Code="9108117" Type="A" Organisation="AUS">
+				<Composition>
+					<Athlete Order="1" Code="9108117" Bib="10">
+						<Description GivenName="Oceania" FamilyName="Mackenzie" Gender="F" Organisation="AUS" BirthDate="2002-07-11" />
+						<EventUnitEntry Type="EUE" Code="START_TIME" Value="2026-09-09T09:29:45+02:00" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

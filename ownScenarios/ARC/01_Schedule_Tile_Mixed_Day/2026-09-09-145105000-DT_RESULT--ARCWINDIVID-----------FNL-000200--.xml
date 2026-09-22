@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARCWINDIVID-----------FNL-000200--" DocumentType="DT_RESULT" Version="2" FeedFlag="T" TimeStamp="2026-09-09T14:51:05.000+02:00" LogicalDate="2026-09-09" Source="INVARC1" ResultStatus="OFFICIAL">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Archery" EventName="Recurve Women's Individual" Gender="W" SubEventName="Bronze Medal Match" />
+			<VenueDescription Venue="INV" VenueName="Invalides" Location="INV" LocationName="Invalides" />
+		</ExtendedInfos>
+		<Result ResultType="SETS" Result="6" WLT="W" SortOrder="1" StartOrder="1" StartSortOrder="1">
+			<Competitor Code="1902121" Type="A" Organisation="KOR">
+				<Composition>
+					<Athlete Code="1902121" Order="1" Bib="13">
+						<Description GivenName="Hunyoung" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1994-05-29" IFId="8183" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="SETS" Result="2" WLT="L" SortOrder="2" StartOrder="2" StartSortOrder="2">
+			<Competitor Code="1541265" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="1541265" Order="1" Bib="30">
+						<Description GivenName="Lisa" FamilyName="Barbelin" Gender="F" Organisation="FRA" BirthDate="2000-04-10" IFId="3283" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

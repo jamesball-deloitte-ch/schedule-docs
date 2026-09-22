@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_RESULT" TimeStamp="2026-09-09T13:00:12.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLMTEAM11------------GPC-000100--" ResultStatus="OFFICIAL" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="20">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <ExtendedInfos>
+      <UnitDateTime StartDate="2026-09-06T18:00:00.000+02:00" />
+      <ExtendedInfo Type="UI" Code="RES_CODE" Value="PSO" />
+      <ExtendedInfo Type="UI" Code="PERIOD" Value="FT" />
+      <SportDescription DisciplineName="Football" EventName="Men" Gender="M" SubEventName="Men's Group C" UnitNum="5" />
+      <VenueDescription Venue="NVS" VenueName="Nashville Stadium" Location="NVS" LocationName="Nashville Stadium" />
+    </ExtendedInfos>
+    <Periods Home="FBLMTEAM11--MLI01" Away="FBLMTEAM11--ESP01">
+      <Period Code="PSO" HomeScore="1" AwayScore="1" HomePeriodScore="4" AwayPeriodScore="5" />
+    </Periods>
+    <Result StartOrder="1" SortOrder="1" StartSortOrder="1" Result="1" ResultType="POINTS" WLT="L">
+      <Competitor Code="FBLMTEAM11--MLI01" Type="T" Organisation="MLI">
+        <Description TeamName="Mali" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="H" />
+      </Competitor>
+    </Result>
+    <Result StartOrder="2" SortOrder="2" StartSortOrder="2" Result="1" ResultType="POINTS" WLT="W">
+      <Competitor Code="FBLMTEAM11--ESP01" Type="T" Organisation="ESP">
+        <Description TeamName="Spain" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="A" />
+      </Competitor>
+    </Result>
+  </Competition>
+</OdfBody>

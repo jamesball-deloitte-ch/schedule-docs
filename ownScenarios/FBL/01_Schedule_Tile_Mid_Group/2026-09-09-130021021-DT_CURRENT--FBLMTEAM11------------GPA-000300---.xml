@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_CURRENT" TimeStamp="2026-09-09T13:00:21.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLMTEAM11------------GPA-000300--" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="30">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Clock Period="H1" Running="Y" Time="28:14" />
+    <Result StartOrder="1" SortOrder="1" StartSortOrder="1" Result="1" ResultType="POINTS">
+      <Competitor Code="FBLMTEAM11--FRA01" Type="T" Organisation="FRA">
+        <Description TeamName="France" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="H" />
+      </Competitor>
+    </Result>
+    <Result StartOrder="2" SortOrder="2" StartSortOrder="2" Result="0" ResultType="POINTS">
+      <Competitor Code="FBLMTEAM11--GUI01" Type="T" Organisation="GUI">
+        <Description TeamName="Guinea" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="A" />
+      </Competitor>
+    </Result>
+  </Competition>
+</OdfBody>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTE-------------------------------" DocumentType="DT_MEDALS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T16:00:06.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1">
+	<Competition Gen="OG2028-GEN-5.1" Codes="OG2028-1.3.0">
+		<MedalStandings DateTime="2026-09-09T16:00:06+02:00" LastEvent="TTEXTEAM--------------------------" TotalEvents="6" FinishedEvents="6">
+			<MedalSummary>
+				<MedalNumber Type="TOT" Gold="6" Silver="6" Bronze="6" Total="18" />
+				<MedalNumber Type="M" Gold="2" Silver="2" Bronze="2" Total="6" />
+				<MedalNumber Type="W" Gold="2" Silver="2" Bronze="2" Total="6" />
+				<MedalNumber Type="X" Gold="2" Silver="2" Bronze="2" Total="6" />
+			</MedalSummary>
+			<MedalsTable>
+				<MedalLine Rank="1" RankTotal="1" SortRank="1" RankEqual="N" SortRankTotal="1" RankTotalEqual="N" Organisation="CHN">
+					<Description OrganisationName="People's Republic of China" />
+					<MedalNumber Type="TOT" Total="6" Gold="6" />
+					<MedalNumber Type="M" Total="2" Gold="2" />
+					<MedalNumber Type="W" Total="2" Gold="2" />
+					<MedalNumber Type="X" Total="2" Gold="2" />
+				</MedalLine>
+				<MedalLine Rank="2" RankTotal="2" SortRank="2" RankEqual="N" SortRankTotal="2" RankTotalEqual="N" Organisation="JPN">
+					<Description OrganisationName="Japan" />
+					<MedalNumber Type="TOT" Total="5" Silver="4" Bronze="1" />
+					<MedalNumber Type="M" Total="1" Bronze="1" />
+					<MedalNumber Type="W" Total="2" Silver="2" />
+					<MedalNumber Type="X" Total="2" Silver="2" />
+				</MedalLine>
+				<MedalLine Rank="3" RankTotal="4" SortRank="3" RankEqual="N" SortRankTotal="4" RankTotalEqual="N" Organisation="FRA">
+					<Description OrganisationName="France" />
+					<MedalNumber Type="TOT" Total="2" Silver="1" Bronze="1" />
+					<MedalNumber Type="M" Total="2" Silver="1" Bronze="1" />
+				</MedalLine>
+				<MedalLine Rank="4" RankTotal="5" SortRank="4" RankEqual="N" SortRankTotal="5" RankTotalEqual="N" Organisation="GER">
+					<Description OrganisationName="Germany" />
+					<MedalNumber Type="TOT" Total="1" Silver="1" />
+					<MedalNumber Type="M" Total="1" Silver="1" />
+				</MedalLine>
+				<MedalLine Rank="5" RankTotal="3" SortRank="5" RankEqual="N" SortRankTotal="3" RankTotalEqual="N" Organisation="KOR">
+					<Description OrganisationName="Republic of Korea" />
+					<MedalNumber Type="TOT" Total="4" Bronze="4" />
+					<MedalNumber Type="W" Total="2" Bronze="2" />
+					<MedalNumber Type="X" Total="2" Bronze="2" />
+				</MedalLine>
+			</MedalsTable>
+		</MedalStandings>
+	</Competition>
+</OdfBody>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARCWTEAM3-------------FNL-000200--" DocumentType="DT_RESULT" Version="2" FeedFlag="T" TimeStamp="2026-09-09T14:51:01.000+02:00" LogicalDate="2026-09-09" Source="INVARC1" ResultStatus="OFFICIAL">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Archery" EventName="Recurve Women's Team" Gender="W" SubEventName="Bronze Medal Match" />
+			<VenueDescription Venue="INV" VenueName="Invalides" Location="INV" LocationName="Invalides" />
+		</ExtendedInfos>
+		<Result ResultType="SETS" Result="6" WLT="W" SortOrder="1" StartOrder="1" StartSortOrder="1">
+			<Competitor Code="ARCWTEAM3---NED01" Type="T" Organisation="NED">
+				<Description TeamName="Netherlands" />
+				<Composition>
+					<Athlete Code="1973408" Order="1" Bib="55">
+						<Description GivenName="Quinty" FamilyName="Roeffen" Gender="F" Organisation="NED" BirthDate="2005-09-08" IFId="35734" />
+					</Athlete>
+					<Athlete Code="1973411" Order="2" Bib="35">
+						<Description GivenName="Gaby" FamilyName="Schloesser" Gender="F" Organisation="NED" BirthDate="1994-02-18" IFId="8906" />
+					</Athlete>
+					<Athlete Code="1973409" Order="3" Bib="59">
+						<Description GivenName="Laura" FamilyName="van der Winkel" Gender="F" Organisation="NED" BirthDate="2001-11-15" IFId="20460" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="SETS" Result="2" WLT="L" SortOrder="2" StartOrder="2" StartSortOrder="2">
+			<Competitor Code="ARCWTEAM3---MEX01" Type="T" Organisation="MEX">
+				<Description TeamName="Mexico" />
+				<Composition>
+					<Athlete Code="1535429" Order="1" Bib="24">
+						<Description GivenName="Angela" FamilyName="Ruiz" Gender="F" Organisation="MEX" BirthDate="2006-07-28" IFId="37065" />
+					</Athlete>
+					<Athlete Code="1535420" Order="2" Bib="8">
+						<Description GivenName="Alejandra" FamilyName="Valencia" Gender="F" Organisation="MEX" BirthDate="1994-10-17" IFId="8165" />
+					</Athlete>
+					<Athlete Code="1536479" Order="3" Bib="20">
+						<Description GivenName="Ana" FamilyName="Vazquez" Gender="F" Organisation="MEX" BirthDate="2000-10-05" IFId="15053" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

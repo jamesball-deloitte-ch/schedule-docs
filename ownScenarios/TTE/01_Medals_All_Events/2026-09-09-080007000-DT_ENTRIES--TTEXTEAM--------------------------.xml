@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEXTEAM--------------------------" DocumentType="DT_ENTRIES" Version="4" FeedFlag="T" TimeStamp="2026-09-09T08:00:07.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1">
+	<Competition Gen="OG2028-GEN-5.1" Codes="OG2028-1.3.0">
+		<Entry Code="TTEXTEAM--------------AUS01" Type="T" Organisation="AUS" SortOrder="1">
+			<Description TeamName="Australia" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="60" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="A" />
+			<Composition>
+				<Athlete Code="9446474" Order="1">
+					<Description GivenName="Finn" FamilyName="Luu" Gender="M" Organisation="AUS" BirthDate="2004-12-14" IFId="131798" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9446476" Order="2">
+					<Description GivenName="Hwan" FamilyName="Bae" Gender="M" Organisation="AUS" BirthDate="2005-03-17" IFId="134803" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9446483" Order="3">
+					<Description GivenName="Nicholas" FamilyName="Lum" Gender="M" Organisation="AUS" BirthDate="2005-05-29" IFId="134800" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9446481" Order="4">
+					<Description GivenName="Melissa" FamilyName="Tapper" Gender="F" Organisation="AUS" BirthDate="1990-03-01" IFId="109272" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9446482" Order="5">
+					<Description GivenName="Michelle" FamilyName="Bromley" Gender="F" Organisation="AUS" BirthDate="1987-12-24" IFId="101000" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9448612" Order="6">
+					<Description GivenName="Minhyung" FamilyName="Jee" Gender="F" Organisation="AUS" BirthDate="1987-01-05" IFId="104092" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------BRA01" Type="T" Organisation="BRA" SortOrder="2">
+			<Description TeamName="Brazil" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="18" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="A" />
+			<Composition>
+				<Athlete Code="9448575" Order="1">
+					<Description GivenName="Guilherme" FamilyName="Teodoro" Gender="M" Organisation="BRA" BirthDate="2001-12-03" IFId="123031" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9448577" Order="2">
+					<Description GivenName="Hugo" FamilyName="Calderano" Gender="M" Organisation="BRA" BirthDate="1996-06-22" IFId="115641" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448586" Order="3">
+					<Description GivenName="Vitor" FamilyName="Ishiy" Gender="M" Organisation="BRA" BirthDate="1995-09-22" IFId="117312" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448568" Order="4">
+					<Description GivenName="Bruna" FamilyName="Alexandre" Gender="F" Organisation="BRA" BirthDate="1995-03-29" IFId="117298" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9448569" Order="5">
+					<Description GivenName="Bruna" FamilyName="Takahashi" Gender="F" Organisation="BRA" BirthDate="2000-07-19" IFId="121623" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448574" Order="6">
+					<Description GivenName="Giulia" FamilyName="Takahashi" Gender="F" Organisation="BRA" BirthDate="2005-04-02" IFId="133478" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------CAN01" Type="T" Organisation="CAN" SortOrder="3">
+			<Description TeamName="Canada" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="13" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="A" />
+			<Composition>
+				<Athlete Code="9441608" Order="1">
+					<Description GivenName="Edward" FamilyName="Ly" Gender="M" Organisation="CAN" BirthDate="2003-01-29" IFId="122425" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441620" Order="2">
+					<Description GivenName="Jeremy" FamilyName="Hazin" Gender="M" Organisation="CAN" BirthDate="2000-02-27" IFId="117604" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9441622" Order="3">
+					<Description GivenName="Eugene" FamilyName="Wang" Gender="M" Organisation="CAN" BirthDate="1985-11-13" IFId="114247" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440040" Order="4">
+					<Description GivenName="Demi" FamilyName="Cai" Gender="F" Organisation="CAN" BirthDate="2007-08-11" IFId="106717" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440715" Order="5">
+					<Description GivenName="Ivy" FamilyName="Liao" Gender="F" Organisation="CAN" BirthDate="2001-06-12" IFId="135741" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9441612" Order="6">
+					<Description GivenName="Mo" FamilyName="Zhang" Gender="F" Organisation="CAN" BirthDate="1989-01-17" IFId="110560" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------CHN01" Type="T" Organisation="CHN" SortOrder="4">
+			<Description TeamName="China" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="1" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="A" />
+			<Composition>
+				<Athlete Code="9440007" Order="1">
+					<Description GivenName="Chuqin" FamilyName="Wang" Gender="M" Organisation="CHN" BirthDate="2000-05-11" IFId="121558" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442000" Order="2">
+					<Description GivenName="Long" FamilyName="Ma" Gender="M" Organisation="CHN" BirthDate="1988-10-20" IFId="105649" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9442095" Order="3">
+					<Description GivenName="Zhendong" FamilyName="Fan" Gender="M" Organisation="CHN" BirthDate="1997-01-22" IFId="121404" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442007" Order="4">
+					<Description GivenName="Meng" FamilyName="Chen" Gender="F" Organisation="CHN" BirthDate="1994-01-15" IFId="112019" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442013" Order="5">
+					<Description GivenName="Yingsha" FamilyName="Sun" Gender="F" Organisation="CHN" BirthDate="2000-11-04" IFId="131163" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442014" Order="6">
+					<Description GivenName="Manyu" FamilyName="Wang" Gender="F" Organisation="CHN" BirthDate="1999-02-09" IFId="121411" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------EGY01" Type="T" Organisation="EGY" SortOrder="5">
+			<Description TeamName="Egypt" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="19" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="B" />
+			<Composition>
+				<Athlete Code="9440008" Order="1">
+					<Description GivenName="Mohamed" FamilyName="El-Beiali" Gender="M" Organisation="EGY" BirthDate="1988-07-02" IFId="102486" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442003" Order="2">
+					<Description GivenName="Omar" FamilyName="Assar" Gender="M" Organisation="EGY" BirthDate="1991-07-22" IFId="100696" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442094" Order="3">
+					<Description GivenName="Youssef" FamilyName="Abdel-Aziz" Gender="M" Organisation="EGY" BirthDate="2000-02-17" IFId="116723" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9440009" Order="4">
+					<Description GivenName="Hana" FamilyName="Goda" Gender="F" Organisation="EGY" BirthDate="2007-12-12" IFId="131335" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442005" Order="5">
+					<Description GivenName="Mariam" FamilyName="Alhodaby" Gender="F" Organisation="EGY" BirthDate="2000-04-05" IFId="120726" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9442093" Order="6">
+					<Description GivenName="Dina" FamilyName="Meshref" Gender="F" Organisation="EGY" BirthDate="1994-03-10" IFId="111656" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------FRA01" Type="T" Organisation="FRA" SortOrder="6">
+			<Description TeamName="France" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="10" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="B" />
+			<Composition>
+				<Athlete Code="9449876" Order="1">
+					<Description GivenName="Alexis" FamilyName="Lebrun" Gender="M" Organisation="FRA" BirthDate="2003-08-27" IFId="132992" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9449877" Order="2">
+					<Description GivenName="Felix" FamilyName="Lebrun" Gender="M" Organisation="FRA" BirthDate="2006-09-12" IFId="135977" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9449878" Order="3">
+					<Description GivenName="Simon" FamilyName="Gauzy" Gender="M" Organisation="FRA" BirthDate="1994-10-25" IFId="112062" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9449887" Order="4">
+					<Description GivenName="Jia Nan" FamilyName="Yuan" Gender="F" Organisation="FRA" BirthDate="1985-07-11" IFId="137894" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9449888" Order="5">
+					<Description GivenName="Prithika" FamilyName="Pavade" Gender="F" Organisation="FRA" BirthDate="2004-08-02" IFId="131100" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9449891" Order="6">
+					<Description GivenName="Charlotte" FamilyName="Lutz" Gender="F" Organisation="FRA" BirthDate="2005-05-17" IFId="135501" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------GER01" Type="T" Organisation="GER" SortOrder="7">
+			<Description TeamName="Germany" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="11" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="B" />
+			<Composition>
+				<Athlete Code="9442439" Order="1">
+					<Description GivenName="Timo" FamilyName="Boll" Gender="M" Organisation="GER" BirthDate="1981-03-08" IFId="101222" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9442441" Order="2">
+					<Description GivenName="Dimitrij" FamilyName="Ovtcharov" Gender="M" Organisation="GER" BirthDate="1988-09-02" IFId="107028" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442447" Order="3">
+					<Description GivenName="Dang" FamilyName="Qiu" Gender="M" Organisation="GER" BirthDate="1996-10-29" IFId="114715" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442443" Order="4">
+					<Description GivenName="Xiaona" FamilyName="Shan" Gender="F" Organisation="GER" BirthDate="1983-01-18" IFId="111849" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442449" Order="5">
+					<Description GivenName="Nina" FamilyName="Mittelham" Gender="F" Organisation="GER" BirthDate="1996-11-23" IFId="114726" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442453" Order="6">
+					<Description GivenName="Annett" FamilyName="Kaufmann" Gender="F" Organisation="GER" BirthDate="2006-06-23" IFId="135493" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------HKG01" Type="T" Organisation="HKG" SortOrder="8">
+			<Description TeamName="Hong Kong, China" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="4" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="B" />
+			<Composition>
+				<Athlete Code="9440015" Order="1">
+					<Description GivenName="Baldwin" FamilyName="Chan" Gender="M" Organisation="HKG" BirthDate="2004-12-24" IFId="116049" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440018" Order="2">
+					<Description GivenName="Kwan Kit" FamilyName="Ho" Gender="M" Organisation="HKG" BirthDate="1997-04-20" IFId="109144" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9442625" Order="3">
+					<Description GivenName="Chun Ting" FamilyName="Wong" Gender="M" Organisation="HKG" BirthDate="1991-09-07" IFId="112620" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440012" Order="4">
+					<Description GivenName="Hoi Kem" FamilyName="Doo" Gender="F" Organisation="HKG" BirthDate="1996-11-27" IFId="115543" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440013" Order="5">
+					<Description GivenName="Ho Ching" FamilyName="Lee" Gender="F" Organisation="HKG" BirthDate="1992-11-24" IFId="105159" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9442631" Order="6">
+					<Description GivenName="Chengzhu" FamilyName="Zhu" Gender="F" Organisation="HKG" BirthDate="1997-01-15" IFId="123505" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------IND01" Type="T" Organisation="IND" SortOrder="9">
+			<Description TeamName="India" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="14" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="C" />
+			<Composition>
+				<Athlete Code="9448304" Order="1">
+					<Description GivenName="Manav Vikash" FamilyName="Thakkar" Gender="M" Organisation="IND" BirthDate="2000-04-14" IFId="123682" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9448351" Order="2">
+					<Description GivenName="Sharath Kamal" FamilyName="Achanta" Gender="M" Organisation="IND" BirthDate="1982-07-12" IFId="104314" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448390" Order="3">
+					<Description GivenName="Harmeet" FamilyName="Desai" Gender="M" Organisation="IND" BirthDate="1993-07-19" IFId="111641" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448336" Order="4">
+					<Description GivenName="Sreeja" FamilyName="Akula" Gender="F" Organisation="IND" BirthDate="1998-07-31" IFId="122718" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448393" Order="5">
+					<Description GivenName="Archana Girish" FamilyName="Kamath" Gender="F" Organisation="IND" BirthDate="2000-06-17" IFId="123684" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9448396" Order="6">
+					<Description GivenName="Manika" FamilyName="Batra" Gender="F" Organisation="IND" BirthDate="1995-06-15" IFId="115920" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------JPN01" Type="T" Organisation="JPN" SortOrder="10">
+			<Description TeamName="Japan" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="2" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="C" />
+			<Composition>
+				<Athlete Code="9441306" Order="1">
+					<Description GivenName="Hiroto" FamilyName="Shinozuka" Gender="M" Organisation="JPN" BirthDate="2003-12-23" IFId="134442" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9441309" Order="2">
+					<Description GivenName="Shunsuke" FamilyName="Togami" Gender="M" Organisation="JPN" BirthDate="2001-08-24" IFId="133694" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441399" Order="3">
+					<Description GivenName="Tomokazu" FamilyName="Harimoto" Gender="M" Organisation="JPN" BirthDate="2003-06-27" IFId="123980" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441300" Order="4">
+					<Description GivenName="Hina" FamilyName="Hayata" Gender="F" Organisation="JPN" BirthDate="2000-07-07" IFId="123672" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441301" Order="5">
+					<Description GivenName="Miu" FamilyName="Hirano" Gender="F" Organisation="JPN" BirthDate="2000-04-14" IFId="117820" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441398" Order="6">
+					<Description GivenName="Miwa" FamilyName="Harimoto" Gender="F" Organisation="JPN" BirthDate="2008-06-16" IFId="136711" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------KOR01" Type="T" Organisation="KOR" SortOrder="11">
+			<Description TeamName="Korea" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="3" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="C" />
+			<Composition>
+				<Athlete Code="9440027" Order="1">
+					<Description GivenName="Daeseong" FamilyName="Cho" Gender="M" Organisation="KOR" BirthDate="2002-10-13" IFId="123971" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440034" Order="2">
+					<Description GivenName="Woojin" FamilyName="Jang" Gender="M" Organisation="KOR" BirthDate="1995-09-10" IFId="114936" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9446329" Order="3">
+					<Description GivenName="Jonghoon" FamilyName="Lim" Gender="M" Organisation="KOR" BirthDate="1997-01-21" IFId="117357" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9440035" Order="4">
+					<Description GivenName="Jihee" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1992-10-28" IFId="118994" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440039" Order="5">
+					<Description GivenName="Eunhye" FamilyName="Lee" Gender="F" Organisation="KOR" BirthDate="1995-05-02" IFId="122052" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9446335" Order="6">
+					<Description GivenName="Yubin" FamilyName="Shin" Gender="F" Organisation="KOR" BirthDate="2004-07-05" IFId="123977" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------POR01" Type="T" Organisation="POR" SortOrder="12">
+			<Description TeamName="Portugal" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="15" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="C" />
+			<Composition>
+				<Athlete Code="9447382" Order="1">
+					<Description GivenName="Joao" FamilyName="Geraldo" Gender="M" Organisation="POR" BirthDate="1995-09-29" IFId="115396" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9447383" Order="2">
+					<Description GivenName="Marcos" FamilyName="Freitas" Gender="M" Organisation="POR" BirthDate="1988-04-08" IFId="102841" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9447387" Order="3">
+					<Description GivenName="Tiago" FamilyName="Apolonia" Gender="M" Organisation="POR" BirthDate="1986-07-28" IFId="100621" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440016" Order="4">
+					<Description GivenName="Ines" FamilyName="Matos" Gender="F" Organisation="POR" BirthDate="2004-10-05" IFId="114628" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9440043" Order="5">
+					<Description GivenName="Jieni" FamilyName="Shao" Gender="F" Organisation="POR" BirthDate="1994-01-25" IFId="121401" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9447378" Order="6">
+					<Description GivenName="Fu" FamilyName="Yu" Gender="F" Organisation="POR" BirthDate="1978-11-29" IFId="102863" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------ROU01" Type="T" Organisation="ROU" SortOrder="13">
+			<Description TeamName="Romania" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="8" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="D" />
+			<Composition>
+				<Athlete Code="9440014" Order="1">
+					<Description GivenName="Iulian" FamilyName="Chirita" Gender="M" Organisation="ROU" BirthDate="2006-02-02" IFId="118024" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9441473" Order="2">
+					<Description GivenName="Eduard" FamilyName="Ionescu" Gender="M" Organisation="ROU" BirthDate="2004-11-09" IFId="135023" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441474" Order="3">
+					<Description GivenName="Ovidiu" FamilyName="Ionescu" Gender="M" Organisation="ROU" BirthDate="1989-06-28" IFId="103903" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440004" Order="4">
+					<Description GivenName="Adina" FamilyName="Diaconu" Gender="F" Organisation="ROU" BirthDate="1999-10-14" IFId="117463" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9441477" Order="5">
+					<Description GivenName="Elizabeta" FamilyName="Samara" Gender="F" Organisation="ROU" BirthDate="1989-04-15" IFId="108226" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441478" Order="6">
+					<Description GivenName="Bernadette" FamilyName="Szocs" Gender="F" Organisation="ROU" BirthDate="1995-03-05" IFId="111012" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------SWE01" Type="T" Organisation="SWE" SortOrder="14">
+			<Description TeamName="Sweden" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="9" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="D" />
+			<Composition>
+				<Athlete Code="9443681" Order="1">
+					<Description GivenName="Anton" FamilyName="Kallberg" Gender="M" Organisation="SWE" BirthDate="1997-08-17" IFId="116853" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9443686" Order="2">
+					<Description GivenName="Kristian" FamilyName="Karlsson" Gender="M" Organisation="SWE" BirthDate="1991-08-06" IFId="104379" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9443690" Order="3">
+					<Description GivenName="Truls" FamilyName="Moregard" Gender="M" Organisation="SWE" BirthDate="2002-02-16" IFId="122044" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9443682" Order="4">
+					<Description GivenName="Filippa" FamilyName="Bergand" Gender="F" Organisation="SWE" BirthDate="1999-03-11" IFId="120125" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9443683" Order="5">
+					<Description GivenName="Christina" FamilyName="Kallberg" Gender="F" Organisation="SWE" BirthDate="2000-04-01" IFId="118507" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9443684" Order="6">
+					<Description GivenName="Linda" FamilyName="Bergstrom" Gender="F" Organisation="SWE" BirthDate="1995-01-12" IFId="114905" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------TPE01" Type="T" Organisation="TPE" SortOrder="15">
+			<Description TeamName="Chinese Taipei" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="7" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="D" />
+			<Composition>
+				<Athlete Code="9440095" Order="1">
+					<Description GivenName="Yun-Ju" FamilyName="Lin" Gender="M" Organisation="TPE" BirthDate="2001-08-17" IFId="121582" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441076" Order="2">
+					<Description GivenName="Chih-Yuan" FamilyName="Chuang" Gender="M" Organisation="TPE" BirthDate="1981-04-02" IFId="101820" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9443011" Order="3">
+					<Description GivenName="Cheng-Jui" FamilyName="Kao" Gender="M" Organisation="TPE" BirthDate="2004-12-25" IFId="132824" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442112" Order="4">
+					<Description GivenName="I-Ching" FamilyName="Cheng" Gender="F" Organisation="TPE" BirthDate="1992-02-15" IFId="110797" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442208" Order="5">
+					<Description GivenName="Tung-Chuan" FamilyName="Chien" Gender="F" Organisation="TPE" BirthDate="2002-01-01" IFId="124165" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9444143" Order="6">
+					<Description GivenName="Szu-Yu" FamilyName="Chen" Gender="F" Organisation="TPE" BirthDate="1993-08-01" IFId="114105" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXTEAM--------------USA01" Type="T" Organisation="USA" SortOrder="16">
+			<Description TeamName="United States of America" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="16" />
+			<ExtendedEntry Type="ENTRY" Code="GROUP" Value="D" />
+			<Composition>
+				<Athlete Code="9440000" Order="1">
+					<Description GivenName="Nandan" FamilyName="Naresh" Gender="M" Organisation="USA" BirthDate="2006-12-30" IFId="107296" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9440006" Order="2">
+					<Description GivenName="Sid" FamilyName="Naresh" Gender="M" Organisation="USA" BirthDate="2004-02-13" IFId="101639" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440328" Order="3">
+					<Description GivenName="Kanak" FamilyName="Jha" Gender="M" Organisation="USA" BirthDate="2000-06-19" IFId="116021" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440326" Order="4">
+					<Description GivenName="Lily" FamilyName="Zhang" Gender="F" Organisation="USA" BirthDate="1996-06-16" IFId="112221" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9440332" Order="5">
+					<Description GivenName="Rachel" FamilyName="Sung" Gender="F" Organisation="USA" BirthDate="2004-07-09" IFId="121250" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9440333" Order="6">
+					<Description GivenName="Amy" FamilyName="Wang" Gender="F" Organisation="USA" BirthDate="2002-12-02" IFId="119022" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

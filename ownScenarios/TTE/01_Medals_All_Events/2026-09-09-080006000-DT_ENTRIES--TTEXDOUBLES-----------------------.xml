@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEXDOUBLES-----------------------" DocumentType="DT_ENTRIES" Version="3" FeedFlag="T" TimeStamp="2026-09-09T08:00:06.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1">
+	<Competition Gen="OG2028-GEN-5.1" Codes="OG2028-1.3.0">
+		<Entry Code="TTEXDOUBLES-----------AUS01" Type="T" Organisation="AUS" SortOrder="1">
+			<Description TeamName="LUM Nicholas / JEE Minhyung" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="60" />
+			<Composition>
+				<Athlete Code="9446483" Order="1">
+					<Description GivenName="Nicholas" FamilyName="Lum" Gender="M" Organisation="AUS" BirthDate="2005-05-29" IFId="134800" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+				<Athlete Code="9448612" Order="2">
+					<Description GivenName="Minhyung" FamilyName="Jee" Gender="F" Organisation="AUS" BirthDate="1987-01-05" IFId="104092" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------BRA01" Type="T" Organisation="BRA" SortOrder="2">
+			<Description TeamName="ISHIY Vitor / TAKAHASHI Bruna" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="18" />
+			<Composition>
+				<Athlete Code="9448586" Order="1">
+					<Description GivenName="Vitor" FamilyName="Ishiy" Gender="M" Organisation="BRA" BirthDate="1995-09-22" IFId="117312" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9448569" Order="2">
+					<Description GivenName="Bruna" FamilyName="Takahashi" Gender="F" Organisation="BRA" BirthDate="2000-07-19" IFId="121623" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------CHN01" Type="T" Organisation="CHN" SortOrder="3">
+			<Description TeamName="WANG Chuqin / SUN Yingsha" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="1" />
+			<Composition>
+				<Athlete Code="9440007" Order="1">
+					<Description GivenName="Chuqin" FamilyName="Wang" Gender="M" Organisation="CHN" BirthDate="2000-05-11" IFId="121558" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+				</Athlete>
+				<Athlete Code="9442013" Order="2">
+					<Description GivenName="Yingsha" FamilyName="Sun" Gender="F" Organisation="CHN" BirthDate="2000-11-04" IFId="131163" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------CUB01" Type="T" Organisation="CUB" SortOrder="4">
+			<Description TeamName="CAMPOS Jorge / FONSECA CARRAZANA Daniela" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="24" />
+			<Composition>
+				<Athlete Code="9440002" Order="1">
+					<Description GivenName="Jorge" FamilyName="Campos" Gender="M" Organisation="CUB" BirthDate="1991-09-19" IFId="112121" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+				<Athlete Code="9441464" Order="2">
+					<Description GivenName="Daniela" FamilyName="Fonseca Carrazana" Gender="F" Organisation="CUB" BirthDate="2002-07-24" IFId="124042" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------EGY01" Type="T" Organisation="EGY" SortOrder="5">
+			<Description TeamName="ASSAR Omar / MESHREF Dina" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="19" />
+			<Composition>
+				<Athlete Code="9442003" Order="1">
+					<Description GivenName="Omar" FamilyName="Assar" Gender="M" Organisation="EGY" BirthDate="1991-07-22" IFId="100696" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+				<Athlete Code="9442093" Order="2">
+					<Description GivenName="Dina" FamilyName="Meshref" Gender="F" Organisation="EGY" BirthDate="1994-03-10" IFId="111656" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------ESP01" Type="T" Organisation="ESP" SortOrder="6">
+			<Description TeamName="ROBLES Alvaro / XIAO Maria" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="5" />
+			<Composition>
+				<Athlete Code="9443620" Order="1">
+					<Description GivenName="Alvaro" FamilyName="Robles" Gender="M" Organisation="ESP" BirthDate="1991-04-29" IFId="111050" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+				<Athlete Code="9443621" Order="2">
+					<Description GivenName="Maria" FamilyName="Xiao" Gender="F" Organisation="ESP" BirthDate="1994-05-19" IFId="111072" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------FRA01" Type="T" Organisation="FRA" SortOrder="7">
+			<Description TeamName="LEBRUN Alexis / YUAN Jia Nan" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="10" />
+			<Composition>
+				<Athlete Code="9449876" Order="1">
+					<Description GivenName="Alexis" FamilyName="Lebrun" Gender="M" Organisation="FRA" BirthDate="2003-08-27" IFId="132992" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9449887" Order="2">
+					<Description GivenName="Jia Nan" FamilyName="Yuan" Gender="F" Organisation="FRA" BirthDate="1985-07-11" IFId="137894" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------GER01" Type="T" Organisation="GER" SortOrder="8">
+			<Description TeamName="QIU Dang / MITTELHAM Nina" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="11" />
+			<Composition>
+				<Athlete Code="9442447" Order="1">
+					<Description GivenName="Dang" FamilyName="Qiu" Gender="M" Organisation="GER" BirthDate="1996-10-29" IFId="114715" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9442449" Order="2">
+					<Description GivenName="Nina" FamilyName="Mittelham" Gender="F" Organisation="GER" BirthDate="1996-11-23" IFId="114726" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------HKG01" Type="T" Organisation="HKG" SortOrder="9">
+			<Description TeamName="WONG Chun Ting / DOO Hoi Kem" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="4" />
+			<Composition>
+				<Athlete Code="9442625" Order="1">
+					<Description GivenName="Chun Ting" FamilyName="Wong" Gender="M" Organisation="HKG" BirthDate="1991-09-07" IFId="112620" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+				</Athlete>
+				<Athlete Code="9440012" Order="2">
+					<Description GivenName="Hoi Kem" FamilyName="Doo" Gender="F" Organisation="HKG" BirthDate="1996-11-27" IFId="115543" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------HUN01" Type="T" Organisation="HUN" SortOrder="10">
+			<Description TeamName="ECSEKI Nandor / MADARASZ Dora" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="12" />
+			<Composition>
+				<Athlete Code="9449441" Order="1">
+					<Description GivenName="Nandor" FamilyName="Ecseki" Gender="M" Organisation="HUN" BirthDate="1996-10-13" IFId="114716" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+				<Athlete Code="9449470" Order="2">
+					<Description GivenName="Dora" FamilyName="Madarasz" Gender="F" Organisation="HUN" BirthDate="1993-09-03" IFId="111213" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------JPN01" Type="T" Organisation="JPN" SortOrder="11">
+			<Description TeamName="HARIMOTO Tomokazu / HAYATA Hina" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="2" />
+			<Composition>
+				<Athlete Code="9441399" Order="1">
+					<Description GivenName="Tomokazu" FamilyName="Harimoto" Gender="M" Organisation="JPN" BirthDate="2003-06-27" IFId="123980" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+				</Athlete>
+				<Athlete Code="9441300" Order="2">
+					<Description GivenName="Hina" FamilyName="Hayata" Gender="F" Organisation="JPN" BirthDate="2000-07-07" IFId="123672" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------KOR01" Type="T" Organisation="KOR" SortOrder="12">
+			<Description TeamName="LIM Jonghoon / SHIN Yubin" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="3" />
+			<Composition>
+				<Athlete Code="9446329" Order="1">
+					<Description GivenName="Jonghoon" FamilyName="Lim" Gender="M" Organisation="KOR" BirthDate="1997-01-21" IFId="117357" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+				</Athlete>
+				<Athlete Code="9446335" Order="2">
+					<Description GivenName="Yubin" FamilyName="Shin" Gender="F" Organisation="KOR" BirthDate="2004-07-05" IFId="123977" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------PRK01" Type="T" Organisation="PRK" SortOrder="13">
+			<Description TeamName="RI Jong Sik / KIM Kum Yong" />
+			<Composition>
+				<Athlete Code="9440843" Order="1">
+					<Description GivenName="Jong Sik" FamilyName="Ri" Gender="M" Organisation="PRK" BirthDate="2000-02-14" IFId="132881" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+				<Athlete Code="9440842" Order="2">
+					<Description GivenName="Kum Yong" FamilyName="Kim" Gender="F" Organisation="PRK" BirthDate="2001-08-17" IFId="136607" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------ROU01" Type="T" Organisation="ROU" SortOrder="14">
+			<Description TeamName="IONESCU Ovidiu / SZOCS Bernadette" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="8" />
+			<Composition>
+				<Athlete Code="9441474" Order="1">
+					<Description GivenName="Ovidiu" FamilyName="Ionescu" Gender="M" Organisation="ROU" BirthDate="1989-06-28" IFId="103903" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9441478" Order="2">
+					<Description GivenName="Bernadette" FamilyName="Szocs" Gender="F" Organisation="ROU" BirthDate="1995-03-05" IFId="111012" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------SWE01" Type="T" Organisation="SWE" SortOrder="15">
+			<Description TeamName="KARLSSON Kristian / KALLBERG Christina" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="9" />
+			<Composition>
+				<Athlete Code="9443686" Order="1">
+					<Description GivenName="Kristian" FamilyName="Karlsson" Gender="M" Organisation="SWE" BirthDate="1991-08-06" IFId="104379" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+				<Athlete Code="9443683" Order="2">
+					<Description GivenName="Christina" FamilyName="Kallberg" Gender="F" Organisation="SWE" BirthDate="2000-04-01" IFId="118507" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QXD" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEXDOUBLES-----------TPE01" Type="T" Organisation="TPE" SortOrder="16">
+			<Description TeamName="LIN Yun-Ju / CHEN Szu-Yu" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="7" />
+			<Composition>
+				<Athlete Code="9440095" Order="1">
+					<Description GivenName="Yun-Ju" FamilyName="Lin" Gender="M" Organisation="TPE" BirthDate="2001-08-17" IFId="121582" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9444143" Order="2">
+					<Description GivenName="Szu-Yu" FamilyName="Chen" Gender="F" Organisation="TPE" BirthDate="1993-08-01" IFId="114105" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="QWR" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

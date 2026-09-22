@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTE-------------------------------" DocumentType="DT_PARTIC_TEAMS_UPDATE" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:01.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1">
+	<Competition Gen="OG2028-GEN-5.1" Codes="OG2028-1.3.0">
+		<Team Code="TTEMDOUBLES-----------CHN01" Organisation="CHN" Name="FAN Zhendong / MA Long" ShortName="FAN / MA" TVTeamName="FAN / MA" Gender="M" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEMDOUBLES-----------FRA01" Organisation="FRA" Name="GAUZY Simon / LEBRUN Alexis" ShortName="GAUZY / LEBRUN" TVTeamName="GAUZY / LEBRUN" Gender="M" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEMDOUBLES-----------GER01" Organisation="GER" Name="QIU Dang / OVTCHAROV Dimitrij" ShortName="QIU / OVTCHAROV" TVTeamName="QIU / OVTCHAROV" Gender="M" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEWDOUBLES-----------CHN01" Organisation="CHN" Name="CHEN Meng / SUN Yingsha" ShortName="CHEN / SUN" TVTeamName="CHEN / SUN" Gender="W" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEWDOUBLES-----------JPN01" Organisation="JPN" Name="HAYATA Hina / HARIMOTO Miwa" ShortName="HAYATA / HARIMOTO" TVTeamName="HAYATA / HARIMOTO" Gender="W" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEWDOUBLES-----------KOR01" Organisation="KOR" Name="SHIN Yubin / JEON Jihee" ShortName="SHIN / JEON" TVTeamName="SHIN / JEON" Gender="W" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXDOUBLES-----------CHN01" Organisation="CHN" Name="WANG Chuqin / SUN Yingsha" ShortName="WANG / SUN" TVTeamName="WANG / SUN" Gender="X" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXDOUBLES-----------JPN01" Organisation="JPN" Name="HARIMOTO Tomokazu / HAYATA Hina" ShortName="HARIMOTO / HAYATA" TVTeamName="HARIMOTO / HAYATA" Gender="X" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXDOUBLES-----------KOR01" Organisation="KOR" Name="LIM Jonghoon / SHIN Yubin" ShortName="LIM / SHIN" TVTeamName="LIM / SHIN" Gender="X" TeamType="CPLM" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXTEAM--------------CHN01" Organisation="CHN" Name="China" ShortName="China" TVTeamName="China" Gender="X" TeamType="ORG" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXTEAM--------------JPN01" Organisation="JPN" Name="Japan" ShortName="Japan" TVTeamName="Japan" Gender="X" TeamType="ORG" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+		<Team Code="TTEXTEAM--------------KOR01" Organisation="KOR" Name="Korea" ShortName="Korea" TVTeamName="Korea" Gender="X" TeamType="ORG" Status="CNF">
+			<Discipline Code="TTE-------------------------------" />
+		</Team>
+	</Competition>
+</OdfBody>

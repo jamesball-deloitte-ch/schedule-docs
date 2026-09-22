@@ -1,0 +1,16 @@
+Discipline,Gender,Event,Phase,Unit,Enabled,GroupId,GroupSubTitle,GroupType
+ARC,*,*,QUAL,*,TRUE,,,
+ARC,*,*,FNL-,*,TRUE,,,
+ARC,*,*,*,*,TRUE,{Session}_{EventRSC},{Event},event
+BDM,*,*,*,*,TRUE,{Session}_{LocationCode},{Location},location
+BOC,*,*,*,*,TRUE,{Session}_{EventRSC},{Event},event
+CRD,*,*,*,*,TRUE,{Session},{Phase},discipline
+CSP,*,*,*,*,TRUE,{Session}_{EventRSC},{Event},event
+JUD,*,*,*,*,TRUE,{Session}_{LocationCode},{Location},location
+SWM,*,*,*,*,TRUE,{Session},{Phase},discipline
+TKW,*,*,FNL-,*,TRUE,{Session}_{EventRSC},{Event},event
+TKW,*,*,*,*,TRUE,{Session},{Phase},discipline
+TTE,*,*,*,*,TRUE,{Session}_{PhaseRSC},{Phase},phase
+WFE,*,*,*,*,TRUE,{Session}_{PhaseRSC},{Phase},phase
+WTE,*,*,*,*,TRUE,{Session}_{LocationCode},{Location},location
+TMRY,*,*,*,*,TRUE,,,

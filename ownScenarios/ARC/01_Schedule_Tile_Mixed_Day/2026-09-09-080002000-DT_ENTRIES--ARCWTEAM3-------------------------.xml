@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARCWTEAM3-------------------------" DocumentType="DT_ENTRIES" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:02.000+02:00" LogicalDate="2026-09-09" Source="INVARC1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<Entry Code="ARCWTEAM3---KOR01" Type="T" Organisation="KOR" SortOrder="1">
+			<Description TeamName="Republic of Korea" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="1" />
+			<Composition>
+				<Athlete Code="1902121" Order="1">
+					<Description GivenName="Hunyoung" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1994-05-29" IFId="8183" />
+				</Athlete>
+				<Athlete Code="1902147" Order="2">
+					<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+				</Athlete>
+				<Athlete Code="1902148" Order="3">
+					<Description GivenName="Suhyeon" FamilyName="Nam" Gender="F" Organisation="KOR" BirthDate="2005-01-27" IFId="45685" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="ARCWTEAM3---CHN01" Type="T" Organisation="CHN" SortOrder="2">
+			<Description TeamName="People's Republic of China" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="2" />
+			<Composition>
+				<Athlete Code="1913382" Order="1">
+					<Description GivenName="Qixuan" FamilyName="An" Gender="F" Organisation="CHN" BirthDate="2000-12-03" IFId="20796" />
+				</Athlete>
+				<Athlete Code="1913372" Order="2">
+					<Description GivenName="Jiaman" FamilyName="Li" Gender="F" Organisation="CHN" BirthDate="1997-08-18" IFId="11691" />
+				</Athlete>
+				<Athlete Code="1913380" Order="3">
+					<Description GivenName="Xiaolei" FamilyName="Yang" Gender="F" Organisation="CHN" BirthDate="2000-06-28" IFId="20795" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="ARCWTEAM3---MEX01" Type="T" Organisation="MEX" SortOrder="3">
+			<Description TeamName="Mexico" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="5" />
+			<Composition>
+				<Athlete Code="1535429" Order="1">
+					<Description GivenName="Angela" FamilyName="Ruiz" Gender="F" Organisation="MEX" BirthDate="2006-07-28" IFId="37065" />
+				</Athlete>
+				<Athlete Code="1535420" Order="2">
+					<Description GivenName="Alejandra" FamilyName="Valencia" Gender="F" Organisation="MEX" BirthDate="1994-10-17" IFId="8165" />
+				</Athlete>
+				<Athlete Code="1536479" Order="3">
+					<Description GivenName="Ana" FamilyName="Vazquez" Gender="F" Organisation="MEX" BirthDate="2000-10-05" IFId="15053" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="ARCWTEAM3---NED01" Type="T" Organisation="NED" SortOrder="4">
+			<Description TeamName="Netherlands" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="10" />
+			<Composition>
+				<Athlete Code="1973408" Order="1">
+					<Description GivenName="Quinty" FamilyName="Roeffen" Gender="F" Organisation="NED" BirthDate="2005-09-08" IFId="35734" />
+				</Athlete>
+				<Athlete Code="1973411" Order="2">
+					<Description GivenName="Gaby" FamilyName="Schloesser" Gender="F" Organisation="NED" BirthDate="1994-02-18" IFId="8906" />
+				</Athlete>
+				<Athlete Code="1973409" Order="3">
+					<Description GivenName="Laura" FamilyName="van der Winkel" Gender="F" Organisation="NED" BirthDate="2001-11-15" IFId="20460" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

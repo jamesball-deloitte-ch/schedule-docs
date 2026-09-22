@@ -1,0 +1,2355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_ENTRIES" TimeStamp="2026-09-09T13:00:00.200+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLWTEAM11------------------------" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="1">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Entry Code="FBLWTEAM11--AUS01" Organisation="AUS" Type="T" SortOrder="1">
+      <Description TeamName="Australia"/>
+      <Coaches>
+        <Coach Code="9170040" Order="1" Function="COACH">
+          <Description FamilyName="Gustavsson" GivenName="Tony" Gender="M" Nationality="SWE"/>
+        </Coach>
+        <Coach Code="9170041" Order="2" Function="AST_COA">
+          <Description FamilyName="Andreatta" GivenName="Mel" Gender="F" Nationality="AUS"/>
+        </Coach>
+        <Coach Code="9170042" Order="3" Function="AST_COA">
+          <Description FamilyName="Fjellstrom" GivenName="Jens" Gender="M" Nationality="SWE"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="4"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1941487" Order="1" Bib="1">
+          <Description FamilyName="Arnold" GivenName="Mackenzie" Gender="F" Organisation="AUS" BirthDate="1994-02-25" IFId="386993"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="50"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1941490" Order="2" Bib="2">
+          <Description FamilyName="Heyman" GivenName="Michelle" Gender="F" Organisation="AUS" BirthDate="1988-07-04" IFId="326973"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="67"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="26"/>
+        </Athlete>
+        <Athlete Code="1941480" Order="3" Bib="3">
+          <Description FamilyName="Torpey" GivenName="Kaitlyn" Gender="F" Organisation="AUS" BirthDate="2000-03-17" IFId="467215"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="5"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1941464" Order="4" Bib="4">
+          <Description FamilyName="Polkinghorne" GivenName="Clare" Gender="F" Organisation="AUS" BirthDate="1989-02-01" IFId="251935"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="168"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="16"/>
+        </Athlete>
+        <Athlete Code="1941467" Order="5" Bib="5">
+          <Description FamilyName="Vine" GivenName="Cortnee" Gender="F" Organisation="AUS" BirthDate="1998-04-09" IFId="419884"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1941482" Order="6" Bib="6">
+          <Description FamilyName="Gorry" GivenName="Katrina" Gender="F" Organisation="AUS" BirthDate="1992-08-13" IFId="386996"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="108"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="17"/>
+        </Athlete>
+        <Athlete Code="1941497" Order="7" Bib="7">
+          <Description FamilyName="Catley" GivenName="Steph" Gender="F" Organisation="AUS" BirthDate="1994-01-26" IFId="386998"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="126"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="1941484" Order="8" Bib="8">
+          <Description FamilyName="Cooney-Cross" GivenName="Kyra" Gender="F" Organisation="AUS" BirthDate="2002-02-15" IFId="419874"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="46"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1941458" Order="9" Bib="9">
+          <Description FamilyName="Foord" GivenName="Caitlin" Gender="F" Organisation="AUS" BirthDate="1994-11-11" IFId="326979"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="123"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="36"/>
+        </Athlete>
+        <Athlete Code="1941473" Order="10" Bib="10">
+          <Description FamilyName="van Egmond" GivenName="Emily" Gender="F" Organisation="AUS" BirthDate="1993-07-12" IFId="326968"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="145"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="31"/>
+        </Athlete>
+        <Athlete Code="1941489" Order="11" Bib="11">
+          <Description FamilyName="Fowler" GivenName="Mary" Gender="F" Organisation="AUS" BirthDate="2003-02-14" IFId="419898"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="54"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="15"/>
+        </Athlete>
+        <Athlete Code="1941471" Order="12" Bib="12">
+          <Description FamilyName="Carpenter" GivenName="Ellie" Gender="F" Organisation="AUS" BirthDate="2000-04-28" IFId="394063"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="78"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1941498" Order="13" Bib="13">
+          <Description FamilyName="Yallop" GivenName="Tameka" Gender="F" Organisation="AUS" BirthDate="1991-06-16" IFId="326972"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="123"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="13"/>
+        </Athlete>
+        <Athlete Code="1941452" Order="14" Bib="14">
+          <Description FamilyName="Kennedy" GivenName="Alanna" Gender="F" Organisation="AUS" BirthDate="1995-01-21" IFId="386994"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="125"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="9"/>
+        </Athlete>
+        <Athlete Code="1941465" Order="15" Bib="15">
+          <Description FamilyName="Hunt" GivenName="Clare" Gender="F" Organisation="AUS" BirthDate="1999-03-12" IFId="467201"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="21"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1941475" Order="16" Bib="16">
+          <Description FamilyName="Raso" GivenName="Hayley" Gender="F" Organisation="AUS" BirthDate="1994-09-05" IFId="386995"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="88"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="18"/>
+        </Athlete>
+        <Athlete Code="1941466" Order="17" Bib="17">
+          <Description FamilyName="Wheeler" GivenName="Clare" Gender="F" Organisation="AUS" BirthDate="1998-01-14" IFId="419885"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="22"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1941499" Order="18" Bib="18">
+          <Description FamilyName="Micah" GivenName="Teagan" Gender="F" Organisation="AUS" BirthDate="1997-10-20" IFId="419880"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1941495" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Freier" GivenName="Sharn" Gender="F" Organisation="AUS" BirthDate="2001-07-24" IFId="485461"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1941460" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Grant" GivenName="Charlotte" Gender="F" Organisation="AUS" BirthDate="2001-09-20" IFId="430521"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="27"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1941468" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Nevin" GivenName="Courtney" Gender="F" Organisation="AUS" BirthDate="2002-02-12" IFId="430530"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="28"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1941486" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Williams" GivenName="Lydia" Gender="F" Organisation="AUS" BirthDate="1988-05-13" IFId="225531"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="104"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--BRA01" Organisation="BRA" Type="T" SortOrder="2">
+      <Description TeamName="Brazil"/>
+      <Coaches>
+        <Coach Code="9170043" Order="1" Function="COACH">
+          <Description FamilyName="Elias" GivenName="Arthur" Gender="M" Nationality="BRA"/>
+        </Coach>
+        <Coach Code="9170044" Order="2" Function="AST_COA">
+          <Description FamilyName="Iglesias" GivenName="Rodrigo" Gender="M" Nationality="BRA"/>
+        </Coach>
+        <Coach Code="9170045" Order="3" Function="GK_COA">
+          <Description FamilyName="Alcantara" GivenName="Edson" Gender="M" Nationality="BRA"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="3"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1967608" Order="1" Bib="1">
+          <Description FamilyName="Lorena" Gender="F" Organisation="BRA" BirthDate="1997-05-06" IFId="398378"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="21"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967575" Order="2" Bib="2">
+          <Description FamilyName="Antonia" Gender="F" Organisation="BRA" BirthDate="1994-04-26" IFId="420470"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="43"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967629" Order="3" Bib="3">
+          <Description FamilyName="Tarciane" Gender="F" Organisation="BRA" BirthDate="2003-05-27" IFId="415511"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967625" Order="4" Bib="4">
+          <Description FamilyName="Rafaelle" Gender="F" Organisation="BRA" BirthDate="1991-06-18" IFId="296322"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="97"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="9"/>
+        </Athlete>
+        <Athlete Code="1967616" Order="5" Bib="5">
+          <Description FamilyName="Duda Sampaio" Gender="F" Organisation="BRA" BirthDate="2001-05-18" IFId="430580"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="22"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1967626" Order="6" Bib="6">
+          <Description FamilyName="Tamires" Gender="F" Organisation="BRA" BirthDate="1987-10-10" IFId="215194"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="150"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="1967602" Order="7" Bib="7">
+          <Description FamilyName="Kerolin" Gender="F" Organisation="BRA" BirthDate="1999-11-17" IFId="397556"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1967635" Order="8" Bib="8">
+          <Description FamilyName="Vitoria Yaya" Gender="F" Organisation="BRA" BirthDate="2002-01-23" IFId="443404"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967574" Order="9" Bib="9">
+          <Description FamilyName="Adriana" Gender="F" Organisation="BRA" BirthDate="1996-11-17" IFId="420474"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="59"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="14"/>
+        </Athlete>
+        <Athlete Code="1967617" Order="10" Bib="10">
+          <Description FamilyName="Marta" Gender="F" Organisation="BRA" BirthDate="1986-02-19" IFId="190358"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="198"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="126"/>
+        </Athlete>
+        <Athlete Code="1967599" Order="11" Bib="11">
+          <Description FamilyName="Jheniffer" Gender="F" Organisation="BRA" BirthDate="2001-11-06" IFId="415506"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="2"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1967630" Order="12" Bib="12">
+          <Description FamilyName="Taina" Gender="F" Organisation="BRA" BirthDate="1995-05-01" IFId="358504"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967636" Order="13" Bib="13">
+          <Description FamilyName="Yasmim" Gender="F" Organisation="BRA" BirthDate="1996-10-28" IFId="381460"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="14"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1967612" Order="14" Bib="14">
+          <Description FamilyName="Ludmila" Gender="F" Organisation="BRA" BirthDate="1994-12-01" IFId="420479"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="39"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1967628" Order="15" Bib="15">
+          <Description FamilyName="Thais" Gender="F" Organisation="BRA" BirthDate="1996-05-01" IFId="480156"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="10"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967594" Order="16" Bib="16">
+          <Description FamilyName="Gabi Nunes" Gender="F" Organisation="BRA" BirthDate="1997-03-10" IFId="381604"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="34"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="1967565" Order="17" Bib="17">
+          <Description FamilyName="Ana Vitoria" Gender="F" Organisation="BRA" BirthDate="2000-03-06" IFId="397537"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="18"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967593" Order="18" Bib="18">
+          <Description FamilyName="Gabi Portilho" Gender="F" Organisation="BRA" BirthDate="1995-07-18" IFId="359269"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="21"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967623" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Priscila" Gender="F" Organisation="BRA" BirthDate="2004-08-22" IFId="443399"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967567" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Angelina" Gender="F" Organisation="BRA" BirthDate="2000-01-26" IFId="397535"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="15"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1967606" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Lauren" Gender="F" Organisation="BRA" BirthDate="2002-09-13" IFId="415520"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="15"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967607" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Luciana" Gender="F" Organisation="BRA" BirthDate="1987-07-24" IFId="255070"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="43"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--CAN01" Organisation="CAN" Type="T" SortOrder="3">
+      <Description TeamName="Canada"/>
+      <Coaches>
+        <Coach Code="9170046" Order="1" Function="COACH">
+          <Description FamilyName="Priestman" GivenName="Bev" Gender="F" Nationality="GBR"/>
+        </Coach>
+        <Coach Code="9170047" Order="2" Function="AST_COA">
+          <Description FamilyName="Mander" GivenName="Jasmine" Gender="F" Nationality="CAN"/>
+        </Coach>
+        <Coach Code="9170048" Order="3" Function="SI_COA">
+          <Description FamilyName="Spence" GivenName="Andy" Gender="M" Nationality="GBR"/>
+        </Coach>
+        <Coach Code="9170049" Order="4" Function="GK_COA">
+          <Description FamilyName="Herst" GivenName="Jen" Gender="F" Nationality="GBR"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="5"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="1967225" Order="1" Bib="1">
+          <Description FamilyName="Sheridan" GivenName="Kailen" Gender="F" Organisation="CAN" BirthDate="1995-07-16" IFId="359194"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="51"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967185" Order="2" Bib="2">
+          <Description FamilyName="Carle" GivenName="Gabrielle" Gender="F" Organisation="CAN" BirthDate="1998-10-12" IFId="377907"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="47"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967183" Order="3" Bib="3">
+          <Description FamilyName="Buchanan" GivenName="Kadeisha" Gender="F" Organisation="CAN" BirthDate="1995-11-05" IFId="359180"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="150"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1967232" Order="4" Bib="4">
+          <Description FamilyName="Viens" GivenName="Evelyne" Gender="F" Organisation="CAN" BirthDate="1997-02-06" IFId="398394"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="32"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1967218" Order="5" Bib="5">
+          <Description FamilyName="Quinn" Gender="F" Organisation="CAN" BirthDate="1995-08-11" IFId="326251"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="101"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1967203" Order="6" Bib="6">
+          <Description FamilyName="Lacasse" GivenName="Cloe" Gender="F" Organisation="CAN" BirthDate="1993-07-06" IFId="357781"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="37"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="1967197" Order="7" Bib="7">
+          <Description FamilyName="Grosso" GivenName="Julia" Gender="F" Organisation="CAN" BirthDate="2000-08-29" IFId="397230"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="64"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1967220" Order="8" Bib="8">
+          <Description FamilyName="Riviere" GivenName="Jayde" Gender="F" Organisation="CAN" BirthDate="2001-01-22" IFId="397247"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="46"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967200" Order="9" Bib="9">
+          <Description FamilyName="Huitema" GivenName="Jordyn" Gender="F" Organisation="CAN" BirthDate="2001-05-08" IFId="397234"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="82"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="21"/>
+        </Athlete>
+        <Athlete Code="1967207" Order="10" Bib="10">
+          <Description FamilyName="Lawrence" GivenName="Ashley" Gender="F" Organisation="CAN" BirthDate="1995-06-11" IFId="326252"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="135"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="1967208" Order="11" Bib="11">
+          <Description FamilyName="Leon" GivenName="Adriana" Gender="F" Organisation="CAN" BirthDate="1992-10-02" IFId="357771"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="115"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="40"/>
+        </Athlete>
+        <Athlete Code="1967221" Order="12" Bib="12">
+          <Description FamilyName="Rose" GivenName="Jade" Gender="F" Organisation="CAN" BirthDate="2003-02-12" IFId="415553"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="22"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967180" Order="13" Bib="13">
+          <Description FamilyName="Awujo" GivenName="Simi" Gender="F" Organisation="CAN" BirthDate="2003-09-23" IFId="443223"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="18"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1967196" Order="14" Bib="14">
+          <Description FamilyName="Gilles" GivenName="Vanessa" Gender="F" Organisation="CAN" BirthDate="1996-03-11" IFId="420157"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="42"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1967216" Order="15" Bib="15">
+          <Description FamilyName="Prince" GivenName="Nichelle" Gender="F" Organisation="CAN" BirthDate="1995-02-19" IFId="359191"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="98"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="17"/>
+        </Athlete>
+        <Athlete Code="1967181" Order="16" Bib="16">
+          <Description FamilyName="Beckie" GivenName="Janine" Gender="F" Organisation="CAN" BirthDate="1994-08-20" IFId="381564"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="106"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="36"/>
+        </Athlete>
+        <Athlete Code="1967194" Order="17" Bib="17">
+          <Description FamilyName="Fleming" GivenName="Jessie" Gender="F" Organisation="CAN" BirthDate="1998-03-10" IFId="377901"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="133"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="19"/>
+        </Athlete>
+        <Athlete Code="1967192" Order="18" Bib="18">
+          <Description FamilyName="D'Angelo" GivenName="Sabrina" Gender="F" Organisation="CAN" BirthDate="1993-05-11" IFId="300474"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967222" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Rose" GivenName="Deanne" Gender="F" Organisation="CAN" BirthDate="1999-03-03" IFId="395390"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="84"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="1967236" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Zadorsky" GivenName="Shelina" Gender="F" Organisation="CAN" BirthDate="1992-10-23" IFId="300492"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="101"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1967224" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Scott" GivenName="Desiree" Gender="F" Organisation="CAN" BirthDate="1987-07-31" IFId="232135"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="187"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967217" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Proulx" GivenName="Lysianne" Gender="F" Organisation="CAN" BirthDate="1999-04-17" IFId="378052"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1967190" Order="23" Bib="23" Substitute="Y">
+          <Description FamilyName="Collins" GivenName="Sydney" Gender="F" Organisation="CAN" BirthDate="1999-08-09"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--CHI01" Organisation="CHI" Type="T" SortOrder="4">
+      <Description TeamName="Chile"/>
+      <Coaches>
+        <Coach Code="9170050" Order="1" Function="COACH">
+          <Description FamilyName="Letelier" GivenName="Jose" Gender="M" Nationality="CHI"/>
+        </Coach>
+        <Coach Code="9170051" Order="2" Function="AST_COA">
+          <Description FamilyName="Aguayo" GivenName="Andres" Gender="M" Nationality="CHI"/>
+        </Coach>
+        <Coach Code="9170052" Order="3" Function="AST_COA">
+          <Description FamilyName="Romero" GivenName="Andres" Gender="M" Nationality="CHI"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="14"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="D"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="9172295" Order="1" Bib="1">
+          <Description FamilyName="Endler" GivenName="Christiane" Gender="F" Organisation="CHI" BirthDate="1991-07-23" IFId="302891"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="80"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172296" Order="2" Bib="2">
+          <Description FamilyName="Jimenez" GivenName="Yastin" Gender="F" Organisation="CHI" BirthDate="2000-10-17" IFId="420409"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="2"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172297" Order="3" Bib="3">
+          <Description FamilyName="Guerrero" GivenName="Carla" Gender="F" Organisation="CHI" BirthDate="1987-12-23" IFId="266348"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="9172298" Order="4" Bib="4">
+          <Description FamilyName="Lara" GivenName="Francisca" Gender="F" Organisation="CHI" BirthDate="1990-07-29" IFId="420400"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="20"/>
+        </Athlete>
+        <Athlete Code="9172299" Order="5" Bib="5">
+          <Description FamilyName="Ramirez" GivenName="Fernanda" Gender="F" Organisation="CHI" BirthDate="1992-08-30" IFId="430577"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172300" Order="6" Bib="6">
+          <Description FamilyName="Lopez Opazo" GivenName="Nayadet" Gender="F" Organisation="CHI" BirthDate="1994-08-05" IFId="430573"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="4"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172301" Order="7" Bib="7">
+          <Description FamilyName="Acuna" GivenName="Yenny" Gender="F" Organisation="CHI" BirthDate="1997-05-18" IFId="430568"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172302" Order="8" Bib="8">
+          <Description FamilyName="Araya" GivenName="Karen" Gender="F" Organisation="CHI" BirthDate="1990-10-16" IFId="266387"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="67"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="9172303" Order="9" Bib="9">
+          <Description FamilyName="Urrutia" GivenName="Maria Jose" Gender="F" Organisation="CHI" BirthDate="1993-12-17" IFId="321184"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="22"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172304" Order="10" Bib="10">
+          <Description FamilyName="Aedo" GivenName="Yanara" Gender="F" Organisation="CHI" BirthDate="1993-08-05" IFId="321179"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="70"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="10"/>
+        </Athlete>
+        <Athlete Code="9172305" Order="11" Bib="11">
+          <Description FamilyName="Lopez" GivenName="Yessenia" Gender="F" Organisation="CHI" BirthDate="1990-10-20" IFId="420410"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="40"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="9172306" Order="12" Bib="12">
+          <Description FamilyName="Campos" GivenName="Natalia" Gender="F" Organisation="CHI" BirthDate="1992-01-12" IFId="420411"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="9"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172307" Order="13" Bib="13">
+          <Description FamilyName="Pinilla" GivenName="Fernanda" Gender="F" Organisation="CHI" BirthDate="1993-11-06" IFId="321187"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172308" Order="14" Bib="14">
+          <Description FamilyName="Pardo" GivenName="Daniela" Gender="F" Organisation="CHI" BirthDate="1988-05-09" IFId="266385"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="35"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="9172309" Order="15" Bib="15">
+          <Description FamilyName="Zamora" GivenName="Daniela" Gender="F" Organisation="CHI" BirthDate="1990-11-13" IFId="296395"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="51"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="9172310" Order="16" Bib="16">
+          <Description FamilyName="Balmaceda" GivenName="Rosario" Gender="F" Organisation="CHI" BirthDate="1999-03-26" IFId="420412"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172311" Order="17" Bib="17">
+          <Description FamilyName="Toro" GivenName="Javiera" Gender="F" Organisation="CHI" BirthDate="1998-04-22" IFId="420415"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172312" Order="18" Bib="18">
+          <Description FamilyName="Saez" GivenName="Camila" Gender="F" Organisation="CHI" BirthDate="1994-10-17" IFId="321176"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="62"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="9172313" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Grez" GivenName="Javiera" Gender="F" Organisation="CHI" BirthDate="2000-07-11" IFId="420408"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="14"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172314" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Mardones" GivenName="Francisca" Gender="F" Organisation="CHI" BirthDate="1989-03-24" IFId="296399"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="39"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172315" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Diaz" GivenName="Valentina" Gender="F" Organisation="CHI" BirthDate="2001-03-30" IFId="420420"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="4"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172316" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Canales" GivenName="Antonia" Gender="F" Organisation="CHI" BirthDate="2002-10-16" IFId="420423"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--CHN01" Organisation="CHN" Type="T" SortOrder="5">
+      <Description TeamName="China"/>
+      <Coaches>
+        <Coach Code="9170053" Order="1" Function="COACH">
+          <Description FamilyName="Jia" GivenName="Xiuquan" Gender="M" Nationality="CHN"/>
+        </Coach>
+        <Coach Code="9170054" Order="2" Function="AST_COA">
+          <Description FamilyName="Jia" GivenName="Wenpeng" Gender="M" Nationality="CHN"/>
+        </Coach>
+        <Coach Code="9170055" Order="3" Function="AST_COA">
+          <Description FamilyName="Zhang" GivenName="Ke" Gender="M" Nationality="CHN"/>
+        </Coach>
+        <Coach Code="9170056" Order="4" Function="AST_COA">
+          <Description FamilyName="Stefansen" GivenName="Kaj" Gender="M" Nationality="DEN"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="13"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="D"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="9172317" Order="1" Bib="1">
+          <Description FamilyName="Zhu" GivenName="Yu" Gender="F" Organisation="CHN" BirthDate="1997-07-23" IFId="430617"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172318" Order="2" Bib="2">
+          <Description FamilyName="Li" GivenName="Mengwen" Gender="F" Organisation="CHN" BirthDate="1995-03-28" IFId="358969"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="7"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172319" Order="3" Bib="3">
+          <Description FamilyName="Lin" GivenName="Yuping" Gender="F" Organisation="CHN" BirthDate="1992-02-28" IFId="357318"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172320" Order="4" Bib="4">
+          <Description FamilyName="Li" GivenName="Qingtong" Gender="F" Organisation="CHN" BirthDate="1999-04-14" IFId="381073"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172321" Order="5" Bib="5">
+          <Description FamilyName="Wu" GivenName="Haiyan" Gender="F" Organisation="CHN" BirthDate="1993-02-26" IFId="357266"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="120"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172322" Order="6" Bib="6">
+          <Description FamilyName="Zhang" GivenName="Xin" Gender="F" Organisation="CHN" BirthDate="1992-05-23" IFId="357316"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="9"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172323" Order="7" Bib="7">
+          <Description FamilyName="Wang" GivenName="Shuang" Gender="F" Organisation="CHN" BirthDate="1995-01-23" IFId="357314"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="106"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="29"/>
+        </Athlete>
+        <Athlete Code="9172324" Order="8" Bib="8">
+          <Description FamilyName="Wang" GivenName="Yan" Gender="F" Organisation="CHN" BirthDate="1991-08-22" IFId="395158"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172325" Order="9" Bib="9">
+          <Description FamilyName="Miao" GivenName="Siwen" Gender="F" Organisation="CHN" BirthDate="1995-01-24" IFId="358282"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172326" Order="10" Bib="10">
+          <Description FamilyName="Wang" GivenName="Yanwen" Gender="F" Organisation="CHN" BirthDate="1999-03-27" IFId="381066"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172327" Order="11" Bib="11">
+          <Description FamilyName="Wang" GivenName="Shanshan" Gender="F" Organisation="CHN" BirthDate="1990-01-27" IFId="386979"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="136"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="52"/>
+        </Athlete>
+        <Athlete Code="9172328" Order="12" Bib="12">
+          <Description FamilyName="Peng" GivenName="Shimeng" Gender="F" Organisation="CHN" BirthDate="1998-05-12" IFId="378004"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172329" Order="13" Bib="13">
+          <Description FamilyName="Yang" GivenName="Lina" Gender="F" Organisation="CHN" BirthDate="1994-04-13" IFId="357307"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172330" Order="14" Bib="14">
+          <Description FamilyName="Liu" GivenName="Jing" Gender="F" Organisation="CHN" BirthDate="1998-04-28" IFId="377992"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172331" Order="15" Bib="15">
+          <Description FamilyName="Yang" GivenName="Man" Gender="F" Organisation="CHN" BirthDate="1995-11-02" IFId="395160"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="9172332" Order="16" Bib="16">
+          <Description FamilyName="Wang" GivenName="Xiaoxue" Gender="F" Organisation="CHN" BirthDate="1994-10-20" IFId="420347"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="2"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172333" Order="17" Bib="17">
+          <Description FamilyName="Luo" GivenName="Guiping" Gender="F" Organisation="CHN" BirthDate="1993-04-20" IFId="357282"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172334" Order="18" Bib="18">
+          <Description FamilyName="Wurigumula" Gender="F" Organisation="CHN" BirthDate="1996-08-26" IFId="431779"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172335" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Wang" GivenName="Ying" Gender="F" Organisation="CHN" BirthDate="1997-11-18" IFId="378015"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172336" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Xiao" GivenName="Yuyi" Gender="F" Organisation="CHN" BirthDate="1996-01-10" IFId="358284"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172337" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Chen" GivenName="Qiaozhu" Gender="F" Organisation="CHN" BirthDate="1999-09-08" IFId="381068"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172338" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Ding" GivenName="Xuan" Gender="F" Organisation="CHN" BirthDate="1989-02-11" IFId="430619"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--COL01" Organisation="COL" Type="T" SortOrder="6">
+      <Description TeamName="Colombia"/>
+      <Coaches>
+        <Coach Code="9170057" Order="1" Function="COACH">
+          <Description FamilyName="Marsiglia" GivenName="Angelo" Gender="M" Nationality="COL"/>
+        </Coach>
+        <Coach Code="9170058" Order="2" Function="AST_COA">
+          <Description FamilyName="Echeverry" GivenName="Alex" Gender="M" Nationality="COL"/>
+        </Coach>
+        <Coach Code="9170059" Order="3" Function="GK_COA">
+          <Description FamilyName="Perez" GivenName="Carlos" Gender="M" Nationality="COL"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="12"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1917583" Order="1" Bib="1">
+          <Description FamilyName="Perez" GivenName="Catalina" Gender="F" Organisation="COL" BirthDate="1994-11-08" IFId="324728"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="39"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1918306" Order="2" Bib="2">
+          <Description FamilyName="Vanegas" GivenName="Manuela" Gender="F" Organisation="COL" BirthDate="2000-11-09" IFId="467025"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="45"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="9"/>
+        </Athlete>
+        <Athlete Code="1912496" Order="3" Bib="3">
+          <Description FamilyName="Arias" GivenName="Daniela" Gender="F" Organisation="COL" BirthDate="1994-08-31" IFId="467007"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="45"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1913009" Order="4" Bib="4">
+          <Description FamilyName="Caracas" GivenName="Daniela" Gender="F" Organisation="COL" BirthDate="1997-04-25" IFId="467012"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="50"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1918063" Order="5" Bib="5">
+          <Description FamilyName="Quejada Minota" GivenName="Yirleidys" Gender="F" Organisation="COL" BirthDate="2002-11-10" IFId="443354"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="2"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1917542" Order="6" Bib="6">
+          <Description FamilyName="Montoya" GivenName="Daniela" Gender="F" Organisation="COL" BirthDate="1990-08-22" IFId="324521"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="92"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="13"/>
+        </Athlete>
+        <Athlete Code="1917571" Order="7" Bib="7">
+          <Description FamilyName="Pavi" GivenName="Manuela" Gender="F" Organisation="COL" BirthDate="2000-12-23" IFId="467010"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1918114" Order="8" Bib="8">
+          <Description FamilyName="Restrepo" GivenName="Marcela" Gender="F" Organisation="COL" BirthDate="1995-11-10" IFId="358918"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="27"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1918067" Order="9" Bib="9">
+          <Description FamilyName="Ramirez" GivenName="Mayra" Gender="F" Organisation="COL" BirthDate="1999-03-25" IFId="467008"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="38"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1918181" Order="10" Bib="10">
+          <Description FamilyName="Santos" GivenName="Leicy" Gender="F" Organisation="COL" BirthDate="1996-05-16" IFId="358920"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="15"/>
+        </Athlete>
+        <Athlete Code="1918303" Order="11" Bib="11">
+          <Description FamilyName="Usme" GivenName="Catalina" Gender="F" Organisation="COL" BirthDate="1989-12-25" IFId="266411"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="113"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="56"/>
+        </Athlete>
+        <Athlete Code="1918231" Order="12" Bib="12">
+          <Description FamilyName="Tapia" GivenName="Katherine" Gender="F" Organisation="COL" BirthDate="1992-12-07" IFId="467024"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1917364" Order="13" Bib="13">
+          <Description FamilyName="Izquierdo" GivenName="Ilana" Gender="F" Organisation="COL" BirthDate="2002-06-14" IFId="415741"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1912638" Order="14" Bib="14">
+          <Description FamilyName="Baron" GivenName="Angela" Gender="F" Organisation="COL" BirthDate="2003-09-18" IFId="443330"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1918142" Order="15" Bib="15">
+          <Description FamilyName="Salazar" GivenName="Liana" Gender="F" Organisation="COL" BirthDate="1992-09-16" IFId="296355"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1913005" Order="16" Bib="16">
+          <Description FamilyName="Carabali" GivenName="Jorelyn" Gender="F" Organisation="COL" BirthDate="1997-05-18" IFId="467018"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="42"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1912502" Order="17" Bib="17">
+          <Description FamilyName="Arias" GivenName="Carolina" Gender="F" Organisation="COL" BirthDate="1990-09-02" IFId="322716"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="106"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1912774" Order="18" Bib="18">
+          <Description FamilyName="Caicedo" GivenName="Linda" Gender="F" Organisation="COL" BirthDate="2005-02-22" IFId="415740"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="33"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="1912750" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Bonilla Candelo" GivenName="Wendy" Gender="F" Organisation="COL" BirthDate="2002-07-08" IFId="415739"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="6"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1912491" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Andrade" GivenName="Lady" Gender="F" Organisation="COL" BirthDate="1992-01-10" IFId="296357"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="63"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="18"/>
+        </Athlete>
+        <Athlete Code="1918122" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Reyes" GivenName="Maria Camila" Gender="F" Organisation="COL" BirthDate="2002-05-11" IFId="415727"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="12"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1918223" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Sepulveda" GivenName="Sandra" Gender="F" Organisation="COL" BirthDate="1988-03-03" IFId="330075"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="75"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--ESP01" Organisation="ESP" Type="T" SortOrder="7">
+      <Description TeamName="Spain"/>
+      <Coaches>
+        <Coach Code="9170060" Order="1" Function="COACH">
+          <Description FamilyName="Tome" GivenName="Montse" Gender="F" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170061" Order="2" Function="AST_COA">
+          <Description FamilyName="Lerga" GivenName="Javier" Gender="M" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170062" Order="3" Function="GK_COA">
+          <Description FamilyName="Sanchez" GivenName="Carlos" Gender="M" Nationality="ESP"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="11"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1960065" Order="1" Bib="1">
+          <Description FamilyName="Rodriguez" GivenName="Misa" Gender="F" Organisation="ESP" BirthDate="1999-07-22" IFId="398098"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="23"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1959961" Order="2" Bib="2">
+          <Description FamilyName="Batlle" GivenName="Ona" Gender="F" Organisation="ESP" BirthDate="1999-06-10" IFId="396930"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="47"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1959947" Order="3" Bib="3">
+          <Description FamilyName="Abelleira" GivenName="Teresa" Gender="F" Organisation="ESP" BirthDate="2000-01-09" IFId="413022"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="33"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1960048" Order="4" Bib="4">
+          <Description FamilyName="Paredes" GivenName="Irene" Gender="F" Organisation="ESP" BirthDate="1991-07-04" IFId="387133"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="107"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1960008" Order="5" Bib="5">
+          <Description FamilyName="Hernandez" GivenName="Oihane" Gender="F" Organisation="ESP" BirthDate="2000-05-04" IFId="396929"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="23"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1959965" Order="6" Bib="6">
+          <Description FamilyName="Bonmati" GivenName="Aitana" Gender="F" Organisation="ESP" BirthDate="1998-01-18" IFId="377762"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="65"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="25"/>
+        </Athlete>
+        <Athlete Code="1959980" Order="7" Bib="7">
+          <Description FamilyName="del Castillo" GivenName="Athenea" Gender="F" Organisation="ESP" BirthDate="2000-10-24" IFId="467297"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="44"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1959967" Order="8" Bib="8">
+          <Description FamilyName="Caldentey" GivenName="Mariona" Gender="F" Organisation="ESP" BirthDate="1996-03-19" IFId="398097"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="73"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="26"/>
+        </Athlete>
+        <Athlete Code="1960046" Order="9" Bib="9">
+          <Description FamilyName="Paralluelo" GivenName="Salma" Gender="F" Organisation="ESP" BirthDate="2003-11-13" IFId="415394"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="24"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1960006" Order="10" Bib="10">
+          <Description FamilyName="Hermoso" GivenName="Jennifer" Gender="F" Organisation="ESP" BirthDate="1990-05-09" IFId="387138"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="117"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="56"/>
+        </Athlete>
+        <Athlete Code="1960058" Order="11" Bib="11">
+          <Description FamilyName="Putellas" GivenName="Alexia" Gender="F" Organisation="ESP" BirthDate="1994-02-04" IFId="325636"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="119"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="30"/>
+        </Athlete>
+        <Athlete Code="1960005" Order="12" Bib="12">
+          <Description FamilyName="Guijarro" GivenName="Patri" Gender="F" Organisation="ESP" BirthDate="1998-05-17" IFId="377757"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="54"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="1959976" Order="13" Bib="13">
+          <Description FamilyName="Coll" GivenName="Cata" Gender="F" Organisation="ESP" BirthDate="2001-04-23" IFId="396907"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="12"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1959949" Order="14" Bib="14">
+          <Description FamilyName="Aleixandri" GivenName="Laia" Gender="F" Organisation="ESP" BirthDate="2000-08-25" IFId="396902"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="29"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1960038" Order="15" Bib="15">
+          <Description FamilyName="Navarro" GivenName="Eva" Gender="F" Organisation="ESP" BirthDate="2001-01-27" IFId="396911"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="23"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1959975" Order="16" Bib="16">
+          <Description FamilyName="Codina" GivenName="Laia" Gender="F" Organisation="ESP" BirthDate="2000-01-22" IFId="396914"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1959997" Order="17" Bib="17">
+          <Description FamilyName="Garcia" GivenName="Lucia" Gender="F" Organisation="ESP" BirthDate="1998-07-14" IFId="398092"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="48"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="1959973" Order="18" Bib="18">
+          <Description FamilyName="Carmona" GivenName="Olga" Gender="F" Organisation="ESP" BirthDate="2000-06-12" IFId="413016"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="42"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1960019" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Lopez" GivenName="Vicky" Gender="F" Organisation="ESP" BirthDate="2006-07-26" IFId="444758"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1960030" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Mendez" GivenName="Maria" Gender="F" Organisation="ESP" BirthDate="2001-04-10" IFId="415389"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1960064" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Redondo" GivenName="Alba" Gender="F" Organisation="ESP" BirthDate="1996-08-27" IFId="398088"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="39"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="14"/>
+        </Athlete>
+        <Athlete Code="1960015" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Lete" GivenName="Elene" Gender="F" Organisation="ESP" BirthDate="2002-05-07" IFId="443045"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--FRA01" Organisation="FRA" Type="T" SortOrder="8">
+      <Description TeamName="France"/>
+      <Coaches>
+        <Coach Code="9170063" Order="1" Function="COACH">
+          <Description FamilyName="Renard" GivenName="Herve" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170064" Order="2" Function="AST_COA">
+          <Description FamilyName="Blahic" GivenName="Eric" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170065" Order="3" Function="AST_COA">
+          <Description FamilyName="Bonadei" GivenName="Laurent" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170066" Order="4" Function="GK_COA">
+          <Description FamilyName="Fouache" GivenName="Gilles" Gender="M" Nationality="FRA"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="10"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1930119" Order="1" Bib="1">
+          <Description FamilyName="Picaud" GivenName="Constance" Gender="F" Organisation="FRA" BirthDate="1998-07-05" IFId="467045"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="7"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1930124" Order="2" Bib="2">
+          <Description FamilyName="Lakrar" GivenName="Maelle" Gender="F" Organisation="FRA" BirthDate="2000-05-27" IFId="412946"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="18"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1930130" Order="3" Bib="3">
+          <Description FamilyName="Renard" GivenName="Wendie" Gender="F" Organisation="FRA" BirthDate="1990-07-20" IFId="302715"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="160"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="38"/>
+        </Athlete>
+        <Athlete Code="1930121" Order="4" Bib="4">
+          <Description FamilyName="Cascarino" GivenName="Estelle" Gender="F" Organisation="FRA" BirthDate="1997-02-05" IFId="398288"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1930122" Order="5" Bib="5">
+          <Description FamilyName="de Almeida" GivenName="Elisa" Gender="F" Organisation="FRA" BirthDate="1998-01-11" IFId="398290"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="34"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1930141" Order="6" Bib="6">
+          <Description FamilyName="Henry" GivenName="Amandine" Gender="F" Organisation="FRA" BirthDate="1989-09-28" IFId="254965"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="106"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="14"/>
+        </Athlete>
+        <Athlete Code="1930123" Order="7" Bib="7">
+          <Description FamilyName="Karchaoui" GivenName="Sakina" Gender="F" Organisation="FRA" BirthDate="1996-01-26" IFId="395231"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="75"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1930140" Order="8" Bib="8">
+          <Description FamilyName="Geyoro" GivenName="Grace" Gender="F" Organisation="FRA" BirthDate="1997-07-02" IFId="358581"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="83"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="17"/>
+        </Athlete>
+        <Athlete Code="1930161" Order="9" Bib="9">
+          <Description FamilyName="le Sommer" GivenName="Eugenie" Gender="F" Organisation="FRA" BirthDate="1989-05-18" IFId="254849"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="192"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="93"/>
+        </Athlete>
+        <Athlete Code="1930155" Order="10" Bib="10">
+          <Description FamilyName="Cascarino" GivenName="Delphine" Gender="F" Organisation="FRA" BirthDate="1997-02-05" IFId="358569"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="64"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="14"/>
+        </Athlete>
+        <Athlete Code="1930156" Order="11" Bib="11">
+          <Description FamilyName="Diani" GivenName="Kadidiatou" Gender="F" Organisation="FRA" BirthDate="1995-04-01" IFId="358573"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="102"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="28"/>
+        </Athlete>
+        <Athlete Code="1930160" Order="12" Bib="12">
+          <Description FamilyName="Katoto" GivenName="Marie-Antoinette" Gender="F" Organisation="FRA" BirthDate="1998-11-01" IFId="398311"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="41"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="30"/>
+        </Athlete>
+        <Athlete Code="1930133" Order="13" Bib="13">
+          <Description FamilyName="Bacha" GivenName="Selma" Gender="F" Organisation="FRA" BirthDate="2000-11-09" IFId="412930"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="32"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1930147" Order="14" Bib="14">
+          <Description FamilyName="Toletti" GivenName="Sandie" Gender="F" Organisation="FRA" BirthDate="1995-07-13" IFId="358671"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="56"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1930136" Order="15" Bib="15">
+          <Description FamilyName="Dali" GivenName="Kenza" Gender="F" Organisation="FRA" BirthDate="1991-07-31" IFId="301151"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="68"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1930118" Order="16" Bib="16">
+          <Description FamilyName="Peyraud-Magnin" GivenName="Pauline" Gender="F" Organisation="FRA" BirthDate="1992-03-17" IFId="324335"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="54"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1930151" Order="17" Bib="17">
+          <Description FamilyName="Baltimore" GivenName="Sandy" Gender="F" Organisation="FRA" BirthDate="2000-02-19" IFId="412931"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1930126" Order="18" Bib="18">
+          <Description FamilyName="Mbock Bathy" GivenName="Griedge" Gender="F" Organisation="FRA" BirthDate="1995-02-26" IFId="358667"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="72"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="1930143" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="le Garrec" GivenName="Lea" Gender="F" Organisation="FRA" BirthDate="1993-07-09" IFId="300666"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="15"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1930152" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Becho" GivenName="Vicki" Gender="F" Organisation="FRA" BirthDate="2003-10-03" IFId="443079"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1930129" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Perisset" GivenName="Eve" Gender="F" Organisation="FRA" BirthDate="1994-12-24" IFId="381203"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="60"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1930116" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Durand" GivenName="Solene" Gender="F" Organisation="FRA" BirthDate="1994-11-20" IFId="381192"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="4"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--GER01" Organisation="GER" Type="T" SortOrder="9">
+      <Description TeamName="Germany"/>
+      <Coaches>
+        <Coach Code="9170067" Order="1" Function="COACH">
+          <Description FamilyName="Hrubesch" GivenName="Horst" Gender="M" Nationality="GER"/>
+        </Coach>
+        <Coach Code="9170068" Order="2" Function="AST_COA">
+          <Description FamilyName="Carlson" GivenName="Britta" Gender="F" Nationality="GER"/>
+        </Coach>
+        <Coach Code="9170069" Order="3" Function="AST_COA">
+          <Description FamilyName="Noerenberg" GivenName="Thomas" Gender="M" Nationality="GER"/>
+        </Coach>
+        <Coach Code="9170070" Order="4" Function="GK_COA">
+          <Description FamilyName="Fuchs" GivenName="Michael" Gender="M" Nationality="GER"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="2"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="1880591" Order="1" Bib="1">
+          <Description FamilyName="Frohms" GivenName="Merle" Gender="F" Organisation="GER" BirthDate="1995-01-28" IFId="358768"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="52"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880576" Order="2" Bib="2">
+          <Description FamilyName="Linder" GivenName="Sarai" Gender="F" Organisation="GER" BirthDate="1999-10-26" IFId="397135"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880566" Order="3" Bib="3">
+          <Description FamilyName="Hendrich" GivenName="Kathrin" Gender="F" Organisation="GER" BirthDate="1992-04-06" IFId="300514"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="75"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="1880606" Order="4" Bib="4">
+          <Description FamilyName="Schulze Solano" GivenName="Bibiane" Gender="F" Organisation="GER" BirthDate="1998-11-12" IFId="483835"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="4"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880595" Order="5" Bib="5">
+          <Description FamilyName="Hegering" GivenName="Marina" Gender="F" Organisation="GER" BirthDate="1990-04-17" IFId="296661"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="37"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1880574" Order="6" Bib="6">
+          <Description FamilyName="Minge" GivenName="Janina" Gender="F" Organisation="GER" BirthDate="1999-06-11" IFId="397138"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="5"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1880572" Order="7" Bib="7">
+          <Description FamilyName="Schueller" GivenName="Lea" Gender="F" Organisation="GER" BirthDate="1997-11-12" IFId="377677"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="62"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="42"/>
+        </Athlete>
+        <Athlete Code="1880581" Order="8" Bib="8">
+          <Description FamilyName="Lohmann" GivenName="Sydney" Gender="F" Organisation="GER" BirthDate="2000-06-19" IFId="397136"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="31"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1880584" Order="9" Bib="9">
+          <Description FamilyName="Nuesken" GivenName="Sjoeke" Gender="F" Organisation="GER" BirthDate="2001-01-22" IFId="412972"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="30"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1880573" Order="10" Bib="10">
+          <Description FamilyName="Freigang" GivenName="Laura" Gender="F" Organisation="GER" BirthDate="1998-02-01" IFId="377665"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="29"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1880564" Order="11" Bib="11">
+          <Description FamilyName="Popp" GivenName="Alexandra" Gender="F" Organisation="GER" BirthDate="1991-04-06" IFId="300509"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="139"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="67"/>
+        </Athlete>
+        <Athlete Code="1880602" Order="12" Bib="12">
+          <Description FamilyName="Berger" GivenName="Ann-Katrin" Gender="F" Organisation="GER" BirthDate="1990-10-09" IFId="420441"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="10"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880565" Order="13" Bib="13">
+          <Description FamilyName="Doorsoun" GivenName="Sara" Gender="F" Organisation="GER" BirthDate="1991-11-17" IFId="300511"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="53"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1880609" Order="14" Bib="14">
+          <Description FamilyName="Senss" GivenName="Elisa" Gender="F" Organisation="GER" BirthDate="1997-10-01" IFId="483730"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="7"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880575" Order="15" Bib="15">
+          <Description FamilyName="Gwinn" GivenName="Giulia" Gender="F" Organisation="GER" BirthDate="1999-07-02" IFId="397127"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="47"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="10"/>
+        </Athlete>
+        <Athlete Code="1880592" Order="16" Bib="16">
+          <Description FamilyName="Brand" GivenName="Jule" Gender="F" Organisation="GER" BirthDate="2002-10-16" IFId="443451"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="47"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="1880583" Order="17" Bib="17">
+          <Description FamilyName="Buehl" GivenName="Klara" Gender="F" Organisation="GER" BirthDate="2000-12-07" IFId="397123"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="52"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="25"/>
+        </Athlete>
+        <Athlete Code="1880610" Order="18" Bib="18">
+          <Description FamilyName="Endemann" GivenName="Vivien" Gender="F" Organisation="GER" BirthDate="2001-08-07" IFId="483783"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="6"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880571" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Rauch" GivenName="Felicitas" Gender="F" Organisation="GER" BirthDate="1996-04-30" IFId="381224"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="40"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1880607" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Wolter" GivenName="Pia-Sophie" Gender="F" Organisation="GER" BirthDate="1997-11-13" IFId="398034"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="3"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1880578" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Anyomi" GivenName="Nicole" Gender="F" Organisation="GER" BirthDate="2000-02-10" IFId="397122"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="25"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1880577" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Johannes" GivenName="Stina" Gender="F" Organisation="GER" BirthDate="2000-01-23" IFId="466950"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--JPN01" Organisation="JPN" Type="T" SortOrder="10">
+      <Description TeamName="Japan"/>
+      <Coaches>
+        <Coach Code="9170071" Order="1" Function="COACH">
+          <Description FamilyName="Ikeda" GivenName="Futoshi" Gender="M" Nationality="JPN"/>
+        </Coach>
+        <Coach Code="9170072" Order="2" Function="AST_COA">
+          <Description FamilyName="Miyamoto" GivenName="Tomomi" Gender="F" Nationality="JPN"/>
+        </Coach>
+        <Coach Code="9170073" Order="3" Function="GK_COA">
+          <Description FamilyName="Nishiiri" GivenName="Toshihiro" Gender="M" Nationality="JPN"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="9"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1888196" Order="1" Bib="1">
+          <Description FamilyName="Yamashita" GivenName="Ayaka" Gender="F" Organisation="JPN" BirthDate="1995-09-29" IFId="386675"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1888219" Order="2" Bib="2">
+          <Description FamilyName="Shimizu" GivenName="Risa" Gender="F" Organisation="JPN" BirthDate="1996-06-15" IFId="358082"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="79"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1888212" Order="3" Bib="3">
+          <Description FamilyName="Minami" GivenName="Moeka" Gender="F" Organisation="JPN" BirthDate="1998-12-07" IFId="377596"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="53"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1888214" Order="4" Bib="4">
+          <Description FamilyName="Kumagai" GivenName="Saki" Gender="F" Organisation="JPN" BirthDate="1990-10-17" IFId="298545"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="152"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1888188" Order="5" Bib="5">
+          <Description FamilyName="Takahashi" GivenName="Hana" Gender="F" Organisation="JPN" BirthDate="2000-02-19" IFId="397183"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="27"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1888158" Order="6" Bib="6">
+          <Description FamilyName="Koga" GivenName="Toko" Gender="F" Organisation="JPN" BirthDate="2006-01-06" IFId="445181"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1888181" Order="7" Bib="7">
+          <Description FamilyName="Miyazawa" GivenName="Hinata" Gender="F" Organisation="JPN" BirthDate="1999-11-28" IFId="397178"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="38"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="9"/>
+        </Athlete>
+        <Athlete Code="1888173" Order="8" Bib="8">
+          <Description FamilyName="Seike" GivenName="Kiko" Gender="F" Organisation="JPN" BirthDate="1996-08-08" IFId="419975"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="21"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="1888175" Order="9" Bib="9">
+          <Description FamilyName="Ueki" GivenName="Riko" Gender="F" Organisation="JPN" BirthDate="1999-07-30" IFId="397190"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="35"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="1888182" Order="10" Bib="10">
+          <Description FamilyName="Nagano" GivenName="Fuka" Gender="F" Organisation="JPN" BirthDate="1999-03-09" IFId="377685"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="40"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1888209" Order="11" Bib="11">
+          <Description FamilyName="Tanaka" GivenName="Mina" Gender="F" Organisation="JPN" BirthDate="1994-04-28" IFId="323039"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="81"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="37"/>
+        </Athlete>
+        <Athlete Code="1888159" Order="12" Bib="12">
+          <Description FamilyName="Tanikawa" GivenName="Momoko" Gender="F" Organisation="JPN" BirthDate="2005-05-07" IFId="445176"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="5"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1888156" Order="13" Bib="13">
+          <Description FamilyName="Kitagawa" GivenName="Hikaru" Gender="F" Organisation="JPN" BirthDate="1997-05-10" IFId="377689"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1888203" Order="14" Bib="14">
+          <Description FamilyName="Hasegawa" GivenName="Yui" Gender="F" Organisation="JPN" BirthDate="1997-01-29" IFId="358084"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="85"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="20"/>
+        </Athlete>
+        <Athlete Code="1888174" Order="15" Bib="15">
+          <Description FamilyName="Fujino" GivenName="Aoba" Gender="F" Organisation="JPN" BirthDate="2004-01-27" IFId="443522"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="23"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="6"/>
+        </Athlete>
+        <Athlete Code="1888195" Order="16" Bib="16">
+          <Description FamilyName="Hayashi" GivenName="Honoka" Gender="F" Organisation="JPN" BirthDate="1998-05-19" IFId="398321"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="33"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1888179" Order="17" Bib="17">
+          <Description FamilyName="Hamano" GivenName="Maika" Gender="F" Organisation="JPN" BirthDate="2004-05-09" IFId="430365"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="10"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1888184" Order="18" Bib="18">
+          <Description FamilyName="Hirao" GivenName="Chika" Gender="F" Organisation="JPN" BirthDate="1996-12-31" IFId="358075"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1888172" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Chiba" GivenName="Remina" Gender="F" Organisation="JPN" BirthDate="1999-04-30" IFId="397162"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1888170" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Moriya" GivenName="Miyabi" Gender="F" Organisation="JPN" BirthDate="1996-08-22" IFId="358091"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="10"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1888160" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Ishikawa" GivenName="Rion" Gender="F" Organisation="JPN" BirthDate="2003-07-04" IFId="443504"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1888169" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Ohba" GivenName="Shu" Gender="F" Organisation="JPN" BirthDate="2002-07-11" IFId="415307"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="1"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--NED01" Organisation="NED" Type="T" SortOrder="11">
+      <Description TeamName="Netherlands"/>
+      <Coaches>
+        <Coach Code="9170074" Order="1" Function="COACH">
+          <Description FamilyName="Wiegman" GivenName="Sarina" Gender="F" Nationality="NED"/>
+        </Coach>
+        <Coach Code="9170075" Order="2" Function="AST_COA">
+          <Description FamilyName="Veurink" GivenName="Arjan" Gender="M" Nationality="NED"/>
+        </Coach>
+        <Coach Code="9170076" Order="3" Function="AST_COA">
+          <Description FamilyName="Smit" GivenName="Arvid" Gender="M" Nationality="NED"/>
+        </Coach>
+        <Coach Code="9170077" Order="4" Function="AST_COA">
+          <Description FamilyName="Schoenmakers" GivenName="Erskine" Gender="M" Nationality="NED"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="8"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="D"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="9172442" Order="1" Bib="1">
+          <Description FamilyName="van Veenendaal" GivenName="Sari" Gender="F" Organisation="NED" BirthDate="1990-04-03" IFId="386927"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="74"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172443" Order="2" Bib="2">
+          <Description FamilyName="Wilms" GivenName="Lynn" Gender="F" Organisation="NED" BirthDate="2000-10-03" IFId="430374"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="12"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172444" Order="3" Bib="3">
+          <Description FamilyName="van der Gragt" GivenName="Stefanie" Gender="F" Organisation="NED" BirthDate="1992-08-16" IFId="386920"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="75"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="10"/>
+        </Athlete>
+        <Athlete Code="9172445" Order="4" Bib="4">
+          <Description FamilyName="Nouwen" GivenName="Aniek" Gender="F" Organisation="NED" BirthDate="1999-03-09" IFId="412991"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172446" Order="5" Bib="5">
+          <Description FamilyName="van Dongen" GivenName="Merel" Gender="F" Organisation="NED" BirthDate="1993-02-11" IFId="386917"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="51"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172447" Order="6" Bib="6">
+          <Description FamilyName="Roord" GivenName="Jill" Gender="F" Organisation="NED" BirthDate="1997-04-22" IFId="386926"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="64"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="9172448" Order="7" Bib="7">
+          <Description FamilyName="van de Sanden" GivenName="Shanice" Gender="F" Organisation="NED" BirthDate="1992-10-02" IFId="386932"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="85"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="19"/>
+        </Athlete>
+        <Athlete Code="9172449" Order="8" Bib="8">
+          <Description FamilyName="Smits" GivenName="Joelle" Gender="F" Organisation="NED" BirthDate="2000-02-07" IFId="412997"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="4"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172450" Order="9" Bib="9">
+          <Description FamilyName="Miedema" GivenName="Vivianne" Gender="F" Organisation="NED" BirthDate="1996-07-15" IFId="386925"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="96"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="73"/>
+        </Athlete>
+        <Athlete Code="9172451" Order="10" Bib="10">
+          <Description FamilyName="van de Donk" GivenName="Danielle" Gender="F" Organisation="NED" BirthDate="1991-08-05" IFId="386918"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="114"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="28"/>
+        </Athlete>
+        <Athlete Code="9172452" Order="11" Bib="11">
+          <Description FamilyName="Martens" GivenName="Lieke" Gender="F" Organisation="NED" BirthDate="1992-12-16" IFId="386923"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="123"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="49"/>
+        </Athlete>
+        <Athlete Code="9172453" Order="12" Bib="12">
+          <Description FamilyName="Folkertsma" GivenName="Sisca" Gender="F" Organisation="NED" BirthDate="1997-05-21" IFId="430373"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="12"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172454" Order="13" Bib="13">
+          <Description FamilyName="Pelova" GivenName="Victoria" Gender="F" Organisation="NED" BirthDate="1999-06-03" IFId="412994"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172455" Order="14" Bib="14">
+          <Description FamilyName="Groenen" GivenName="Jackie" Gender="F" Organisation="NED" BirthDate="1994-12-17" IFId="420205"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="9172456" Order="15" Bib="15">
+          <Description FamilyName="van Es" GivenName="Kika" Gender="F" Organisation="NED" BirthDate="1991-10-11" IFId="420210"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="70"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172457" Order="16" Bib="16">
+          <Description FamilyName="Kop" GivenName="Lize" Gender="F" Organisation="NED" BirthDate="1998-03-17" IFId="411033"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="6"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172458" Order="17" Bib="17">
+          <Description FamilyName="Janssen" GivenName="Dominique" Gender="F" Organisation="NED" BirthDate="1995-01-17" IFId="387074"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="71"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="9172459" Order="18" Bib="18">
+          <Description FamilyName="Beerensteyn" GivenName="Lineth" Gender="F" Organisation="NED" BirthDate="1996-10-11" IFId="387076"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="66"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="9172460" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Jansen" GivenName="Renate" Gender="F" Organisation="NED" BirthDate="1990-12-07" IFId="387087"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="48"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172461" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Kaagman" GivenName="Inessa" Gender="F" Organisation="NED" BirthDate="1996-04-17" IFId="387078"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172462" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Dekker" GivenName="Anouk" Gender="F" Organisation="NED" BirthDate="1986-11-15" IFId="386916"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="86"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="9172463" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Geurts" GivenName="Loes" Gender="F" Organisation="NED" BirthDate="1986-01-12" IFId="264635"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="125"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--NGR01" Organisation="NGR" Type="T" SortOrder="12">
+      <Description TeamName="Nigeria"/>
+      <Coaches>
+        <Coach Code="9170078" Order="1" Function="COACH">
+          <Description FamilyName="Waldrum" GivenName="Randy" Gender="M" Nationality="USA"/>
+        </Coach>
+        <Coach Code="9170079" Order="2" Function="AST_COA">
+          <Description FamilyName="Chiejine" GivenName="Ann" Gender="F" Nationality="NGR"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="6"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="1975991" Order="1" Bib="1">
+          <Description FamilyName="Oluehi" GivenName="Tochukwu" Gender="F" Organisation="NGR" BirthDate="1987-05-02" IFId="255691"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1971874" Order="2" Bib="2">
+          <Description FamilyName="Alozie" GivenName="Michelle" Gender="F" Organisation="NGR" BirthDate="1997-04-28" IFId="467678"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975390" Order="3" Bib="3">
+          <Description FamilyName="Ohale" GivenName="Osinachi" Gender="F" Organisation="NGR" BirthDate="1991-12-21" IFId="324238"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1977286" Order="4" Bib="4">
+          <Description FamilyName="Payne" GivenName="Nicole" Gender="F" Organisation="NGR" BirthDate="2001-01-18" IFId="467686"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975955" Order="5" Bib="5">
+          <Description FamilyName="Okeke" GivenName="Chidinma" Gender="F" Organisation="NGR" BirthDate="2000-08-11" IFId="397520"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975967" Order="6" Bib="6">
+          <Description FamilyName="Okoronkwo" GivenName="Esther" Gender="F" Organisation="NGR" BirthDate="1997-03-27" IFId="467683"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1977277" Order="7" Bib="7">
+          <Description FamilyName="Payne" GivenName="Toni" Gender="F" Organisation="NGR" BirthDate="1995-04-22" IFId="358532"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1976022" Order="8" Bib="8">
+          <Description FamilyName="Oshoala" GivenName="Asisat" Gender="F" Organisation="NGR" BirthDate="1994-10-09" IFId="357650"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="3538833" Order="9" Bib="9">
+          <Description FamilyName="Macleans" GivenName="Chinonyerem" Gender="F" Organisation="NGR" BirthDate="1999-10-01" IFId="487040"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1977963" Order="10" Bib="10">
+          <Description FamilyName="Ucheibe" GivenName="Christy" Gender="F" Organisation="NGR" BirthDate="2000-12-25" IFId="397528"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="3538789" Order="11" Bib="11">
+          <Description FamilyName="Echegini" GivenName="Jennifer" Gender="F" Organisation="NGR" BirthDate="2001-03-22" IFId="467680"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1974825" Order="12" Bib="12">
+          <Description FamilyName="Kanu" GivenName="Uchenna" Gender="F" Organisation="NGR" BirthDate="1997-06-20" IFId="358908"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1971188" Order="13" Bib="13">
+          <Description FamilyName="Abiodun" GivenName="Deborah" Gender="F" Organisation="NGR" BirthDate="2003-11-02" IFId="443245"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1974672" Order="14" Bib="14">
+          <Description FamilyName="Demehin" GivenName="Blessing" Gender="F" Organisation="NGR" BirthDate="2002-03-13" IFId="443252"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1971542" Order="15" Bib="15">
+          <Description FamilyName="Ajibade" GivenName="Rasheedat" Gender="F" Organisation="NGR" BirthDate="1999-12-08" IFId="377785"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1975075" Order="16" Bib="16">
+          <Description FamilyName="Nnadozie" GivenName="Chiamaka" Gender="F" Organisation="NGR" BirthDate="2000-12-08" IFId="397517"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1973931" Order="17" Bib="17">
+          <Description FamilyName="Ihezuo" GivenName="Chinwendu" Gender="F" Organisation="NGR" BirthDate="1997-04-30" IFId="358915"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1976006" Order="18" Bib="18">
+          <Description FamilyName="Onumonu" GivenName="Ifeoma" Gender="F" Organisation="NGR" BirthDate="1994-02-25" IFId="467684"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1975060" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Monday" GivenName="Gift" Gender="F" Organisation="NGR" BirthDate="2001-12-09" IFId="413118"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1971781" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Alani" GivenName="Jumoke" Gender="F" Organisation="NGR" BirthDate="2005-07-17" IFId="443249"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1976055" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Otu" GivenName="Regina" Gender="F" Organisation="NGR" BirthDate="1996-08-05" IFId="467685"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1971426" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Ademola" GivenName="Morufa" Gender="F" Organisation="NGR" BirthDate="1999-05-03" IFId="377823"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--NZL01" Organisation="NZL" Type="T" SortOrder="13">
+      <Description TeamName="New Zealand"/>
+      <Coaches>
+        <Coach Code="9170080" Order="1" Function="COACH">
+          <Description FamilyName="Mayne" GivenName="Michael" Gender="M" Nationality="NZL"/>
+        </Coach>
+        <Coach Code="9170081" Order="2" Function="AST_COA">
+          <Description FamilyName="Lawrence" GivenName="Natalie" Gender="F" Nationality="GBR"/>
+        </Coach>
+        <Coach Code="9170082" Order="3" Function="AST_COA">
+          <Description FamilyName="Sarver" GivenName="Keri" Gender="F" Nationality="USA"/>
+        </Coach>
+        <Coach Code="9170083" Order="4" Function="GK_COA">
+          <Description FamilyName="Reed" GivenName="Duncan" Gender="M" Nationality="NZL"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="15"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1944920" Order="1" Bib="1">
+          <Description FamilyName="Leat" GivenName="Anna" Gender="F" Organisation="NZL" BirthDate="2001-06-26" IFId="396991"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944935" Order="2" Bib="2">
+          <Description FamilyName="Taylor" GivenName="Kate Maria" Gender="F" Organisation="NZL" BirthDate="2003-10-21" IFId="443571"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="18"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1944894" Order="3" Bib="3">
+          <Description FamilyName="Barry" GivenName="Mackenzie" Gender="F" Organisation="NZL" BirthDate="2001-04-11" IFId="415260"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944914" Order="4" Bib="4">
+          <Description FamilyName="Bott" GivenName="C.J." Gender="F" Organisation="NZL" BirthDate="1995-04-22" IFId="358189"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="46"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1944963" Order="5" Bib="5">
+          <Description FamilyName="Moore" GivenName="Meikayla" Gender="F" Organisation="NZL" BirthDate="1996-06-04" IFId="358260"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="66"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1944865" Order="6" Bib="6">
+          <Description FamilyName="Steinmetz" GivenName="Malia" Gender="F" Organisation="NZL" BirthDate="1999-01-18" IFId="397010"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="32"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944918" Order="7" Bib="7">
+          <Description FamilyName="Foster" GivenName="Michaela" Gender="F" Organisation="NZL" BirthDate="1999-01-09" IFId="397012"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1944932" Order="8" Bib="8">
+          <Description FamilyName="Fraser" GivenName="Macey" Gender="F" Organisation="NZL" BirthDate="2002-07-11" IFId="415265"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="5"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1944878" Order="9" Bib="9">
+          <Description FamilyName="Rennie" GivenName="Gabi" Gender="F" Organisation="NZL" BirthDate="2001-07-07" IFId="412900"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="38"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1944936" Order="10" Bib="10">
+          <Description FamilyName="Riley" GivenName="Indiah-Paige" Gender="F" Organisation="NZL" BirthDate="2001-12-20" IFId="430531"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="24"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1944947" Order="11" Bib="11">
+          <Description FamilyName="Kitching" GivenName="Katie" Gender="F" Organisation="NZL" BirthDate="1998-09-06" IFId="485050"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="5"/>
+        </Athlete>
+        <Athlete Code="1944907" Order="12" Bib="12">
+          <Description FamilyName="Esson" GivenName="Victoria" Gender="F" Organisation="NZL" BirthDate="1991-03-06" IFId="301468"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="24"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944901" Order="13" Bib="13">
+          <Description FamilyName="Stott" GivenName="Rebekah" Gender="F" Organisation="NZL" BirthDate="1993-06-17" IFId="355896"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="103"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1944944" Order="14" Bib="14">
+          <Description FamilyName="Bowen" GivenName="Katie" Gender="F" Organisation="NZL" BirthDate="1994-04-15" IFId="301461"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="110"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="1944964" Order="15" Bib="15">
+          <Description FamilyName="Green" GivenName="Ally" Gender="F" Organisation="NZL" BirthDate="1998-08-17" IFId="461572"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="15"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1944930" Order="16" Bib="16">
+          <Description FamilyName="Hand" GivenName="Jacqui" Gender="F" Organisation="NZL" BirthDate="1999-02-19" IFId="395309"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="28"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="1944855" Order="17" Bib="17">
+          <Description FamilyName="Clegg" GivenName="Milly" Gender="F" Organisation="NZL" BirthDate="2005-11-01" IFId="443579"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="9"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1944899" Order="18" Bib="18">
+          <Description FamilyName="Jale" GivenName="Grace" Gender="F" Organisation="NZL" BirthDate="1999-04-10" IFId="397001"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="31"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="1944861" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Bunge" GivenName="Claudia" Gender="F" Organisation="NZL" BirthDate="1999-09-21" IFId="396994"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="31"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944895" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Longo" GivenName="Annalie" Gender="F" Organisation="NZL" BirthDate="1991-07-01" IFId="252503"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="134"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="15"/>
+        </Athlete>
+        <Athlete Code="1944852" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Neville" GivenName="Grace" Gender="F" Organisation="NZL" BirthDate="2000-04-09" IFId="461573"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1944873" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Sheaff" GivenName="Murphy" Gender="F" Organisation="NZL" BirthDate="2003-09-12" IFId="443585"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--SWE01" Organisation="SWE" Type="T" SortOrder="14">
+      <Description TeamName="Sweden"/>
+      <Coaches>
+        <Coach Code="9170084" Order="1" Function="COACH">
+          <Description FamilyName="Gerhardsson" GivenName="Peter" Gender="M" Nationality="SWE"/>
+        </Coach>
+        <Coach Code="9170085" Order="2" Function="AST_COA">
+          <Description FamilyName="Vikman" GivenName="Magnus" Gender="M" Nationality="SWE"/>
+        </Coach>
+        <Coach Code="9170086" Order="3" Function="AST_COA">
+          <Description FamilyName="Troedsson" GivenName="Leif" Gender="M" Nationality="SWE"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="7"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="D"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="9172501" Order="1" Bib="1">
+          <Description FamilyName="Lindahl" GivenName="Hedvig" Gender="F" Organisation="SWE" BirthDate="1983-04-29" IFId="191872"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="172"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172502" Order="2" Bib="2">
+          <Description FamilyName="Andersson" GivenName="Jonna" Gender="F" Organisation="SWE" BirthDate="1993-01-02" IFId="395146"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="56"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172503" Order="3" Bib="3">
+          <Description FamilyName="Kullberg" GivenName="Emma" Gender="F" Organisation="SWE" BirthDate="1991-09-25" IFId="321277"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="6"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172504" Order="4" Bib="4">
+          <Description FamilyName="Glas" GivenName="Hanna" Gender="F" Organisation="SWE" BirthDate="1993-04-16" IFId="420377"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="42"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172505" Order="5" Bib="5">
+          <Description FamilyName="Bennison" GivenName="Hanna" Gender="F" Organisation="SWE" BirthDate="2002-10-16" IFId="420373"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172506" Order="6" Bib="6">
+          <Description FamilyName="Eriksson" GivenName="Magdalena" Gender="F" Organisation="SWE" BirthDate="1993-09-08" IFId="386970"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="70"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="9172507" Order="7" Bib="7">
+          <Description FamilyName="Janogy" GivenName="Madelen" Gender="F" Organisation="SWE" BirthDate="1995-11-12" IFId="420379"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="17"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172508" Order="8" Bib="8">
+          <Description FamilyName="Hurtig" GivenName="Lina" Gender="F" Organisation="SWE" BirthDate="1995-09-05" IFId="387093"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="38"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="12"/>
+        </Athlete>
+        <Athlete Code="9172509" Order="9" Bib="9">
+          <Description FamilyName="Asllani" GivenName="Kosovare" Gender="F" Organisation="SWE" BirthDate="1989-07-29" IFId="298807"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="148"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="38"/>
+        </Athlete>
+        <Athlete Code="9172510" Order="10" Bib="10">
+          <Description FamilyName="Jakobsson" GivenName="Sofia" Gender="F" Organisation="SWE" BirthDate="1990-04-23" IFId="321274"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="123"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="23"/>
+        </Athlete>
+        <Athlete Code="9172511" Order="11" Bib="11">
+          <Description FamilyName="Blackstenius" GivenName="Stina" Gender="F" Organisation="SWE" BirthDate="1996-02-05" IFId="395148"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="64"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="17"/>
+        </Athlete>
+        <Athlete Code="9172512" Order="12" Bib="12">
+          <Description FamilyName="Falk" GivenName="Jennifer" Gender="F" Organisation="SWE" BirthDate="1993-04-26" IFId="420376"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172513" Order="13" Bib="13">
+          <Description FamilyName="Ilestedt" GivenName="Amanda" Gender="F" Organisation="SWE" BirthDate="1993-01-17" IFId="324571"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="41"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172514" Order="14" Bib="14">
+          <Description FamilyName="Bjorn" GivenName="Nathalie" Gender="F" Organisation="SWE" BirthDate="1997-05-04" IFId="395147"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="26"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172515" Order="15" Bib="15">
+          <Description FamilyName="Schough" GivenName="Olivia" Gender="F" Organisation="SWE" BirthDate="1991-03-11" IFId="321281"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="83"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="11"/>
+        </Athlete>
+        <Athlete Code="9172516" Order="16" Bib="16">
+          <Description FamilyName="Angeldal" GivenName="Filippa" Gender="F" Organisation="SWE" BirthDate="1997-07-14" IFId="398247"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="11"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="4"/>
+        </Athlete>
+        <Athlete Code="9172517" Order="17" Bib="17">
+          <Description FamilyName="Seger" GivenName="Caroline" Gender="F" Organisation="SWE" BirthDate="1985-03-19" IFId="265238"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="215"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="29"/>
+        </Athlete>
+        <Athlete Code="9172518" Order="18" Bib="18">
+          <Description FamilyName="Rolfo" GivenName="Fridolina" Gender="F" Organisation="SWE" BirthDate="1993-11-24" IFId="356452"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="50"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="14"/>
+        </Athlete>
+        <Athlete Code="9172519" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Anvegard" GivenName="Anna" Gender="F" Organisation="SWE" BirthDate="1997-05-10" IFId="398248"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="8"/>
+        </Athlete>
+        <Athlete Code="9172520" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Roddar" GivenName="Julia" Gender="F" Organisation="SWE" BirthDate="1992-02-16" IFId="420383"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="9"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="9172521" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Blomqvist" GivenName="Rebecka" Gender="F" Organisation="SWE" BirthDate="1997-07-24" IFId="398250"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="9172522" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Musovic" GivenName="Zecira" Gender="F" Organisation="SWE" BirthDate="1996-05-26" IFId="387088"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="5"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--USA01" Organisation="USA" Type="T" SortOrder="15">
+      <Description TeamName="United States of America"/>
+      <Coaches>
+        <Coach Code="9170087" Order="1" Function="COACH">
+          <Description FamilyName="Hayes" GivenName="Emma" Gender="F" Nationality="GBR"/>
+        </Coach>
+        <Coach Code="9170088" Order="2" Function="AST_COA">
+          <Description FamilyName="Reddy" GivenName="Denise" Gender="F" Nationality="USA"/>
+        </Coach>
+        <Coach Code="9170089" Order="3" Function="GK_COA">
+          <Description FamilyName="Searle" GivenName="Stuart" Gender="M" Nationality="GBR"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="1"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1943575" Order="1" Bib="1">
+          <Description FamilyName="Naeher" GivenName="Alyssa" Gender="F" Organisation="USA" BirthDate="1988-04-20" IFId="301016"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="106"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943553" Order="2" Bib="2">
+          <Description FamilyName="Fox" GivenName="Emily" Gender="F" Organisation="USA" BirthDate="1998-07-05" IFId="398183"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="51"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1943542" Order="3" Bib="3">
+          <Description FamilyName="Albert" GivenName="Korbin" Gender="F" Organisation="USA" BirthDate="2003-10-13" IFId="443189"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="13"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943555" Order="4" Bib="4">
+          <Description FamilyName="Girma" GivenName="Naomi" Gender="F" Organisation="USA" BirthDate="2000-06-14" IFId="397281"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="34"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943580" Order="5" Bib="5">
+          <Description FamilyName="Rodman" GivenName="Trinity" Gender="F" Organisation="USA" BirthDate="2002-05-20" IFId="415662"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="40"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="1943566" Order="6" Bib="6">
+          <Description FamilyName="Krueger" GivenName="Casey" Gender="F" Organisation="USA" BirthDate="1990-08-23" IFId="321014"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="50"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943588" Order="7" Bib="7">
+          <Description FamilyName="Dunn" GivenName="Crystal" Gender="F" Organisation="USA" BirthDate="1992-07-03" IFId="300533"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="149"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="25"/>
+        </Athlete>
+        <Athlete Code="1943596" Order="8" Bib="8">
+          <Description FamilyName="Williams" GivenName="Lynn" Gender="F" Organisation="USA" BirthDate="1993-05-21" IFId="420171"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="65"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="18"/>
+        </Athlete>
+        <Athlete Code="1943591" Order="9" Bib="9">
+          <Description FamilyName="Swanson" GivenName="Mallory" Gender="F" Organisation="USA" BirthDate="1998-04-29" IFId="381358"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="94"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="34"/>
+        </Athlete>
+        <Athlete Code="1943558" Order="10" Bib="10">
+          <Description FamilyName="Horan" GivenName="Lindsey" Gender="F" Organisation="USA" BirthDate="1994-05-26" IFId="357577"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="150"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="35"/>
+        </Athlete>
+        <Athlete Code="1943586" Order="11" Bib="11">
+          <Description FamilyName="Smith" GivenName="Sophia" Gender="F" Organisation="USA" BirthDate="2000-08-10" IFId="397320"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="50"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="20"/>
+        </Athlete>
+        <Athlete Code="1943550" Order="12" Bib="12">
+          <Description FamilyName="Davidson" GivenName="Tierna" Gender="F" Organisation="USA" BirthDate="1998-09-19" IFId="420165"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="60"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="3"/>
+        </Athlete>
+        <Athlete Code="1943576" Order="13" Bib="13">
+          <Description FamilyName="Nighswonger" GivenName="Jenna" Gender="F" Organisation="USA" BirthDate="2000-11-28" IFId="397302"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="10"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1943587" Order="14" Bib="14">
+          <Description FamilyName="Sonnett" GivenName="Emily" Gender="F" Organisation="USA" BirthDate="1993-11-25" IFId="357595"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="93"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="2"/>
+        </Athlete>
+        <Athlete Code="1943585" Order="15" Bib="15">
+          <Description FamilyName="Shaw" GivenName="Jaedyn" Gender="F" Organisation="USA" BirthDate="2004-11-20" IFId="443202"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="16"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="7"/>
+        </Athlete>
+        <Athlete Code="1943567" Order="16" Bib="16">
+          <Description FamilyName="Lavelle" GivenName="Rose" Gender="F" Organisation="USA" BirthDate="1995-05-14" IFId="381352"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="101"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="24"/>
+        </Athlete>
+        <Athlete Code="1943547" Order="17" Bib="17">
+          <Description FamilyName="Coffey" GivenName="Samantha" Gender="F" Organisation="USA" BirthDate="1998-12-31" IFId="413129"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="1"/>
+        </Athlete>
+        <Athlete Code="1943574" Order="18" Bib="18">
+          <Description FamilyName="Murphy" GivenName="Casey" Gender="F" Organisation="USA" BirthDate="1996-04-25" IFId="381356"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="19"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="4665326" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Hershfelt" GivenName="Hal" Gender="F" Organisation="USA" BirthDate="2001-10-03" IFId="485587"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="4665325" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Bethune" GivenName="Croix" Gender="F" Organisation="USA" BirthDate="2001-03-14" IFId="485584"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="2"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943569" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Sams" GivenName="Emily" Gender="F" Organisation="USA" BirthDate="1999-07-01" IFId="481879"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="0"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+        <Athlete Code="1943545" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Campbell" GivenName="Jane" Gender="F" Organisation="USA" BirthDate="1995-02-17" IFId="358517"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_PLAYED" Value="8"/>
+          <ExtendedEntry Type="ENTRY" Code="INTERNAT_GOALS" Value="0"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLWTEAM11--ZAM01" Organisation="ZAM" Type="T" SortOrder="16">
+      <Description TeamName="Zambia"/>
+      <Coaches>
+        <Coach Code="9170090" Order="1" Function="COACH">
+          <Description FamilyName="Mwape" GivenName="Bruce" Gender="M" Nationality="ZAM"/>
+        </Coach>
+        <Coach Code="9170091" Order="2" Function="AST_COA">
+          <Description FamilyName="Mwila" GivenName="Florence" Gender="F" Nationality="ZAM"/>
+        </Coach>
+        <Coach Code="9170092" Order="3" Function="AST_COA">
+          <Description FamilyName="Nthala" GivenName="Charity" Gender="F" Nationality="ZAM"/>
+        </Coach>
+        <Coach Code="9170093" Order="4" Function="GK_COA">
+          <Description FamilyName="Phiri" GivenName="Yona" Gender="M" Nationality="ZAM"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="RANK_WLD" Value="16"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1977147" Order="1" Bib="1">
+          <Description FamilyName="Musonda" GivenName="Catherine" Gender="F" Organisation="ZAM" BirthDate="1998-02-20" IFId="430874"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1973934" Order="2" Bib="2">
+          <Description FamilyName="Banda" GivenName="Diana" Gender="F" Organisation="ZAM" BirthDate="2002-09-05" IFId="485415"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1926043" Order="3" Bib="3">
+          <Description FamilyName="Mweemba" GivenName="Lushomo" Gender="F" Organisation="ZAM" BirthDate="2001-04-10" IFId="430887"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975988" Order="4" Bib="4">
+          <Description FamilyName="Siamfuko" GivenName="Esther" Gender="F" Organisation="ZAM" BirthDate="2004-08-08" IFId="430891"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1926052" Order="5" Bib="5">
+          <Description FamilyName="Zulu" GivenName="Pauline" Gender="F" Organisation="ZAM" BirthDate="2004-10-03" IFId="467123"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1974724" Order="6" Bib="6">
+          <Description FamilyName="Chileshe" GivenName="Rhoda" Gender="F" Organisation="ZAM" BirthDate="1998-05-08" IFId="425983"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1926018" Order="7" Bib="7">
+          <Description FamilyName="Zulu" GivenName="Misozi" Gender="F" Organisation="ZAM" BirthDate="1994-10-11" IFId="330978"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1976014" Order="8" Bib="8">
+          <Description FamilyName="Lubandji" GivenName="Ochumba" Gender="F" Organisation="ZAM" BirthDate="2001-07-01" IFId="430883"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1926040" Order="9" Bib="9">
+          <Description FamilyName="Mupopo" GivenName="Kabange" Gender="F" Organisation="ZAM" BirthDate="1992-09-21" IFId="485422"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1926015" Order="10" Bib="10">
+          <Description FamilyName="Chanda" GivenName="Grace" Gender="F" Organisation="ZAM" BirthDate="1997-06-11" IFId="378054"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1925999" Order="11" Bib="11">
+          <Description FamilyName="Banda" GivenName="Barbra" Gender="F" Organisation="ZAM" BirthDate="2000-03-20" IFId="378057"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1925995" Order="12" Bib="12">
+          <Description FamilyName="Chitundu" GivenName="Avell" Gender="F" Organisation="ZAM" BirthDate="1997-07-30" IFId="430877"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1926046" Order="13" Bib="13">
+          <Description FamilyName="Tembo" GivenName="Martha" Gender="F" Organisation="ZAM" BirthDate="1998-03-08" IFId="377943"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1976010" Order="14" Bib="14">
+          <Description FamilyName="Chilufya" GivenName="Prisca" Gender="F" Organisation="ZAM" BirthDate="1999-06-08" IFId="430876"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1926035" Order="15" Bib="15">
+          <Description FamilyName="Chanda" GivenName="Hellen" Gender="F" Organisation="ZAM" BirthDate="1998-06-19" IFId="378001"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1973939" Order="16" Bib="16">
+          <Description FamilyName="Muchinga" GivenName="Esther" Gender="F" Organisation="ZAM" BirthDate="2000-11-16" IFId="485420"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1926054" Order="17" Bib="17">
+          <Description FamilyName="Kundananji" GivenName="Racheal" Gender="F" Organisation="ZAM" BirthDate="2000-06-03" IFId="430882"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1926050" Order="18" Bib="18">
+          <Description FamilyName="Musole" GivenName="Ngambo" Gender="F" Organisation="ZAM" BirthDate="1998-06-26" IFId="377914"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1973909" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Phiri" GivenName="Vast" Gender="F" Organisation="ZAM" BirthDate="1996-02-03" IFId="430890"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1928566" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Nachula" GivenName="Racheal" Gender="F" Organisation="ZAM" BirthDate="1986-01-14" IFId="424754"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1977623" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Wilombe" GivenName="Mary" Gender="F" Organisation="ZAM" BirthDate="1997-09-22" IFId="378050"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1974381" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Sakala" GivenName="Eunice" Gender="F" Organisation="ZAM" BirthDate="2002-05-23" IFId="467116"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+  </Competition>
+</OdfBody>

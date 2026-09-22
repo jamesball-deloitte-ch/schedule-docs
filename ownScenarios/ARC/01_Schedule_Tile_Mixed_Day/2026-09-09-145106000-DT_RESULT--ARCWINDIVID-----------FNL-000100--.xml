@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARCWINDIVID-----------FNL-000100--" DocumentType="DT_RESULT" Version="4" FeedFlag="T" TimeStamp="2026-09-09T14:51:06.000+02:00" LogicalDate="2026-09-09" Source="INVARC1" ResultStatus="LIVE">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<ExtendedInfos>
+			<ExtendedInfo Type="DISPLAY" Code="CURRENT" Pos="3" />
+			<UnitDateTime StartDate="2026-09-09T14:51:02+02:00" />
+			<SportDescription DisciplineName="Archery" EventName="Recurve Women's Individual" Gender="W" SubEventName="Gold Medal Match" />
+			<VenueDescription Venue="INV" VenueName="Invalides" Location="INV" LocationName="Invalides" />
+		</ExtendedInfos>
+		<Result ResultType="SETS" Result="4" SortOrder="1" StartOrder="1" StartSortOrder="1">
+			<Competitor Code="1902147" Type="A" Organisation="KOR">
+				<Composition>
+					<Athlete Code="1902147" Order="1" Bib="1">
+						<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="SETS" Result="2" SortOrder="2" StartOrder="2" StartSortOrder="2">
+			<Competitor Code="1902148" Type="A" Organisation="KOR">
+				<Composition>
+					<Athlete Code="1902148" Order="1" Bib="2">
+						<Description GivenName="Suhyeon" FamilyName="Nam" Gender="F" Organisation="KOR" BirthDate="2005-01-27" IFId="45685" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

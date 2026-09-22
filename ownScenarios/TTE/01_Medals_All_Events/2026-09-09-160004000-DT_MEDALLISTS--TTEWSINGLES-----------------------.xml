@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEWSINGLES-----------------------" DocumentType="DT_MEDALLISTS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T16:00:04.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1" ResultStatus="OFFICIAL">
+	<Competition Gen="OG2028-GEN-5.1" Sport="OG2028-TTE-0.1" Codes="OG2028-1.3.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Table Tennis" EventName="Women's Singles" Gender="W" />
+			<VenueDescription Venue="LC3" VenueName="LA Convention Center Hall 3" />
+		</ExtendedInfos>
+		<Medal Code="ME_GOLD" Unit="TTEWSINGLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="9442013" Type="A" Order="1" Organisation="CHN">
+				<Composition>
+					<Athlete Code="9442013" Order="1">
+						<Description GivenName="Yingsha" FamilyName="Sun" Gender="F" Organisation="CHN" BirthDate="2000-11-04" IFId="131163" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_SILVER" Unit="TTEWSINGLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="9441300" Type="A" Order="1" Organisation="JPN">
+				<Composition>
+					<Athlete Code="9441300" Order="1">
+						<Description GivenName="Hina" FamilyName="Hayata" Gender="F" Organisation="JPN" BirthDate="2000-07-07" IFId="123672" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_BRONZE" Unit="TTEWSINGLES-----------FNL-000200--" Date="2026-09-09">
+			<Competitor Code="9446335" Type="A" Order="1" Organisation="KOR">
+				<Composition>
+					<Athlete Code="9446335" Order="1">
+						<Description GivenName="Yubin" FamilyName="Shin" Gender="F" Organisation="KOR" BirthDate="2004-07-05" IFId="123977" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+	</Competition>
+</OdfBody>

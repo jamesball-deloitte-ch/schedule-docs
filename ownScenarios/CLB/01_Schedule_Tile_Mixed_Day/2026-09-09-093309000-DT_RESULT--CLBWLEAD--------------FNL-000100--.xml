@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="CLBWLEAD--------------FNL-000100--" DocumentType="DT_RESULT" ResultStatus="OFFICIAL" Version="158" FeedFlag="T" TimeStamp="2026-09-09T09:33:09.000+02:00" LogicalDate="2026-09-09" Source="LCTCLB1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-CLB-0.2" Codes="OG2028-CC-1.2.0">
+		<ExtendedInfos>
+			<UnitDateTime StartDate="2026-09-09T11:02:07+02:00" />
+			<ExtendedInfo Type="UI" Code="ZONE_OPEN" Value="8:45" />
+			<ExtendedInfo Type="UI" Code="ZONE_CLOSE" Value="9:00" />
+			<ExtendedInfo Type="UI" Code="OBSERVE_TIME" Value="6" />
+			<ExtendedInfo Type="UI" Code="CLIMB_TIME" Value="6" />
+			<SportDescription DisciplineName="Climbing" EventName="Women's Lead" Gender="W" SubEventName="Final" />
+			<VenueDescription Venue="LCT" VenueName="LB Climbing Theater" Location="CL4" LocationName="Boulder &amp; Lead" />
+		</ExtendedInfos>
+		<Result Rank="1" Result="TOP" SortOrder="1" StartOrder="9" StartSortOrder="9" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="Top" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:44" />
+			</ExtendedResults>
+			<Competitor Code="9102028" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Order="1" Code="9102028" Bib="9">
+						<Description GivenName="Ryu" FamilyName="Nakagawa" Gender="F" Organisation="JPN" BirthDate="2004-03-02" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="2" Result="TOP" SortOrder="2" StartOrder="6" StartSortOrder="6" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="Top" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:00" />
+			</ExtendedResults>
+			<Competitor Code="9103663" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Order="1" Code="9103663" Bib="1">
+						<Description GivenName="Oriane" FamilyName="Bertone" Gender="F" Organisation="FRA" BirthDate="2005-03-10" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="3" Result="20" SortOrder="3" StartOrder="7" StartSortOrder="7" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="20" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:36" />
+			</ExtendedResults>
+			<Competitor Code="9104220" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Order="1" Code="9104220" Bib="6">
+						<Description GivenName="Molly" FamilyName="Thompson-Smith" Gender="F" Organisation="GBR" BirthDate="1997-11-07" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="4" Result="11" SortOrder="4" StartOrder="4" StartSortOrder="4" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="11" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:30" />
+			</ExtendedResults>
+			<Competitor Code="9103666" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Order="1" Code="9103666" Bib="7">
+						<Description GivenName="Zelia" FamilyName="Avezou" Gender="F" Organisation="FRA" BirthDate="2004-04-10" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="5" Result="10" SortOrder="5" StartOrder="8" StartSortOrder="8" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="10" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="1:57" />
+			</ExtendedResults>
+			<Competitor Code="9102034" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Order="1" Code="9102034" Bib="3">
+						<Description GivenName="Miho" FamilyName="Nonaka" Gender="F" Organisation="JPN" BirthDate="1997-05-21" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="6" Result="6" SortOrder="6" StartOrder="5" StartSortOrder="5" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="6" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:56" />
+			</ExtendedResults>
+			<Competitor Code="9102025" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Order="1" Code="9102025" Bib="2">
+						<Description GivenName="Natsumi" FamilyName="Hayashi" Gender="F" Organisation="JPN" BirthDate="1991-12-31" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="7" Result="6" SortOrder="7" StartOrder="3" StartSortOrder="3" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="6" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:34" />
+			</ExtendedResults>
+			<Competitor Code="9102031" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Order="1" Code="9102031" Bib="10">
+						<Description GivenName="Karin" FamilyName="Hayashi" Gender="F" Organisation="JPN" BirthDate="2005-03-20" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="8" Result="1" SortOrder="8" StartOrder="2" StartSortOrder="2" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="1" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:07" />
+			</ExtendedResults>
+			<Competitor Code="9102089" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Order="1" Code="9102089" Bib="5">
+						<Description GivenName="Lucia" FamilyName="Doerffel" Gender="F" Organisation="GER" BirthDate="2000-03-22" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="8" Result="1" SortOrder="9" StartOrder="1" StartSortOrder="1" ResultType="POINTS">
+			<ExtendedResults>
+				<ExtendedResult Type="LEAD" Code="HOLD" Value="1" />
+				<ExtendedResult Type="LEAD" Code="TIME" Value="4:38" />
+			</ExtendedResults>
+			<Competitor Code="9102023" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Order="1" Code="9102023" Bib="8">
+						<Description GivenName="Ai" FamilyName="Mori" Gender="F" Organisation="JPN" BirthDate="2003-09-17" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

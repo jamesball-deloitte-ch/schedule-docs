@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEMSINGLES-----------------------" DocumentType="DT_MEDALLISTS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T16:00:03.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1" ResultStatus="OFFICIAL">
+	<Competition Gen="OG2028-GEN-5.1" Sport="OG2028-TTE-0.1" Codes="OG2028-1.3.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Table Tennis" EventName="Men's Singles" Gender="M" />
+			<VenueDescription Venue="LC3" VenueName="LA Convention Center Hall 3" />
+		</ExtendedInfos>
+		<Medal Code="ME_GOLD" Unit="TTEMSINGLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="9440007" Type="A" Order="1" Organisation="CHN">
+				<Composition>
+					<Athlete Code="9440007" Order="1">
+						<Description GivenName="Chuqin" FamilyName="Wang" Gender="M" Organisation="CHN" BirthDate="2000-05-11" IFId="121558" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_SILVER" Unit="TTEMSINGLES-----------FNL-000100--" Date="2026-09-09">
+			<Competitor Code="9449877" Type="A" Order="1" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9449877" Order="1">
+						<Description GivenName="Felix" FamilyName="Lebrun" Gender="M" Organisation="FRA" BirthDate="2006-09-12" IFId="135977" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_BRONZE" Unit="TTEMSINGLES-----------FNL-000200--" Date="2026-09-09">
+			<Competitor Code="9441399" Type="A" Order="1" Organisation="JPN">
+				<Composition>
+					<Athlete Code="9441399" Order="1">
+						<Description GivenName="Tomokazu" FamilyName="Harimoto" Gender="M" Organisation="JPN" BirthDate="2003-06-27" IFId="123980" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+	</Competition>
+</OdfBody>

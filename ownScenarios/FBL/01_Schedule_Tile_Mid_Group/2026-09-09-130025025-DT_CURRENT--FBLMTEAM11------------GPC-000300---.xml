@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_CURRENT" TimeStamp="2026-09-09T13:00:25.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLMTEAM11------------GPC-000300--" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="30">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Clock Period="HT" Running="N" Time="45:00" />
+    <Result StartOrder="1" SortOrder="1" StartSortOrder="1" Result="0" ResultType="POINTS">
+      <Competitor Code="FBLMTEAM11--MLI01" Type="T" Organisation="MLI">
+        <Description TeamName="Mali" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="H" />
+      </Competitor>
+    </Result>
+    <Result StartOrder="2" SortOrder="2" StartSortOrder="2" Result="0" ResultType="POINTS">
+      <Competitor Code="FBLMTEAM11--EGY01" Type="T" Organisation="EGY">
+        <Description TeamName="Egypt" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="A" />
+      </Competitor>
+    </Result>
+  </Competition>
+</OdfBody>

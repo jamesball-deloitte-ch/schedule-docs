@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARC-------------------------------" DocumentType="DT_SCHEDULE_UPDATE" Version="1" FeedFlag="T" TimeStamp="2026-09-09T14:51:00.000+02:00" LogicalDate="2026-09-09" Source="INVARC1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<Unit Code="ARCWINDIVID-----------QUAL000100--" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T08:00:00+02:00" EndDate="2026-09-09T11:00:00+02:00" ActualStartDate="2026-09-09T08:05:00+02:00" ActualEndDate="2026-09-09T10:40:00+02:00" Order="1" Venue="INV" Location="INV" SessionCode="ARC01" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual Ranking Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCWTEAM3-------------QUAL000100--" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T08:00:00+02:00" EndDate="2026-09-09T11:00:00+02:00" ActualStartDate="2026-09-09T08:05:00+02:00" ActualEndDate="2026-09-09T10:40:00+02:00" Order="2" Venue="INV" Location="INV" SessionCode="ARC01" ScheduleFlag="S">
+			<ItemName Language="ENG" Value="Women's Team Ranking Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCMTEAM3-------------QUAL000100--" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T08:00:00+02:00" EndDate="2026-09-09T11:00:00+02:00" ActualStartDate="2026-09-09T08:05:00+02:00" ActualEndDate="2026-09-09T10:40:00+02:00" Order="3" Venue="INV" Location="INV" SessionCode="ARC01" ScheduleFlag="S">
+			<ItemName Language="ENG" Value="Men's Team Ranking Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------QUAL000100--" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T08:00:00+02:00" EndDate="2026-09-09T11:00:00+02:00" ActualStartDate="2026-09-09T08:05:00+02:00" ActualEndDate="2026-09-09T10:40:00+02:00" Order="4" Venue="INV" Location="INV" SessionCode="ARC01" ScheduleFlag="S">
+			<ItemName Language="ENG" Value="Mixed Team Ranking Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCXTEAMC-------------QUAL00010000" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T10:00:00+02:00" EndDate="2026-09-09T12:00:00+02:00" ActualStartDate="2026-09-09T10:00:00+02:00" ActualEndDate="2026-09-09T11:55:00+02:00" Order="5" Venue="INV" Location="INV" SessionCode="ARC02" ScheduleFlag="N">
+			<ItemName Language="ENG" Value="Compound Mixed Team Qualification Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCXTEAMC-------------QUAL00010001" PhaseType="3" ScheduleStatus="FINISHED" StartDate="2026-09-09T10:00:00+02:00" EndDate="2026-09-09T11:00:00+02:00" ActualStartDate="2026-09-09T10:00:00+02:00" ActualEndDate="2026-09-09T10:50:00+02:00" Order="6" Venue="INV" Location="INV" SessionCode="ARC02" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Compound Qualification Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCXTEAMC-------------QUAL00010002" PhaseType="3" ScheduleStatus="GETTING_READY" StartDate="2026-09-09T15:00:00+02:00" EndDate="2026-09-09T16:00:00+02:00" Order="7" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Men's Compound Qualification Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCWTEAM3-------------FNL-000200--" PhaseType="3" UnitNum="15" ScheduleStatus="FINISHED" StartDate="2026-09-09T09:00:00+02:00" EndDate="2026-09-09T09:23:00+02:00" ActualStartDate="2026-09-09T09:00:00+02:00" ActualEndDate="2026-09-09T09:21:00+02:00" Order="8" Medal="3" Venue="INV" Location="INV" SessionCode="ARC03" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Team Bronze Medal Match" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="ARCWTEAM3---NED01" Type="T" Bib="12" Organisation="NED">
+						<Description TeamName="Netherlands" />
+						<Composition>
+							<Athlete Code="1973408" Order="1" Bib="55">
+								<Description GivenName="Quinty" FamilyName="Roeffen" Gender="F" Organisation="NED" BirthDate="2005-09-08" IFId="35734" />
+							</Athlete>
+							<Athlete Code="1973411" Order="2" Bib="35">
+								<Description GivenName="Gaby" FamilyName="Schloesser" Gender="F" Organisation="NED" BirthDate="1994-02-18" IFId="8906" />
+							</Athlete>
+							<Athlete Code="1973409" Order="3" Bib="59">
+								<Description GivenName="Laura" FamilyName="van der Winkel" Gender="F" Organisation="NED" BirthDate="2001-11-15" IFId="20460" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="ARCWTEAM3---MEX01" Type="T" Bib="3" Organisation="MEX">
+						<Description TeamName="Mexico" />
+						<Composition>
+							<Athlete Code="1535429" Order="1" Bib="24">
+								<Description GivenName="Angela" FamilyName="Ruiz" Gender="F" Organisation="MEX" BirthDate="2006-07-28" IFId="37065" />
+							</Athlete>
+							<Athlete Code="1535420" Order="2" Bib="8">
+								<Description GivenName="Alejandra" FamilyName="Valencia" Gender="F" Organisation="MEX" BirthDate="1994-10-17" IFId="8165" />
+							</Athlete>
+							<Athlete Code="1536479" Order="3" Bib="20">
+								<Description GivenName="Ana" FamilyName="Vazquez" Gender="F" Organisation="MEX" BirthDate="2000-10-05" IFId="15053" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCWTEAM3-------------FNL-000100--" PhaseType="3" UnitNum="16" ScheduleStatus="FINISHED" StartDate="2026-09-09T09:25:00+02:00" EndDate="2026-09-09T09:48:00+02:00" ActualStartDate="2026-09-09T09:25:00+02:00" ActualEndDate="2026-09-09T09:46:00+02:00" Order="9" Medal="1" Venue="INV" Location="INV" SessionCode="ARC03" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Team Gold Medal Match" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="ARCWTEAM3---KOR01" Type="T" Bib="1" Organisation="KOR">
+						<Description TeamName="Republic of Korea" />
+						<Composition>
+							<Athlete Code="1902121" Order="1" Bib="13">
+								<Description GivenName="Hunyoung" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1994-05-29" IFId="8183" />
+							</Athlete>
+							<Athlete Code="1902147" Order="2" Bib="1">
+								<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+							</Athlete>
+							<Athlete Code="1902148" Order="3" Bib="2">
+								<Description GivenName="Suhyeon" FamilyName="Nam" Gender="F" Organisation="KOR" BirthDate="2005-01-27" IFId="45685" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="ARCWTEAM3---CHN01" Type="T" Bib="2" Organisation="CHN">
+						<Description TeamName="People's Republic of China" />
+						<Composition>
+							<Athlete Code="1913382" Order="1" Bib="26">
+								<Description GivenName="Qixuan" FamilyName="An" Gender="F" Organisation="CHN" BirthDate="2000-12-03" IFId="20796" />
+							</Athlete>
+							<Athlete Code="1913372" Order="2" Bib="9">
+								<Description GivenName="Jiaman" FamilyName="Li" Gender="F" Organisation="CHN" BirthDate="1997-08-18" IFId="11691" />
+							</Athlete>
+							<Athlete Code="1913380" Order="3" Bib="3">
+								<Description GivenName="Xiaolei" FamilyName="Yang" Gender="F" Organisation="CHN" BirthDate="2000-06-28" IFId="20795" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCWINDIVID-----------R64-000100--" PhaseType="3" UnitNum="125" ScheduleStatus="UNSCHEDULED" StartDate="2026-09-09T11:00:00+02:00" EndDate="2026-09-09T11:13:00+02:00" HideStartDate="Y" Order="10" Venue="INV" Location="INV" SessionCode="ARC15" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual 1/32 Elimination Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="1546133" Type="A" Organisation="IND">
+						<Composition>
+							<Athlete Code="1546133" Order="1" Bib="22">
+								<Description GivenName="Bhajan" FamilyName="Kaur" Gender="F" Organisation="IND" BirthDate="2005-08-26" IFId="45025" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="BYE" Type="A" />
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCWINDIVID-----------TMRY000500--" PhaseType="3" ScheduleStatus="UNSCHEDULED" StartDate="2026-09-09T11:00:00+02:00" EndDate="2026-09-09T12:00:00+02:00" Order="11" Venue="INV" Location="INV" SessionCode="ARC15" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual 1/8 Elimination Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCWINDIVID-----------8FNL000600--" PhaseType="3" UnitNum="150" ScheduleStatus="FINISHED" StartDate="2026-09-09T11:15:00+02:00" EndDate="2026-09-09T11:28:00+02:00" ActualStartDate="2026-09-09T11:15:00+02:00" ActualEndDate="2026-09-09T11:18:00+02:00" Order="12" Venue="INV" Location="INV" SessionCode="ARC15" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual 1/8 Elimination Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="1546133" Type="A" Organisation="IND">
+						<Composition>
+							<Athlete Code="1546133" Order="1" Bib="22">
+								<Description GivenName="Bhajan" FamilyName="Kaur" Gender="F" Organisation="IND" BirthDate="2005-08-26" IFId="45025" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="1913983" Type="A" Organisation="INA">
+						<Composition>
+							<Athlete Code="1913983" Order="1" Bib="6">
+								<Description GivenName="Diananda" FamilyName="Choirunisa" Gender="F" Organisation="INA" BirthDate="1997-03-16" IFId="11122" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCWINDIVID-----------FNL-000200--" PhaseType="3" UnitNum="159" ScheduleStatus="FINISHED" StartDate="2026-09-09T14:33:00+02:00" EndDate="2026-09-09T14:46:00+02:00" ActualStartDate="2026-09-09T14:33:21+02:00" ActualEndDate="2026-09-09T14:46:26+02:00" Order="13" Medal="3" Venue="INV" Location="INV" SessionCode="ARC16" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual Bronze Medal Match" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="1902121" Type="A" Organisation="KOR">
+						<Composition>
+							<Athlete Code="1902121" Order="1" Bib="13">
+								<Description GivenName="Hunyoung" FamilyName="Jeon" Gender="F" Organisation="KOR" BirthDate="1994-05-29" IFId="8183" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="1541265" Type="A" Organisation="FRA">
+						<Composition>
+							<Athlete Code="1541265" Order="1" Bib="30">
+								<Description GivenName="Lisa" FamilyName="Barbelin" Gender="F" Organisation="FRA" BirthDate="2000-04-10" IFId="3283" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCWINDIVID-----------FNL-000100--" PhaseType="3" UnitNum="160" ScheduleStatus="RUNNING" StartDate="2026-09-09T14:46:00+02:00" EndDate="2026-09-09T14:59:00+02:00" ActualStartDate="2026-09-09T14:51:02+02:00" Order="14" Medal="1" Venue="INV" Location="INV" SessionCode="ARC16" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Women's Individual Gold Medal Match" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="1902147" Type="A" Organisation="KOR">
+						<Composition>
+							<Athlete Code="1902147" Order="1" Bib="1">
+								<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="1902148" Type="A" Organisation="KOR">
+						<Composition>
+							<Athlete Code="1902148" Order="1" Bib="2">
+								<Description GivenName="Suhyeon" FamilyName="Nam" Gender="F" Organisation="KOR" BirthDate="2005-01-27" IFId="45685" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------8FNL000100--" PhaseType="3" UnitNum="132" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T15:30:00+02:00" EndDate="2026-09-09T15:49:00+02:00" Order="15" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team 1/8 Elimination Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="ARCXTEAM2---KOR01" Type="T" Bib="1" Organisation="KOR">
+						<Description TeamName="Republic of Korea" />
+						<Composition>
+							<Athlete Code="1902147" Order="1" Bib="1">
+								<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+							</Athlete>
+							<Athlete Code="1902135" Order="2" Bib="1">
+								<Description GivenName="Woojin" FamilyName="Kim" Gender="M" Organisation="KOR" BirthDate="1992-06-20" IFId="8179" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="ARCXTEAM2---TPE01" Type="T" Bib="16" Organisation="TPE">
+						<Description TeamName="Chinese Taipei" />
+						<Composition>
+							<Athlete Code="1564634" Order="1" Bib="29">
+								<Description GivenName="Chien-Ying" FamilyName="Lei" Gender="F" Organisation="TPE" BirthDate="1990-04-17" IFId="7243" />
+							</Athlete>
+							<Athlete Code="1564630" Order="2" Bib="24">
+								<Description GivenName="Yu-Hsuan" FamilyName="Tai" Gender="M" Organisation="TPE" BirthDate="2002-11-09" IFId="30552" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------QFNL000100--" PhaseType="3" UnitNum="138" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T16:00:00+02:00" EndDate="2026-09-09T16:19:00+02:00" HideStartDate="Y" Order="16" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team Quarterfinal" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="ARCXTEAM2---KOR01" Type="T" Bib="1" Organisation="KOR">
+						<Description TeamName="Republic of Korea" />
+						<Composition>
+							<Athlete Code="1902147" Order="1" Bib="1">
+								<Description GivenName="Sihyeon" FamilyName="Lim" Gender="F" Organisation="KOR" BirthDate="2003-06-13" IFId="48352" />
+							</Athlete>
+							<Athlete Code="1902135" Order="2" Bib="1">
+								<Description GivenName="Woojin" FamilyName="Kim" Gender="M" Organisation="KOR" BirthDate="1992-06-20" IFId="8179" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2" PreviousWLT="W" PreviousUnit="ARCXTEAM2-------------8FNL000200--">
+					<Competitor Code="TBD" Type="T" />
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------8FNL000200--" PhaseType="3" UnitNum="129" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T15:30:00+02:00" EndDate="2026-09-09T15:49:00+02:00" Order="17" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team 1/8 Elimination Round" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1">
+					<Competitor Code="ARCXTEAM2---ITA01" Type="T" Bib="9" Organisation="ITA">
+						<Description TeamName="Italy" />
+						<Composition>
+							<Athlete Code="1915461" Order="1" Bib="15">
+								<Description GivenName="Chiara" FamilyName="Rebagliati" Gender="F" Organisation="ITA" BirthDate="1997-01-23" IFId="16298" />
+							</Athlete>
+							<Athlete Code="1915454" Order="2" Bib="20">
+								<Description GivenName="Mauro" FamilyName="Nespoli" Gender="M" Organisation="ITA" BirthDate="1987-11-22" IFId="5796" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+				<Start StartOrder="2" SortOrder="2">
+					<Competitor Code="ARCXTEAM2---FRA01" Type="T" Bib="8" Organisation="FRA">
+						<Description TeamName="France" />
+						<Composition>
+							<Athlete Code="1541266" Order="1" Bib="17">
+								<Description GivenName="Amelie" FamilyName="Cordeau" Gender="F" Organisation="FRA" BirthDate="2005-10-01" IFId="41668" />
+							</Athlete>
+							<Athlete Code="1541270" Order="2" Bib="6">
+								<Description GivenName="Baptiste" FamilyName="Addis" Gender="M" Organisation="FRA" BirthDate="2006-12-07" IFId="32221" />
+							</Athlete>
+						</Composition>
+					</Competitor>
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------FNL-000100--" PhaseType="3" UnitNum="144" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T16:43:00+02:00" EndDate="2026-09-09T17:02:00+02:00" HideStartDate="Y" HideUnitNum="Y" Order="18" Medal="1" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team Gold Medal Match" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+			<StartList>
+				<Start StartOrder="1" SortOrder="1" PreviousWLT="W" PreviousUnit="ARCXTEAM2-------------SFNL000100--">
+					<Competitor Code="TBD" Type="T" />
+				</Start>
+				<Start StartOrder="2" SortOrder="2" PreviousWLT="W" PreviousUnit="ARCXTEAM2-------------SFNL000200--">
+					<Competitor Code="TBD" Type="T" />
+				</Start>
+			</StartList>
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------SFNL000100--" PhaseType="3" UnitNum="142" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T16:20:00+02:00" EndDate="2026-09-09T16:39:00+02:00" HideStartDate="Y" Order="19" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team Semifinal" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+		<Unit Code="ARCXTEAM2-------------SFNL000200--" PhaseType="3" UnitNum="143" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T16:20:00+02:00" EndDate="2026-09-09T16:39:00+02:00" HideStartDate="Y" Order="20" Venue="INV" Location="INV" SessionCode="ARC17" ScheduleFlag="Y">
+			<ItemName Language="ENG" Value="Mixed Team Semifinal" />
+			<VenueDescription VenueName="Invalides" LocationName="Invalides" />
+		</Unit>
+	</Competition>
+</OdfBody>

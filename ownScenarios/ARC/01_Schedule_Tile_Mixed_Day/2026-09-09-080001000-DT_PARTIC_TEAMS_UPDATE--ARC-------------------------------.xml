@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="ARC-------------------------------" DocumentType="DT_PARTIC_TEAMS_UPDATE" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:01.000+02:00" LogicalDate="2026-09-09" Source="INVARC1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-ARC-0.3" Codes="OG2028-CC-1.5.0">
+		<Team Code="ARCWTEAM3---CHN01" Organisation="CHN" Status="CNF" Number="1" Name="People's Republic of China" ShortName="China" TVTeamName="China" Gender="W" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCWTEAM3---KOR01" Organisation="KOR" Status="CNF" Number="1" Name="Republic of Korea" ShortName="Korea" TVTeamName="Korea" Gender="W" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCWTEAM3---MEX01" Organisation="MEX" Status="CNF" Number="1" Name="Mexico" ShortName="Mexico" TVTeamName="Mexico" Gender="W" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCWTEAM3---NED01" Organisation="NED" Status="CNF" Number="1" Name="Netherlands" ShortName="Netherlands" TVTeamName="Netherlands" Gender="W" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCXTEAM2---FRA01" Organisation="FRA" Status="CNF" Number="1" Name="France" ShortName="France" TVTeamName="France" Gender="X" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCXTEAM2---ITA01" Organisation="ITA" Status="CNF" Number="1" Name="Italy" ShortName="Italy" TVTeamName="Italy" Gender="X" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCXTEAM2---KOR01" Organisation="KOR" Status="CNF" Number="1" Name="Republic of Korea" ShortName="Korea" TVTeamName="Korea" Gender="X" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+		<Team Code="ARCXTEAM2---TPE01" Organisation="TPE" Status="CNF" Number="1" Name="Chinese Taipei" ShortName="Chinese Taipei" TVTeamName="Chinese Taipei" Gender="X" Current="true" TeamType="ORG">
+			<Discipline Code="ARC-------------------------------" />
+		</Team>
+	</Competition>
+</OdfBody>

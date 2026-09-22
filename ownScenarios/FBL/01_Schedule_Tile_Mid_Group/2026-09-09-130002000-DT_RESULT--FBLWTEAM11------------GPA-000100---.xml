@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_RESULT" TimeStamp="2026-09-09T13:00:02.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLWTEAM11------------GPA-000100--" ResultStatus="OFFICIAL" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="20">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <ExtendedInfos>
+      <UnitDateTime StartDate="2026-09-05T13:00:00.000+02:00" />
+      <ExtendedInfo Type="UI" Code="PERIOD" Value="FT" />
+      <SportDescription DisciplineName="Football" EventName="Women" Gender="W" SubEventName="Women's Group A" UnitNum="1" />
+      <VenueDescription Venue="NYS" VenueName="New York Stadium" Location="NYS" LocationName="New York Stadium" />
+    </ExtendedInfos>
+    <Result StartOrder="1" SortOrder="1" StartSortOrder="1" Result="1" ResultType="POINTS">
+      <Competitor Code="FBLWTEAM11--FRA01" Type="T" Organisation="FRA">
+        <Description TeamName="France" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="H" />
+      </Competitor>
+    </Result>
+    <Result StartOrder="2" SortOrder="2" StartSortOrder="2" Result="1" ResultType="POINTS">
+      <Competitor Code="FBLWTEAM11--COL01" Type="T" Organisation="COL">
+        <Description TeamName="Colombia" />
+        <EventUnitEntry Type="EUE" Code="HOME_AWAY" Value="A" />
+      </Competitor>
+    </Result>
+  </Competition>
+</OdfBody>

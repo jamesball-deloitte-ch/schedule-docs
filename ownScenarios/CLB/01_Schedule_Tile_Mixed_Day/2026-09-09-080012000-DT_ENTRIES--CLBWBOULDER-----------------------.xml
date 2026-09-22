@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="CLBWBOULDER-----------------------" DocumentType="DT_ENTRIES" Version="2" FeedFlag="T" TimeStamp="2026-09-09T08:00:12.000+02:00" LogicalDate="2026-09-09" Source="LCTCLB1">
+	<Competition Gen="OG2028-GEN-5.0" Sport="OG2028-CLB-0.2" Codes="OG2028-CC-1.2.0">
+		<Entry Code="9108117" Type="A" Bib="10" Organisation="AUS" SortOrder="1">
+			<Composition>
+				<Athlete Code="9108117" Order="1" Bib="10">
+					<Description GivenName="Oceania" FamilyName="Mackenzie" Gender="F" Organisation="AUS" BirthDate="2002-07-11" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="12" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="CQOC" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="15" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9103697" Type="A" Bib="8" Organisation="CHN" SortOrder="2">
+			<Composition>
+				<Athlete Code="9103697" Order="1" Bib="8">
+					<Description GivenName="Zhilu" FamilyName="Luo" Gender="F" Organisation="CHN" BirthDate="2006-01-11" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="43" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="24" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9103695" Type="A" Bib="9" Organisation="CHN" SortOrder="3">
+			<Composition>
+				<Athlete Code="9103695" Order="1" Bib="9">
+					<Description GivenName="Yuetong" FamilyName="Zhang" Gender="F" Organisation="CHN" BirthDate="2003-02-22" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="40" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="CQAS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="28" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9102698" Type="A" Bib="7" Organisation="ITA" SortOrder="4">
+			<Composition>
+				<Athlete Code="9102698" Order="1" Bib="7">
+					<Description GivenName="Camilla" FamilyName="Moroni" Gender="F" Organisation="ITA" BirthDate="2001-07-08" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="37" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="22" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9102697" Type="A" Bib="1" Organisation="ITA" SortOrder="5">
+			<Composition>
+				<Athlete Code="9102697" Order="1" Bib="1">
+					<Description GivenName="Laura" FamilyName="Rogora" Gender="F" Organisation="ITA" BirthDate="2001-04-28" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="37" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="23" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9101183" Type="A" Bib="12" Organisation="KOR" SortOrder="6">
+			<Composition>
+				<Athlete Code="9101183" Order="1" Bib="12">
+					<Description GivenName="Chaehyun" FamilyName="Seo" Gender="F" Organisation="KOR" BirthDate="2003-11-01" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="22" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="8" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9108271" Type="A" Bib="2" Organisation="RSA" SortOrder="7">
+			<Composition>
+				<Athlete Code="9108271" Order="1" Bib="2">
+					<Description GivenName="Lauren" FamilyName="Mukheibir" Gender="F" Organisation="RSA" BirthDate="2001-10-08" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="25" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="CQAF" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9101131" Type="A" Bib="5" Organisation="SLO" SortOrder="8">
+			<Composition>
+				<Athlete Code="9101131" Order="1" Bib="5">
+					<Description GivenName="Janja" FamilyName="Garnbret" Gender="F" Organisation="SLO" BirthDate="1999-03-12" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="33" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="WCH" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="1" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9101206" Type="A" Bib="3" Organisation="SLO" SortOrder="9">
+			<Composition>
+				<Athlete Code="9101206" Order="1" Bib="3">
+					<Description GivenName="Mia" FamilyName="Krampl" Gender="F" Organisation="SLO" BirthDate="2000-07-21" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="38" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="11" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9106057" Type="A" Bib="11" Organisation="UKR" SortOrder="10">
+			<Composition>
+				<Athlete Code="9106057" Order="1" Bib="11">
+					<Description GivenName="Ievgeniia" FamilyName="Kazbekova" Gender="F" Organisation="UKR" BirthDate="1996-10-15" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="22" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="29" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9100302" Type="A" Bib="4" Organisation="USA" SortOrder="11">
+			<Composition>
+				<Athlete Code="9100302" Order="1" Bib="4">
+					<Description GivenName="Natalia" FamilyName="Grossman" Gender="F" Organisation="USA" BirthDate="2001-06-22" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="36" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="CQAM" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="5" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="9100307" Type="A" Bib="6" Organisation="USA" SortOrder="12">
+			<Composition>
+				<Athlete Code="9100307" Order="1" Bib="6">
+					<Description GivenName="Broke" FamilyName="Raboutou" Gender="F" Organisation="USA" BirthDate="2001-04-09" />
+					<ExtendedEntry Type="ENTRY" Code="ARM_SPAN" Value="37" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="OQS" />
+					<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="3" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

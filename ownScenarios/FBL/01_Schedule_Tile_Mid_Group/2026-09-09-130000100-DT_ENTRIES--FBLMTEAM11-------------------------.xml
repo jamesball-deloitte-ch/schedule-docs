@@ -1,0 +1,1306 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_ENTRIES" TimeStamp="2026-09-09T13:00:00.100+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBLMTEAM11------------------------" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="1">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Entry Code="FBLMTEAM11--ARG01" Organisation="ARG" Type="T" SortOrder="1">
+      <Description TeamName="Argentina"/>
+      <Coaches>
+        <Coach Code="9170001" Order="1" Function="COACH">
+          <Description FamilyName="Mascherano" GivenName="Javier" Gender="M" Nationality="ARG"/>
+        </Coach>
+        <Coach Code="9170002" Order="2" Function="AST_COA">
+          <Description FamilyName="Rodriguez" GivenName="Lucas" Gender="M" Nationality="ARG"/>
+        </Coach>
+        <Coach Code="9170003" Order="3" Function="AST_COA">
+          <Description FamilyName="Stillitano" GivenName="Leandro" Gender="M" Nationality="ARG"/>
+        </Coach>
+        <Coach Code="9170004" Order="4" Function="GK_COA">
+          <Description FamilyName="Dobler" GivenName="Mauro" Gender="M" Nationality="ARG"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="1"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1930451" Order="1" Bib="1">
+          <Description FamilyName="Rulli" GivenName="Geronimo" Gender="M" Organisation="ARG" BirthDate="1992-05-20" IFId="394824"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1930372" Order="2" Bib="2">
+          <Description FamilyName="di Cesare" GivenName="Marco" Gender="M" Organisation="ARG" BirthDate="2002-01-30" IFId="485610"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930459" Order="3" Bib="3">
+          <Description FamilyName="Soler" GivenName="Julio" Gender="M" Organisation="ARG" BirthDate="2005-02-16" IFId="485606"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930386" Order="4" Bib="4">
+          <Description FamilyName="Garcia" GivenName="Joaquin" Gender="M" Organisation="ARG" BirthDate="2001-08-20" IFId="485599"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930384" Order="5" Bib="5">
+          <Description FamilyName="Fernandez" GivenName="Ezequiel" Gender="M" Organisation="ARG" BirthDate="2002-07-25" IFId="423967"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930237" Order="6" Bib="6">
+          <Description FamilyName="Amione" GivenName="Bruno" Gender="M" Organisation="ARG" BirthDate="2002-01-03" IFId="423955"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930532" Order="7" Bib="7">
+          <Description FamilyName="Zenon" GivenName="Kevin" Gender="M" Organisation="ARG" BirthDate="2001-07-30" IFId="485602"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930426" Order="8" Bib="8">
+          <Description FamilyName="Medina" GivenName="Cristian" Gender="M" Organisation="ARG" BirthDate="2002-06-01" IFId="423968"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930235" Order="9" Bib="9">
+          <Description FamilyName="Alvarez" GivenName="Julian" Gender="M" Organisation="ARG" BirthDate="2000-01-31" IFId="416081"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1929998" Order="10" Bib="10">
+          <Description FamilyName="Almada" GivenName="Thiago" Gender="M" Organisation="ARG" BirthDate="2001-04-26" IFId="418975"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930375" Order="11" Bib="11">
+          <Description FamilyName="Echeverri" GivenName="Claudio" Gender="M" Organisation="ARG" BirthDate="2006-01-02" IFId="475778"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930292" Order="12" Bib="12">
+          <Description FamilyName="Brey" GivenName="Leandro" Gender="M" Organisation="ARG" BirthDate="2002-09-21" IFId="485603"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1930417" Order="13" Bib="13">
+          <Description FamilyName="Lujan" GivenName="Gonzalo" Gender="M" Organisation="ARG" BirthDate="2001-04-27" IFId="485609"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930405" Order="14" Bib="14">
+          <Description FamilyName="Hezze" GivenName="Santiago" Gender="M" Organisation="ARG" BirthDate="2001-10-22" IFId="485601"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930400" Order="15" Bib="15">
+          <Description FamilyName="Gondou" GivenName="Luciano" Gender="M" Organisation="ARG" BirthDate="2001-06-22" IFId="485612"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1930436" Order="16" Bib="16">
+          <Description FamilyName="Otamendi" GivenName="Nicolas" Gender="M" Organisation="ARG" BirthDate="1988-02-12" IFId="310116"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="3556435" Order="17" Bib="17">
+          <Description FamilyName="Simeone" GivenName="Giuliano" Gender="M" Organisation="ARG" BirthDate="2002-12-18" IFId="485595"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1930249" Order="18" Bib="18">
+          <Description FamilyName="Beltran" GivenName="Lucas" Gender="M" Organisation="ARG" BirthDate="2001-03-29" IFId="429008"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1930445" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Quiros" GivenName="Aaron" Gender="M" Organisation="ARG" BirthDate="2001-10-31" IFId="485611"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930433" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Nardoni" GivenName="Juan Ignacio" Gender="M" Organisation="ARG" BirthDate="2002-07-14" IFId="485605"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1930446" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Redondo" GivenName="Federico" Gender="M" Organisation="ARG" BirthDate="2003-01-18" IFId="463693"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1930406" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Iacovich" GivenName="Fabricio" Gender="M" Organisation="ARG" BirthDate="2002-01-29" IFId="423987"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--DOM01" Organisation="DOM" Type="T" SortOrder="2">
+      <Description TeamName="Dominican Republic"/>
+      <Coaches>
+        <Coach Code="9170005" Order="1" Function="COACH">
+          <Description FamilyName="Gomez" GivenName="Ibai" Gender="M" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170006" Order="2" Function="AST_COA">
+          <Description FamilyName="Amorebieta" GivenName="Fernando" Gender="M" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170007" Order="3" Function="GK_COA">
+          <Description FamilyName="Britez" GivenName="Cristhian" Gender="M" Nationality="PAR"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="12"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1950131" Order="1" Bib="1">
+          <Description FamilyName="Valdez" GivenName="Xavier" Gender="M" Organisation="DOM" BirthDate="2003-11-23" IFId="464109"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1971698" Order="2" Bib="2">
+          <Description FamilyName="Reyes Marizan" GivenName="Francisco" Gender="M" Organisation="DOM" BirthDate="2006-03-28" IFId="464062"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1950071" Order="3" Bib="3">
+          <Description FamilyName="Baez" GivenName="Josue" Gender="M" Organisation="DOM" BirthDate="2002-05-23" IFId="430025"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1972005" Order="4" Bib="4">
+          <Description FamilyName="Pujol" GivenName="Edgar" Gender="M" Organisation="DOM" BirthDate="2004-08-07" IFId="485628"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1982106" Order="5" Bib="5">
+          <Description FamilyName="de Lucas" GivenName="Luiyi" Gender="M" Organisation="DOM" BirthDate="1994-08-31" IFId="485638"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1981864" Order="6" Bib="6">
+          <Description FamilyName="Morschel" GivenName="Heinz" Gender="M" Organisation="DOM" BirthDate="1997-08-24" IFId="485619"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1972425" Order="7" Bib="7">
+          <Description FamilyName="Urena" GivenName="Oscar" Gender="M" Organisation="DOM" BirthDate="2003-05-31" IFId="485630"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1949811" Order="8" Bib="8">
+          <Description FamilyName="Montes de Oca" GivenName="Angel" Gender="M" Organisation="DOM" BirthDate="2003-02-18" IFId="464083"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950119" Order="9" Bib="9">
+          <Description FamilyName="Nunez" GivenName="Rafael" Gender="M" Organisation="DOM" BirthDate="2002-01-25" IFId="423656"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1971668" Order="10" Bib="10">
+          <Description FamilyName="Azcona" GivenName="Edison" Gender="M" Organisation="DOM" BirthDate="2003-11-21" IFId="430011"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1975237" Order="11" Bib="11">
+          <Description FamilyName="Gonzalez" GivenName="Peter" Gender="M" Organisation="DOM" BirthDate="2002-07-25" IFId="461024"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1972567" Order="12" Bib="12">
+          <Description FamilyName="Urbaez" GivenName="Joao" Gender="M" Organisation="DOM" BirthDate="2002-07-24" IFId="485646"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1949942" Order="13" Bib="13">
+          <Description FamilyName="Boesl" GivenName="Enrique" Gender="M" Organisation="DOM" BirthDate="2004-02-07" IFId="464050"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1950058" Order="14" Bib="14">
+          <Description FamilyName="de la Cruz" GivenName="Omar" Gender="M" Organisation="DOM" BirthDate="2001-08-26" IFId="430012"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1949992" Order="15" Bib="15">
+          <Description FamilyName="Messina" GivenName="Fabian" Gender="M" Organisation="DOM" BirthDate="2002-09-16" IFId="430057"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950102" Order="16" Bib="16">
+          <Description FamilyName="Lemaire" GivenName="Nelson" Gender="M" Organisation="DOM" BirthDate="2001-10-19" IFId="485632"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1971723" Order="17" Bib="17">
+          <Description FamilyName="de Leon" GivenName="Jose" Gender="M" Organisation="DOM" BirthDate="2004-03-02" IFId="485624"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1950107" Order="18" Bib="18">
+          <Description FamilyName="Lorenzo" GivenName="Nowend" Gender="M" Organisation="DOM" BirthDate="2002-11-02" IFId="485641"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1950128" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Jungbauer" GivenName="Thomas" Gender="M" Organisation="DOM" BirthDate="2005-07-30" IFId="464098"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1971525" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Nunez" GivenName="Anthony" Gender="M" Organisation="DOM" BirthDate="2005-10-14" IFId="485629"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1981373" Order="21" Bib="21">
+          <Description FamilyName="Firpo" GivenName="Junior" Gender="M" Organisation="DOM" BirthDate="1996-08-22" IFId="482929"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--EGY01" Organisation="EGY" Type="T" SortOrder="3">
+      <Description TeamName="Egypt"/>
+      <Coaches>
+        <Coach Code="9170008" Order="1" Function="COACH">
+          <Description FamilyName="Micale" GivenName="Rogerio" Gender="M" Nationality="BRA"/>
+        </Coach>
+        <Coach Code="9170009" Order="2" Function="AST_COA">
+          <Description FamilyName="Adel Mostafa" GivenName="" Gender="M" Nationality="EGY"/>
+        </Coach>
+        <Coach Code="9170010" Order="3" Function="AST_COA">
+          <Description FamilyName="Cunha" GivenName="Thiago" Gender="M" Nationality="BRA"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="11"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="1937571" Order="1" Bib="1">
+          <Description FamilyName="Hamza Alaa" Gender="M" Organisation="EGY" BirthDate="2001-03-01" IFId="429102"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1943237" Order="2" Bib="2">
+          <Description FamilyName="Omar Fayed" Gender="M" Organisation="EGY" BirthDate="2003-07-04" IFId="483196"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1904700" Order="3" Bib="3">
+          <Description FamilyName="Ahmed Atef" Gender="M" Organisation="EGY" BirthDate="2002-12-19" IFId="483186"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1973345" Order="4" Bib="4">
+          <Description FamilyName="Ahmed Eid" Gender="M" Organisation="EGY" BirthDate="2001-01-02" IFId="483172"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1937515" Order="5" Bib="5">
+          <Description FamilyName="Hossam Abdelmaguid" Gender="M" Organisation="EGY" BirthDate="2001-04-30" IFId="483182"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1957067" Order="6" Bib="6">
+          <Description FamilyName="Mohamed Shehata" Gender="M" Organisation="EGY" BirthDate="2001-02-08" IFId="483169"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1957871" Order="7" Bib="7">
+          <Description FamilyName="Mahmoud Saber" Gender="M" Organisation="EGY" BirthDate="2001-07-30" IFId="483183"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1937698" Order="8" Bib="8">
+          <Description FamilyName="Ziad Kamal" Gender="M" Organisation="EGY" BirthDate="2001-07-05" IFId="483164"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1910470" Order="9" Bib="9">
+          <Description FamilyName="Osama Faisal" Gender="M" Organisation="EGY" BirthDate="2001-01-01" IFId="436853"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1897384" Order="10" Bib="10">
+          <Description FamilyName="Ibrahim Adel" Gender="M" Organisation="EGY" BirthDate="2001-04-23" IFId="430465"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1958053" Order="11" Bib="11">
+          <Description FamilyName="Mostafa Saad" Gender="M" Organisation="EGY" BirthDate="2001-08-22" IFId="461035"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1910360" Order="12" Bib="12">
+          <Description FamilyName="Ahmed Koka" Gender="M" Organisation="EGY" BirthDate="2001-07-04" IFId="429105"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1943263" Order="13" Bib="13">
+          <Description FamilyName="Karim El Debes" Gender="M" Organisation="EGY" BirthDate="2003-06-03" IFId="461034"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953552" Order="14" Bib="14">
+          <Description FamilyName="Zizo" Gender="M" Organisation="EGY" BirthDate="1996-01-10" IFId="433461"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1957087" Order="15" Bib="15">
+          <Description FamilyName="Mohamed Tarek" Gender="M" Organisation="EGY" BirthDate="2002-04-20" IFId="483184"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942880" Order="16" Bib="16">
+          <Description FamilyName="Ali El Gabry" Gender="M" Organisation="EGY" BirthDate="2001-02-14" IFId="483158"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1953308" Order="17" Bib="17">
+          <Description FamilyName="Mohamed Elneny" Gender="M" Organisation="EGY" BirthDate="1992-07-11" IFId="332777"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1937362" Order="18" Bib="18">
+          <Description FamilyName="Bilal Mazhar" Gender="M" Organisation="EGY" BirthDate="2003-11-21" IFId="483165"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1957028" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Mohamed Hamdy" Gender="M" Organisation="EGY" BirthDate="2003-02-26" IFId="483173"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1904037" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Ahmed Sayed" Gender="M" Organisation="EGY" BirthDate="2002-04-20" IFId="483192"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1957167" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Mohamed Elmaghrabi" Gender="M" Organisation="EGY" BirthDate="2001-04-28" IFId="440108"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956909" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Mohamed Seha" Gender="M" Organisation="EGY" BirthDate="2001-05-01" IFId="483180"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--ESP01" Organisation="ESP" Type="T" SortOrder="4">
+      <Description TeamName="Spain"/>
+      <Coaches>
+        <Coach Code="9170011" Order="1" Function="COACH">
+          <Description FamilyName="Denia" GivenName="Santi" Gender="M" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170012" Order="2" Function="AST_COA">
+          <Description FamilyName="Gordo" GivenName="David" Gender="M" Nationality="ESP"/>
+        </Coach>
+        <Coach Code="9170013" Order="3" Function="GK_COA">
+          <Description FamilyName="Martinez" GivenName="Ruben" Gender="M" Nationality="ESP"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="2"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1942296" Order="1" Bib="1">
+          <Description FamilyName="Tenas" GivenName="Arnau" Gender="M" Organisation="ESP" BirthDate="2001-05-30" IFId="484719"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1942269" Order="2" Bib="2">
+          <Description FamilyName="Pubill" GivenName="Marc" Gender="M" Organisation="ESP" BirthDate="2003-06-20" IFId="484728"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942241" Order="3" Bib="3">
+          <Description FamilyName="Miranda" GivenName="Juan" Gender="M" Organisation="ESP" BirthDate="2000-01-19" IFId="405561"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942076" Order="4" Bib="4">
+          <Description FamilyName="Garcia" GivenName="Eric" Gender="M" Organisation="ESP" BirthDate="2001-01-09" IFId="405562"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942056" Order="5" Bib="5">
+          <Description FamilyName="Cubarsi" GivenName="Pau" Gender="M" Organisation="ESP" BirthDate="2007-01-22" IFId="474973"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942037" Order="6" Bib="6">
+          <Description FamilyName="Barrios" GivenName="Pablo" Gender="M" Organisation="ESP" BirthDate="2003-06-15" IFId="484646"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942222" Order="7" Bib="7">
+          <Description FamilyName="Lopez" GivenName="Diego" Gender="M" Organisation="ESP" BirthDate="2002-05-13" IFId="484692"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1942301" Order="8" Bib="8">
+          <Description FamilyName="Turrientes" GivenName="Benat" Gender="M" Organisation="ESP" BirthDate="2002-01-31" IFId="423663"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942280" Order="9" Bib="9">
+          <Description FamilyName="Ruiz" GivenName="Abel" Gender="M" Organisation="ESP" BirthDate="2000-01-28" IFId="405569"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1942033" Order="10" Bib="10">
+          <Description FamilyName="Baena" GivenName="Alex" Gender="M" Organisation="ESP" BirthDate="2001-07-20" IFId="447860"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942221" Order="11" Bib="11">
+          <Description FamilyName="Lopez" GivenName="Fermin" Gender="M" Organisation="ESP" BirthDate="2003-05-11" IFId="484637"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942259" Order="12" Bib="12">
+          <Description FamilyName="Pacheco" GivenName="Jon" Gender="M" Organisation="ESP" BirthDate="2001-01-08" IFId="484746"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942077" Order="13" Bib="13">
+          <Description FamilyName="Garcia" GivenName="Joan" Gender="M" Organisation="ESP" BirthDate="2001-05-04" IFId="484691"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1942257" Order="14" Bib="14">
+          <Description FamilyName="Oroz" GivenName="Aimar" Gender="M" Organisation="ESP" BirthDate="2001-11-27" IFId="484745"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942099" Order="15" Bib="15">
+          <Description FamilyName="Gutierrez" GivenName="Miguel" Gender="M" Organisation="ESP" BirthDate="2001-07-27" IFId="484643"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942039" Order="16" Bib="16">
+          <Description FamilyName="Bernabe" GivenName="Adrian" Gender="M" Organisation="ESP" BirthDate="2001-05-26" IFId="484705"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1942089" Order="17" Bib="17">
+          <Description FamilyName="Gomez" GivenName="Sergio" Gender="M" Organisation="ESP" BirthDate="2000-09-04" IFId="405559"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942256" Order="18" Bib="18">
+          <Description FamilyName="Omorodion" GivenName="Samu" Gender="M" Organisation="ESP" BirthDate="2004-05-05" IFId="484744"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1942248" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Mosquera" GivenName="Cristhian" Gender="M" Organisation="ESP" BirthDate="2004-06-27" IFId="484743"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942289" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Sanchez" GivenName="Juanlu" Gender="M" Organisation="ESP" BirthDate="2003-08-15" IFId="484704"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1942046" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Camello" GivenName="Sergio" Gender="M" Organisation="ESP" BirthDate="2001-02-10" IFId="484680"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1942104" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Iturbe" GivenName="Alejandro" Gender="M" Organisation="ESP" BirthDate="2003-09-02" IFId="484658"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--FRA01" Organisation="FRA" Type="T" SortOrder="5">
+      <Description TeamName="France"/>
+      <Coaches>
+        <Coach Code="9170014" Order="1" Function="COACH">
+          <Description FamilyName="Henry" GivenName="Thierry" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170015" Order="2" Function="AST_COA">
+          <Description FamilyName="Baticle" GivenName="Gerald" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170016" Order="3" Function="AST_COA">
+          <Description FamilyName="Clichy" GivenName="Gael" Gender="M" Nationality="FRA"/>
+        </Coach>
+        <Coach Code="9170017" Order="4" Function="GK_COA">
+          <Description FamilyName="Janot" GivenName="Jeremie" Gender="M" Nationality="FRA"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="3"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1900695" Order="1" Bib="1">
+          <Description FamilyName="Nkambadio" GivenName="Obed" Gender="M" Organisation="FRA" BirthDate="2003-02-07" IFId="464124"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1900683" Order="2" Bib="2">
+          <Description FamilyName="Lukeba" GivenName="Castello" Gender="M" Organisation="FRA" BirthDate="2002-12-17" IFId="424116"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900718" Order="3" Bib="3">
+          <Description FamilyName="Truffert" GivenName="Adrien" Gender="M" Organisation="FRA" BirthDate="2001-11-20" IFId="430709"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="4669223" Order="4" Bib="4">
+          <Description FamilyName="Bade" GivenName="Loic" Gender="M" Organisation="FRA" BirthDate="2000-04-11" IFId="487006"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900709" Order="5" Bib="5">
+          <Description FamilyName="Sildillia" GivenName="Kiliann" Gender="M" Organisation="FRA" BirthDate="2002-05-16" IFId="424133"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900672" Order="6" Bib="6">
+          <Description FamilyName="Kone" GivenName="Manu" Gender="M" Organisation="FRA" BirthDate="2001-05-17" IFId="485677"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900699" Order="7" Bib="7">
+          <Description FamilyName="Olise" GivenName="Michael" Gender="M" Organisation="FRA" BirthDate="2001-12-12" IFId="485655"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1900626" Order="8" Bib="8">
+          <Description FamilyName="Akliouche" GivenName="Maghnes" Gender="M" Organisation="FRA" BirthDate="2002-02-25" IFId="485666"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900668" Order="9" Bib="9">
+          <Description FamilyName="Kalimuendo" GivenName="Arnaud" Gender="M" Organisation="FRA" BirthDate="2002-01-20" IFId="424108"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1900674" Order="10" Bib="10">
+          <Description FamilyName="Lacazette" GivenName="Alexandre" Gender="M" Organisation="FRA" BirthDate="1991-05-28" IFId="336447"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1900653" Order="11" Bib="11">
+          <Description FamilyName="Doue" GivenName="Desire" Gender="M" Organisation="FRA" BirthDate="2005-06-03" IFId="464114"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900694" Order="12" Bib="12">
+          <Description FamilyName="Millot" GivenName="Enzo" Gender="M" Organisation="FRA" BirthDate="2002-07-17" IFId="424122"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900644" Order="13" Bib="13">
+          <Description FamilyName="Chotard" GivenName="Joris" Gender="M" Organisation="FRA" BirthDate="2001-09-24" IFId="485669"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="3549727" Order="14" Bib="14">
+          <Description FamilyName="Mateta" GivenName="Jean-Philippe" Gender="M" Organisation="FRA" BirthDate="1997-06-28" IFId="403094"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1900682" Order="15" Bib="15">
+          <Description FamilyName="Locko" GivenName="Bradley" Gender="M" Organisation="FRA" BirthDate="2002-05-06" IFId="485678"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900702" Order="16" Bib="16">
+          <Description FamilyName="Restes" GivenName="Guillaume" Gender="M" Organisation="FRA" BirthDate="2005-03-11" IFId="485653"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1900684" Order="17" Bib="17">
+          <Description FamilyName="Magassa" GivenName="Soungoutou" Gender="M" Organisation="FRA" BirthDate="2003-10-08" IFId="464122"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900641" Order="18" Bib="18">
+          <Description FamilyName="Cherki" GivenName="Rayan" Gender="M" Organisation="FRA" BirthDate="2003-08-17" IFId="431861"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900690" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Matsima" GivenName="Chrislain" Gender="M" Organisation="FRA" BirthDate="2002-05-15" IFId="424118"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1900651" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Diouf" GivenName="Andy" Gender="M" Organisation="FRA" BirthDate="2003-05-17" IFId="464110"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1900680" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Lepenant" GivenName="Johann" Gender="M" Organisation="FRA" BirthDate="2002-10-22" IFId="424113"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="4679467" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="de Percin" GivenName="Theo" Gender="M" Organisation="FRA" BirthDate="2001-02-02" IFId="466053"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--GUI01" Organisation="GUI" Type="T" SortOrder="6">
+      <Description TeamName="Guinea"/>
+      <Coaches>
+        <Coach Code="9170018" Order="1" Function="COACH">
+          <Description FamilyName="Diawara" GivenName="Kaba" Gender="M" Nationality="GUI"/>
+        </Coach>
+        <Coach Code="9170019" Order="2" Function="AST_COA">
+          <Description FamilyName="Diawara" GivenName="Fousseni" Gender="M" Nationality="MLI"/>
+        </Coach>
+        <Coach Code="9170020" Order="3" Function="GK_COA">
+          <Description FamilyName="Quesnel" GivenName="Yannick" Gender="M" Nationality="FRA"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="10"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="4968898" Order="1" Bib="1">
+          <Description FamilyName="Sylla" GivenName="Soumaila" Gender="M" Organisation="GUI" BirthDate="2004-03-15" IFId="484555"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1961541" Order="2" Bib="2">
+          <Description FamilyName="Oulare" GivenName="Naby" Gender="M" Organisation="GUI" BirthDate="2002-08-06" IFId="479641"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="4968901" Order="3" Bib="3">
+          <Description FamilyName="Cisse" GivenName="Bangaly" Gender="M" Organisation="GUI" BirthDate="2002-12-28" IFId="483387"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1961528" Order="4" Bib="4">
+          <Description FamilyName="Soumah" GivenName="Mohamed" Gender="M" Organisation="GUI" BirthDate="2003-03-15" IFId="483382"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="4968900" Order="5" Bib="5">
+          <Description FamilyName="Doucoure" GivenName="Rayane" Gender="M" Organisation="GUI" BirthDate="2001-03-30" IFId="485594"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975465" Order="6" Bib="6">
+          <Description FamilyName="Diawara" GivenName="Amadou" Gender="M" Organisation="GUI" BirthDate="1997-07-17" IFId="436763"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="4968911" Order="7" Bib="7">
+          <Description FamilyName="Balde" GivenName="Aliou" Gender="M" Organisation="GUI" BirthDate="2002-12-12" IFId="424467"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1961555" Order="8" Bib="8">
+          <Description FamilyName="Keita" GivenName="Naby" Gender="M" Organisation="GUI" BirthDate="1995-02-10" IFId="395762"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="4968909" Order="9" Bib="9">
+          <Description FamilyName="Camara" GivenName="Henry" Gender="M" Organisation="GUI" BirthDate="2006-05-06" IFId="484556"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1961561" Order="10" Bib="10">
+          <Description FamilyName="Ilaix" GivenName="Moriba" Gender="M" Organisation="GUI" BirthDate="2003-01-19" IFId="423628"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1975420" Order="11" Bib="11">
+          <Description FamilyName="Camara" GivenName="Ousmane" Gender="M" Organisation="GUI" BirthDate="2001-11-03" IFId="483379"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1961564" Order="12" Bib="12">
+          <Description FamilyName="Bah" GivenName="Algassime" Gender="M" Organisation="GUI" BirthDate="2002-11-12" IFId="483400"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1961530" Order="13" Bib="13">
+          <Description FamilyName="Keita" GivenName="Madiou" Gender="M" Organisation="GUI" BirthDate="2004-08-29" IFId="483395"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1975454" Order="14" Bib="14">
+          <Description FamilyName="Diallo" GivenName="Amadou" Gender="M" Organisation="GUI" BirthDate="2006-07-13" IFId="484559"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1975455" Order="15" Bib="15">
+          <Description FamilyName="Camara" GivenName="Issiaga" Gender="M" Organisation="GUI" BirthDate="2005-02-02" IFId="483388"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1961525" Order="16" Bib="16">
+          <Description FamilyName="Keita" GivenName="Mory" Gender="M" Organisation="GUI" BirthDate="2005-07-13" IFId="479637"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1961556" Order="17" Bib="17">
+          <Description FamilyName="Toure" GivenName="Abdoulaye" Gender="M" Organisation="GUI" BirthDate="1994-03-03" IFId="336007"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1961554" Order="18" Bib="18">
+          <Description FamilyName="Bangoura" GivenName="Sekou Tidiany" Gender="M" Organisation="GUI" BirthDate="2002-04-05" IFId="483398"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="4968912" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Fofana" GivenName="Ibrahima" Gender="M" Organisation="GUI" BirthDate="2006-10-27" IFId="486999"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1961543" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Camara" GivenName="Cherif" Gender="M" Organisation="GUI" BirthDate="2002-10-21" IFId="405982"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="4968903" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Kourouma" GivenName="Lancinet" Gender="M" Organisation="GUI" BirthDate="2004-03-30" IFId="485593"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="4968897" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Diakhaby" GivenName="Lassana" Gender="M" Organisation="GUI" BirthDate="2004-01-05" IFId="477971"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--IRQ01" Organisation="IRQ" Type="T" SortOrder="7">
+      <Description TeamName="Iraq"/>
+      <Coaches>
+        <Coach Code="9170021" Order="1" Function="COACH">
+          <Description FamilyName="Radhi Shenaishil" GivenName="" Gender="M" Nationality="IRQ"/>
+        </Coach>
+        <Coach Code="9170022" Order="2" Function="AST_COA">
+          <Description FamilyName="Qusai Munir" GivenName="" Gender="M" Nationality="IRQ"/>
+        </Coach>
+        <Coach Code="9170023" Order="3" Function="AST_COA">
+          <Description FamilyName="Grandes" GivenName="Pablo" Gender="M" Nationality="ESP"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="9"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="3"/>
+      <Composition>
+        <Athlete Code="1560376" Order="1" Bib="1">
+          <Description FamilyName="Hussein Hasan" Gender="M" Organisation="IRQ" BirthDate="2003-10-05" IFId="464466"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1535776" Order="2" Bib="2">
+          <Description FamilyName="Josef Al Imam" Gender="M" Organisation="IRQ" BirthDate="2004-07-27" IFId="484255"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1558281" Order="3" Bib="3">
+          <Description FamilyName="Hussein Ali" Gender="M" Organisation="IRQ" BirthDate="2002-03-01" IFId="479553"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1564282" Order="4" Bib="4">
+          <Description FamilyName="Suad Natiq" Gender="M" Organisation="IRQ" BirthDate="1994-03-19" IFId="368713"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1560451" Order="5" Bib="5">
+          <Description FamilyName="Ahmed Hasan" Gender="M" Organisation="IRQ" BirthDate="2001-09-24" IFId="484276"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1535910" Order="6" Bib="6">
+          <Description FamilyName="Zaid Tahseen" Gender="M" Organisation="IRQ" BirthDate="2001-01-29" IFId="434025"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1535927" Order="7" Bib="7">
+          <Description FamilyName="Ali Jasim" Gender="M" Organisation="IRQ" BirthDate="2004-01-20" IFId="464457"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1564285" Order="8" Bib="8">
+          <Description FamilyName="Ibrahim Bayesh" Gender="M" Organisation="IRQ" BirthDate="2000-05-01" IFId="433585"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1535916" Order="9" Bib="9">
+          <Description FamilyName="Hussein Lawend" Gender="M" Organisation="IRQ" BirthDate="2001-01-20" IFId="484258"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1537336" Order="10" Bib="10">
+          <Description FamilyName="Youssef Amyn" Gender="M" Organisation="IRQ" BirthDate="2003-08-21" IFId="464458"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1535805" Order="11" Bib="11">
+          <Description FamilyName="Muntadher Mohammed" Gender="M" Organisation="IRQ" BirthDate="2001-06-05" IFId="405691"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1535766" Order="12" Bib="12">
+          <Description FamilyName="Kumel Saadi" Gender="M" Organisation="IRQ" BirthDate="2004-08-19" IFId="484268"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1535928" Order="13" Bib="13">
+          <Description FamilyName="Karrar Saad" Gender="M" Organisation="IRQ" BirthDate="2001-03-22" IFId="484271"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1535929" Order="14" Bib="14">
+          <Description FamilyName="Karrar Mohammed" Gender="M" Organisation="IRQ" BirthDate="2001-01-06" IFId="484252"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1535930" Order="15" Bib="15">
+          <Description FamilyName="Nihad Mohammed" Gender="M" Organisation="IRQ" BirthDate="2001-01-14" IFId="484254"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1535804" Order="16" Bib="16">
+          <Description FamilyName="Muntadher Abdulameer" Gender="M" Organisation="IRQ" BirthDate="2001-10-06" IFId="484263"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1537323" Order="17" Bib="17">
+          <Description FamilyName="Mustafa Saadoon" Gender="M" Organisation="IRQ" BirthDate="2001-05-25" IFId="479056"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1564284" Order="18" Bib="18">
+          <Description FamilyName="Aymen Hussein" Gender="M" Organisation="IRQ" BirthDate="1996-03-22" IFId="395186"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1535772" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Blnd Hassan" Gender="M" Organisation="IRQ" BirthDate="2003-08-12" IFId="464463"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1535913" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Hussein Amer" Gender="M" Organisation="IRQ" BirthDate="2002-04-28" IFId="484251"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1535769" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Ridha Fadhil" Gender="M" Organisation="IRQ" BirthDate="2001-04-01" IFId="434027"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1535808" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Hasan Abbas" Gender="M" Organisation="IRQ" BirthDate="2001-01-06" IFId="484260"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--JAM01" Organisation="JAM" Type="T" SortOrder="8">
+      <Description TeamName="Jamaica"/>
+      <Coaches>
+        <Coach Code="9170024" Order="1" Function="COACH">
+          <Description FamilyName="Luzon" GivenName="Guy" Gender="M" Nationality="JAM"/>
+        </Coach>
+        <Coach Code="9170025" Order="2" Function="AST_COA">
+          <Description FamilyName="Choen" GivenName="Haim" Gender="M" Nationality="JAM"/>
+        </Coach>
+        <Coach Code="9170026" Order="3" Function="GK_COA">
+          <Description FamilyName="Buchnik" GivenName="Victor" Gender="M" Nationality="JAM"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="8"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1956081" Order="1" Bib="1">
+          <Description FamilyName="Nir On" GivenName="Omer" Gender="M" Organisation="JAM" BirthDate="2001-04-17" IFId="485720"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1956071" Order="2" Bib="2">
+          <Description FamilyName="Feingold" GivenName="Ilay" Gender="M" Organisation="JAM" BirthDate="2004-08-23" IFId="463556"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956065" Order="3" Bib="3">
+          <Description FamilyName="Goldberg" GivenName="Sean" Gender="M" Organisation="JAM" BirthDate="1995-06-13" IFId="463345"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956147" Order="4" Bib="4">
+          <Description FamilyName="Lemkin" GivenName="Stav" Gender="M" Organisation="JAM" BirthDate="2003-04-02" IFId="463543"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956098" Order="5" Bib="5">
+          <Description FamilyName="Revivo" GivenName="Roy" Gender="M" Organisation="JAM" BirthDate="2003-05-22" IFId="463564"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956043" Order="6" Bib="6">
+          <Description FamilyName="Gandelman" GivenName="Omri" Gender="M" Organisation="JAM" BirthDate="2000-05-16" IFId="484356"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1962216" Order="7" Bib="7">
+          <Description FamilyName="Davida" GivenName="Osher" Gender="M" Organisation="JAM" BirthDate="2001-02-18" IFId="485688"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956075" Order="8" Bib="8">
+          <Description FamilyName="Azoulay" GivenName="Ethane" Gender="M" Organisation="JAM" BirthDate="2002-05-26" IFId="485683"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1956137" Order="9" Bib="9">
+          <Description FamilyName="Turgeman" GivenName="Dor" Gender="M" Organisation="JAM" BirthDate="2003-10-24" IFId="463548"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1956145" Order="10" Bib="10">
+          <Description FamilyName="Gloukh" GivenName="Oscar" Gender="M" Organisation="JAM" BirthDate="2004-04-01" IFId="463529"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1956102" Order="11" Bib="11">
+          <Description FamilyName="Abada" GivenName="Liel" Gender="M" Organisation="JAM" BirthDate="2001-10-03" IFId="482966"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1956045" Order="12" Bib="12">
+          <Description FamilyName="Ben Harosh" GivenName="Noam" Gender="M" Organisation="JAM" BirthDate="2005-05-13" IFId="463552"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1950873" Order="13" Bib="13">
+          <Description FamilyName="Madmon" GivenName="Elad" Gender="M" Organisation="JAM" BirthDate="2004-02-10" IFId="463538"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1950883" Order="14" Bib="14">
+          <Description FamilyName="Ferede" GivenName="Ayanaw" Gender="M" Organisation="JAM" BirthDate="2002-04-29" IFId="485718"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950857" Order="15" Bib="15">
+          <Description FamilyName="Yona" GivenName="Adi" Gender="M" Organisation="JAM" BirthDate="2004-04-17" IFId="463565"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1956058" Order="16" Bib="16">
+          <Description FamilyName="Owens" GivenName="Or" Gender="M" Organisation="JAM" BirthDate="2004-09-02" IFId="463546"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1956100" Order="17" Bib="17">
+          <Description FamilyName="Shahar" GivenName="Ido" Gender="M" Organisation="JAM" BirthDate="2001-08-20" IFId="483016"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950869" Order="18" Bib="18">
+          <Description FamilyName="Eliasi" GivenName="Niv" Gender="M" Organisation="JAM" BirthDate="2002-02-21" IFId="485705"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1956084" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Toklomati" GivenName="Idan" Gender="M" Organisation="JAM" BirthDate="2004-08-09" IFId="463549"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1956085" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Yehoshua" GivenName="Niv" Gender="M" Organisation="JAM" BirthDate="2005-01-28" IFId="485716"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950876" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Melamud" GivenName="Noam" Gender="M" Organisation="JAM" BirthDate="2002-08-02" IFId="485712"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1950864" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Sasoon" GivenName="Roy" Gender="M" Organisation="JAM" BirthDate="2001-12-13" IFId="485697"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1950859" Order="23" Bib="23" Substitute="Y">
+          <Description FamilyName="Peretz" GivenName="Daniel" Gender="M" Organisation="JAM" BirthDate="2000-07-10"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--JPN01" Organisation="JPN" Type="T" SortOrder="9">
+      <Description TeamName="Japan"/>
+      <Coaches>
+        <Coach Code="9170027" Order="1" Function="COACH">
+          <Description FamilyName="Oiwa" GivenName="Go" Gender="M" Nationality="JPN"/>
+        </Coach>
+        <Coach Code="9170028" Order="2" Function="AST_COA">
+          <Description FamilyName="Haneda" GivenName="Kenji" Gender="M" Nationality="JPN"/>
+        </Coach>
+        <Coach Code="9170029" Order="3" Function="GK_COA">
+          <Description FamilyName="Hamano" GivenName="Yukiya" Gender="M" Nationality="JPN"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="4"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1953233" Order="1" Bib="1">
+          <Description FamilyName="Kokubo" GivenName="Leobrian" Gender="M" Organisation="JPN" BirthDate="2001-01-23" IFId="418624"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1953271" Order="2" Bib="2">
+          <Description FamilyName="Handa" GivenName="Riku" Gender="M" Organisation="JPN" BirthDate="2002-01-01" IFId="405506"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953255" Order="3" Bib="2">
+          <Description FamilyName="Suzuki" GivenName="Kaito" Gender="M" Organisation="JPN" BirthDate="2002-08-25" IFId="307723"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953275" Order="4" Bib="3">
+          <Description FamilyName="Nishio" GivenName="Ryuya" Gender="M" Organisation="JPN" BirthDate="2001-05-16" IFId="485515"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953227" Order="5" Bib="4">
+          <Description FamilyName="Sekine" GivenName="Hiroki" Gender="M" Organisation="JPN" BirthDate="2002-08-11" IFId="485495"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953274" Order="6" Bib="5">
+          <Description FamilyName="Kimura" GivenName="Seiji" Gender="M" Organisation="JPN" BirthDate="2001-08-24" IFId="485507"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953248" Order="7" Bib="6">
+          <Description FamilyName="Kawasaki" GivenName="Sota" Gender="M" Organisation="JPN" BirthDate="2001-07-30" IFId="485510"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953268" Order="8" Bib="7">
+          <Description FamilyName="Yamamoto" GivenName="Rihito" Gender="M" Organisation="JPN" BirthDate="2001-12-12" IFId="418642"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953267" Order="9" Bib="8">
+          <Description FamilyName="Fujita" GivenName="Joel Chima" Gender="M" Organisation="JPN" BirthDate="2002-02-16" IFId="423789"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953265" Order="10" Bib="9">
+          <Description FamilyName="Fujio" GivenName="Shota" Gender="M" Organisation="JPN" BirthDate="2001-05-02" IFId="485517"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953232" Order="11" Bib="10">
+          <Description FamilyName="Saito" GivenName="Koki" Gender="M" Organisation="JPN" BirthDate="2001-08-10" IFId="405525"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953244" Order="12" Bib="11">
+          <Description FamilyName="Hosoya" GivenName="Mao" Gender="M" Organisation="JPN" BirthDate="2001-09-07" IFId="448563"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953256" Order="13" Bib="12">
+          <Description FamilyName="Nozawa" GivenName="Taishi" Gender="M" Organisation="JPN" BirthDate="2002-12-25" IFId="418633"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1953246" Order="14" Bib="13">
+          <Description FamilyName="Araki" GivenName="Ryotaro" Gender="M" Organisation="JPN" BirthDate="2002-01-29" IFId="423787"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953253" Order="15" Bib="14">
+          <Description FamilyName="Mito" GivenName="Shunsuke" Gender="M" Organisation="JPN" BirthDate="2002-09-28" IFId="423799"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953223" Order="16" Bib="15">
+          <Description FamilyName="Takai" GivenName="Kota" Gender="M" Organisation="JPN" BirthDate="2004-09-04" IFId="448562"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953241" Order="17" Bib="16">
+          <Description FamilyName="Ohata" GivenName="Ayumu" Gender="M" Organisation="JPN" BirthDate="2001-04-27" IFId="477440"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953201" Order="18" Bib="17">
+          <Description FamilyName="Hirakawa" GivenName="Yu" Gender="M" Organisation="JPN" BirthDate="2001-01-03" IFId="485492"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953261" Order="19" Bib="18">
+          <Description FamilyName="Sato" GivenName="Kein" Gender="M" Organisation="JPN" BirthDate="2001-07-11" IFId="485476"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953195" Order="20" Bib="19" Substitute="Y">
+          <Description FamilyName="Uenaka" GivenName="Asahi" Gender="M" Organisation="JPN" BirthDate="2001-11-01" IFId="485481"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1953231" Order="21" Bib="20" Substitute="Y">
+          <Description FamilyName="Yamada" GivenName="Fuki" Gender="M" Organisation="JPN" BirthDate="2001-07-10" IFId="485475"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1953230" Order="22" Bib="21" Substitute="Y">
+          <Description FamilyName="Uchino" GivenName="Takashi" Gender="M" Organisation="JPN" BirthDate="2001-03-07" IFId="485485"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1953278" Order="23" Bib="22" Substitute="Y">
+          <Description FamilyName="Sasaki" GivenName="Masato" Gender="M" Organisation="JPN" BirthDate="2002-05-01" IFId="423814"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--MAR01" Organisation="MAR" Type="T" SortOrder="10">
+      <Description TeamName="Morocco"/>
+      <Coaches>
+        <Coach Code="9170030" Order="1" Function="COACH">
+          <Description FamilyName="Sektioui" GivenName="Tarik" Gender="M" Nationality="MAR"/>
+        </Coach>
+        <Coach Code="9170031" Order="2" Function="AST_COA">
+          <Description FamilyName="Hadji" GivenName="Youssouf" Gender="M" Nationality="MAR"/>
+        </Coach>
+        <Coach Code="9170032" Order="3" Function="GK_COA">
+          <Description FamilyName="Deraedt" GivenName="Laurent" Gender="M" Nationality="BEL"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="5"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="B"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="2"/>
+      <Composition>
+        <Athlete Code="1974002" Order="1" Bib="1">
+          <Description FamilyName="El Kajoui" GivenName="Munir" Gender="M" Organisation="MAR" BirthDate="1989-05-10" IFId="395755"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1970338" Order="2" Bib="2">
+          <Description FamilyName="Hakimi" GivenName="Achraf" Gender="M" Organisation="MAR" BirthDate="1998-11-04" IFId="400721"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1966721" Order="3" Bib="3">
+          <Description FamilyName="Nakach" GivenName="Akram" Gender="M" Organisation="MAR" BirthDate="2002-04-07" IFId="485765"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1965671" Order="4" Bib="4">
+          <Description FamilyName="Boukamir" GivenName="Mehdi" Gender="M" Organisation="MAR" BirthDate="2004-01-26" IFId="485727"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1974721" Order="5" Bib="5">
+          <Description FamilyName="Tahif" GivenName="Adil" Gender="M" Organisation="MAR" BirthDate="2001-02-24" IFId="485755"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1965956" Order="6" Bib="6">
+          <Description FamilyName="Bouchouari" GivenName="Benjamin" Gender="M" Organisation="MAR" BirthDate="2001-11-13" IFId="448601"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1967241" Order="7" Bib="7">
+          <Description FamilyName="Ben Seghir" GivenName="Eliesse" Gender="M" Organisation="MAR" BirthDate="2005-02-16" IFId="464100"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1966630" Order="8" Bib="8">
+          <Description FamilyName="El Khannouss" GivenName="Bilal" Gender="M" Organisation="MAR" BirthDate="2004-05-10" IFId="448612"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1970731" Order="9" Bib="9">
+          <Description FamilyName="Rahimi" GivenName="Soufiane" Gender="M" Organisation="MAR" BirthDate="1996-06-02" IFId="433426"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1965995" Order="10" Bib="10">
+          <Description FamilyName="Akhomach" GivenName="Ilias" Gender="M" Organisation="MAR" BirthDate="2004-04-16" IFId="485776"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1965809" Order="11" Bib="11">
+          <Description FamilyName="El Ouahdi" GivenName="Zakaria" Gender="M" Organisation="MAR" BirthDate="2001-12-31" IFId="485756"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1965515" Order="12" Bib="12">
+          <Description FamilyName="Ghanimi" GivenName="Rachid" Gender="M" Organisation="MAR" BirthDate="2001-04-25" IFId="485729"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1966539" Order="13" Bib="13">
+          <Description FamilyName="Kechta" GivenName="Yassine" Gender="M" Organisation="MAR" BirthDate="2002-02-25" IFId="485737"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1966919" Order="14" Bib="14">
+          <Description FamilyName="Targhalline" GivenName="Oussama" Gender="M" Organisation="MAR" BirthDate="2002-05-20" IFId="485750"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1967172" Order="15" Bib="15">
+          <Description FamilyName="Maouhoub" GivenName="Mehdi" Gender="M" Organisation="MAR" BirthDate="2003-06-05" IFId="485769"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1966639" Order="16" Bib="16">
+          <Description FamilyName="Ezzalzouli" GivenName="Abde" Gender="M" Organisation="MAR" BirthDate="2001-12-17" IFId="441310"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1966642" Order="17" Bib="17">
+          <Description FamilyName="El Azzouzi" GivenName="Oussama" Gender="M" Organisation="MAR" BirthDate="2001-05-29" IFId="477823"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1966624" Order="18" Bib="18">
+          <Description FamilyName="Richardson" GivenName="Amir" Gender="M" Organisation="MAR" BirthDate="2002-01-24" IFId="477820"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1967053" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Manaout" GivenName="Haytam" Gender="M" Organisation="MAR" BirthDate="2001-04-18" IFId="485783"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1966943" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Moubarik" GivenName="Mehdi" Gender="M" Organisation="MAR" BirthDate="2001-01-22" IFId="485772"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1969539" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="El Ouadghiri" GivenName="Bilal" Gender="M" Organisation="MAR" BirthDate="2001-08-03" IFId="485768"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1965603" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Asmama" GivenName="Mohamed" Gender="M" Organisation="MAR" BirthDate="2002-02-08" IFId="485745"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--MLI01" Organisation="MLI" Type="T" SortOrder="11">
+      <Description TeamName="Mali"/>
+      <Coaches>
+        <Coach Code="9170033" Order="1" Function="COACH">
+          <Description FamilyName="Diallo" GivenName="Badara Alou" Gender="M" Nationality="MLI"/>
+        </Coach>
+        <Coach Code="9170034" Order="2" Function="AST_COA">
+          <Description FamilyName="Coulibaly" GivenName="Abdoulaye" Gender="M" Nationality="MLI"/>
+        </Coach>
+        <Coach Code="9170035" Order="3" Function="GK_COA">
+          <Description FamilyName="Doumbia" GivenName="Bounafou" Gender="M" Nationality="MLI"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="7"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="C"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="1"/>
+      <Composition>
+        <Athlete Code="1573481" Order="1" Bib="1">
+          <Description FamilyName="Diarra" GivenName="Lassine" Gender="M" Organisation="MLI" BirthDate="2002-11-11" IFId="485874"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1569315" Order="2" Bib="2">
+          <Description FamilyName="Doucoure" GivenName="Fode" Gender="M" Organisation="MLI" BirthDate="2001-02-03" IFId="485892"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1570550" Order="3" Bib="3">
+          <Description FamilyName="Diallo" GivenName="Hamidou" Gender="M" Organisation="MLI" BirthDate="2002-01-26" IFId="485868"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1889116" Order="4" Bib="4">
+          <Description FamilyName="Tounkara" GivenName="Mamadou" Gender="M" Organisation="MLI" BirthDate="2001-12-14" IFId="485886"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1570581" Order="5" Bib="5">
+          <Description FamilyName="Cisse" GivenName="Ibrahima" Gender="M" Organisation="MLI" BirthDate="2001-02-15" IFId="485877"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1568689" Order="6" Bib="6">
+          <Description FamilyName="Saco" GivenName="Coli" Gender="M" Organisation="MLI" BirthDate="2002-05-15" IFId="485895"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1943371" Order="7" Bib="7">
+          <Description FamilyName="Samake" GivenName="Wilson" Gender="M" Organisation="MLI" BirthDate="2004-03-30" IFId="485896"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1567378" Order="8" Bib="8">
+          <Description FamilyName="Traore" GivenName="Boubacar" Gender="M" Organisation="MLI" BirthDate="2001-08-20" IFId="419414"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1568636" Order="9" Bib="9">
+          <Description FamilyName="Doumbia" GivenName="Cheickna" Gender="M" Organisation="MLI" BirthDate="2003-06-14" IFId="485881"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1566992" Order="10" Bib="10">
+          <Description FamilyName="Jiddou" GivenName="Salam" Gender="M" Organisation="MLI" BirthDate="2000-02-01" IFId="406098"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1890567" Order="11" Bib="11">
+          <Description FamilyName="Diarra" GivenName="Thiemoko" Gender="M" Organisation="MLI" BirthDate="2003-04-19" IFId="485882"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1570583" Order="12" Bib="12">
+          <Description FamilyName="Sissokho" GivenName="Issouf" Gender="M" Organisation="MLI" BirthDate="2002-01-30" IFId="485898"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1568525" Order="13" Bib="13">
+          <Description FamilyName="Diarra" GivenName="Brahima" Gender="M" Organisation="MLI" BirthDate="2003-07-05" IFId="485865"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1569182" Order="14" Bib="14">
+          <Description FamilyName="Diallo" GivenName="Demba" Gender="M" Organisation="MLI" BirthDate="2000-10-13" IFId="487008"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1980244" Order="15" Bib="15">
+          <Description FamilyName="Cisset" GivenName="Mohamed" Gender="M" Organisation="MLI" BirthDate="2004-08-25" IFId="485878"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1889613" Order="16" Bib="16">
+          <Description FamilyName="Coulibaly" GivenName="Oumar" Gender="M" Organisation="MLI" BirthDate="2002-12-19" IFId="485873"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1567073" Order="17" Bib="17">
+          <Description FamilyName="Diomande" GivenName="Ahmed" Gender="M" Organisation="MLI" BirthDate="2002-12-15" IFId="485871"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1889169" Order="18" Bib="18">
+          <Description FamilyName="Diakite" GivenName="Moussa" Gender="M" Organisation="MLI" BirthDate="2003-11-04" IFId="485869"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1888987" Order="19" Bib="19" Substitute="Y">
+          <Description FamilyName="Bah" GivenName="Mahamadou" Gender="M" Organisation="MLI" BirthDate="2001-10-23" IFId="485875"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1573374" Order="20" Bib="20" Substitute="Y">
+          <Description FamilyName="Maiga" GivenName="Issoufi" Gender="M" Organisation="MLI" BirthDate="2002-02-12" IFId="485887"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1889982" Order="21" Bib="21" Substitute="Y">
+          <Description FamilyName="Coulibaly" GivenName="Fady" Gender="M" Organisation="MLI" BirthDate="2002-01-27" IFId="485890"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1980074" Order="22" Bib="22" Substitute="Y">
+          <Description FamilyName="Diarra" GivenName="Hassane" Gender="M" Organisation="MLI" BirthDate="2004-11-30" IFId="485891"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+    <Entry Code="FBLMTEAM11--NZL01" Organisation="NZL" Type="T" SortOrder="12">
+      <Description TeamName="New Zealand"/>
+      <Coaches>
+        <Coach Code="9170036" Order="1" Function="COACH">
+          <Description FamilyName="Bazeley" GivenName="Darren" Gender="M" Nationality="NZL"/>
+        </Coach>
+        <Coach Code="9170037" Order="2" Function="AST_COA">
+          <Description FamilyName="Elliott" GivenName="Simon" Gender="M" Nationality="NZL"/>
+        </Coach>
+        <Coach Code="9170038" Order="3" Function="AST_COA">
+          <Description FamilyName="Readings" GivenName="Tony" Gender="M" Nationality="GBR"/>
+        </Coach>
+        <Coach Code="9170039" Order="4" Function="GK_COA">
+          <Description FamilyName="Gothard" GivenName="Paul" Gender="M" Nationality="GBR"/>
+        </Coach>
+      </Coaches>
+      <ExtendedEntry Type="ENTRY" Code="SEED" Value="6"/>
+      <ExtendedEntry Type="ENTRY" Code="GROUP" Value="A"/>
+      <ExtendedEntry Type="ENTRY" Code="DRAW" Value="4"/>
+      <Composition>
+        <Athlete Code="1944902" Order="1" Bib="1">
+          <Description FamilyName="Paulsen" GivenName="Alex" Gender="M" Organisation="NZL" BirthDate="2002-07-04" IFId="423574"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1944876" Order="2" Bib="2">
+          <Description FamilyName="Boxall" GivenName="Michael" Gender="M" Organisation="NZL" BirthDate="1988-08-18" IFId="261367"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944949" Order="3" Bib="3">
+          <Description FamilyName="Sutton" GivenName="Sam" Gender="M" Organisation="NZL" BirthDate="2001-12-10" IFId="405481"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944960" Order="4" Bib="4">
+          <Description FamilyName="Bindon" GivenName="Tyler" Gender="M" Organisation="NZL" BirthDate="2005-01-27" IFId="482775"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944910" Order="5" Bib="5">
+          <Description FamilyName="Surman" GivenName="Finn" Gender="M" Organisation="NZL" BirthDate="2003-09-23" IFId="463580"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944938" Order="6" Bib="6">
+          <Description FamilyName="Bell" GivenName="Joe" Gender="M" Organisation="NZL" BirthDate="1999-04-27" IFId="390181"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944864" Order="7" Bib="7">
+          <Description FamilyName="Garbett" GivenName="Matthew" Gender="M" Organisation="NZL" BirthDate="2002-04-13" IFId="423596"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944887" Order="8" Bib="8">
+          <Description FamilyName="Old" GivenName="Ben" Gender="M" Organisation="NZL" BirthDate="2002-08-13" IFId="423575"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944862" Order="9" Bib="9">
+          <Description FamilyName="Waine" GivenName="Ben" Gender="M" Organisation="NZL" BirthDate="2001-06-11" IFId="419577"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1944931" Order="10" Bib="10">
+          <Description FamilyName="Singh" GivenName="Sarpreet" Gender="M" Organisation="NZL" BirthDate="1999-02-20" IFId="390209"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944953" Order="11" Bib="11">
+          <Description FamilyName="Randall" GivenName="Jesse" Gender="M" Organisation="NZL" BirthDate="2002-08-19" IFId="416652"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1944921" Order="12" Bib="12">
+          <Description FamilyName="Sims" GivenName="Kees" Gender="M" Organisation="NZL" BirthDate="2003-03-27" IFId="423592"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+        <Athlete Code="1944886" Order="13" Bib="13">
+          <Description FamilyName="Kelly-Heald" GivenName="Lukas" Gender="M" Organisation="NZL" BirthDate="2005-03-18" IFId="463601"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944890" Order="14" Bib="14">
+          <Description FamilyName="Herdman" GivenName="Jay" Gender="M" Organisation="NZL" BirthDate="2004-08-14" IFId="463587"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1944889" Order="15" Bib="15">
+          <Description FamilyName="Sheridan" GivenName="Matthew" Gender="M" Organisation="NZL" BirthDate="2004-05-09" IFId="463609"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944923" Order="16" Bib="16">
+          <Description FamilyName="Conchie" GivenName="Fin" Gender="M" Organisation="NZL" BirthDate="2003-08-10" IFId="463593"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944945" Order="17" Bib="17">
+          <Description FamilyName="Bidois" GivenName="Riley" Gender="M" Organisation="NZL" BirthDate="2002-03-12" IFId="423602"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1944863" Order="18" Bib="17">
+          <Description FamilyName="Bayliss" GivenName="Lachlan" Gender="M" Organisation="NZL" BirthDate="2002-07-24" IFId="484817"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944884" Order="19" Bib="18">
+          <Description FamilyName="van Hattum" GivenName="Oskar" Gender="M" Organisation="NZL" BirthDate="2002-04-14" IFId="423600"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="4654427" Order="20" Bib="19" Substitute="Y">
+          <Description FamilyName="Gillion" GivenName="Liam" Gender="M" Organisation="NZL" BirthDate="2002-10-17" IFId="461096"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="FW"/>
+        </Athlete>
+        <Athlete Code="1944952" Order="21" Bib="20" Substitute="Y">
+          <Description FamilyName="Hughes" GivenName="Isaac" Gender="M" Organisation="NZL" BirthDate="2004-03-25" IFId="463578"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="DF"/>
+        </Athlete>
+        <Athlete Code="1944856" Order="22" Bib="21" Substitute="Y">
+          <Description FamilyName="Toomey" GivenName="Luis" Gender="M" Organisation="NZL" BirthDate="2001-07-01" IFId="484819"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="MF"/>
+        </Athlete>
+        <Athlete Code="1944866" Order="23" Bib="22" Substitute="Y">
+          <Description FamilyName="Gray" GivenName="Henry" Gender="M" Organisation="NZL" BirthDate="2005-03-29" IFId="463598"/>
+          <ExtendedEntry Type="ENTRY" Code="POSITION" Value="GK"/>
+        </Athlete>
+      </Composition>
+    </Entry>
+  </Competition>
+</OdfBody>

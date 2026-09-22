@@ -1,0 +1,902 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_SCHEDULE_UPDATE" TimeStamp="2026-09-09T13:00:01.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBL-------------------------------" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="10">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Unit Code="FBLWTEAM11------------GPA-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="1" ScheduleStatus="FINISHED" StartDate="2026-09-05T13:00:00.000+02:00" EndDate="2026-09-05T14:45:00.000+02:00" Venue="NYS" Location="NYS" SessionCode="FBL07">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--COL01" Organisation="COL">
+            <Description TeamName="Colombia" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="7" ScheduleStatus="FINISHED" StartDate="2026-09-05T15:00:00.000+02:00" EndDate="2026-09-05T16:45:00.000+02:00" Venue="COS" Location="COS" SessionCode="FBL08">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--CHN01" Organisation="CHN">
+            <Description TeamName="China" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--CHI01" Organisation="CHI">
+            <Description TeamName="Chile" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="3" ScheduleStatus="FINISHED" StartDate="2026-09-05T17:00:00.000+02:00" EndDate="2026-09-05T18:45:00.000+02:00" Order="3" Venue="NYS" Location="NYS" SessionCode="FBL01">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--USA01" Organisation="USA">
+            <Description TeamName="United States of America" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--ZAM01" Organisation="ZAM">
+            <Description TeamName="Zambia" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="5" ScheduleStatus="FINISHED" StartDate="2026-09-05T17:00:00.000+02:00" EndDate="2026-09-05T18:45:00.000+02:00" Order="5" Venue="COS" Location="COS" SessionCode="FBL02">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPA-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="2" ScheduleStatus="FINISHED" StartDate="2026-09-05T19:00:00.000+02:00" EndDate="2026-09-05T20:45:00.000+02:00" Venue="NVS" Location="NVS" SessionCode="FBL03">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--CAN01" Organisation="CAN">
+            <Description TeamName="Canada" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="4" ScheduleStatus="FINISHED" StartDate="2026-09-05T20:00:00.000+02:00" EndDate="2026-09-05T21:45:00.000+02:00" Order="4" Venue="STS" Location="STS" SessionCode="FBL05">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--GER01" Organisation="GER">
+            <Description TeamName="Germany" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--AUS01" Organisation="AUS">
+            <Description TeamName="Australia" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="6" ScheduleStatus="FINISHED" StartDate="2026-09-05T20:00:00.000+02:00" EndDate="2026-09-05T21:45:00.000+02:00" Order="6" Venue="SJS" Location="SJS" SessionCode="FBL04">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--NGR01" Organisation="NGR">
+            <Description TeamName="Nigeria" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--BRA01" Organisation="BRA">
+            <Description TeamName="Brazil" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="8" ScheduleStatus="FINISHED" StartDate="2026-09-05T21:00:00.000+02:00" EndDate="2026-09-05T22:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL06">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--SWE01" Organisation="SWE">
+            <Description TeamName="Sweden" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--NED01" Organisation="NED">
+            <Description TeamName="Netherlands" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="2" ScheduleStatus="FINISHED" StartDate="2026-09-06T16:00:00.000+02:00" EndDate="2026-09-06T17:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL09">
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--GUI01" Organisation="GUI">
+            <Description TeamName="Guinea" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="4" ScheduleStatus="FINISHED" StartDate="2026-09-06T18:00:00.000+02:00" EndDate="2026-09-06T19:45:00.000+02:00" Order="4" Venue="STS" Location="STS" SessionCode="FBL11">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--IRQ01" Organisation="IRQ">
+            <Description TeamName="Iraq" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="5" ScheduleStatus="FINISHED" StartDate="2026-09-06T18:00:00.000+02:00" EndDate="2026-09-06T19:45:00.000+02:00" Order="5" Venue="NVS" Location="NVS" SessionCode="FBL10">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--MLI01" Organisation="MLI">
+            <Description TeamName="Mali" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="6" ScheduleStatus="FINISHED" StartDate="2026-09-06T19:00:00.000+02:00" EndDate="2026-09-06T20:45:00.000+02:00" Venue="SJS" Location="SJS" SessionCode="FBL12">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--EGY01" Organisation="EGY">
+            <Description TeamName="Egypt" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--DOM01" Organisation="DOM">
+            <Description TeamName="Dominican Republic" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="1" ScheduleStatus="FINISHED" StartDate="2026-09-06T20:00:00.000+02:00" EndDate="2026-09-06T21:45:00.000+02:00" Venue="NYS" Location="NYS" SessionCode="FBL13">
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--JAM01" Organisation="JAM">
+            <Description TeamName="Jamaica" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="3" ScheduleStatus="FINISHED" StartDate="2026-09-06T21:00:00.000+02:00" EndDate="2026-09-06T22:45:00.000+02:00" Venue="COS" Location="COS" SessionCode="FBL14">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--ARG01" Organisation="ARG">
+            <Description TeamName="Argentina" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--MAR01" Organisation="MAR">
+            <Description TeamName="Morocco" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPA-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="9" ScheduleStatus="FINISHED" StartDate="2026-09-08T13:00:00.000+02:00" EndDate="2026-09-08T14:45:00.000+02:00" Order="9" Venue="NYS" Location="NYS" SessionCode="FBL21">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--CAN01" Organisation="CAN">
+            <Description TeamName="Canada" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="11" ScheduleStatus="FINISHED" StartDate="2026-09-08T13:00:00.000+02:00" EndDate="2026-09-08T14:45:00.000+02:00" Order="11" Venue="NYS" Location="NYS" SessionCode="FBL15">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--USA01" Organisation="USA">
+            <Description TeamName="United States of America" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--GER01" Organisation="GER">
+            <Description TeamName="Germany" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="14" ScheduleStatus="FINISHED" StartDate="2026-09-08T13:00:00.000+02:00" EndDate="2026-09-08T14:45:00.000+02:00" Order="14" Venue="COS" Location="COS" SessionCode="FBL16">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--BRA01" Organisation="BRA">
+            <Description TeamName="Brazil" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="12" ScheduleStatus="FINISHED" StartDate="2026-09-08T16:00:00.000+02:00" EndDate="2026-09-08T17:45:00.000+02:00" Venue="NVS" Location="NVS" SessionCode="FBL17">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--AUS01" Organisation="AUS">
+            <Description TeamName="Australia" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--ZAM01" Organisation="ZAM">
+            <Description TeamName="Zambia" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="13" ScheduleStatus="FINISHED" StartDate="2026-09-08T17:00:00.000+02:00" EndDate="2026-09-08T18:45:00.000+02:00" Order="13" Venue="STS" Location="STS" SessionCode="FBL18">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--NGR01" Organisation="NGR">
+            <Description TeamName="Nigeria" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="16" ScheduleStatus="FINISHED" StartDate="2026-09-08T17:00:00.000+02:00" EndDate="2026-09-08T18:45:00.000+02:00" Order="16" Venue="COS" Location="COS" SessionCode="FBL22">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--SWE01" Organisation="SWE">
+            <Description TeamName="Sweden" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--CHN01" Organisation="CHN">
+            <Description TeamName="China" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPA-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="10" ScheduleStatus="FINISHED" StartDate="2026-09-08T18:00:00.000+02:00" EndDate="2026-09-08T19:45:00.000+02:00" Venue="SJS" Location="SJS" SessionCode="FBL19">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--COL01" Organisation="COL">
+            <Description TeamName="Colombia" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="15" ScheduleStatus="FINISHED" StartDate="2026-09-08T20:00:00.000+02:00" EndDate="2026-09-08T21:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL20">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--CHI01" Organisation="CHI">
+            <Description TeamName="Chile" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--NED01" Organisation="NED">
+            <Description TeamName="Netherlands" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="8" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T18:00:00.000+02:00" EndDate="2026-09-09T19:45:00.000+02:00" Order="8" Venue="RBS" Location="RBS" SessionCode="FBL23" HideStartDate="Y">
+      <StartText Language="ENG" Value="TBC" />
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--JAM01" Organisation="JAM">
+            <Description TeamName="Jamaica" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="12" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T18:00:00.000+02:00" EndDate="2026-09-09T19:45:00.000+02:00" Order="12" Venue="STS" Location="STS" SessionCode="FBL24">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--DOM01" Organisation="DOM">
+            <Description TeamName="Dominican Republic" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="10" ScheduleStatus="SCHEDULED" StartDate="2026-09-09T20:00:00.000+02:00" EndDate="2026-09-09T21:45:00.000+02:00" Order="10" Venue="NVS" Location="NVS" SessionCode="FBL25">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--MAR01" Organisation="MAR">
+            <Description TeamName="Morocco" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="11" ScheduleStatus="INTERRUPTED" StartDate="2026-09-09T12:00:00.000+02:00" EndDate="2026-09-09T13:45:00.000+02:00" Order="11" Venue="SJS" Location="SJS" SessionCode="FBL26">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--MLI01" Organisation="MLI">
+            <Description TeamName="Mali" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--EGY01" Organisation="EGY">
+            <Description TeamName="Egypt" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="7" ScheduleStatus="RUNNING" StartDate="2026-09-09T12:15:00.000+02:00" EndDate="2026-09-09T14:00:00.000+02:00" Order="7" Venue="NYS" Location="NYS" SessionCode="FBL27">
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--GUI01" Organisation="GUI">
+            <Description TeamName="Guinea" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="9" ScheduleStatus="RUNNING" StartDate="2026-09-09T11:30:00.000+02:00" EndDate="2026-09-09T13:15:00.000+02:00" Order="9" Venue="COS" Location="COS" SessionCode="FBL28">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--ARG01" Organisation="ARG">
+            <Description TeamName="Argentina" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--IRQ01" Organisation="IRQ">
+            <Description TeamName="Iraq" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="23" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T13:00:00.000+02:00" EndDate="2026-09-11T14:45:00.000+02:00" Order="23" Venue="NYS" Location="NYS" SessionCode="FBL35">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--CHI01" Organisation="CHI">
+            <Description TeamName="Chile" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--SWE01" Organisation="SWE">
+            <Description TeamName="Sweden" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPD-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="24" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T13:00:00.000+02:00" EndDate="2026-09-11T14:45:00.000+02:00" Order="24" Venue="COS" Location="COS" SessionCode="FBL36">
+      <ItemName Language="ENG" Value="Women's Group D" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--NED01" Organisation="NED">
+            <Description TeamName="Netherlands" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--CHN01" Organisation="CHN">
+            <Description TeamName="China" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="21" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T15:00:00.000+02:00" EndDate="2026-09-11T16:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL29">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--BRA01" Organisation="BRA">
+            <Description TeamName="Brazil" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPC-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="22" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T17:00:00.000+02:00" EndDate="2026-09-11T18:45:00.000+02:00" Venue="NVS" Location="NVS" SessionCode="FBL30">
+      <ItemName Language="ENG" Value="Women's Group C" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--NGR01" Organisation="NGR">
+            <Description TeamName="Nigeria" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="19" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T18:00:00.000+02:00" EndDate="2026-09-11T19:45:00.000+02:00" Venue="COS" Location="COS" SessionCode="FBL31">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--AUS01" Organisation="AUS">
+            <Description TeamName="Australia" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--USA01" Organisation="USA">
+            <Description TeamName="United States of America" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPA-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="17" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T19:00:00.000+02:00" EndDate="2026-09-11T20:45:00.000+02:00" Order="17" Venue="NYS" Location="NYS" SessionCode="FBL33">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPB-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="20" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T19:00:00.000+02:00" EndDate="2026-09-11T20:45:00.000+02:00" Order="20" Venue="SJS" Location="SJS" SessionCode="FBL32">
+      <ItemName Language="ENG" Value="Women's Group B" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--ZAM01" Organisation="ZAM">
+            <Description TeamName="Zambia" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--GER01" Organisation="GER">
+            <Description TeamName="Germany" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------GPA-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="18" ScheduleStatus="SCHEDULED" StartDate="2026-09-11T20:00:00.000+02:00" EndDate="2026-09-11T21:45:00.000+02:00" Venue="STS" Location="STS" SessionCode="FBL34">
+      <ItemName Language="ENG" Value="Women's Group A" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLWTEAM11--COL01" Organisation="COL">
+            <Description TeamName="Colombia" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLWTEAM11--CAN01" Organisation="CAN">
+            <Description TeamName="Canada" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="17" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T19:00:00.000+02:00" EndDate="2026-09-12T20:45:00.000+02:00" Order="17" Venue="RBS" Location="RBS" SessionCode="FBL37">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--DOM01" Organisation="DOM">
+            <Description TeamName="Dominican Republic" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--MLI01" Organisation="MLI">
+            <Description TeamName="Mali" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPC-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="18" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T19:00:00.000+02:00" EndDate="2026-09-12T20:45:00.000+02:00" Order="18" Venue="STS" Location="STS" SessionCode="FBL38">
+      <ItemName Language="ENG" Value="Men's Group C" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--ESP01" Organisation="ESP">
+            <Description TeamName="Spain" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--EGY01" Organisation="EGY">
+            <Description TeamName="Egypt" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="13" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T20:00:00.000+02:00" EndDate="2026-09-12T21:45:00.000+02:00" Order="13" Venue="SJS" Location="SJS" SessionCode="FBL41">
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--NZL01" Organisation="NZL">
+            <Description TeamName="New Zealand" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--FRA01" Organisation="FRA">
+            <Description TeamName="France" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPA-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="14" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T20:00:00.000+02:00" EndDate="2026-09-12T21:45:00.000+02:00" Order="14" Venue="COS" Location="COS" SessionCode="FBL42">
+      <ItemName Language="ENG" Value="Men's Group A" />
+      <VenueDescription VenueName="Columbus Stadium" LocationName="Columbus Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--JAM01" Organisation="JAM">
+            <Description TeamName="Jamaica" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--GUI01" Organisation="GUI">
+            <Description TeamName="Guinea" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000500--" PhaseType="3" ScheduleFlag="Y" UnitNum="15" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T20:00:00.000+02:00" EndDate="2026-09-12T21:45:00.000+02:00" Order="15" Venue="NVS" Location="NVS" SessionCode="FBL39">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--JPN01" Organisation="JPN">
+            <Description TeamName="Japan" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--ARG01" Organisation="ARG">
+            <Description TeamName="Argentina" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------GPB-000600--" PhaseType="3" ScheduleFlag="Y" UnitNum="16" ScheduleStatus="SCHEDULED" StartDate="2026-09-12T20:00:00.000+02:00" EndDate="2026-09-12T21:45:00.000+02:00" Order="16" Venue="NYS" Location="NYS" SessionCode="FBL40">
+      <ItemName Language="ENG" Value="Men's Group B" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <Competitor Type="T" Code="FBLMTEAM11--MAR01" Organisation="MAR">
+            <Description TeamName="Morocco" />
+          </Competitor>
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <Competitor Type="T" Code="FBLMTEAM11--IRQ01" Organisation="IRQ">
+            <Description TeamName="Iraq" />
+          </Competitor>
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------QFNL000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="26" ScheduleStatus="SCHEDULED" StartDate="2026-09-14T13:00:00.000+02:00" EndDate="2026-09-14T14:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL43">
+      <ItemName Language="ENG" Value="Women's Quarter-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------GPB---------" Value="B1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------GPA---------" Value="A2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------QFNL000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="28" ScheduleStatus="SCHEDULED" StartDate="2026-09-14T14:00:00.000+02:00" EndDate="2026-09-14T15:45:00.000+02:00" Venue="SJS" Location="SJS" SessionCode="FBL44">
+      <ItemName Language="ENG" Value="Women's Quarter-final" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------GPD---------" Value="D1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------GPC---------" Value="C2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------QFNL000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="27" ScheduleStatus="SCHEDULED" StartDate="2026-09-14T19:00:00.000+02:00" EndDate="2026-09-14T20:45:00.000+02:00" Venue="NVS" Location="NVS" SessionCode="FBL45">
+      <ItemName Language="ENG" Value="Women's Quarter-final" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------GPC---------" Value="C1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------GPD---------" Value="D2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------QFNL000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="25" ScheduleStatus="SCHEDULED" StartDate="2026-09-14T20:00:00.000+02:00" EndDate="2026-09-14T21:45:00.000+02:00" Venue="STS" Location="STS" SessionCode="FBL46">
+      <ItemName Language="ENG" Value="Women's Quarter-final" />
+      <VenueDescription VenueName="St. Louis Stadium" LocationName="St. Louis Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------GPA---------" Value="A1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------GPB---------" Value="B2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------QFNL000300--" PhaseType="3" ScheduleFlag="Y" UnitNum="20" ScheduleStatus="SCHEDULED" StartDate="2026-09-15T13:00:00.000+02:00" EndDate="2026-09-15T14:45:00.000+02:00" Venue="NYS" Location="NYS" SessionCode="FBL47">
+      <ItemName Language="ENG" Value="Men's Quarter-final" />
+      <VenueDescription VenueName="New York Stadium" LocationName="New York Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------GPB---------" Value="B1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------GPC---------" Value="C2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------QFNL000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="21" ScheduleStatus="SCHEDULED" StartDate="2026-09-15T14:00:00.000+02:00" EndDate="2026-09-15T15:45:00.000+02:00" Venue="NVS" Location="NVS" SessionCode="FBL48">
+      <ItemName Language="ENG" Value="Men's Quarter-final" />
+      <VenueDescription VenueName="Nashville Stadium" LocationName="Nashville Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------GPC---------" Value="C1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------GP----------" Value="A3/B3" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------QFNL000400--" PhaseType="3" ScheduleFlag="Y" UnitNum="22" ScheduleStatus="SCHEDULED" StartDate="2026-09-15T19:00:00.000+02:00" EndDate="2026-09-15T20:45:00.000+02:00" Venue="SJS" Location="SJS" SessionCode="FBL49">
+      <ItemName Language="ENG" Value="Men's Quarter-final" />
+      <VenueDescription VenueName="San José Stadium" LocationName="San José Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------GPA---------" Value="A2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------GPB---------" Value="B2" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------QFNL000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="19" ScheduleStatus="SCHEDULED" StartDate="2026-09-15T20:00:00.000+02:00" EndDate="2026-09-15T21:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL50">
+      <ItemName Language="ENG" Value="Men's Quarter-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------GPA---------" Value="A1" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------GP----------" Value="B3/C3" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------SFNL000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="30" ScheduleStatus="SCHEDULED" StartDate="2026-09-17T13:00:00.000+02:00" EndDate="2026-09-17T14:45:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL51">
+      <ItemName Language="ENG" Value="Women's Semi-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------QFNL000300--" WLT="W" Value="26" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------QFNL000400--" WLT="W" Value="28" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------SFNL000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="29" ScheduleStatus="SCHEDULED" StartDate="2026-09-17T20:30:00.000+02:00" EndDate="2026-09-17T22:15:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL52">
+      <ItemName Language="ENG" Value="Women's Semi-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------QFNL000100--" WLT="W" Value="25" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------QFNL000200--" WLT="W" Value="27" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------SFNL000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="24" ScheduleStatus="SCHEDULED" StartDate="2026-09-18T17:30:00.000+02:00" EndDate="2026-09-18T19:15:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL53">
+      <ItemName Language="ENG" Value="Men's Semi-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------QFNL000300--" WLT="W" Value="20" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------QFNL000400--" WLT="W" Value="22" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------SFNL000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="23" ScheduleStatus="SCHEDULED" StartDate="2026-09-18T20:30:00.000+02:00" EndDate="2026-09-18T22:15:00.000+02:00" Venue="RBS" Location="RBS" SessionCode="FBL54">
+      <ItemName Language="ENG" Value="Men's Semi-final" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------QFNL000100--" WLT="W" Value="19" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------QFNL000200--" WLT="W" Value="21" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------FNL-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="31" ScheduleStatus="SCHEDULED" StartDate="2026-09-20T18:00:00.000+02:00" EndDate="2026-09-20T19:45:00.000+02:00" Medal="3" Venue="RBS" Location="RBS" SessionCode="FBL55">
+      <ItemName Language="ENG" Value="Women's Bronze Medal Match" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------SFNL000100--" WLT="L" Value="29" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------SFNL000200--" WLT="L" Value="30" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------FNL-000200--" PhaseType="3" ScheduleFlag="Y" UnitNum="25" ScheduleStatus="SCHEDULED" StartDate="2026-09-21T13:00:00.000+02:00" EndDate="2026-09-21T14:45:00.000+02:00" Medal="3" Venue="RBS" Location="RBS" SessionCode="FBL56">
+      <ItemName Language="ENG" Value="Men's Bronze Medal Match" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------SFNL000100--" WLT="L" Value="23" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------SFNL000200--" WLT="L" Value="24" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLWTEAM11------------FNL-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="32" ScheduleStatus="SCHEDULED" StartDate="2026-09-21T18:00:00.000+02:00" EndDate="2026-09-21T19:45:00.000+02:00" Medal="1" Venue="RBS" Location="RBS" SessionCode="FBL57">
+      <ItemName Language="ENG" Value="Women's Gold Medal Match" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLWTEAM11------------SFNL000100--" WLT="W" Value="29" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLWTEAM11------------SFNL000200--" WLT="W" Value="30" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+    <Unit Code="FBLMTEAM11------------FNL-000100--" PhaseType="3" ScheduleFlag="Y" UnitNum="26" ScheduleStatus="SCHEDULED" StartDate="2026-09-22T12:30:00.000+02:00" EndDate="2026-09-22T14:15:00.000+02:00" Medal="1" Venue="RBS" Location="RBS" SessionCode="FBL58">
+      <ItemName Language="ENG" Value="Men's Gold Medal Match" />
+      <VenueDescription VenueName="Rose Bowl Stadium" LocationName="Rose Bowl Stadium" />
+      <StartList>
+        <Start SortOrder="1" StartOrder="1">
+          <PreviousUnit Unit="FBLMTEAM11------------SFNL000100--" WLT="W" Value="23" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+        <Start SortOrder="2" StartOrder="2">
+          <PreviousUnit Unit="FBLMTEAM11------------SFNL000200--" WLT="W" Value="24" />
+          <Competitor Code="TBD" Type="T" />
+        </Start>
+      </StartList>
+    </Unit>
+  </Competition>
+</OdfBody>

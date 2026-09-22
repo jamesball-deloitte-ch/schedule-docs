@@ -1,0 +1,293 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TTEMDOUBLES-----------------------" DocumentType="DT_ENTRIES" Version="4" FeedFlag="T" TimeStamp="2026-09-09T08:00:04.000+02:00" LogicalDate="2026-09-09" Source="LC3TTE1">
+	<Competition Gen="OG2028-GEN-5.1" Codes="OG2028-1.3.0">
+		<Entry Code="TTEMDOUBLES-----------AUS01" Type="T" Organisation="AUS" SortOrder="1">
+			<Description TeamName="BAE Hwan / LUU Finn" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="15" />
+			<Composition>
+				<Athlete Code="9446476" Order="1">
+					<Description GivenName="Hwan" FamilyName="Bae" Gender="M" Organisation="AUS" BirthDate="2005-03-17" IFId="134803" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9446474" Order="2">
+					<Description GivenName="Finn" FamilyName="Luu" Gender="M" Organisation="AUS" BirthDate="2004-12-14" IFId="131798" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------BRA01" Type="T" Organisation="BRA" SortOrder="2">
+			<Description TeamName="CALDERANO Hugo / ISHIY Vitor" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="9" />
+			<Composition>
+				<Athlete Code="9448577" Order="1">
+					<Description GivenName="Hugo" FamilyName="Calderano" Gender="M" Organisation="BRA" BirthDate="1996-06-22" IFId="115641" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9448586" Order="2">
+					<Description GivenName="Vitor" FamilyName="Ishiy" Gender="M" Organisation="BRA" BirthDate="1995-09-22" IFId="117312" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------CAN01" Type="T" Organisation="CAN" SortOrder="3">
+			<Description TeamName="HAZIN Jeremy / LY Edward" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="22" />
+			<Composition>
+				<Athlete Code="9441620" Order="1">
+					<Description GivenName="Jeremy" FamilyName="Hazin" Gender="M" Organisation="CAN" BirthDate="2000-02-27" IFId="117604" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9441608" Order="2">
+					<Description GivenName="Edward" FamilyName="Ly" Gender="M" Organisation="CAN" BirthDate="2003-01-29" IFId="122425" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------CHN01" Type="T" Organisation="CHN" SortOrder="4">
+			<Description TeamName="FAN Zhendong / MA Long" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="1" />
+			<Composition>
+				<Athlete Code="9442095" Order="1">
+					<Description GivenName="Zhendong" FamilyName="Fan" Gender="M" Organisation="CHN" BirthDate="1997-01-22" IFId="121404" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9442000" Order="2">
+					<Description GivenName="Long" FamilyName="Ma" Gender="M" Organisation="CHN" BirthDate="1988-10-20" IFId="105649" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------CRO01" Type="T" Organisation="CRO" SortOrder="5">
+			<Description TeamName="GACINA Andrej / PUCAR Tomislav" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="11" />
+			<Composition>
+				<Athlete Code="9445609" Order="1">
+					<Description GivenName="Andrej" FamilyName="Gacina" Gender="M" Organisation="CRO" BirthDate="1986-05-21" IFId="102891" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9445608" Order="2">
+					<Description GivenName="Tomislav" FamilyName="Pucar" Gender="M" Organisation="CRO" BirthDate="1996-01-26" IFId="116532" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------DEN01" Type="T" Organisation="DEN" SortOrder="6">
+			<Description TeamName="GROTH Jonathan / LIND Anders" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="10" />
+			<Composition>
+				<Athlete Code="9449745" Order="1">
+					<Description GivenName="Jonathan" FamilyName="Groth" Gender="M" Organisation="DEN" BirthDate="1992-11-09" IFId="112409" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+				<Athlete Code="9449743" Order="2">
+					<Description GivenName="Anders" FamilyName="Lind" Gender="M" Organisation="DEN" BirthDate="1998-12-14" IFId="115029" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------EGY01" Type="T" Organisation="EGY" SortOrder="7">
+			<Description TeamName="ASSAR Omar / EL-BEIALI Mohamed" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="13" />
+			<Composition>
+				<Athlete Code="9442003" Order="1">
+					<Description GivenName="Omar" FamilyName="Assar" Gender="M" Organisation="EGY" BirthDate="1991-07-22" IFId="100696" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9440008" Order="2">
+					<Description GivenName="Mohamed" FamilyName="El-Beiali" Gender="M" Organisation="EGY" BirthDate="1988-07-02" IFId="102486" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------FRA01" Type="T" Organisation="FRA" SortOrder="8">
+			<Description TeamName="GAUZY Simon / LEBRUN Alexis" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="3" />
+			<Composition>
+				<Athlete Code="9449878" Order="1">
+					<Description GivenName="Simon" FamilyName="Gauzy" Gender="M" Organisation="FRA" BirthDate="1994-10-25" IFId="112062" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9449876" Order="2">
+					<Description GivenName="Alexis" FamilyName="Lebrun" Gender="M" Organisation="FRA" BirthDate="2003-08-27" IFId="132992" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------GER01" Type="T" Organisation="GER" SortOrder="9">
+			<Description TeamName="QIU Dang / OVTCHAROV Dimitrij" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="2" />
+			<Composition>
+				<Athlete Code="9442447" Order="1">
+					<Description GivenName="Dang" FamilyName="Qiu" Gender="M" Organisation="GER" BirthDate="1996-10-29" IFId="114715" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="P" />
+				</Athlete>
+				<Athlete Code="9442441" Order="2">
+					<Description GivenName="Dimitrij" FamilyName="Ovtcharov" Gender="M" Organisation="GER" BirthDate="1988-09-02" IFId="107028" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------IND01" Type="T" Organisation="IND" SortOrder="10">
+			<Description TeamName="ACHANTA Sharath Kamal / DESAI Harmeet" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="14" />
+			<Composition>
+				<Athlete Code="9448351" Order="1">
+					<Description GivenName="Sharath Kamal" FamilyName="Achanta" Gender="M" Organisation="IND" BirthDate="1982-07-12" IFId="104314" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+				<Athlete Code="9448390" Order="2">
+					<Description GivenName="Harmeet" FamilyName="Desai" Gender="M" Organisation="IND" BirthDate="1993-07-19" IFId="111641" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------JPN01" Type="T" Organisation="JPN" SortOrder="11">
+			<Description TeamName="HARIMOTO Tomokazu / TOGAMI Shunsuke" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="4" />
+			<Composition>
+				<Athlete Code="9441399" Order="1">
+					<Description GivenName="Tomokazu" FamilyName="Harimoto" Gender="M" Organisation="JPN" BirthDate="2003-06-27" IFId="123980" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9441309" Order="2">
+					<Description GivenName="Shunsuke" FamilyName="Togami" Gender="M" Organisation="JPN" BirthDate="2001-08-24" IFId="133694" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------KOR01" Type="T" Organisation="KOR" SortOrder="12">
+			<Description TeamName="LIM Jonghoon / CHO Daeseong" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="5" />
+			<Composition>
+				<Athlete Code="9446329" Order="1">
+					<Description GivenName="Jonghoon" FamilyName="Lim" Gender="M" Organisation="KOR" BirthDate="1997-01-21" IFId="117357" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9440027" Order="2">
+					<Description GivenName="Daeseong" FamilyName="Cho" Gender="M" Organisation="KOR" BirthDate="2002-10-13" IFId="123971" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------POR01" Type="T" Organisation="POR" SortOrder="13">
+			<Description TeamName="GERALDO Joao / FREITAS Marcos" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="8" />
+			<Composition>
+				<Athlete Code="9447382" Order="1">
+					<Description GivenName="Joao" FamilyName="Geraldo" Gender="M" Organisation="POR" BirthDate="1995-09-29" IFId="115396" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+				<Athlete Code="9447383" Order="2">
+					<Description GivenName="Marcos" FamilyName="Freitas" Gender="M" Organisation="POR" BirthDate="1988-04-08" IFId="102841" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------SLO01" Type="T" Organisation="SLO" SortOrder="14">
+			<Description TeamName="KOZUL Deni / HRIBAR Peter" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="12" />
+			<Composition>
+				<Athlete Code="9440867" Order="1">
+					<Description GivenName="Deni" FamilyName="Kozul" Gender="M" Organisation="SLO" BirthDate="1997-03-18" IFId="118851" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9441880" Order="2">
+					<Description GivenName="Peter" FamilyName="Hribar" Gender="M" Organisation="SLO" BirthDate="1999-11-12" IFId="120162" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------SWE01" Type="T" Organisation="SWE" SortOrder="15">
+			<Description TeamName="KALLBERG Anton / KARLSSON Kristian" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="7" />
+			<Composition>
+				<Athlete Code="9443681" Order="1">
+					<Description GivenName="Anton" FamilyName="Kallberg" Gender="M" Organisation="SWE" BirthDate="1997-08-17" IFId="116853" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+				<Athlete Code="9443686" Order="2">
+					<Description GivenName="Kristian" FamilyName="Karlsson" Gender="M" Organisation="SWE" BirthDate="1991-08-06" IFId="104379" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qq" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Code="TTEMDOUBLES-----------TPE01" Type="T" Organisation="TPE" SortOrder="16">
+			<Description TeamName="LIN Yun-Ju / KAO Cheng-Jui" />
+			<ExtendedEntry Type="IFRANK" Code="RANK_WLD" Value="6" />
+			<Composition>
+				<Athlete Code="9440095" Order="1">
+					<Description GivenName="Yun-Ju" FamilyName="Lin" Gender="M" Organisation="TPE" BirthDate="2001-08-17" IFId="121582" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="L" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+				</Athlete>
+				<Athlete Code="9443011" Order="2">
+					<Description GivenName="Cheng-Jui" FamilyName="Kao" Gender="M" Organisation="TPE" BirthDate="2004-12-25" IFId="132824" />
+					<ExtendedEntry Type="ENTRY" Code="QUAL_TYPE" Value="Qs" />
+					<ExtendedEntry Type="ENTRY" Code="HAND" Value="R" />
+					<ExtendedEntry Type="ENTRY" Code="GRIP" Value="S" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

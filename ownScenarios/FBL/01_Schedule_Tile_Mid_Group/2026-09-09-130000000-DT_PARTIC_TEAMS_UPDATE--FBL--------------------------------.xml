@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<OdfBody DocumentType="DT_PARTIC_TEAMS_UPDATE" TimeStamp="2026-09-09T13:00:00.000+02:00" CompetitionCode="OG2028-ITL" DocumentCode="FBL-------------------------------" FeedFlag="T" Source="RBSFBL1" LogicalDate="2026-09-09" Version="1">
+  <Competition Gen="OG2028-GEN" Sport="OG2028-FBL-0.9" Codes="OG2028-1.2.0">
+    <Team Code="FBLMTEAM11--ARG01" Organisation="ARG" Status="CNF" Name="Argentina" TVTeamName="Argentina" Gender="M" ShortName="Argentina" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Light Blue White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Navy Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--DOM01" Organisation="DOM" Status="CNF" Name="Dominican Republic" TVTeamName="Dominican Republic" Gender="M" ShortName="Dominican Republic" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--EGY01" Organisation="EGY" Status="CNF" Name="Egypt" TVTeamName="Egypt" Gender="M" ShortName="Egypt" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--ESP01" Organisation="ESP" Status="CNF" Name="Spain" TVTeamName="Spain" Gender="M" ShortName="Spain" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Port Red/Bronze" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Yellow/Grey" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Navy Blue/Bronze" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Yellow/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Port Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Light Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Yellow" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--FRA01" Organisation="FRA" Status="CNF" Name="France" TVTeamName="France" Gender="M" ShortName="France" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--GUI01" Organisation="GUI" Status="CNF" Name="Guinea" TVTeamName="Guinea" Gender="M" ShortName="Guinea" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--IRQ01" Organisation="IRQ" Status="CNF" Name="Iraq" TVTeamName="Iraq" Gender="M" ShortName="Iraq" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Dark Green" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--JAM01" Organisation="JAM" Status="CNF" Name="Jamaica" TVTeamName="Jamaica" Gender="M" ShortName="Jamaica" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Black" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--JPN01" Organisation="JPN" Status="CNF" Name="Japan" TVTeamName="Japan" Gender="M" ShortName="Japan" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Navy Blue/Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Navy Blue/Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--MAR01" Organisation="MAR" Status="CNF" Name="Morocco" TVTeamName="Morocco" Gender="M" ShortName="Morocco" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red/Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White/Grey" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red/Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White/Red" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--MLI01" Organisation="MLI" Status="CNF" Name="Mali" TVTeamName="Mali" Gender="M" ShortName="Mali" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="White/Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Dark Green/Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Yellow" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLMTEAM11--NZL01" Organisation="NZL" Status="CNF" Name="New Zealand" TVTeamName="New Zealand" Gender="M" ShortName="New Zealand" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White/Black" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--AUS01" Organisation="AUS" Status="CNF" Name="Australia" TVTeamName="Australia" Gender="W" ShortName="Australia" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Dark Green" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--BRA01" Organisation="BRA" Status="CNF" Name="Brazil" TVTeamName="Brazil" Gender="W" ShortName="Brazil" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White/Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Blue/Green" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--CAN01" Organisation="CAN" Status="CNF" Name="Canada" TVTeamName="Canada" Gender="W" ShortName="Canada" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Port Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White Port Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Port Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Port Red/White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White Port Red" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--CHI01" Organisation="CHI" Status="CNF" Name="Chile" TVTeamName="Chile" Gender="W" ShortName="Chile" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--CHN01" Organisation="CHN" Status="CNF" Name="China" TVTeamName="China" Gender="W" ShortName="China" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Purple" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--COL01" Organisation="COL" Status="CNF" Name="Colombia" TVTeamName="Colombia" Gender="W" ShortName="Colombia" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Yellow Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Black Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="Yellow Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--ESP01" Organisation="ESP" Status="CNF" Name="Spain" TVTeamName="Spain" Gender="W" ShortName="Spain" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Light Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Light Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Light Green" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--FRA01" Organisation="FRA" Status="CNF" Name="France" TVTeamName="France" Gender="W" ShortName="France" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Navy Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--GER01" Organisation="GER" Status="CNF" Name="Germany" TVTeamName="Germany" Gender="W" ShortName="Germany" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Magenta/Purple" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Purple" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Purple" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Black" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--JPN01" Organisation="JPN" Status="CNF" Name="Japan" TVTeamName="Japan" Gender="W" ShortName="Japan" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Navy Blue/Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Navy Blue/Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--NED01" Organisation="NED" Status="CNF" Name="Netherlands" TVTeamName="Netherlands" Gender="W" ShortName="Netherlands" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Orange" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Orange" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Orange" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Black" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--NGR01" Organisation="NGR" Status="CNF" Name="Nigeria" TVTeamName="Nigeria" Gender="W" ShortName="Nigeria" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Dark Green/Neon Green" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White/Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Dark Green/Neon Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="White/Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White/Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Black" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--NZL01" Organisation="NZL" Status="CNF" Name="New Zealand" TVTeamName="New Zealand" Gender="W" ShortName="New Zealand" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Turquoise" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="White" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--SWE01" Organisation="SWE" Status="CNF" Name="Sweden" TVTeamName="Sweden" Gender="W" ShortName="Sweden" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="Yellow" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Navy Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--USA01" Organisation="USA" Status="CNF" Name="United States of America" TVTeamName="United States" Gender="W" ShortName="United States" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Navy Blue/Red" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="Navy Blue/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Red/Navy Blue" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="White/Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Red" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="Navy Blue" />
+      </Discipline>
+    </Team>
+    <Team Code="FBLWTEAM11--ZAM01" Organisation="ZAM" Status="CNF" Name="Zambia" TVTeamName="Zambia" Gender="W" ShortName="Zambia" TeamType="ORG">
+      <Discipline Code="FBL-------------------------------">
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="1" Value="Orange" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="UNIFORM" Pos="3" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="1" Value="Black" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SHORTS" Pos="3" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="1" Value="White" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="2" Value="Dark Green" />
+        <DisciplineEntry Type="ENTRY" Code="SOCKS" Pos="3" Value="White" />
+      </Discipline>
+    </Team>
+  </Competition>
+</OdfBody>

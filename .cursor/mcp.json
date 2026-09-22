@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "Common Codes": {
+      "url": "https://mcp.scd-ai-server.com/common-codes/mcp"
+    },
+    "odf-verifier-mcp": {
+      "url": "https://mcp.scd-ai-server.com/odf-verifier/mcp"
+    },
+    "oris-mcp": {
+      "url": "https://mcp.scd-ai-server.com/oris/mcp"
+    },
+    "osrp-mcp": {
+      "url": "https://mcp.scd-ai-server.com/osrp/mcp"
+    }
+  }
+}
