@@ -1,0 +1,41 @@
+---
+description: ODF freeze conventions under ownScenarios/
+globs: ownScenarios/**
+alwaysApply: false
+---
+
+# ownScenarios freezes
+
+Prerequisites: `docs/{DISC}/schedule-tile-requirements.md` + `rawData/{DISC}/` with ODF XML.  
+Full pipeline: `/build-simulation`.
+
+## Hard stops
+
+1. Never modify `rawData/`
+2. Never invent a full discipline dump if `rawData/{DISC}/` is missing
+3. Medal order always **`DT_MEDALLISTS` then `DT_MEDALS`** (never reverse)
+4. Only XML + `README.md` + `AC.feature` — no application code
+
+## Layout & naming
+
+- Default folder: `ownScenarios/{DISC}/01_Schedule_Tile_Mixed_Day/`
+- Multi-day only when needed: `01_Schedule_Tile_Mixed_Days/`
+- Filename: `YYYY-MM-DD-HHMMSSmmm-DT_{TYPE}--{documentKey}.xml`
+- Default LogicalDate: `2026-09-09` (align with existing freezes)
+
+## Bootstrap & timeline
+
+| Order | Messages |
+|-------|----------|
+| Always first | `DT_PARTIC` / `DT_PARTIC_UPDATE` |
+| If teams (`Type=T`) | then `DT_PARTIC_TEAMS[_UPDATE]` + `DT_ENTRIES` |
+| Then | schedule → results/current → medallists → medals |
+
+Cover before / during / after through medals. Include **Schedule=S** units from CC/pack.
+
+## Fabrication
+
+- Copy from `rawData` first; fabricate **only** missing messages
+- Keep competitor / team codes consistent with PARTIC
+- Always list fabricated files in the final reply (or `(none)`)
+- Validate fabricated XML with ODF verifier when practical

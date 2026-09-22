@@ -1,0 +1,30 @@
+---
+description: Schedule grouping CSV and OpenSpec conventions
+globs: docs/grouping/**,openspec/**
+alwaysApply: false
+---
+
+# Grouping & OpenSpec
+
+## Roles
+
+| Artefact | Role |
+|----------|------|
+| `docs/grouping/olympic-grouping-rules.csv` | OLY runtime rules (first-match; specific before wildcards) |
+| `docs/grouping/para-grouping-rules.csv` | PARA runtime rules |
+| `docs/grouping/README.md` | Sources + how to upload CSV |
+| `openspec/specs/schedule-grouping/spec.md` | Greenfield BE contract (`groups[]` + `groupId`) |
+| `openspec/changes/**` | Proposals / deltas — not the live runtime CSV |
+
+## Contract reminders
+
+- Public schedule: units may carry `groupId`; sibling `groups[]` describes each group
+- `groups[].id` MUST equal member `units[].groupId`
+- Config changeable via CSV upload — no redeploy
+- No CSV row for a discipline → typically **no** `groupId` (unless pack says otherwise)
+
+## Editing discipline
+
+- Prefer updating CSV + OpenSpec together when behaviour changes
+- Keep Confluence links in README as provenance; do not invent rule rows without a source
+- Paris matrix / change proposals live under `openspec/changes/` — promote into CSV/spec deliberately

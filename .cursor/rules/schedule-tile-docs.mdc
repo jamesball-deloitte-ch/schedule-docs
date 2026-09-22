@@ -1,0 +1,35 @@
+---
+description: Conventions for schedule tile requirements packs under docs/
+globs: docs/**/*.md
+alwaysApply: false
+---
+
+# Schedule tile docs
+
+## Hierarchy
+
+- Shared baseline: `docs/common/schedule-tile-common.md`
+- Discipline packs: `docs/{DISC}/schedule-tile-requirements.md` = **deltas only** (do not restate all of common)
+- Grouping context: `docs/grouping/olympic-grouping-rules.csv` (and para CSV when relevant)
+
+## Pack must include
+
+1. Editions / versions (OSRP · ORIS · ODF · SC/CC)
+2. vs-common table
+3. Situations (before / during-after / exceptional)
+4. Separate **Backend** and **Frontend** sections (merge FE only if trivial)
+5. Mandatory **Schedule=S analysis** (even if count = 0)
+6. Cheat sheet (BEFORE / DURING / AFTER flow)
+7. API gaps + open product questions when sources conflict
+
+## Flavours
+
+- **H2H + score** — ARC, FBL, CKT, SQU pattern
+- **Event row + medallists** — CRD, CLB pattern
+
+## Rules of thumb
+
+- `Schedule=S` = visibility / grouping, **not** a redirect change (unless pack documents RSC override)
+- Inclusion: `Schedule=Y` plus documented `S`; phases `N` usually not listed
+- Grouping: cite CSV row or “no row → no `groupId`”
+- No fabricated OSRP / ORIS / CC / ODF claims — use MCP; detail workflow in `/define-requirements`

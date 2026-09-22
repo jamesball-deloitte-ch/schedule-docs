@@ -1,0 +1,38 @@
+---
+description: Project map, sources of truth, and hard stops for schedule-docs
+alwaysApply: true
+---
+
+# schedule-docs
+
+Docs + ODF freezes for CIS/WMR **schedule tiles**. Not an application codebase.
+
+## Layout
+
+| Path | Role |
+|------|------|
+| `docs/common/schedule-tile-common.md` | Shared tile rules (baseline) |
+| `docs/{DISC}/schedule-tile-requirements.md` | Discipline delta pack |
+| `docs/grouping/` | Grouping CSV + README |
+| `openspec/` | Backend grouping OpenSpec + change proposals |
+| `ownScenarios/{DISC}/` | Playback freezes (XML + README + AC.feature) |
+| `rawData/{DISC}/` | Source ODF dumps — **read-only** |
+
+## Language & output
+
+- Requirements / specs / freeze READMEs: **English**
+- Do **not** generate BE/FE application code unless the user explicitly asks
+- Prefer markdown packs, CSV, OpenSpec, and ODF XML under `ownScenarios/`
+
+## Sources of truth (do not invent)
+
+1. OSRP / ORIS / Common Codes / ODF verifier MCP — cite **document versions on the first line** of replies
+2. Local packs + `schedule-tile-common.md` + grouping CSV
+3. When sources conflict or under-specify → **Open product questions** (do not silently invent product answers)
+
+## Commands
+
+- `/define-requirements {DISC}` — write discipline pack
+- `/build-simulation {DISC}` — build freeze from pack + `rawData`
+
+Default edition: **LA28 / OG2028** unless overridden.
