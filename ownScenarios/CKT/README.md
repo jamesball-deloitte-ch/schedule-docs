@@ -40,10 +40,10 @@ OLY grouping: CKT has **no** row in `olympic-grouping-rules.csv` → **no `group
 | 8 | `100000` | `DT_RESULT` Bronze OFFICIAL | 10:00 | `WON_WKT` |
 | 9 | `143000` | `DT_SCHEDULE_UPDATE` **v3** | 14:30 | Gold **RUNNING** |
 | 10 | `143001` | `DT_RESULT` Gold LIVE | 14:30 | `PERIOD=IN2`, IN1 side had **YTB** |
-| 11 | `151000` | `DT_RESULT` Gold OFFICIAL | 15:10 | `FINAL_RESULT=NO RESULT` |
+| 11 | `151000` | `DT_RESULT` Gold OFFICIAL | 15:10 | `FINAL_RESULT=WON_RUN` → *New Zealand beat South Africa by 145 runs* |
 | 12 | `151001` | `DT_SCHEDULE_UPDATE` **v4** | 15:10 | Gold **FINISHED** |
-| 13 | `151010` | `DT_MEDALLISTS` | 15:10 | Men G/S/B |
-| 14 | `151011` | `DT_MEDALS` | 15:10 | standings **after** medallists |
+| 13 | `151010` | `DT_MEDALLISTS` | 15:10 | Men G/S/B (NZL / RSA / AUS) |
+| 14 | `151011` | `DT_MEDALS` | 15:10 | standings **after** medallists — **men-only**, aligned with medallists |
 
 Stop after step 4 for a pure “before” day. Full ingest ends at step 14 (`now = 15:15`).
 
@@ -79,8 +79,8 @@ Stop after step 4 for a pure “before” day. Full ingest ends at step 14 (`now
 | RSC | Status | Expect |
 |-----|--------|--------|
 | `CKTWT20---------------GP1A000200--` | **RUNNING** | IND vs BAR · Super Over live (`SO1IN2`) — raw dump never reached OFFICIAL |
-| `CKTMT20---------------FNL-000200--` | FINISHED | Bronze AUS vs PAK · `WON_WKT` · `medalFlag=3` |
-| `CKTMT20---------------FNL-000100--` | FINISHED | Gold NZL vs RSA · **`NO RESULT`** · `medalFlag=1` · medallists NZL / RSA / AUS |
+| `CKTMT20---------------FNL-000200--` | FINISHED | Bronze **PAK** vs AUS · `WON_WKT` · `medalFlag=3` |
+| `CKTMT20---------------FNL-000100--` | FINISHED | Gold NZL vs RSA · **`WON_RUN`** · `finalResultDescription` · `medalFlag=1` · medallists NZL / RSA / **PAK** |
 | `CKTMT20---------------VICTMEDAL---` | SCHEDULED | Victory — **WMR hide** / CIS may keep |
 
 Filter rows in every schedule version: `CKTGGEN…MEET000100` SCHEDULED; gender `MEET` **UNSCHEDULED** (never listed).
@@ -104,12 +104,25 @@ Href does not change by before / during / after.
 
 ---
 
+## Medals consistency
+
+| Source | Content |
+|--------|---------|
+| `DT_MEDALLISTS` `CKTMT20` | NZL gold, RSA silver, **PAK** bronze |
+| `DT_MEDALS` | **Same only** — `LastEvent=CKTMT20`, `FinishedEvents=1` / `TotalEvents=2`, no W medals |
+
+**Fabricated:** `DT_MEDALS` (aligned to men’s medallists). Bronze medallist set to **PAK** to match bronze `DT_RESULT` (`WON_WKT`, PH_TEAM Pos1=PAK) — raw dump had a later AUS medallists flip that disagreed with the result.
+
+**Fabricated on gold OFFICIAL `DT_RESULT`:** raw dump ended as `NO RESULT` (rain) with both `WLT=T` and RSA `19/0` (innings not closed). Replaced with `WON_RUN` + `PH_TEAM` NZL/RSA + `SCORE=145`, `WLT` W/L, `Rank` 1/2, and RSA score **`19/10`** (all out) so BE does not treat the match as a draw/incomplete.
+
+---
+
 ## Not covered / raw limits
 
 | Case | Why |
 |------|-----|
 | Men’s Group Stage / Women’s GP2–FNL | Not in this `rawData/CKT` dump |
-| Women’s `DT_MEDALLISTS` | Not in dump; men’s path only |
+| Women’s `DT_MEDALLISTS` | Out of scope for this freeze |
 | W `GP1A000200` OFFICIAL | Dump ends mid Super Over → left **RUNNING** on 09-09 |
 | `Schedule=S` | None in CC for CKT |
 
@@ -123,4 +136,5 @@ Href does not change by before / during / after.
 | W finished | `02_Group Stage Women` W01 / W02 |
 | W Super Over LIVE | `02_…/W03` |
 | M GP2 | `06_Second Round Men` M07–M12 |
-| Bronze / Gold / MEDALLISTS / MEDALS | `07_Medal Matches Men` M13 / M14 |
+| Bronze / Gold / MEDALLISTS | `07_Medal Matches Men` M13 / M14 |
+| MEDALS | **Fabricated** (aligned to men’s medallists) |

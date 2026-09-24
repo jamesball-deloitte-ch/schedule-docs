@@ -66,6 +66,9 @@ Progress:
 - [ ] Timeline: schedule before → during → after → medallists → medals
 - [ ] Include all Schedule=S units from CC that appear in feed/pack
 - [ ] Pack edge cases into other events in the same simulation
+- [ ] Consistency gate: medals ↔ RESULT winners ↔ PARTIC/ENTRIES; DT_MEDALS scope = medallists in freeze
+- [ ] After-state win / situation payload present when pack requires it (not accidental NO RESULT)
+- [ ] Remap check: HideEndDate still Y/N; unique filename timestamps
 - [ ] Fabricate ONLY missing messages; list them
 - [ ] Validate fabricated with ODF verifier when possible
 - [ ] Write README.md + AC.feature
@@ -99,6 +102,13 @@ If NOT → HARD STOP (do not fabricate an entire discipline dump)
 
   Example: `2026-09-09-080000000-DT_PARTIC_UPDATE--ARC--------------------------------.xml`
 
+**Remap safety (CKT lesson):**
+
+- Never blindly replace date substrings across the whole XML — it corrupts flags such as `HideEndDate="Y"` into datetimes.
+- Remap only known time fields (`StartDate`, `EndDate`, `UnitDateTime/@StartDate`, `LogicalDate`, `TimeStamp`, medal `@Date`, …).
+- After remap, assert `HideEndDate` (and similar Y/N flags) are still `Y` or `N`.
+- Filename prefixes must be **unique** per file (no two messages sharing the same `HHMMSSmmm` — sort order then depends on type name and breaks playback).
+
 ### 3. Bootstrap (required)
 
 | Condition | Messages (order) |
@@ -116,6 +126,38 @@ If NOT → HARD STOP (do not fabricate an entire discipline dump)
 | **After / target** | `FINISHED` + results; then **`DT_MEDALLISTS` → `DT_MEDALS`** (never reverse) |
 
 Stop-points in README so playback can pause at “before only” or “mid-live”.
+
+### 4b. Consistency gate (mandatory before README)
+
+Raw dumps often disagree across message types (later medallists flip, full-tournament `DT_MEDALS`, abandoned finals). **Do not ship a freeze with known mismatches.** Run this checklist and fix (prefer aligning to the RESULT of the unit in the freeze, or fabricate deliberately and list it).
+
+#### Medals ↔ results ↔ teams
+
+| Check | Rule |
+|-------|------|
+| Order | `DT_MEDALLISTS` **before** `DT_MEDALS` in filename timestamps |
+| `DT_MEDALS` scope | Standings must reflect **only events that have `DT_MEDALLISTS` in this freeze**. Do **not** copy a full-tournament `DT_MEDALS` that still counts women/other events you did not include — that causes “NOC has gold+bronze in table but details show only gold”. |
+| Gold / silver / bronze | Each `ME_*` competitor code + org + name must exist in `DT_PARTIC_TEAMS` / `DT_PARTIC` and in `DT_ENTRIES` (teams) |
+| Winner = result | For each medal unit: medallist must match `DT_RESULT` winner (`WLT=W` / `Rank=1`, and sport-specific win payload e.g. CKT `FINAL_RESULT` + `PH_TEAM` Pos=1). If raw medallists disagree with RESULT → **change medallists (and `DT_MEDALS`) to match RESULT**, unless the pack explicitly tests DQ/protest. |
+| `DT_MEDALS` lines | NOC totals must equal the medallists you shipped (same G/S/B owners) |
+| Schedule `Medal=` | Gold/bronze units keep `Medal="1"` / `Medal="3"` (or pack equivalent) when testing medal markers |
+
+#### After-state “who won” text (H2H / CKT-like)
+
+| Check | Rule |
+|-------|------|
+| Situation string | If the pack expects `finalResultDescription` / match-situation copy, OFFICIAL `DT_RESULT` must carry a real win (or documented exceptional) code — e.g. CKT `WON_RUN` / `WON_WKT` / `WON_SO*` **with** `PH_TEAM` + `SCORE` when the template needs them. |
+| Accidental No Result | Do **not** leave `NO RESULT` / empty win payload on a medal final unless the freeze **intentionally** tests abandoned/No Result. |
+| WLT / Rank | After fabricating a win string, set `WLT` / `Rank` consistently (winner W/1, loser L/2). |
+
+#### Cross-links (teams)
+
+| Check | Rule |
+|-------|------|
+| Same team id | `SCHEDULE` StartList ↔ `DT_RESULT` Home/Away/Competitors ↔ `DT_MEDALLISTS` Competitor ↔ `DT_ENTRIES` Entry ↔ `DT_PARTIC_TEAMS` |
+| Composition | Podium athlete codes ⊆ entry/particip codes for that team (minor XI subset OK; unknown codes = fail) |
+
+Document any intentional exception in README (**Fabricated** + why).
 
 ### 5. Schedule=S
 
@@ -178,9 +220,10 @@ Also summarize: scenario path, LogicalDate, Schedule S units included, playback 
 ## Definition of done
 
 - [ ] Gate 0 passed (rawData used)
-- [ ] ODFs copied then remapped (rawData untouched)
+- [ ] ODFs copied then remapped (rawData untouched); HideEndDate/Y-N flags intact; unique timestamps
 - [ ] PARTIC (+ TEAMS + ENTRIES if teams)
 - [ ] Before / during / after through MEDALLISTS → MEDALS
-- [ ] Schedule=S units included when CC has them
+- [ ] **Consistency gate 4b passed** (medals ↔ results ↔ teams; win-situation payload if required)
+- [ ] Schedule=S units included when CC has them (0×S is OK — say so in README)
 - [ ] README + AC.feature written
 - [ ] Fabricated list printed (even if empty)

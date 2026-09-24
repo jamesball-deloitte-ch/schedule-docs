@@ -39,3 +39,13 @@ Cover before / during / after through medals. Include **Schedule=S** units from 
 - Keep competitor / team codes consistent with PARTIC
 - Always list fabricated files in the final reply (or `(none)`)
 - Validate fabricated XML with ODF verifier when practical
+
+## Consistency (do not ship mismatches)
+
+Raw dumps lie across messages — **fix before README**:
+
+1. **`DT_MEDALS` ⊆ freeze medallists** — do not copy full-tournament standings that still count events without `DT_MEDALLISTS` in this freeze (e.g. women medals when only men are included).
+2. **Medallist = RESULT winner** for that unit (`WLT` / `Rank` / CKT `FINAL_RESULT`+`PH_TEAM`). Prefer RESULT; change medallists + `DT_MEDALS` if raw disagrees (unless testing DQ/protest).
+3. **After-state situation text** — if the pack needs a win sentence (`finalResultDescription`), OFFICIAL RESULT must carry a real win payload (`WON_*` + extensions), not an accidental `NO RESULT`.
+4. **Same team/athlete ids** across SCHEDULE StartList ↔ RESULT ↔ MEDALLISTS ↔ ENTRIES ↔ PARTIC_TEAMS.
+5. **Date remap** — do not blanket-replace dates (corrupts `HideEndDate="Y"`). Keep filename timestamps unique.

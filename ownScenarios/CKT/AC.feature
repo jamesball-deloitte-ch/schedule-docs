@@ -69,10 +69,12 @@ Feature: CKT schedule tiles — multi-day team freeze
       | CKTWT20---------------GP1A000200-- | RUNNING  | India vs Barbados Super Over |
       | CKTMT20---------------FNL-000200-- | FINISHED | Australia vs Pakistan bronze |
       | CKTMT20---------------FNL-000100-- | FINISHED | New Zealand vs South Africa gold |
-    And Gold FINAL_RESULT is NO RESULT
-    And finalResultDescription reflects No Result
+    And Gold FINAL_RESULT is WON_RUN
+    And finalResultDescription is New Zealand beat South Africa by 145 runs
+    And Gold competitors have Rank 1 / 2 with WLT W / L
     And DT_MEDALLISTS was ingested before DT_MEDALS
-    And medallists are NZL gold, RSA silver, AUS bronze
+    And medallists are NZL gold, RSA silver, PAK bronze
+    And DT_MEDALS standings match medallists only (NZL 1G, RSA 1S, PAK 1B — no women's medals)
     And Victory Ceremony is not listed on WMR:
       | CKTMT20---------------VICTMEDAL--- |
     And UNSCHEDULED meetings are not listed:
