@@ -222,6 +222,8 @@ Shared checklist plus:
 
 ## 4. Frontend — ARC
 
+**Score / IRM / winner (FE summary):** [schedule-tile-fe-score.md](./schedule-tile-fe-score.md)
+
 Shared layout plus:
 
 | Phase | FE |

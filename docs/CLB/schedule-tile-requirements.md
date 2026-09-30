@@ -12,13 +12,13 @@
 
 | Topic | CLB behaviour |
 |-------|----------------|
-| Tile type | **Phase/unit session** (Boulder/Lead) or Speed heat/phase — not always H2H score card |
+| Tile type | **Phase/unit session** (Boulder/Lead) or Speed **phase** row — not H2H score card |
 | Results on tile | **N/A** (OSRP schedule) |
 | After | Show **three medallists** (NOC + athlete) when known |
-| Placeholders | Rich `SC@CompetitorPlace`: `TBD`, `WQF*`, `WSF*`, `LSF*`, `BYE`, `NOCOMP` |
+| Placeholders | Rich `SC@CompetitorPlace` exists in ODF — **not shown on schedule tile** (Speed `S` pairs merge into Finals phase tile) |
 | `liveCurrentProgress` | **N/A** for schedule tile (`SC@Period` empty); live = status highlight |
 | `resultDecision` | **N/A** on schedule tile |
-| Schedule flags | Boulder/Lead: unit `Y`; Speed: mix of phase `Y` + race `S` (ODF) |
+| Schedule flags | **CC verified (OG2028):** Speed **phase** `QFNL`/`SFNL`/`FNL-` = `Schedule=Y`; each race **unit** (pairs) = `Schedule=S`. Qual heat parents = unit `Y`; race subunits = `S`. Boulder/Lead final units = `Y`. List **Y** rows; do not list each `S` pair as its own schedule card |
 
 ---
 
@@ -29,22 +29,23 @@
 - Date, start time, discipline, event, phase.
 - Status / medal indicators (not “Scheduled”); live highlight when `RUNNING`.
 - **No result scores** on the schedule tile.
-- When bracket opponents known for a unit: may show names or place-code text (Speed / finals context) — still no climbing score on this tile.
+- Do **not** show Speed pair (H2H / placeholder) rows on the schedule card — `Schedule = S` races are merged under the Finals / phase `Y` tile.
 
 ### 2.2 After event completed
 
 - Show **three medallists**: NOC (code/flag) + athlete name (+ medal icon per product).
 
-### 2.3 Speed schedule granularity (ODF)
+### 2.3 Speed schedule granularity (`CC@Unit` / `CC@Phase`, OG2028)
 
-| Stage | Schedule inclusion |
-|-------|-------------------|
-| Boulder / Lead | Units with `schedule=Y` |
-| Speed qual seeding | Single unit |
-| Speed qual elimination | Heats `Y`; each race also `S` |
-| Speed finals | Phase `Y`; each pair unit also `S` |
+| Stage | CC Schedule | What appears on schedule UI |
+|-------|-------------|------------------------------|
+| Boulder / Lead SFNL & FNL | **Unit `Y`** | That unit tile |
+| Speed Qualification Seeding / Elimination (heat parent) | **Unit `Y`** | Heat parent tile |
+| Speed Qual Elimination races (`…EL01`…`EL07`) | **Unit `S`** (SubUnit) | **Not** separate cards — under parent `Y` |
+| Speed Quarterfinals / Semifinals / Finals | **Phase `Y`** (`…QFNL--------`, `…SFNL--------`, `…FNL---------`) | **One phase tile** (e.g. “Men's Speed Finals”) |
+| Speed QF/SF/FNL pair units (Big Final, Small Final, QF 1–4, …) | **Unit `S`** | **Not** separate cards — covered by phase `Y` |
 
-Product must decide which RSC rows appear as tiles (prefer `Y`; `S` may be detail-only).
+So: `Schedule=S` does not invent a merge rule by itself — CC already puts **visibility on the phase (`Y`)** and marks pair races **`S`**. FE/BE list `Y` (units + Speed phases); omit or nest `S` pairs.
 
 ---
 
@@ -69,20 +70,9 @@ DT_MEDALLISTS → schedules[] competitors[]
   type=A, athleteNames, organisation, result.medal = GOLD|SILVER|BRONZE
 ```
 
-### 3.3 Placeholder opponents (when unit has bracket sides)
+### 3.3 Placeholder opponents
 
-`SC@CompetitorPlace` → `placeholderOpponents[].name` (Description):
-
-| Code | Description |
-|------|-------------|
-| `TBD` | To be defined |
-| `WQF1`…`WQF4` | Winner of Quarterfinal 1…4 |
-| `WSF1`, `WSF2` | Winner of Semifinal 1/2 |
-| `LSF1`, `LSF2` | Loser of Semifinal 1/2 |
-| `BYE` | Bye |
-| `NOCOMP` | Not competed |
-
-Known athletes → `competitors[]` (`Type=A`).
+`SC@CompetitorPlace` codes (`TBD`, `WQF*`, `WSF*`, `LSF*`, `BYE`, `NOCOMP`) apply to Speed **pair** units in ODF. For the **schedule tile**, those `S` units are not listed as separate cards (merged into Finals / phase `Y`) — FE schedule results box does **not** need H2H placeholder rendering. Place-code resolution remains relevant for unit results / brackets surfaces, not Daily Schedule.
 
 ### 3.4 Progress / decision
 
@@ -94,14 +84,14 @@ Known athletes → `competitors[]` (`Type=A`).
 
 ### 3.5 Inclusion
 
-- Default list: `schedule=Y` units/phases.
-- Document Speed `S` races as optional / filtered (avoid flooding schedule with every pair if phase row already shown).
+- Default list: `Schedule=Y` from CC — Speed **phases** (QFNL/SFNL/FNL) and Boulder/Lead/Qual **units**; plus agreed medal ceremony units.
+- Speed pair **units** with `Schedule=S` are not separate Daily Schedule cards (see §2.3).
 
 ### 3.6 CLB checklist
 
 - [ ] Y (and agreed S) units in payload  
 - [ ] No climbing scores on schedule tile  
-- [ ] Place codes WQF/WSF/LSF/TBD resolved via SC Description  
+- [ ] Place codes on Speed pairs: not required for schedule tile UI (S → Finals phase)  
 - [ ] After: three medallists from `DT_MEDALLISTS`  
 - [ ] Live = `scheduleStatus` / `liveFlag` only  
 
@@ -109,31 +99,36 @@ Known athletes → `competitors[]` (`Type=A`).
 
 ## 4. Frontend — CLB
 
+**Results box (FE summary):** [schedule-tile-fe-score.md](./schedule-tile-fe-score.md)
+
 | Phase | FE |
 |-------|-----|
-| Before | Event/phase, time, placeholders if bracket sides unknown |
+| Before | Event/phase, time; **no** H2H / placeholder opponent rows |
 | During | Live highlight; no result block |
 | After | Three medallist rows |
 
 ### 4.1 Card click redirects
 
-Same as [common §4.3](../common/schedule-tile-common.md) — **one unit-results URL for before / during / after**.
+Same as [common §4.3](../common/schedule-tile-common.md) — **one results URL for before / during / after**.
 
-Example unit RSC: `CLBMSPEED-------------FNL-000100--`
+**CLB Speed is on [Schedule RSC overrides](https://dgplatform.atlassian.net/wiki/spaces/SCDLA/pages/3229941783/Schedule+RSC+overrides):** phase tiles (shared finals/brackets screen) must navigate via `overrideRsc` when set — e.g. schedule RSC `CLBMSPEED-------------FNL---------` → override `CLBMSPEED-------------FNL-000100--` (same idea for W / QFNL / SFNL on that page).
+
+Example after override (Big Final unit):
 
 | Surface | On card click → |
 |---------|-----------------|
 | **CIS** | `/en/OG2028/CLB/M/SPEED-------------/FNL-/000100--/results` |
 | **WMR** | `/en/la28/results/unit/clbmspeed-------------fnl-000100--` |
 
-Boulder / Lead / earlier Speed heats use the same patterns (`BOULDER-----------`, `LEAD--------------`, `QFNL…`, …). Qualifications Summary / Summary tabs are in-app after Results — not the schedule card href.
+Boulder / Lead / Qual heat parents use their own unit RSC (no override unless listed). In-app tabs after Results are not part of the schedule card href.
 
 ---
 
 ## 5. Cheat sheet
 
 ```
-BEFORE/DURING: DT_SCHEDULE  →  meta/status; optional WQF/WSF placeholders; no scores
+BEFORE/DURING: DT_SCHEDULE  →  meta/status for Schedule=Y rows; no scores; no H2H placeholders
 AFTER:         DT_MEDALLISTS →  three medallists on tile
-SPEED:         prefer schedule=Y rows; treat schedule=S as secondary
+SPEED (CC):    Phase QFNL/SFNL/FNL = Y → one tile; pair units = S → not listed separately
+SPEED click:   use overrideRsc (shared brackets/finals page) per Schedule RSC overrides
 ```

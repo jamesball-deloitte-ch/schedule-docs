@@ -89,11 +89,13 @@ DT_RESULT   ExtendedInfo[@Type='UI'][@Code='PERIOD']/@Value
 SC@Period (FBL) Description
         │
         ▼
-liveCurrentProgress.code / .name
+liveCurrentProgress.period.code / .name
+(API may also send liveCurrentProgress.time — FE must not display it on the tile)
 ```
 
 Populate only while live (`RUNNING` / in-match interrupt-break). Clear when finished.  
-Example rawData: `Clock Period="H1"` / `ExtendedInfo … PERIOD Value="H1"` → `{ "code": "H1", "name": "First half" }`.
+Confluence shape: `{ "period": { "code": "H1", "name": "First half" }, "time": "67:05" }` — tile uses **period only**.  
+Example rawData: `Clock Period="H1"` / `ExtendedInfo … PERIOD Value="H1"` → period `{ "code": "H1", "name": "First half" }`.
 
 ### 3.3 `resultDecision` (proposed API)
 
@@ -110,7 +112,7 @@ resultDecision: { code, name }   // unit-level, not per competitor
 Do **not** put IRMs here (`invalidResultMark` only).  
 For `PSO`, also expose shoot-out tallies (proposed `psoResult` / `periodScores` from `Periods/Period[@Code='PSO']`).
 
-> Confluence Schedule lacks `resultDecision` today — required for OSRP after-state.
+> Confluence Schedule includes `resultDecision` (v24+) — required for OSRP after-state.
 
 ### 3.4 `startText`
 
@@ -154,13 +156,15 @@ Shared plus:
 
 ## 4. Frontend — FBL
 
+**FE mapping (states + Schedule API fields):** [schedule-tile-fe.md](./schedule-tile-fe.md) · **Score / IRM / winner summary:** [schedule-tile-fe-score.md](./schedule-tile-fe-score.md)
+
 Shared layout plus:
 
 | Phase | FE |
 |-------|-----|
 | Before | `placeholderOpponents[].name` as-is |
-| During | Period from `liveCurrentProgress` (full or abbr); live score |
-| After | Score; winner; `resultDecision` indicator; IRM; PSO `(n)` when provided |
+| During | Period from `liveCurrentProgress.period.code` only; live score; **no** match clock; **no** winner marker |
+| After | Score; winner (`WLT` only when finished); `resultDecision` indicator; IRM; PSO `(n)` via `psoResult` |
 
 ### 4.1 Card click redirects
 
@@ -179,12 +183,14 @@ Destination is the FBL **Results** unit view (scoreboard / live match). Side rai
 
 ## 5. API gaps (FBL view)
 
-| Field | Need |
-|-------|------|
-| `resultDecision` | **Yes** — AET/PSO/FORFEIT/VOIDED |
-| PSO detail scores | **Yes** |
-| `startText` | Yes when HideStartDate used |
-| `liveCurrentProgress` | Already on Confluence — implement §3.2 |
+Confluence Schedule (v24+) now includes `startText`, `resultDecision`, `psoResult`, and nested `liveCurrentProgress.period` + `.time` (FE ignores `.time` on the tile). Remaining FE/product questions: [schedule-tile-fe.md §10](./schedule-tile-fe.md).
+
+| Field | Status |
+|-------|--------|
+| `resultDecision` | On Confluence — wire AET/PSO/FORFEIT/VOIDED |
+| `psoResult` | On Confluence — paren shoot-out tallies |
+| `startText` | On Confluence — when `hideStartDate` |
+| `liveCurrentProgress` | On Confluence — implement §3.2 / FE §6 |
 
 ---
 

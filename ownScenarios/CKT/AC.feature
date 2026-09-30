@@ -42,7 +42,7 @@ Feature: CKT schedule tiles — multi-day team freeze
     Given now is 2026-09-09T15:15:00+02:00
     When the client opens schedulesPerDay/2026-09-08
     Then CKTMT20 GP2-000600 is FINISHED Pakistan vs India
-    And FINAL_RESULT is MATCH TIED
+    And FINAL_RESULT is TIED
     And Super Over period scores are present on the result
 
   Scenario: Mid-morning — Women's Super Over live
@@ -53,12 +53,24 @@ Feature: CKT schedule tiles — multi-day team freeze
     And tile scores are runs/wickets
     And DT_MEDALLISTS has not been ingested yet
 
-  Scenario: Mid-afternoon — Gold live with innings progress
+  Scenario: Mid-afternoon — Gold live first innings elected line
+    Given only messages up to 2026-09-09-143000500 have been ingested
+    And now is 2026-09-09T14:30:00.500+02:00
+    Then CKTMT20 FNL-000100 is RUNNING with liveFlag true
+    And liveCurrentProgress is IN1
+    And New Zealand score is 52/1 and South Africa is Yet to bat
+    And Match info is "First innings: South Africa elected to field"
+    And ER/TOSS on South Africa Result is FIELD
+    And medalFlag is 1
+    And DT_MEDALS has not been ingested yet
+
+  Scenario: Mid-afternoon — Gold live second innings (elected line off)
     Given only messages up to 2026-09-09-143001000 have been ingested
     And now is 2026-09-09T14:30:01+02:00
     Then CKTMT20 FNL-000100 is RUNNING with liveFlag true
     And liveCurrentProgress is IN2
     And New Zealand score is 164/9 and South Africa is 19/0
+    And Match info elected line is not shown
     And medalFlag is 1
     And DT_MEDALS has not been ingested yet
 

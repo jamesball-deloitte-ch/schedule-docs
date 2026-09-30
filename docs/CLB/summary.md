@@ -1,7 +1,7 @@
 # CLB Summary
 
 ## Navigation
-- Generic
+- Generic, **except Speed phases**: use Schedule RSC overrides (`overrideRsc`) — one shared results screen for the bracket stage (e.g. Finals phase → `FNL-000100--`)
 
 ## Filtering
 - Generic

@@ -91,6 +91,8 @@ Do **not** invent medallists from partial `DT_RESULT` ranks unless product expli
 
 ## 4. Frontend — CRD
 
+**Results box (FE summary):** [schedule-tile-fe-score.md](./schedule-tile-fe-score.md)
+
 | Phase | FE |
 |-------|-----|
 | Before | Event title, time, venue, status/medal flag |

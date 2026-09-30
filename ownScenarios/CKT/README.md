@@ -39,13 +39,14 @@ OLY grouping: CKT has **no** row in `olympic-grouping-rules.csv` → **no `group
 | 7 | `090001` | `DT_RESULT` LIVE Super Over | 09:00 | `PERIOD=SO1IN2`, scores `nnn/n` |
 | 8 | `100000` | `DT_RESULT` Bronze OFFICIAL | 10:00 | `WON_WKT` |
 | 9 | `143000` | `DT_SCHEDULE_UPDATE` **v3** | 14:30 | Gold **RUNNING** |
-| 10 | `143001` | `DT_RESULT` Gold LIVE | 14:30 | `PERIOD=IN2`, IN1 side had **YTB** |
-| 11 | `151000` | `DT_RESULT` Gold OFFICIAL | 15:10 | `FINAL_RESULT=WON_RUN` → *New Zealand beat South Africa by 145 runs* |
-| 12 | `151001` | `DT_SCHEDULE_UPDATE` **v4** | 15:10 | Gold **FINISHED** |
-| 13 | `151010` | `DT_MEDALLISTS` | 15:10 | Men G/S/B (NZL / RSA / AUS) |
-| 14 | `151011` | `DT_MEDALS` | 15:10 | standings **after** medallists — **men-only**, aligned with medallists |
+| 10 | `143000500` | `DT_RESULT` Gold LIVE **IN1** | 14:30 | `PERIOD=IN1`, RSA `ER/TOSS=FIELD`, Away **YTB** → *First innings: South Africa elected to field* |
+| 11 | `143001` | `DT_RESULT` Gold LIVE **IN2** | 14:30 | `PERIOD=IN2`, scores `164/9` vs `19/0` (elected line **off**) |
+| 12 | `151000` | `DT_RESULT` Gold OFFICIAL | 15:10 | `FINAL_RESULT=WON_RUN` → *New Zealand beat South Africa by 145 runs* |
+| 13 | `151001` | `DT_SCHEDULE_UPDATE` **v4** | 15:10 | Gold **FINISHED** |
+| 14 | `151010` | `DT_MEDALLISTS` | 15:10 | Men G/S/B (NZL / RSA / PAK) |
+| 15 | `151011` | `DT_MEDALS` | 15:10 | standings **after** medallists — **men-only**, aligned with medallists |
 
-Stop after step 4 for a pure “before” day. Full ingest ends at step 14 (`now = 15:15`).
+Stop after step 4 for a pure “before” day. Full ingest ends at step 15 (`now = 15:15`).
 
 ---
 
@@ -72,7 +73,7 @@ Stop after step 4 for a pure “before” day. Full ingest ends at step 14 (`now
 |-----|--------|--------|
 | `CKTMT20---------------GP2-000400--` | FINISHED | RSA vs IND · `WON_RUN` |
 | `CKTMT20---------------GP2-000500--` | FINISHED | GBR vs AUS · `WON_WKT` |
-| `CKTMT20---------------GP2-000600--` | FINISHED | PAK vs IND · **`MATCH TIED`** + multi Super Over scores |
+| `CKTMT20---------------GP2-000600--` | FINISHED | PAK vs IND · **`TIED`** + multi Super Over scores |
 
 ### 2026-09-09 — NOW (after full ingest)
 
@@ -85,9 +86,12 @@ Stop after step 4 for a pure “before” day. Full ingest ends at step 14 (`now
 
 Filter rows in every schedule version: `CKTGGEN…MEET000100` SCHEDULED; gender `MEET` **UNSCHEDULED** (never listed).
 
-### Mid-playback (`now = 14:30`, stop before `151000`)
+### Mid-playback
 
-Gold still **RUNNING** with `liveCurrentProgress` **IN2**, scores `164/9` vs `19/0` (YTB appeared in IN1 for RSA).
+| Stop after | Now | Gold expect |
+|------------|-----|-------------|
+| `143000500` | 14:30:00.5 | **RUNNING** · `liveCurrentProgress=IN1` · NZL `52/1` · RSA **Yet to bat** · Match info *First innings: South Africa elected to field* (`ER/TOSS=FIELD` on RSA) |
+| `143001` (before `151000`) | 14:30:01 | **RUNNING** · `liveCurrentProgress=IN2` · scores `164/9` vs `19/0` · elected line **hidden** (PERIOD ≠ IN1) |
 
 ---
 
@@ -111,7 +115,7 @@ Href does not change by before / during / after.
 | `DT_MEDALLISTS` `CKTMT20` | NZL gold, RSA silver, **PAK** bronze |
 | `DT_MEDALS` | **Same only** — `LastEvent=CKTMT20`, `FinishedEvents=1` / `TotalEvents=2`, no W medals |
 
-**Fabricated:** `DT_MEDALS` (aligned to men’s medallists). Bronze medallist set to **PAK** to match bronze `DT_RESULT` (`WON_WKT`, PH_TEAM Pos1=PAK) — raw dump had a later AUS medallists flip that disagreed with the result.
+**Fabricated:** `DT_MEDALS` (aligned to men’s medallists); Gold LIVE IN1 `143000500`. Bronze medallist set to **PAK** to match bronze `DT_RESULT` (`WON_WKT`, PH_TEAM Pos1=PAK) — raw dump had a later AUS medallists flip that disagreed with the result.
 
 **Fabricated on gold OFFICIAL `DT_RESULT`:** raw dump ended as `NO RESULT` (rain) with both `WLT=T` and RSA `19/0` (innings not closed). Replaced with `WON_RUN` + `PH_TEAM` NZL/RSA + `SCORE=145`, `WLT` W/L, `Rank` 1/2, and RSA score **`19/10`** (all out) so BE does not treat the match as a draw/incomplete.
 
@@ -125,6 +129,8 @@ Href does not change by before / during / after.
 | Women’s `DT_MEDALLISTS` | Out of scope for this freeze |
 | W `GP1A000200` OFFICIAL | Dump ends mid Super Over → left **RUNNING** on 09-09 |
 | `Schedule=S` | None in CC for CKT |
+
+**Fabricated:** Gold LIVE IN1 `143000500` (PERIOD=IN1 + TOSS/YTB elected case). Also: all `ER/TOSS Value="BOWL"` → **`FIELD`** (SC@Toss).
 
 ---
 

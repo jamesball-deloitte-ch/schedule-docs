@@ -2,7 +2,7 @@
 <OdfBody CompetitionCode="OG2028-ITL" DocumentCode="CKTMT20---------------GP2-000600--" DocumentType="DT_RESULT" Version="201" ResultStatus="OFFICIAL" FeedFlag="T" TimeStamp="2026-09-09T08:00:10.015+02:00" LogicalDate="2026-09-09" Source="FRGCKT1">
 	<Competition Gen="OG2028-GEN-V5.1" Sport="OG2028-CKT-0.3" Codes="OG2028-CC-V1.2.0">
 		<ExtendedInfos>
-			<ExtendedInfo Type="UI" Code="FINAL_RESULT" Value="MATCH TIED"/>
+			<ExtendedInfo Type="UI" Code="FINAL_RESULT" Value="TIED"/>
 			<SportDescription DisciplineName="Cricket" EventName="Cricket" SubEventName="Second Round" Gender="M" UnitNum="6"/>
 			<VenueDescription Venue="FRG" VenueName="Fairgrounds Cricket St" Location="FRG" LocationName="Fairgrounds Cricket Stadium"/>
 		</ExtendedInfos>
@@ -302,7 +302,7 @@
 		</Result>
 		<Result ResultType="SCORE" Result="21/1" WLT="L" SortOrder="2" StartSortOrder="2">
 			<ExtendedResults>
-				<ExtendedResult Type="ER" Code="TOSS" Value="BOWL"/>
+				<ExtendedResult Type="ER" Code="TOSS" Value="FIELD"/>
 			</ExtendedResults>
 			<Competitor Code="CKTMT20---------------IND01" Type="T" Organisation="IND">
 				<Description TeamName="India"/>

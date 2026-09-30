@@ -40,7 +40,7 @@
 - Live highlight.
 - Batting side: live score `nnn/n` (overs as `(n.n)` / `(nn)` per OSRP format).
 - Side not yet batted: text **Yet to bat** (ODF `YTB` / `SC@ResultMark`).
-- First innings: also “First innings: Team name elected to bat/field” (from toss / batting ExtendedInfos — §3.4).
+- First innings only: Match info line **“First innings: {Team} elected to bat/field”** from `ER/TOSS` (§3.4) — not from `UI/BATTING`.
 - Optional progress: current innings (and over) via `liveCurrentProgress`.
 
 ### 2.3 After
@@ -92,7 +92,7 @@ Implements [common §3](../common/schedule-tile-common.md) plus below.
 | Message | CKT tile role |
 |---------|----------------|
 | `DT_SCHEDULE[_UPDATE]` | Meta, status, teams / place codes |
-| `DT_RESULT` | LIVE scores, `YTB`, `UI/PERIOD` (+ OVER), `UI/BATTING` / toss, `UI/FINAL_RESULT`, WLT |
+| `DT_RESULT` | LIVE scores, `YTB`, `UI/PERIOD` (+ OVER), `ER/TOSS`, `UI/BATTING`, `UI/FINAL_RESULT`, WLT |
 | `DT_CURRENT` | If present — live merge (prefer with RESULT) |
 | `DT_PARTIC_TEAMS` | Team names for `#ORG*` interpolation |
 
@@ -167,15 +167,68 @@ API  extendedResultInfo.finalResultDescription
 
 Populate from **UNOFFICIAL** onward (ODF); clear or omit before match end.
 
-### 3.4 During extras — Yet to bat / toss
+### 3.4 During extras — Yet to bat / toss (elected line)
 
 | UI | ODF |
 |----|-----|
 | Score `128/5` | `Result/@Result` (`ResultType=SCORE`) and/or `Periods/Period` scores |
 | **Yet to bat** | `Result` with `IRM`/`ResultMark` **YTB**, or period `HomeScore`/`AwayScore` = `YTB` |
-| Elected to bat/field | e.g. `ExtendedResult Code="TOSS" Value="BOWL"` / `UI/BATTING` team id — compose “First innings: {Team} elected to …” per product copy |
+| **Elected to bat/field** | `Result/ExtendedResults/ExtendedResult[@Type='ER'][@Code='TOSS']` — see below |
 
 FE may show `YTB` as the OSRP phrase **Yet to bat** (SC Description).
+
+#### First-innings Match info — “elected to bat/field”
+
+Product copy (OSRP / summary):  
+`First innings: {Toss winning team name} elected to {bat|field}`
+
+This is **composed by BE** (not a single ODF string). Do **not** use `UI/BATTING` for the team name — that code is the side currently batting, which can differ from the toss winner (e.g. toss winner elects to field).
+
+```
+DT_RESULT  Result[…]/ExtendedResults/ExtendedResult[@Type='ER'][@Code='TOSS']
+           — Element expected: after the toss, only on the Result of the team that won the toss
+           @Value = SC@Toss Code   (BAT | FIELD)
+        │
+        ▼
+Team name  ← Competitor on that same Result (DT_PARTIC_TEAMS / Description)
+Verb       ← SC@Toss: BAT → "bat", FIELD → "field"
+Gate       ← UI/PERIOD @Value == IN1   (first innings only; hide once PERIOD moves to IN2 / SO*)
+        │
+        ▼
+API        match-info / elected line (or agreed field)
+           = "First innings: India elected to bat"
+```
+
+| Part | Source | Notes |
+|------|--------|--------|
+| Toss-winning team | Parent `Result/Competitor` of `ER/TOSS` | ODF sends `TOSS` only for the winner of the toss |
+| `bat` / `field` | `ExtendedResult[@Code='TOSS']/@Value` → **SC@Toss** | `BAT` = “Won the toss and elected to bat”; `FIELD` = “… elected to field” |
+| Show only in 1st innings | `ExtendedInfo[@Type='UI'][@Code='PERIOD']/@Value` = `IN1` | Clear / omit when `PERIOD` ≠ `IN1` (or when match finished → use §3.3 instead) |
+
+#### `SC@Toss` (CKT)
+
+| Code | Description |
+|------|-------------|
+| `BAT` | Won the toss and elected to bat |
+| `FIELD` | Won the toss and elected to field |
+
+**Invalid:** free text (`"BOWL"`, `"bat"`, …). Only `BAT` / `FIELD`.
+
+#### Worked example
+
+```xml
+<Result …>
+  <Competitor Code="CKTMT20---------------IND01" Type="T" Organisation="IND">…</Competitor>
+  <ExtendedResults>
+    <ExtendedResult Type="ER" Code="TOSS" Value="BAT"/>
+  </ExtendedResults>
+</Result>
+<!-- UI/PERIOD Value="IN1" -->
+```
+
+→ **`First innings: India elected to bat`**.
+
+`TOSS Value="FIELD"` + same gate → **`First innings: India elected to field`**.
 
 ### 3.5 Placeholder opponents
 
@@ -203,6 +256,7 @@ Shared plus:
 
 - [ ] Scores as runs/wickets; map `YTB` → Yet to bat  
 - [ ] `liveCurrentProgress` from `UI/PERIOD` (+ optional OVER)  
+- [ ] First-innings elected line from `ER/TOSS` + Competitor + `PERIOD=IN1` (§3.4)  
 - [ ] `finalResultDescription` interpolated from `SC@ResultDesc` + PH_TEAM + SCORE  
 - [ ] Placeholders `TBD` / `ROUND2_R*` via CompetitorPlace Description  
 - [ ] Super Over scores available when PERIOD/SO* present  
@@ -217,7 +271,7 @@ Shared layout plus (detail: [schedule-tile-fe-component.md](./schedule-tile-fe-c
 | Phase | FE |
 |-------|-----|
 | Before | Placeholders as BE `name` (`TBD`, `Second Round Rank n`) |
-| During | Live score; **Yet to bat** for non-batting side; optional innings progress; first-innings elected line when API provides data |
+| During | Live score; **Yet to bat** for non-batting side; optional innings progress; first-innings elected line from BE (§3.4) |
 | After | Both scores (+ SO line); winner; **`finalResultDescription`** as match-situation line; medal icon |
 
 Do not invent the situation sentence on FE — render `extendedResultInfo.finalResultDescription` from BE.
@@ -246,7 +300,7 @@ WMR builder: `resolveCktGroupStandingsMatchHref` — maps gender → `mck`/`wck`
 | `liveCurrentProgress` | On Confluence — use for innings (§3.2), not only FBL |
 | `startText` | Still missing if HideStartDate used |
 | `resultDecision` | Not needed for CKT |
-| Toss / “elected to bat” structured field | May need explicit API if not derived client-side from raw ExtendedResults — confirm with BE |
+| Toss / “elected to bat” line | Compose on BE from `ER/TOSS` (§3.4); expose via Match info API field (confirm name with Schedule API) — **not** FE-parsed from raw ODF |
 
 ---
 
@@ -254,6 +308,7 @@ WMR builder: `resolveCktGroupStandingsMatchHref` — maps gender → `mck`/`wck`
 
 ```
 BEFORE:  DT_SCHEDULE  →  teams | TBD / ROUND2_Rn → placeholders
-DURING:  DT_RESULT    →  SCORE | YTB, PERIOD(+OVER) → liveCurrentProgress, BATTING/TOSS
+DURING:  DT_RESULT    →  SCORE | YTB, PERIOD(+OVER) → liveCurrentProgress
+           ER/TOSS (+ PERIOD=IN1) → elected Match info line
 AFTER:   DT_RESULT    →  scores, WLT, FINAL_RESULT + SC@ResultDesc → finalResultDescription
 ```

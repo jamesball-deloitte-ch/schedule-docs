@@ -129,7 +129,7 @@ Baseline has **Match info** hidden. For CKT, show it when there is copy:
 
 | Phase | Content | API |
 |-------|---------|-----|
-| During — 1st innings (optional) | e.g. `First innings: {Team} elected to bat/field` | Only if BE exposes structured toss/elected field (or agreed extension). **Do not invent** from raw ODF on FE unless product explicitly allows. |
+| During — 1st innings | `First innings: {Team} elected to bat/field` | BE-composed from `ER/TOSS` + `PERIOD=IN1` (requirements §3.4). **Do not** build from raw ODF on FE. |
 | After | Match situation sentence | **`extendedResultInfo.finalResultDescription` only** |
 | After examples | `India beat Pakistan by 9 wickets` · `… by 44 runs` · Super Over · `Match Abandoned` · `No Result` | BE-interpolated `SC@ResultDesc` |
 
@@ -189,7 +189,7 @@ type ScheduleCardViewModel = {
 | `placeholderOpponents[]` | rows without scores |
 | `liveCurrentProgress.name` | `liveProgressLabel` |
 | `extendedResultInfo.finalResultDescription` | `matchInfo` (after) |
-| toss/elected (if/when API exists) | `matchInfo` (during) |
+| toss/elected (BE Match info during; §3.4) | `matchInfo` (during) |
 
 ---
 
@@ -203,7 +203,7 @@ type ScheduleCardViewModel = {
 - [ ] Never compose situation sentence on FE
 - [ ] Placeholders: render BE `name`; no client TBD dictionary
 - [ ] Optional: `liveCurrentProgress` in status area during live
-- [ ] Optional: elected-to-bat line only when API field exists
+- [ ] First-innings elected line when BE sends Match info (§3.4)
 - [ ] Winner chevron + bold; suppress for tie / abandoned / no result
 - [ ] Long score strings: layout QA (desktop + mobile widths)
 
