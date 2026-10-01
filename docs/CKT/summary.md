@@ -30,3 +30,6 @@
 
 ## Contextual Menu
 - TBC
+
+## Competitor Types
+- Team by organisation (translated)
