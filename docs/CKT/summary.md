@@ -13,7 +13,14 @@
 - For unknown teams display differs by round
 -- Second round - TBD abbreviation
   -- Finals - string e.g 'Second Round Rank 3'
-- Score to show is taken from multiple places 'runs (overs.balls)' and if applicable 'SO runs/wickets (overs.balls)'
+- Score to show is taken from multiple places 'runs/wickets (overs.balls)' and if applicable 'SO runs/wickets (overs.balls)'
+  - Runs/Wickets from Result/@Result
+  - Overs and balls will have to vary based on current ODF.
+    - When live for this team we get it from Periods
+    - When finished we can get it from Result/Stats
+  - SO comes from Result/ExtendedResults
+  - SO runs/wickets comes from TBD
+  - SO overs/balls comes from TBD
 - Medallists follow head-to-head pattern (G & S together, B on different item)
 - Head-to-head winner highlight pattern
 - **Status line**
