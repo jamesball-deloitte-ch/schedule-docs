@@ -46,10 +46,26 @@ Feature: CRD schedule tiles — multi-schedule playback
     And UNSCHEDULED familiarisation is not listed:
       | CRDGGEN---------------MEET000500-- |
 
+  Scenario: After entries and start lists — full competitors for country filter
+    Given only messages up to 2026-09-09-080017000 have been ingested
+    And now is 2026-09-09T08:00:17+02:00
+    When the client requests schedulesPerDay/2026-09-09 for CRD
+    Then each listed competition tile has a non-empty competitors array from that unit DT_RESULT START_LIST
+      | CRDWTT----------------FNL-000100-- | 35 |
+      | CRDMTT----------------FNL-000100-- | 35 |
+      | CRDWRR----------------FNL-000100-- | 95 |
+      | CRDMRR----------------FNL-000100-- | 90 |
+    And DT_ENTRIES has been ingested for the four event RSCs
+    And competitors include organisation for every athlete
+    And filtering by organisation POL returns at least Women's ITT when Lach is entered
+    And the schedule card UI still does not render the full peloton
+
   Scenario: Finished Women's ITT shows medallists and medals standings
     Given now is 2026-09-09T12:00:00+02:00
     Then Women's Individual Time Trial is FINISHED
-    And the tile shows three medallists Zabelinskaya UZB, Lach POL, van de Velde BEL
+    And competitors still contains the full start list not only three athletes
+    And three competitors have result.medal for Zabelinskaya UZB, Lach POL, van de Velde BEL
+    And the tile UI shows those three medallists
     And DT_MEDALS has been ingested for CRD
     And the tile does not show a race score
     And medalFlag is 1

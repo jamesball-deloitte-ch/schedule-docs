@@ -13,7 +13,8 @@
 - **No score on the tile** — before and during: no `result.result` / H2H score cell.
 - **No** `resultDecision`, **no** `psoResult`, **no** FBL-style `liveCurrentProgress` on the schedule card.
 - **During:** live highlight via `liveFlag` / `scheduleStatus` only.
-- **After:** show **medallists** (up to three) — NOC + athlete name + medal — from `competitors[]` with `result.medal` (`GOLD` / `SILVER` / `BRONZE`), not match scores.
+- **After:** show **medallists** (up to three) — NOC + athlete name + medal — from `competitors[]` rows that have `result.medal` (`GOLD` / `SILVER` / `BRONZE`), not match scores.
+- **Full start list:** API may return **all** start-list athletes in `competitors[]` (for country / NOC filter). **Do not** render the peloton on the schedule card — only medallist rows after finish.
 - **`placeholderOpponents`:** effectively **N/A** on the CRD schedule tile (not an H2H card). `SC@CompetitorPlace` is minimal (`NOAWARD` only) — no “one known / one TBD opponent” row pair.
 
 ---
@@ -22,11 +23,11 @@
 
 | Phase | FE |
 |-------|-----|
-| Before | Empty results area (event/phase chrome only) |
+| Before | Empty results area (event/phase chrome only); ignore full `competitors[]` for display |
 | During | Empty results area + live status highlight |
-| After | Up to 3 medallist rows |
+| After | Up to 3 medallist rows (`competitors[]` where `result.medal` is set) |
 
-There is **no** competitor H2H block before/during. Do not expect mixed `competitors[]` + `placeholderOpponents[]` on the same CRD event unit for the schedule card.
+There is **no** competitor H2H / full start-list block on the card. Country filter uses `competitors[].organisation` off-card.
 
 ### After — medallists
 

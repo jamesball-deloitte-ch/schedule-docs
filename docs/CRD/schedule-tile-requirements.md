@@ -49,27 +49,39 @@ Common delay / postpone / interrupt / reschedule / cancel. IRMs on results feeds
 | Message | Role on schedule tile |
 |---------|------------------------|
 | `DT_SCHEDULE[_UPDATE]` | Unit meta, times, status, medal flag |
-| `DT_CURRENT` | Live race updates while `RUNNING` (Road Race) |
-| `DT_RESULT` | Sparse while live; IRM / finish as applicable |
-| `DT_MEDALLISTS` | **Enrich finished event tile** with G/S/B athletes |
-| `DT_PARTIC` | Athlete names for medallists |
+| `DT_RESULT` `START_LIST` | **Full unit start list** → `competitors[]` (all riders; required for country / NOC filter) |
+| `DT_RESULT` LIVE / UNOFFICIAL / OFFICIAL | Keep / update the same competitor set (+ IRM / finish as applicable) |
+| `DT_CURRENT` | Live race updates while `RUNNING` (Road Race) — not the start-list source |
+| `DT_MEDALLISTS` | **Enrich** finished unit: set `result.medal` on the three athletes **inside** the full list |
+| `DT_PARTIC` | Athlete names |
+| `DT_ENTRIES` | Optional event-level entries; **does not** replace unit `DT_RESULT` START_LIST |
 
-### 3.2 Medallists on tile (after)
+### 3.2 Full `competitors[]` (all phases) + medallists (after)
 
-Confluence schedule has `competitors[].result.medal`. For CRD after-state:
+**Product:** every competition unit tile must carry the **complete** start-list in `competitors[]` (hidden on the card UI). Country filter matches a tile when any `competitors[].organisation` equals the selected NOC.
 
 ```
-DT_MEDALLISTS  (event DocumentCode)
+DT_RESULT  DocumentCode = <unit RSC>   ResultStatus = START_LIST
         │
         ▼
-API schedules[] item for the event unit (or event-level row product chooses)
-  competitors[ ] = three athletes
-    type = "A"
-    organisation / athleteNames
-    result.medal = GOLD | SILVER | BRONZE
+API schedules[] item for that unit
+  competitors[ ] = ALL start-list athletes (type = "A")
+    organisation / athleteNames / order (StartSortOrder)
 ```
 
-Do **not** invent medallists from partial `DT_RESULT` ranks unless product explicitly allows; prefer `DT_MEDALLISTS`.
+Required for **each** of the four FNL units: `CRDWTT…FNL-000100--`, `CRDMTT…FNL-000100--`, `CRDWRR…FNL-000100--`, `CRDMRR…FNL-000100--`.
+
+After the unit is finished, **do not shrink** the list to three medallists. Overlay medals from `DT_MEDALLISTS` (`Medal/@Unit` = unit RSC):
+
+```
+DT_MEDALLISTS  (event DocumentCode)  +  Medal/@Unit = unit RSC
+        │
+        ▼
+same competitors[ ] (full list)
+  three athletes get result.medal = GOLD | SILVER | BRONZE
+```
+
+Do **not** invent medallists from partial `DT_RESULT` ranks unless product explicitly allows; prefer `DT_MEDALLISTS` for medal icons.
 
 ### 3.3 Progress / decision fields
 
@@ -84,7 +96,8 @@ Do **not** invent medallists from partial `DT_RESULT` ranks unless product expli
 
 - [ ] Schedule Y units with status/liveFlag  
 - [ ] No false H2H scores on tile  
-- [ ] After finish: medallists from `DT_MEDALLISTS` on tile  
+- [ ] Each FNL unit has **full** `competitors[]` from `DT_RESULT` START_LIST (country filter)  
+- [ ] After finish: keep full list; set `result.medal` from `DT_MEDALLISTS` on G/S/B only  
 - [ ] Live driven by schedule status + `DT_CURRENT` availability  
 
 ---
@@ -95,9 +108,9 @@ Do **not** invent medallists from partial `DT_RESULT` ranks unless product expli
 
 | Phase | FE |
 |-------|-----|
-| Before | Event title, time, venue, status/medal flag |
-| During | Live highlight; **no result scores** |
-| After | Up to three medallist rows (NOC + name + medal icon) |
+| Before | Event title, time, venue, status/medal flag — **do not render** the full start list on the card |
+| During | Live highlight; **no result scores**; full list stays for filter only |
+| After | Up to three medallist rows (`result.medal` set) — still do not render the whole peloton |
 
 ### 4.1 Card click redirects
 
@@ -117,6 +130,7 @@ Same pattern for women / time trial (`CRDWRR…`, `CRDMTT…`, `CRDWTT…`). In-
 ## 5. Cheat sheet
 
 ```
-BEFORE/DURING: DT_SCHEDULE (+ DT_CURRENT while RUNNING)  →  meta/status; no tile scores
-AFTER:         DT_MEDALLISTS (+ PARTIC)                  →  G/S/B on tile
+BEFORE:  DT_SCHEDULE + DT_RESULT START_LIST  →  meta/status + full competitors[] (filter)
+DURING:  + DT_CURRENT / DT_RESULT LIVE       →  live highlight; keep full competitors[]
+AFTER:   + DT_MEDALLISTS                     →  medal icons on 3 of N; list stays full
 ```
