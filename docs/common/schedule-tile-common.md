@@ -6,7 +6,7 @@ Shared rules for CIS / WMR schedule cards. Discipline packs add sport-specific s
 - [ARC](../ARC/schedule-tile-requirements.md) · [ARC FE results](../ARC/schedule-tile-fe-score.md)
 - [CKT](../CKT/schedule-tile-requirements.md)
 - [CRD](../CRD/schedule-tile-requirements.md) · [CRD FE results](../CRD/schedule-tile-fe-score.md)
-- [SQU](../SQU/schedule-tile-requirements.md)
+- [SQU](../SQU/schedule-tile-requirements.md) · [SQU FE results](../SQU/schedule-tile-fe-score.md)
 - [CLB](../CLB/schedule-tile-requirements.md) · [CLB FE results](../CLB/schedule-tile-fe-score.md)
 - [BSB](../BSB/schedule-tile-requirements.md)
 

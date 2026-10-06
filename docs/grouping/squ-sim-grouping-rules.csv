@@ -1,0 +1,2 @@
+Discipline,Gender,Event,Phase,Unit,Enabled,GroupId,GroupSubTitle,GroupType
+SQU,*,*,*,*,TRUE,{PhaseRSC},{Phase},phase

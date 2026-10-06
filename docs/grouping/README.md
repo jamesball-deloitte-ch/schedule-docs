@@ -17,6 +17,7 @@
 |------|---------|
 | [`olympic-grouping-rules.csv`](./olympic-grouping-rules.csv) | OLY baseline rules (Paris → LA28) |
 | [`para-grouping-rules.csv`](./para-grouping-rules.csv) | PARA baseline rules |
+| [`squ-sim-grouping-rules.csv`](./squ-sim-grouping-rules.csv) | **Test only** — SQU phase groups (`{PhaseRSC}`, across sessions) for `ownScenarios/SQU` (not OLY baseline; Paris: no SQU grouping). `POST` is a full replace — this file groups SQU only. |
 | [`../../openspec/specs/schedule-grouping/spec.md`](../../openspec/specs/schedule-grouping/spec.md) | Greenfield backend OpenSpec |
 | [`../../openspec/changes/baseline-paris-schedule-grouping/proposal.md`](../../openspec/changes/baseline-paris-schedule-grouping/proposal.md) | Paris matrix mapping + open points |
 
