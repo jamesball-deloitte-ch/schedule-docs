@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRIMOLYMPIC-----------FNL-000100--" DocumentType="DT_RESULT" Version="2" ResultStatus="START_LIST" FeedFlag="T" TimeStamp="2026-09-09T08:00:21.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<ExtendedInfos>
+			<ExtendedInfo Type="UI" Code="STARTERS" Value="55">
+				<Extension Code="ORG" Value="31" />
+			</ExtendedInfo>
+			<ExtendedInfo Type="UI" Code="WET_SUIT" Value="Y" />
+			<SportDescription DisciplineName="Triathlon" EventName="Men's Individual" SubEventName="Men's Individual" Gender="M" />
+			<VenueDescription Venue="VBH" VenueName="Venice Beach" Location="VBH" LocationName="Venice Beach" />
+		</ExtendedInfos>
+		<Result SortOrder="1" StartOrder="0" StartSortOrder="0">
+			<Competitor Code="9439998" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9439998" Order="1" Bib="1">
+						<Description GivenName="Missing" FamilyName="Athlete" Gender="M" Organisation="GER" IFId="9999999" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="2" StartOrder="1" StartSortOrder="1">
+			<Competitor Code="9436491" Type="A" Organisation="AUS">
+				<Composition>
+					<Athlete Code="9436491" Order="1" Bib="2">
+						<Description GivenName="Matthew" FamilyName="Hauser" Gender="M" Organisation="AUS" BirthDate="1998-04-03" IFId="80795" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="3" StartOrder="2" StartSortOrder="2">
+			<Competitor Code="9436490" Type="A" Organisation="AUS">
+				<Composition>
+					<Athlete Code="9436490" Order="1" Bib="3">
+						<Description GivenName="Luke" FamilyName="Willian" Gender="M" Organisation="AUS" BirthDate="1996-10-11" IFId="55495" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="4" StartOrder="3" StartSortOrder="3">
+			<Competitor Code="9438537" Type="A" Organisation="AUT">
+				<Composition>
+					<Athlete Code="9438537" Order="1" Bib="4">
+						<Description GivenName="Tjebbe" FamilyName="Kaindl" Gender="M" Organisation="AUT" BirthDate="1999-03-20" IFId="94563" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="5" StartOrder="4" StartSortOrder="4">
+			<Competitor Code="9438538" Type="A" Organisation="AUT">
+				<Composition>
+					<Athlete Code="9438538" Order="1" Bib="5">
+						<Description GivenName="Alois" FamilyName="Knabl" Gender="M" Organisation="AUT" BirthDate="1992-05-16" IFId="21622" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="6" StartOrder="5" StartSortOrder="5">
+			<Competitor Code="9438242" Type="A" Organisation="AZE">
+				<Composition>
+					<Athlete Code="9438242" Order="1" Bib="6">
+						<Description GivenName="Rostislav" FamilyName="Pevtsov" Gender="M" Organisation="AZE" BirthDate="1987-04-15" IFId="11162" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="7" StartOrder="6" StartSortOrder="6">
+			<Competitor Code="9434659" Type="A" Organisation="BAR">
+				<Composition>
+					<Athlete Code="9434659" Order="1" Bib="7">
+						<Description GivenName="Matthew" FamilyName="Wright" Gender="M" Organisation="BAR" BirthDate="1992-05-13" IFId="29226" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="8" StartOrder="7" StartSortOrder="7">
+			<Competitor Code="9433087" Type="A" Organisation="BEL">
+				<Composition>
+					<Athlete Code="9433087" Order="1" Bib="8">
+						<Description GivenName="Jelle" FamilyName="Geens" Gender="M" Organisation="BEL" BirthDate="1993-03-26" IFId="39974" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="9" StartOrder="8" StartSortOrder="8">
+			<Competitor Code="9435198" Type="A" Organisation="BEL">
+				<Composition>
+					<Athlete Code="9435198" Order="1" Bib="9">
+						<Description GivenName="Marten" FamilyName="van Riel" Gender="M" Organisation="BEL" BirthDate="1992-12-15" IFId="40311" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="10" StartOrder="9" StartSortOrder="9">
+			<Competitor Code="9430426" Type="A" Organisation="BER">
+				<Composition>
+					<Athlete Code="9430426" Order="1" Bib="10">
+						<Description GivenName="Tyler" FamilyName="Smith" Gender="M" Organisation="BER" BirthDate="1998-09-26" IFId="79730" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="11" StartOrder="10" StartSortOrder="10">
+			<Competitor Code="9430672" Type="A" Organisation="BRA">
+				<Composition>
+					<Athlete Code="9430672" Order="1" Bib="11">
+						<Description GivenName="Miguel" FamilyName="Hidalgo" Gender="M" Organisation="BRA" BirthDate="2000-08-04" IFId="105480" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="12" StartOrder="11" StartSortOrder="11">
+			<Competitor Code="9430671" Type="A" Organisation="BRA">
+				<Composition>
+					<Athlete Code="9430671" Order="1" Bib="12">
+						<Description GivenName="Manoel" FamilyName="Messias" Gender="M" Organisation="BRA" BirthDate="1996-11-19" IFId="69143" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="13" StartOrder="12" StartSortOrder="12">
+			<Competitor Code="9435362" Type="A" Organisation="CAN">
+				<Composition>
+					<Athlete Code="9435362" Order="1" Bib="14">
+						<Description GivenName="Tyler" FamilyName="Mislawchuk" Gender="M" Organisation="CAN" BirthDate="1994-08-19" IFId="49411" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="14" StartOrder="13" StartSortOrder="13">
+			<Competitor Code="9435356" Type="A" Organisation="CAN">
+				<Composition>
+					<Athlete Code="9435356" Order="1" Bib="15">
+						<Description GivenName="Charles" FamilyName="Paquet" Gender="M" Organisation="CAN" BirthDate="1997-07-12" IFId="79706" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="15" StartOrder="14" StartSortOrder="14">
+			<Competitor Code="9432103" Type="A" Organisation="CHI">
+				<Composition>
+					<Athlete Code="9432103" Order="1" Bib="16">
+						<Description GivenName="Diego" FamilyName="Moya" Gender="M" Organisation="CHI" BirthDate="1998-10-19" IFId="56027" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="16" StartOrder="15" StartSortOrder="15">
+			<Competitor Code="9432114" Type="A" Organisation="CHI">
+				<Composition>
+					<Athlete Code="9432114" Order="1" Bib="17">
+						<Description GivenName="Gaspar" FamilyName="Riveros" Gender="M" Organisation="CHI" BirthDate="1990-04-27" IFId="7167" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="17" StartOrder="16" StartSortOrder="16">
+			<Competitor Code="9432913" Type="A" Organisation="DEN">
+				<Composition>
+					<Athlete Code="9432913" Order="1" Bib="18">
+						<Description GivenName="Emil" FamilyName="Holm" Gender="M" Organisation="DEN" BirthDate="1996-08-26" IFId="58566" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="18" StartOrder="17" StartSortOrder="17">
+			<Competitor Code="9438382" Type="A" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438382" Order="1" Bib="19">
+						<Description GivenName="Alberto" FamilyName="Gonzalez Garcia" Gender="M" Organisation="ESP" BirthDate="1998-06-15" IFId="74419" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="19" StartOrder="18" StartSortOrder="18">
+			<Competitor Code="9438387" Type="A" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438387" Order="1" Bib="20">
+						<Description GivenName="Roberto" FamilyName="Sanchez Mantecon" Gender="M" Organisation="ESP" BirthDate="1996-02-14" IFId="63429" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="20" StartOrder="19" StartSortOrder="19">
+			<Competitor Code="9438389" Type="A" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438389" Order="1" Bib="21">
+						<Description GivenName="Antonio" FamilyName="Serrat Seoane" Gender="M" Organisation="ESP" BirthDate="1995-01-24" IFId="63428" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="21" StartOrder="20" StartSortOrder="20">
+			<Competitor Code="9433467" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433467" Order="1" Bib="22">
+						<Description GivenName="Leo" FamilyName="Bergere" Gender="M" Organisation="FRA" BirthDate="1996-06-28" IFId="63162" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="22" StartOrder="21" StartSortOrder="21">
+			<Competitor Code="9433466" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433466" Order="1" Bib="23">
+						<Description GivenName="Dorian" FamilyName="Coninx" Gender="M" Organisation="FRA" BirthDate="1994-01-28" IFId="49390" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="23" StartOrder="22" StartSortOrder="22">
+			<Competitor Code="9433469" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433469" Order="1" Bib="24">
+						<Description GivenName="Pierre" FamilyName="le Corre" Gender="M" Organisation="FRA" BirthDate="1990-02-03" IFId="30249" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="24" StartOrder="23" StartSortOrder="23">
+			<Competitor Code="9434032" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434032" Order="1" Bib="25">
+						<Description GivenName="Samuel" FamilyName="Dickinson" Gender="M" Organisation="GBR" BirthDate="1997-07-11" IFId="88205" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="25" StartOrder="24" StartSortOrder="24">
+			<Competitor Code="9434051" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434051" Order="1" Bib="26">
+						<Description GivenName="Alex" FamilyName="Yee" Gender="M" Organisation="GBR" BirthDate="1998-02-18" IFId="96742" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="26" StartOrder="25" StartSortOrder="25">
+			<Competitor Code="9438580" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438580" Order="1" Bib="27">
+						<Description GivenName="Tim" FamilyName="Hellwig" Gender="M" Organisation="GER" BirthDate="1999-06-30" IFId="106885" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="27" StartOrder="26" StartSortOrder="26">
+			<Competitor Code="9438575" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438575" Order="1" Bib="28">
+						<Description GivenName="Lasse" FamilyName="Luehrs" Gender="M" Organisation="GER" BirthDate="1996-05-16" IFId="70410" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="28" StartOrder="28" StartSortOrder="28">
+			<Competitor Code="9437575" Type="A" Organisation="HKG">
+				<Composition>
+					<Athlete Code="9437575" Order="1" Bib="29">
+						<Description GivenName="Jason Tai Long" FamilyName="Ng" Gender="M" Organisation="HKG" BirthDate="2000-02-12" IFId="109797" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="29" StartOrder="29" StartSortOrder="29">
+			<Competitor Code="9436330" Type="A" Organisation="HUN">
+				<Composition>
+					<Athlete Code="9436330" Order="1" Bib="30">
+						<Description GivenName="Bence" FamilyName="Bicsak" Gender="M" Organisation="HUN" BirthDate="1995-10-19" IFId="50700" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="30" StartOrder="30" StartSortOrder="30">
+			<Competitor Code="9437330" Type="A" Organisation="HUN">
+				<Composition>
+					<Athlete Code="9437330" Order="1" Bib="31">
+						<Description GivenName="Csongor" FamilyName="Lehmann" Gender="M" Organisation="HUN" BirthDate="1999-04-02" IFId="94446" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="31" StartOrder="31" StartSortOrder="31">
+			<Competitor Code="9437951" Type="A" Organisation="ISR">
+				<Composition>
+					<Athlete Code="9437951" Order="1" Bib="32">
+						<Description GivenName="Shachar" FamilyName="Sagiv" Gender="M" Organisation="ISR" BirthDate="1994-10-11" IFId="41870" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="32" StartOrder="32" StartSortOrder="32">
+			<Competitor Code="9430646" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430646" Order="1" Bib="33">
+						<Description GivenName="Alessio" FamilyName="Crociani" Gender="M" Organisation="ITA" BirthDate="2001-11-19" IFId="107730" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="33" StartOrder="33" StartSortOrder="33">
+			<Competitor Code="9430644" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430644" Order="1" Bib="34">
+						<Description GivenName="Gianluca" FamilyName="Pozzatti" Gender="M" Organisation="ITA" BirthDate="1993-07-22" IFId="71738" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="34" StartOrder="34" StartSortOrder="34">
+			<Competitor Code="9431913" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Code="9431913" Order="1" Bib="35">
+						<Description GivenName="Kenji" FamilyName="Nener" Gender="M" Organisation="JPN" BirthDate="1993-05-26" IFId="39264" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="35" StartOrder="35" StartSortOrder="35">
+			<Competitor Code="9431929" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Code="9431929" Order="1" Bib="36">
+						<Description GivenName="Makoto" FamilyName="Odakura" Gender="M" Organisation="JPN" BirthDate="1993-07-20" IFId="63982" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="36" StartOrder="36" StartSortOrder="36">
+			<Competitor Code="9439441" Type="A" Organisation="MAR">
+				<Composition>
+					<Athlete Code="9439441" Order="1" Bib="37">
+						<Description GivenName="Jawad" FamilyName="Abdelmoula" Gender="M" Organisation="MAR" BirthDate="1994-02-18" IFId="155563" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="37" StartOrder="37" StartSortOrder="37">
+			<Competitor Code="9433390" Type="A" Organisation="MEX">
+				<Composition>
+					<Athlete Code="9433390" Order="1" Bib="38">
+						<Description GivenName="Crisanto" FamilyName="Grajales" Gender="M" Organisation="MEX" BirthDate="1987-05-06" IFId="7503" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="38" StartOrder="38" StartSortOrder="38">
+			<Competitor Code="9435342" Type="A" Organisation="MEX">
+				<Composition>
+					<Athlete Code="9435342" Order="1" Bib="39">
+						<Description GivenName="Aram Michell" FamilyName="Penaflor Moysen" Gender="M" Organisation="MEX" BirthDate="1999-03-11" IFId="103530" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="39" StartOrder="39" StartSortOrder="39">
+			<Competitor Code="9439056" Type="A" Organisation="MRI">
+				<Composition>
+					<Athlete Code="9439056" Order="1" Bib="40">
+						<Description GivenName="Jean Gael Laurent" FamilyName="L'Entete" Gender="M" Organisation="MRI" BirthDate="1996-08-08" IFId="84714" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="40" StartOrder="40" StartSortOrder="40">
+			<Competitor Code="9438659" Type="A" Organisation="NED">
+				<Composition>
+					<Athlete Code="9438659" Order="1" Bib="41">
+						<Description GivenName="Mitch" FamilyName="Kolkman" Gender="M" Organisation="NED" BirthDate="2002-09-19" IFId="135049" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="41" StartOrder="41" StartSortOrder="41">
+			<Competitor Code="9438658" Type="A" Organisation="NED">
+				<Composition>
+					<Athlete Code="9438658" Order="1" Bib="42">
+						<Description GivenName="Richard" FamilyName="Murray" Gender="M" Organisation="NED" BirthDate="1989-01-04" IFId="16392" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="42" StartOrder="42" StartSortOrder="42">
+			<Competitor Code="9438724" Type="A" Organisation="NOR">
+				<Composition>
+					<Athlete Code="9438724" Order="1" Bib="43">
+						<Description GivenName="Kristian" FamilyName="Blummenfelt" Gender="M" Organisation="NOR" BirthDate="1994-02-14" IFId="41322" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="43" StartOrder="43" StartSortOrder="43">
+			<Competitor Code="9438723" Type="A" Organisation="NOR">
+				<Composition>
+					<Athlete Code="9438723" Order="1" Bib="44">
+						<Description GivenName="Vetle Bergsvik" FamilyName="Thorn" Gender="M" Organisation="NOR" BirthDate="1999-05-22" IFId="96040" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="44" StartOrder="44" StartSortOrder="44">
+			<Competitor Code="9436247" Type="A" Organisation="NZL">
+				<Composition>
+					<Athlete Code="9436247" Order="1" Bib="45">
+						<Description GivenName="Dylan" FamilyName="McCullough" Gender="M" Organisation="NZL" BirthDate="2001-02-15" IFId="103632" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="45" StartOrder="45" StartSortOrder="45">
+			<Competitor Code="9436249" Type="A" Organisation="NZL">
+				<Composition>
+					<Athlete Code="9436249" Order="1" Bib="46">
+						<Description GivenName="Hayden" FamilyName="Wilde" Gender="M" Organisation="NZL" BirthDate="1997-09-01" IFId="104034" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="46" StartOrder="46" StartSortOrder="46">
+			<Competitor Code="9437133" Type="A" Organisation="POR">
+				<Composition>
+					<Athlete Code="9437133" Order="1" Bib="47">
+						<Description GivenName="Ricardo" FamilyName="Batista" Gender="M" Organisation="POR" BirthDate="2000-11-20" IFId="98121" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="47" StartOrder="47" StartSortOrder="47">
+			<Competitor Code="9437163" Type="A" Organisation="POR">
+				<Composition>
+					<Athlete Code="9437163" Order="1" Bib="48">
+						<Description GivenName="Vasco" FamilyName="Vilaca" Gender="M" Organisation="POR" BirthDate="1999-12-21" IFId="86042" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="48" StartOrder="48" StartSortOrder="48">
+			<Competitor Code="9432454" Type="A" Organisation="ROU">
+				<Composition>
+					<Athlete Code="9432454" Order="1" Bib="49">
+						<Description GivenName="Felix" FamilyName="Duchampt" Gender="M" Organisation="ROU" BirthDate="1989-09-05" IFId="23656" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="49" StartOrder="49" StartSortOrder="49">
+			<Competitor Code="9433975" Type="A" Organisation="RSA">
+				<Composition>
+					<Athlete Code="9433975" Order="1" Bib="50">
+						<Description GivenName="Jamie" FamilyName="Riddle" Gender="M" Organisation="RSA" BirthDate="2000-06-26" IFId="103943" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="50" StartOrder="50" StartSortOrder="50">
+			<Competitor Code="9433971" Type="A" Organisation="RSA">
+				<Composition>
+					<Athlete Code="9433971" Order="1" Bib="51">
+						<Description GivenName="Henri" FamilyName="Schoeman" Gender="M" Organisation="RSA" BirthDate="1991-10-03" IFId="30433" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="51" StartOrder="51" StartSortOrder="51">
+			<Competitor Code="9436760" Type="A" Organisation="SUI">
+				<Composition>
+					<Athlete Code="9436760" Order="1" Bib="52">
+						<Description GivenName="Adrien" FamilyName="Briffod" Gender="M" Organisation="SUI" BirthDate="1994-08-02" IFId="56550" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="52" StartOrder="52" StartSortOrder="52">
+			<Competitor Code="9437778" Type="A" Organisation="SUI">
+				<Composition>
+					<Athlete Code="9437778" Order="1" Bib="53">
+						<Description GivenName="Max" FamilyName="Studer" Gender="M" Organisation="SUI" BirthDate="1996-01-16" IFId="70032" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="53" StartOrder="53" StartSortOrder="53">
+			<Competitor Code="9438936" Type="A" Organisation="TOG">
+				<Composition>
+					<Athlete Code="9438936" Order="1" Bib="54">
+						<Description GivenName="Eloi" FamilyName="Adjavon" Gender="M" Organisation="TOG" BirthDate="1992-02-11" IFId="163812" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="54" StartOrder="54" StartSortOrder="54">
+			<Competitor Code="9430347" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430347" Order="1" Bib="55">
+						<Description GivenName="Morgan" FamilyName="Pearson" Gender="M" Organisation="USA" BirthDate="1993-09-22" IFId="123392" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="55" StartOrder="55" StartSortOrder="55">
+			<Competitor Code="9430350" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430350" Order="1" Bib="56">
+						<Description GivenName="Seth" FamilyName="Rider" Gender="M" Organisation="USA" BirthDate="1997-03-06" IFId="76425" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRI-------------------------------" DocumentType="DT_MEDALS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T12:00:00.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<MedalStandings LastEvent="TRIXTEAM4-------------------------" TotalEvents="3" FinishedEvents="2" DateTime="2026-09-09T12:00:00+02:00">
+			<MedalSummary>
+				<MedalNumber Type="M" Gold="1" Silver="1" Bronze="1" Total="3" />
+				<MedalNumber Type="W" />
+				<MedalNumber Type="X" Gold="1" Silver="1" Bronze="1" Total="3" />
+				<MedalNumber Type="TOT" Gold="2" Silver="2" Bronze="2" Total="6" />
+			</MedalSummary>
+			<MedalsTable>
+				<MedalLine Rank="1" RankTotal="1" SortRank="1" SortRankTotal="1" RankEqual="Y" RankTotalEqual="Y" Organisation="AUT">
+					<Description OrganisationName="Austria" />
+					<MedalNumber Type="M" Gold="1" Total="1" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" />
+					<MedalNumber Type="TOT" Gold="1" Total="1" />
+				</MedalLine>
+				<MedalLine Rank="1" RankTotal="1" SortRank="2" SortRankTotal="2" RankEqual="Y" RankTotalEqual="Y" Organisation="ITA">
+					<Description OrganisationName="Italy" />
+					<MedalNumber Type="M" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" Gold="1" Total="1" />
+					<MedalNumber Type="TOT" Gold="1" Total="1" />
+				</MedalLine>
+				<MedalLine Rank="3" RankTotal="1" SortRank="3" SortRankTotal="3" RankEqual="Y" RankTotalEqual="Y" Organisation="AZE">
+					<Description OrganisationName="Azerbaijan" />
+					<MedalNumber Type="M" Silver="1" Total="1" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" />
+					<MedalNumber Type="TOT" Silver="1" Total="1" />
+				</MedalLine>
+				<MedalLine Rank="3" RankTotal="1" SortRank="4" SortRankTotal="4" RankEqual="Y" RankTotalEqual="Y" Organisation="GER">
+					<Description OrganisationName="Germany" />
+					<MedalNumber Type="M" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" Silver="1" Total="1" />
+					<MedalNumber Type="TOT" Silver="1" Total="1" />
+				</MedalLine>
+				<MedalLine Rank="5" RankTotal="1" SortRank="5" SortRankTotal="5" RankEqual="Y" RankTotalEqual="Y" Organisation="BAR">
+					<Description OrganisationName="Barbados" />
+					<MedalNumber Type="M" Bronze="1" Total="1" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" />
+					<MedalNumber Type="TOT" Bronze="1" Total="1" />
+				</MedalLine>
+				<MedalLine Rank="5" RankTotal="1" SortRank="6" SortRankTotal="6" RankEqual="Y" RankTotalEqual="Y" Organisation="SUI">
+					<Description OrganisationName="Switzerland" />
+					<MedalNumber Type="M" />
+					<MedalNumber Type="W" />
+					<MedalNumber Type="X" Bronze="1" Total="1" />
+					<MedalNumber Type="TOT" Bronze="1" Total="1" />
+				</MedalLine>
+			</MedalsTable>
+		</MedalStandings>
+	</Competition>
+</OdfBody>

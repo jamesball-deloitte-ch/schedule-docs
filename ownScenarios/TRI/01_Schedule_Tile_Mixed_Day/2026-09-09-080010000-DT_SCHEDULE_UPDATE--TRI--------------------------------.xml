@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRI-------------------------------" DocumentType="DT_SCHEDULE_UPDATE" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:10.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<Session Venue="VBH" VenueName="Venice Beach" SessionStatus="SCHEDULED" SessionType="MOR" Medal="1" SessionCode="TRI01" StartDate="2026-09-09T09:00:00+02:00" EndDate="2026-09-09T11:40:00+02:00">
+			<SessionName Language="ENG" Value="Session 1" />
+		</Session>
+		<Session Venue="VBH" VenueName="Venice Beach" SessionStatus="SCHEDULED" SessionType="MOR" Medal="1" SessionCode="TRI02" StartDate="2026-09-09T07:00:00+02:00" EndDate="2026-09-09T09:40:00+02:00">
+			<SessionName Language="ENG" Value="Session 2" />
+		</Session>
+		<Session Venue="VBH" VenueName="Venice Beach" SessionStatus="SCHEDULED" SessionType="MOR" Medal="1" SessionCode="TRI03" StartDate="2026-09-09T10:00:00+02:00" EndDate="2026-09-09T12:00:00+02:00">
+			<SessionName Language="ENG" Value="Session 3" />
+		</Session>
+		<Unit Code="TRIGGEN---------------DRAW000200--" PhaseType="7" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" StartDate="2026-09-09T02:00:00-07:00" EndDate="2026-09-09T03:00:00-07:00">
+			<ItemName Language="ENG" Value="Athletes' Briefing &amp; Start Position Draw" />
+		</Unit>
+		<Unit Code="TRIWOLYMPIC-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" Medal="1" Venue="VBH" Location="VBH" SessionCode="TRI01" StartDate="2026-09-09T09:00:00+02:00" EndDate="2026-09-09T11:30:00+02:00">
+			<ItemName Language="ENG" Value="Women's Individual" />
+		</Unit>
+		<Unit Code="TRIWOLYMPIC-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" SessionCode="TRI01" StartDate="2026-09-09T11:30:00+02:00" EndDate="2026-09-09T11:40:00+02:00">
+			<ItemName Language="ENG" Value="Women's Individual Victory Ceremony" />
+		</Unit>
+		<Unit Code="TRIMOLYMPIC-----------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" Medal="1" Venue="VBH" Location="VBH" SessionCode="TRI02" StartDate="2026-09-09T07:00:00+02:00" EndDate="2026-09-09T09:30:00+02:00">
+			<ItemName Language="ENG" Value="Men's Individual" />
+		</Unit>
+		<Unit Code="TRIMOLYMPIC-----------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" SessionCode="TRI02" StartDate="2026-09-09T09:30:00+02:00" EndDate="2026-09-09T09:40:00+02:00">
+			<ItemName Language="ENG" Value="Men's Individual Victory Ceremony" />
+		</Unit>
+		<Unit Code="TRIGGEN---------------DRAW000500--" PhaseType="7" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" StartDate="2026-09-09T02:00:00-07:00" EndDate="2026-09-09T03:00:00-07:00">
+			<ItemName Language="ENG" Value="Triathlon Draw - Mixed" />
+		</Unit>
+		<Unit Code="TRIGGEN---------------MEET000100--" PhaseType="4" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" StartDate="2026-09-09T02:00:00-07:00" EndDate="2026-09-09T03:00:00-07:00">
+			<ItemName Language="ENG" Value="Team Managers' Meeting" />
+		</Unit>
+		<Unit Code="TRIXTEAM4-------------FNL-000100--" PhaseType="3" ScheduleStatus="SCHEDULED" Medal="1" Venue="VBH" Location="VBH" SessionCode="TRI03" StartDate="2026-09-09T10:00:00+02:00" EndDate="2026-09-09T11:40:00+02:00">
+			<ItemName Language="ENG" Value="Mixed Relay" />
+		</Unit>
+		<Unit Code="TRIXTEAM4-------------VICTMEDAL---" PhaseType="6" ScheduleStatus="SCHEDULED" Venue="VBH" Location="VBH" SessionCode="TRI03" StartDate="2026-09-09T11:50:00+02:00" EndDate="2026-09-09T12:00:00+02:00">
+			<ItemName Language="ENG" Value="Mixed Relay Victory Ceremony" />
+		</Unit>
+	</Competition>
+</OdfBody>

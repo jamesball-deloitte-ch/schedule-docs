@@ -13,7 +13,7 @@
 - **No climbing scores on the tile** — before and during: no score cell (boulder/lead/speed points stay on the results page).
 - **No** `resultDecision`, **no** `liveCurrentProgress` for the schedule card.
 - **During:** live highlight via `liveFlag` / `scheduleStatus` only.
-- **After:** show **three medallists** — NOC + athlete + medal — from `competitors[]` with `result.medal`.
+- **After:** show **all medallists** — NOC + athlete + medal — from `competitors[]` with `result.medal` (usual three; ties → more rows).
 - **`placeholderOpponents` / H2H rows: not on the schedule tile.** Per `CC@Phase` / `CC@Unit` (OG2028): Speed bracket stages are **phase `Schedule=Y`** (e.g. Men's Speed Finals); pair races are **unit `Schedule=S`** and are not listed as separate cards — so no per-pair TBD/opponent UI on Daily Schedule.
 - **RSC overrides:** Speed phases are on [Schedule RSC overrides](https://dgplatform.atlassian.net/wiki/spaces/SCDLA/pages/3229941783/Schedule+RSC+overrides) — one shared results screen per bracket stage (e.g. `CLBMSPEED-------------FNL---------` → `CLBMSPEED-------------FNL-000100--`). Card click must prefer `overrideRsc` when set.
 
@@ -25,7 +25,7 @@
 |-------|-----|
 | Before | Empty results area (event / phase chrome only) |
 | During | Empty results area + live status highlight |
-| After | Three medallist rows |
+| After | All medallist rows (`result.medal`; >3 if ties) |
 
 Same shape as CRD for the results box. No “one known / one TBD” competitor pair on this surface.
 
@@ -51,7 +51,7 @@ Do not invent medallists. Do not render climbing totals / IRMs as a schedule sco
 
 - [ ] Before / during: no score block  
 - [ ] During: live highlight only  
-- [ ] After: three medallist rows from API medals  
+- [ ] After: all medallist rows from API medals (incl. ties)  
 - [ ] No H2H / `placeholderOpponents` UI on schedule tile (Speed pair units = CC `S`; phase = `Y`)  
 - [ ] Card click: use `overrideRsc` for Speed phases (shared finals/brackets screen)  
 - [ ] No `resultDecision` / period progress on CLB schedule card  

@@ -325,7 +325,7 @@ If `overrideRsc` is set, build the path from the override (see Confluence Schedu
 - [ ] Teams via `teamNames`; `type === "T"`  
 - [ ] Medal from `medalFlag`  
 - [ ] Card click → unit results; same URL before/during/after  
-- [ ] WMR may hide medal-ceremony-only units client-side; CIS keeps them  
+- [ ] Do not client-filter victory ceremonies; BE includes them for CIS and omits them for WMR (all disciplines)  
 
 ---
 

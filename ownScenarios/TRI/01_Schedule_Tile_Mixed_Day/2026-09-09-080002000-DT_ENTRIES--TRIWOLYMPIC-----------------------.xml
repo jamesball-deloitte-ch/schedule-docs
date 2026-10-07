@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRIWOLYMPIC-----------------------" DocumentType="DT_ENTRIES" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:02.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<Entry Bib="1" Code="9431462" Type="A" Organisation="ARG" SortOrder="1">
+			<Composition>
+				<Athlete Code="9431462" Order="1" Bib="1">
+					<Description GivenName="Romina" FamilyName="Biagioli" Gender="F" Organisation="ARG" BirthDate="1989-04-03" IFId="21487" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="121" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="847.64" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="2" Code="9436493" Type="A" Organisation="AUS" SortOrder="2">
+			<Composition>
+				<Athlete Code="9436493" Order="1" Bib="2">
+					<Description GivenName="Sophie" FamilyName="Linn" Gender="F" Organisation="AUS" BirthDate="1995-03-13" IFId="123455" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="63" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2204.34" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="3" Code="9436492" Type="A" Organisation="AUS" SortOrder="3">
+			<Composition>
+				<Athlete Code="9436492" Order="1" Bib="3">
+					<Description GivenName="Natalie" FamilyName="van Coevorden" Gender="F" Organisation="AUS" BirthDate="1992-12-22" IFId="45907" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="35" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3383.44" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="4" Code="9438536" Type="A" Organisation="AUT" SortOrder="4">
+			<Composition>
+				<Athlete Code="9438536" Order="1" Bib="4">
+					<Description GivenName="Julia" FamilyName="Hauser" Gender="F" Organisation="AUT" BirthDate="1994-02-21" IFId="41079" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="51" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2842.81" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="5" Code="9438540" Type="A" Organisation="AUT" SortOrder="5">
+			<Composition>
+				<Athlete Code="9438540" Order="1" Bib="5">
+					<Description GivenName="Lisa" FamilyName="Perterer" Gender="F" Organisation="AUT" BirthDate="1991-10-16" IFId="11879" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="55" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2583.90" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="6" Code="9433091" Type="A" Organisation="BEL" SortOrder="6">
+			<Composition>
+				<Athlete Code="9433091" Order="1" Bib="6">
+					<Description GivenName="Claire" FamilyName="Michel" Gender="F" Organisation="BEL" BirthDate="1988-10-13" IFId="72769" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="34" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3432.41" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="7" Code="9433092" Type="A" Organisation="BEL" SortOrder="7">
+			<Composition>
+				<Athlete Code="9433092" Order="1" Bib="7">
+					<Description GivenName="Jolien" FamilyName="Vermeylen" Gender="F" Organisation="BEL" BirthDate="1994-05-02" IFId="113106" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="28" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3730.63" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="8" Code="9438310" Type="A" Organisation="BER" SortOrder="8">
+			<Composition>
+				<Athlete Code="9438310" Order="1" Bib="8">
+					<Description GivenName="Flora" FamilyName="Duffy" Gender="F" Organisation="BER" BirthDate="1987-09-30" IFId="7776" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="18" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4675.62" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="9" Code="9430416" Type="A" Organisation="BER" SortOrder="9">
+			<Composition>
+				<Athlete Code="9430416" Order="1" Bib="9">
+					<Description GivenName="Erica" FamilyName="Hawley" Gender="F" Organisation="BER" BirthDate="1998-05-29" IFId="80082" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="60" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2353.68" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="10" Code="9430667" Type="A" Organisation="BRA" SortOrder="10">
+			<Composition>
+				<Athlete Code="9430667" Order="1" Bib="10">
+					<Description GivenName="Djenyfer" FamilyName="Arnold" Gender="F" Organisation="BRA" BirthDate="1993-03-08" IFId="125061" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="30" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3612.38" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="11" Code="9430673" Type="A" Organisation="BRA" SortOrder="11">
+			<Composition>
+				<Athlete Code="9430673" Order="1" Bib="11">
+					<Description GivenName="Vittoria" FamilyName="Lopes" Gender="F" Organisation="BRA" BirthDate="1996-03-15" IFId="81882" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="44" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3010.72" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="12" Code="9435365" Type="A" Organisation="CAN" SortOrder="12">
+			<Composition>
+				<Athlete Code="9435365" Order="1" Bib="12">
+					<Description GivenName="Emy" FamilyName="Legault" Gender="F" Organisation="CAN" BirthDate="1996-04-05" IFId="69055" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="42" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3087.27" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="13" Code="9430255" Type="A" Organisation="CHN" SortOrder="13">
+			<Composition>
+				<Athlete Code="9430255" Order="1" Bib="13">
+					<Description GivenName="Xinyu" FamilyName="Lin" Gender="F" Organisation="CHN" BirthDate="2002-04-24" IFId="131701" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="45" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2966.75" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="14" Code="9434411" Type="A" Organisation="COL" SortOrder="14">
+			<Composition>
+				<Athlete Code="9434411" Order="1" Bib="14">
+					<Description GivenName="Maria Carolina" FamilyName="Velasquez Soto" Gender="F" Organisation="COL" BirthDate="1997-06-09" IFId="83323" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="50" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2918.02" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="15" Code="9433012" Type="A" Organisation="CZE" SortOrder="15">
+			<Composition>
+				<Athlete Code="9433012" Order="1" Bib="15">
+					<Description GivenName="Petra" FamilyName="Kurikova" Gender="F" Organisation="CZE" BirthDate="1991-11-25" IFId="26478" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="58" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2416.00" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="16" Code="9432912" Type="A" Organisation="DEN" SortOrder="16">
+			<Composition>
+				<Athlete Code="9432912" Order="1" Bib="16">
+					<Description GivenName="Alberte Kjaer" FamilyName="Pedersen" Gender="F" Organisation="DEN" BirthDate="1998-06-23" IFId="82017" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="31" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3581.79" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="17" Code="9435571" Type="A" Organisation="ECU" SortOrder="17">
+			<Composition>
+				<Athlete Code="9435571" Order="1" Bib="17">
+					<Description GivenName="Elizabeth" FamilyName="Bravo" Gender="F" Organisation="ECU" BirthDate="1987-01-30" IFId="7525" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="52" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2778.03" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="18" Code="9438379" Type="A" Organisation="ESP" SortOrder="18">
+			<Composition>
+				<Athlete Code="9438379" Order="1" Bib="18">
+					<Description GivenName="Miriam" FamilyName="Casillas Garcia" Gender="F" Organisation="ESP" BirthDate="1992-06-24" IFId="30383" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="17" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4731.11" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="19" Code="9438381" Type="A" Organisation="ESP" SortOrder="19">
+			<Composition>
+				<Athlete Code="9438381" Order="1" Bib="19">
+					<Description GivenName="Anna" FamilyName="Godoy Contreras" Gender="F" Organisation="ESP" BirthDate="1992-10-21" IFId="31827" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="43" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3056.55" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="20" Code="9433463" Type="A" Organisation="FRA" SortOrder="20">
+			<Composition>
+				<Athlete Code="9433463" Order="1" Bib="20">
+					<Description GivenName="Cassandre" FamilyName="Beaugrand" Gender="F" Organisation="FRA" BirthDate="1997-05-23" IFId="63163" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="2" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="9077.10" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="21" Code="9433464" Type="A" Organisation="FRA" SortOrder="21">
+			<Composition>
+				<Athlete Code="9433464" Order="1" Bib="21">
+					<Description GivenName="Emma" FamilyName="Lombardi" Gender="F" Organisation="FRA" BirthDate="2001-09-12" IFId="125375" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="3" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="8057.68" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="22" Code="9433465" Type="A" Organisation="FRA" SortOrder="22">
+			<Composition>
+				<Athlete Code="9433465" Order="1" Bib="22">
+					<Description GivenName="Leonie" FamilyName="Periault" Gender="F" Organisation="FRA" BirthDate="1994-07-31" IFId="41158" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="14" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4841.22" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="23" Code="9434044" Type="A" Organisation="GBR" SortOrder="23">
+			<Composition>
+				<Athlete Code="9434044" Order="1" Bib="23">
+					<Description GivenName="Beth" FamilyName="Potter" Gender="F" Organisation="GBR" BirthDate="1991-12-27" IFId="117212" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="1" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="9435.08" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="24" Code="9434048" Type="A" Organisation="GBR" SortOrder="24">
+			<Composition>
+				<Athlete Code="9434048" Order="1" Bib="24">
+					<Description GivenName="Georgia" FamilyName="Taylor-Brown" Gender="F" Organisation="GBR" BirthDate="1994-03-15" IFId="49545" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="5" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="6750.18" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="25" Code="9434049" Type="A" Organisation="GBR" SortOrder="25">
+			<Composition>
+				<Athlete Code="9434049" Order="1" Bib="25">
+					<Description GivenName="Kate" FamilyName="Waugh" Gender="F" Organisation="GBR" BirthDate="1999-02-13" IFId="86051" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="12" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="5497.79" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="26" Code="9438582" Type="A" Organisation="GER" SortOrder="26">
+			<Composition>
+				<Athlete Code="9438582" Order="1" Bib="26">
+					<Description GivenName="Nina" FamilyName="Eim" Gender="F" Organisation="GER" BirthDate="1998-08-01" IFId="79066" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="11" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="5570.59" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="27" Code="9438573" Type="A" Organisation="GER" SortOrder="27">
+			<Composition>
+				<Athlete Code="9438573" Order="1" Bib="27">
+					<Description GivenName="Laura" FamilyName="Lindemann" Gender="F" Organisation="GER" BirthDate="1996-06-26" IFId="70413" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="10" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="5757.73" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="28" Code="9438584" Type="A" Organisation="GER" SortOrder="28">
+			<Composition>
+				<Athlete Code="9438584" Order="1" Bib="28">
+					<Description GivenName="Lisa" FamilyName="Tertsch" Gender="F" Organisation="GER" BirthDate="1998-12-01" IFId="79065" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="6" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="6390.18" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="29" Code="9435657" Type="A" Organisation="GUM" SortOrder="29">
+			<Composition>
+				<Athlete Code="9435657" Order="1" Bib="29">
+					<Description GivenName="Manami" FamilyName="Iijima" Gender="F" Organisation="GUM" BirthDate="1992-10-20" IFId="165494" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="158" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="462.75" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="30" Code="9436393" Type="A" Organisation="HUN" SortOrder="30">
+			<Composition>
+				<Athlete Code="9436393" Order="1" Bib="30">
+					<Description GivenName="Zsanett" FamilyName="Kuttor-Bragmayer" Gender="F" Organisation="HUN" BirthDate="1994-03-29" IFId="16368" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="46" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2958.08" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="31" Code="9437252" Type="A" Organisation="ISL" SortOrder="31">
+			<Composition>
+				<Athlete Code="9437252" Order="1" Bib="31">
+					<Description GivenName="Edda" FamilyName="Hannesdottir" Gender="F" Organisation="ISL" BirthDate="1994-12-08" IFId="107593" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="143" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="575.28" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="32" Code="9430638" Type="A" Organisation="ITA" SortOrder="32">
+			<Composition>
+				<Athlete Code="9430638" Order="1" Bib="32">
+					<Description GivenName="Alice" FamilyName="Betto" Gender="F" Organisation="ITA" BirthDate="1987-12-10" IFId="39683" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="29" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3671.42" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="33" Code="9430639" Type="A" Organisation="ITA" SortOrder="33">
+			<Composition>
+				<Athlete Code="9430639" Order="1" Bib="33">
+					<Description GivenName="Bianca" FamilyName="Seregni" Gender="F" Organisation="ITA" BirthDate="2000-03-22" IFId="106581" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="20" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4440.09" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="34" Code="9430640" Type="A" Organisation="ITA" SortOrder="34">
+			<Composition>
+				<Athlete Code="9430640" Order="1" Bib="34">
+					<Description GivenName="Verena" FamilyName="Steinhauser" Gender="F" Organisation="ITA" BirthDate="1994-10-14" IFId="58449" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="22" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4437.08" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="35" Code="9431928" Type="A" Organisation="JPN" SortOrder="35">
+			<Composition>
+				<Athlete Code="9431928" Order="1" Bib="35">
+					<Description GivenName="Yuko" FamilyName="Takahashi" Gender="F" Organisation="JPN" BirthDate="1991-08-27" IFId="17285" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="21" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4439.78" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="36" Code="9438635" Type="A" Organisation="KAZ" SortOrder="36">
+			<Composition>
+				<Athlete Code="9438635" Order="1" Bib="36">
+					<Description GivenName="Ekaterina" FamilyName="Shabalina" Gender="F" Organisation="KAZ" BirthDate="1998-05-28" IFId="115050" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="101" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="1186.31" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="37" Code="9435477" Type="A" Organisation="LUX" SortOrder="37">
+			<Composition>
+				<Athlete Code="9435477" Order="1" Bib="37">
+					<Description GivenName="Jeanne" FamilyName="Lehair" Gender="F" Organisation="LUX" BirthDate="1996-03-30" IFId="56557" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="9" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="5797.14" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="38" Code="9433388" Type="A" Organisation="MEX" SortOrder="38">
+			<Composition>
+				<Athlete Code="9433388" Order="1" Bib="38">
+					<Description GivenName="Lizeth" FamilyName="Rueda Santos" Gender="F" Organisation="MEX" BirthDate="1994-03-07" IFId="73426" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="41" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3151.22" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="39" Code="9433389" Type="A" Organisation="MEX" SortOrder="39">
+			<Composition>
+				<Athlete Code="9433389" Order="1" Bib="39">
+					<Description GivenName="Rosa Maria" FamilyName="Tapia Vidal" Gender="F" Organisation="MEX" BirthDate="1997-08-27" IFId="80813" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="16" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4739.09" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="40" Code="9438657" Type="A" Organisation="NED" SortOrder="40">
+			<Composition>
+				<Athlete Code="9438657" Order="1" Bib="40">
+					<Description GivenName="Maya" FamilyName="Kingma" Gender="F" Organisation="NED" BirthDate="1995-09-08" IFId="55701" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="27" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3746.70" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="41" Code="9438656" Type="A" Organisation="NED" SortOrder="41">
+			<Composition>
+				<Athlete Code="9438656" Order="1" Bib="41">
+					<Description GivenName="Rachel" FamilyName="Klamer" Gender="F" Organisation="NED" BirthDate="1990-10-08" IFId="22170" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="24" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4271.73" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="42" Code="9438722" Type="A" Organisation="NOR" SortOrder="42">
+			<Composition>
+				<Athlete Code="9438722" Order="1" Bib="42">
+					<Description GivenName="Solveig" FamilyName="Lovseth" Gender="F" Organisation="NOR" BirthDate="1999-07-14" IFId="94515" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="53" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2658.35" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="43" Code="9438721" Type="A" Organisation="NOR" SortOrder="43">
+			<Composition>
+				<Athlete Code="9438721" Order="1" Bib="43">
+					<Description GivenName="Lotte" FamilyName="Miller" Gender="F" Organisation="NOR" BirthDate="1996-01-25" IFId="47631" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="122" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="839.66" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="44" Code="9436251" Type="A" Organisation="NZL" SortOrder="44">
+			<Composition>
+				<Athlete Code="9436251" Order="1" Bib="44">
+					<Description GivenName="Ainsley" FamilyName="Thorpe" Gender="F" Organisation="NZL" BirthDate="1998-02-13" IFId="92305" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="33" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3440.91" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="45" Code="9436245" Type="A" Organisation="NZL" SortOrder="45">
+			<Composition>
+				<Athlete Code="9436245" Order="1" Bib="45">
+					<Description GivenName="Nicole" FamilyName="van der Kaay" Gender="F" Organisation="NZL" BirthDate="1996-02-10" IFId="64750" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="48" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2941.62" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="46" Code="9434931" Type="A" Organisation="POL" SortOrder="46">
+			<Composition>
+				<Athlete Code="9434931" Order="1" Bib="46">
+					<Description GivenName="Roksana" FamilyName="Slupek" Gender="F" Organisation="POL" BirthDate="1999-04-25" IFId="106358" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="64" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2179.00" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="47" Code="9437128" Type="A" Organisation="POR" SortOrder="47">
+			<Composition>
+				<Athlete Code="9437128" Order="1" Bib="47">
+					<Description GivenName="Melanie" FamilyName="Santos" Gender="F" Organisation="POR" BirthDate="1995-07-12" IFId="47942" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="62" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2231.94" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="48" Code="9437132" Type="A" Organisation="POR" SortOrder="48">
+			<Composition>
+				<Athlete Code="9437132" Order="1" Bib="48">
+					<Description GivenName="Maria" FamilyName="Tome" Gender="F" Organisation="POR" BirthDate="2001-06-28" IFId="112738" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="85" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="1583.16" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="49" Code="9433974" Type="A" Organisation="RSA" SortOrder="49">
+			<Composition>
+				<Athlete Code="9433974" Order="1" Bib="49">
+					<Description GivenName="Vicky" FamilyName="van der Merwe" Gender="F" Organisation="RSA" BirthDate="1989-09-15" IFId="7803" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="90" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="1403.11" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="50" Code="9436789" Type="A" Organisation="SUI" SortOrder="50">
+			<Composition>
+				<Athlete Code="9436789" Order="1" Bib="50">
+					<Description GivenName="Julie" FamilyName="Derron" Gender="F" Organisation="SUI" BirthDate="1996-09-10" IFId="84816" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="13" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="5110.34" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="51" Code="9437739" Type="A" Organisation="SUI" SortOrder="51">
+			<Composition>
+				<Athlete Code="9437739" Order="1" Bib="51">
+					<Description GivenName="Cathia" FamilyName="Schar" Gender="F" Organisation="SUI" BirthDate="2001-10-20" IFId="115148" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="37" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="3301.37" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="52" Code="9433798" Type="A" Organisation="SWE" SortOrder="52">
+			<Composition>
+				<Athlete Code="9433798" Order="1" Bib="52">
+					<Description GivenName="Tilda" FamilyName="Mansson" Gender="F" Organisation="SWE" BirthDate="2004-05-13" IFId="135877" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="47" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="2948.80" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="53" Code="9430341" Type="A" Organisation="USA" SortOrder="53">
+			<Composition>
+				<Athlete Code="9430341" Order="1" Bib="53">
+					<Description GivenName="Kirsten" FamilyName="Kasper" Gender="F" Organisation="USA" BirthDate="1991-08-31" IFId="89532" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="15" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="4756.58" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="54" Code="9430339" Type="A" Organisation="USA" SortOrder="54">
+			<Composition>
+				<Athlete Code="9430339" Order="1" Bib="54">
+					<Description GivenName="Taylor" FamilyName="Knibb" Gender="F" Organisation="USA" BirthDate="1998-02-14" IFId="80643" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="7" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="6249.14" />
+				</Athlete>
+			</Composition>
+		</Entry>
+		<Entry Bib="55" Code="9430352" Type="A" Organisation="USA" SortOrder="55">
+			<Composition>
+				<Athlete Code="9430352" Order="1" Bib="55">
+					<Description GivenName="Taylor" FamilyName="Spivey" Gender="F" Organisation="USA" BirthDate="1991-04-13" IFId="81334" />
+					<ExtendedEntry Type="IFRANK" Code="WR" Value="4" />
+					<ExtendedEntry Type="IFPOINTS" Code="POINTS" Value="7814.39" />
+				</Athlete>
+			</Composition>
+		</Entry>
+	</Competition>
+</OdfBody>

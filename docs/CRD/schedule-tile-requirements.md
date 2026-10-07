@@ -14,7 +14,7 @@
 | Tile type | **Event/phase unit** (road race / time trial) — not H2H match card |
 | Results on tile | **N/A** during competition (OSRP) |
 | Live | Status + live highlight; race progress via **`DT_CURRENT`** (ODF: while LIVE, `DT_RESULT` usually not sent unless IRM) |
-| After | Show **medallists** (NOC + athlete + medal icon) once known |
+| After | Show **all medallists** (NOC + athlete + medal icon) once known; ties → more than three rows ([common §3.3.2](../common/schedule-tile-common.md)) |
 | Placeholders | Minimal (`NOAWARD` only in `SC@CompetitorPlace`) |
 | `liveCurrentProgress` | Not football-style PERIOD (`SC@Period` empty). Optional product mapping from `DT_CURRENT` if exposed |
 | `resultDecision` | **N/A** for schedule tile |
@@ -71,14 +71,15 @@ API schedules[] item for that unit
 
 Required for **each** of the four FNL units: `CRDWTT…FNL-000100--`, `CRDMTT…FNL-000100--`, `CRDWRR…FNL-000100--`, `CRDMRR…FNL-000100--`.
 
-After the unit is finished, **do not shrink** the list to three medallists. Overlay medals from `DT_MEDALLISTS` (`Medal/@Unit` = unit RSC):
+After the unit is finished, **do not shrink** the list to medallists-only. Overlay medals from `DT_MEDALLISTS` (`Medal/@Unit` = unit RSC):
 
 ```
 DT_MEDALLISTS  (event DocumentCode)  +  Medal/@Unit = unit RSC
         │
         ▼
 same competitors[ ] (full list)
-  three athletes get result.medal = GOLD | SILVER | BRONZE
+  every medallist gets result.medal = GOLD | SILVER | BRONZE
+  (ties → more than three athletes with medal set — common §3.3.2)
 ```
 
 Do **not** invent medallists from partial `DT_RESULT` ranks unless product explicitly allows; prefer `DT_MEDALLISTS` for medal icons.
@@ -110,7 +111,7 @@ Do **not** invent medallists from partial `DT_RESULT` ranks unless product expli
 |-------|-----|
 | Before | Event title, time, venue, status/medal flag — **do not render** the full start list on the card |
 | During | Live highlight; **no result scores**; full list stays for filter only |
-| After | Up to three medallist rows (`result.medal` set) — still do not render the whole peloton |
+| After | All medallist rows (`result.medal` set; >3 if ties) — still do not render the whole peloton |
 
 ### 4.1 Card click redirects
 
@@ -132,5 +133,5 @@ Same pattern for women / time trial (`CRDWRR…`, `CRDMTT…`, `CRDWTT…`). In-
 ```
 BEFORE:  DT_SCHEDULE + DT_RESULT START_LIST  →  meta/status + full competitors[] (filter)
 DURING:  + DT_CURRENT / DT_RESULT LIVE       →  live highlight; keep full competitors[]
-AFTER:   + DT_MEDALLISTS                     →  medal icons on 3 of N; list stays full
+AFTER:   + DT_MEDALLISTS                     →  medal icons on all medallists (ties → >3); list stays full
 ```

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRI-------------------------------" DocumentType="DT_PARTIC_TEAMS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T08:00:01.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<Team Code="TRIXTEAM4-------------AUS01" Status="CNF" Organisation="AUS" Name="Australia" ShortName="Australia" TVTeamName="Australia" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------AUT01" Status="CNF" Organisation="AUT" Name="Austria" ShortName="Austria" TVTeamName="Austria" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------BEL01" Status="CNF" Organisation="BEL" Name="Belgium" ShortName="Belgium" TVTeamName="Belgium" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------BRA01" Status="CNF" Organisation="BRA" Name="Brazil" ShortName="Brazil" TVTeamName="Brazil" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------ESP01" Status="CNF" Organisation="ESP" Name="Spain" ShortName="Spain" TVTeamName="Spain" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------FRA01" Status="CNF" Organisation="FRA" Name="France" ShortName="France" TVTeamName="France" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------GBR01" Status="CNF" Organisation="GBR" Name="Great Britain" ShortName="Great Britain" TVTeamName="Great Britain" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------GER01" Status="CNF" Organisation="GER" Name="Germany" ShortName="Germany" TVTeamName="Germany" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------ITA01" Status="CNF" Organisation="ITA" Name="Italy" ShortName="Italy" TVTeamName="Italy" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------MEX01" Status="CNF" Organisation="MEX" Name="Mexico" ShortName="Mexico" TVTeamName="Mexico" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------NED01" Status="CNF" Organisation="NED" Name="Netherlands" ShortName="Netherlands" TVTeamName="Netherlands" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------NOR01" Status="CNF" Organisation="NOR" Name="Norway" ShortName="Norway" TVTeamName="Norway" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------NZL01" Status="CNF" Organisation="NZL" Name="New Zealand" ShortName="New Zealand" TVTeamName="New Zealand" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------POR01" Status="CNF" Organisation="POR" Name="Portugal" ShortName="Portugal" TVTeamName="Portugal" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------SUI01" Status="CNF" Organisation="SUI" Name="Switzerland" ShortName="Switzerland" TVTeamName="Switzerland" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+		<Team Code="TRIXTEAM4-------------USA01" Status="CNF" Organisation="USA" Name="United States of America" ShortName="United States" TVTeamName="United States" Gender="X" TeamType="ORG">
+			<Discipline Code="TRI-------------------------------" />
+		</Team>
+	</Competition>
+</OdfBody>

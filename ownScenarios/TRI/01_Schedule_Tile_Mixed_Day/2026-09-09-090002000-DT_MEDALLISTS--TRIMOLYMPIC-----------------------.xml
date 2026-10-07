@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRIMOLYMPIC-----------------------" DocumentType="DT_MEDALLISTS" Version="1" FeedFlag="T" TimeStamp="2026-09-09T09:00:02.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<ExtendedInfos>
+			<SportDescription DisciplineName="Triathlon" EventName="Men's Individual" Gender="M" />
+		</ExtendedInfos>
+		<Medal Code="ME_GOLD" Date="2026-09-09" Unit="TRIMOLYMPIC-----------FNL-000100--">
+			<Competitor Code="9438538" Type="A" Organisation="AUT" Order="1">
+				<Composition>
+					<Athlete Code="9438538" Order="1" Bib="5">
+						<Description GivenName="Alois" FamilyName="Knabl" Gender="M" Organisation="AUT" BirthDate="1992-05-16" IFId="21622" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_SILVER" Date="2026-09-09" Unit="TRIMOLYMPIC-----------FNL-000100--">
+			<Competitor Code="9438242" Type="A" Organisation="AZE" Order="1">
+				<Composition>
+					<Athlete Code="9438242" Order="1" Bib="6">
+						<Description GivenName="Rostislav" FamilyName="Pevtsov" Gender="M" Organisation="AZE" BirthDate="1987-04-15" IFId="11162" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+		<Medal Code="ME_BRONZE" Date="2026-09-09" Unit="TRIMOLYMPIC-----------FNL-000100--">
+			<Competitor Code="9434659" Type="A" Organisation="BAR" Order="1">
+				<Composition>
+					<Athlete Code="9434659" Order="1" Bib="7">
+						<Description GivenName="Matthew" FamilyName="Wright" Gender="M" Organisation="BAR" BirthDate="1992-05-13" IFId="29226" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Medal>
+	</Competition>
+</OdfBody>

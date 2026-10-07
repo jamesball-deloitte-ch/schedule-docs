@@ -9,10 +9,11 @@ Shared rules for CIS / WMR schedule cards. Discipline packs add sport-specific s
 - [SQU](../SQU/schedule-tile-requirements.md) · [SQU FE results](../SQU/schedule-tile-fe-score.md)
 - [CLB](../CLB/schedule-tile-requirements.md) · [CLB FE results](../CLB/schedule-tile-fe-score.md)
 - [BSB](../BSB/schedule-tile-requirements.md)
+- [TRI](../TRI/schedule-tile-requirements.md) · [TRI FE results](../TRI/schedule-tile-fe-score.md)
 
 **Tile flavours:**
 - **H2H + score:** FBL, ARC, CKT, SQU, BSB  
-- **Event row + medallists after (no live score on tile):** CRD, CLB  
+- **Event row + medallists after (no live score on tile):** CRD, CLB, TRI  
 
 **API contract:** [SCDLA Schedule](https://dgplatform.atlassian.net/wiki/spaces/SCDLA/pages/3120988164/Schedule) — `{competitionCode}/schedule` (+ `schedulesPerDay/{YYYY-MM-DD}`), SSE + HTTP.
 
@@ -66,8 +67,12 @@ ORIS schedule-change matrix (delay → reschedule / postpone / cancel) is shared
 
 ### 3.1 Inclusion
 
-- Include units with schedule flag **Y** (and any discipline **S** rules — see pack).
-- Include medal units (`Unit/@Medal` / level Medals) for CIS; WMR may filter on FE.
+Tiles, **all disciplines**:
+
+- Emit **competition units** and **official trainings** only. Do not emit meetings or other non-competition units, even when `Schedule=Y`.
+- **Victory ceremonies:** include on **CIS**; omit from **WMR**. The **backend** applies this filter for every discipline. Frontend does not hide them.
+- Medal **games** (`Unit/@Medal` 1 or 3) are competition units and stay on both surfaces.
+- Discipline `Schedule=S` rules still apply (see the pack).
 - HTTP snapshot + SSE patches; day filter endpoint as in Confluence.
 
 ### 3.2 ODF messages (baseline)
@@ -93,13 +98,29 @@ ORIS schedule-change matrix (delay → reschedule / postpone / cancel) is shared
 | `resultStatus` / `*Description` | `DT_RESULT` `@ResultStatus` + CC | |
 | `venue*` / `location*` | Unit venue/location + descriptions | |
 | `medalFlag` | `Unit/@Medal` | `0` none; `1` gold; `3` bronze (API convention) |
-| `competitors[]` | Known `Start/Competitor` + `Result` | `type` `A` or `T` per sport |
+| `competitors[]` | Known `Start/Competitor` + `Result` | `type` `A` or `T` per sport; see §3.3.1 |
 | `competitors[].result.*` | `Result/@Result`, `@ResultType`, `@WLT`, `@IRM`, medal | |
 | `placeholderOpponents[]` | Unknown competitors — **resolution is sport-specific** | See packs |
 | `liveCurrentProgress` | **Sport-specific** (optional on Confluence: “e.g. FBL”) | See packs |
 | `extendedResultInfo.finalResultDescription` | **CKT (and similar)** — Confluence | Interpolated match-situation text; see CKT pack |
 | `resultDecision` | **Proposed / sport-specific** | See packs + §5 |
 | `startText` | **Proposed** when `hideStartDate` | §3.4 |
+
+### 3.3.1 Full `competitors[]` + NOC filter (global)
+
+**Global:** every competition unit tile must carry the **complete** unit start list in `competitors[]` (from `DT_RESULT` START_LIST / later statuses, and/or schedule `StartList` when that is the source). Do **not** shrink the payload to medallists-only after finish.
+
+Country / NOC filter matches a tile when any `competitors[].organisation` equals the selected NOC (athlete or team). Card UI still follows the discipline flavour — H2H shows opponents; event-row packs show medallists after and do **not** render the full start list on the card.
+
+### 3.3.2 Event-row medallists after + ties (global for non-H2H)
+
+For **event row + medallists** tiles (not H2H score cards):
+
+- After finish, set `result.medal` from `DT_MEDALLISTS` on every medallist in the full `competitors[]`.
+- FE renders **all** medallist rows (`result.medal` set). Usual case is three (G/S/B).
+- **Ties:** when a medal place is shared, show **more than three** rows — every athlete/team that has a medal. Do not collapse shared places into a single row.
+
+H2H medal **games** keep the shared rule of a medal icon on the game winner(s) per the H2H pack — this section does not change H2H score layout.
 
 ### 3.4 `startText` — ODF → API → display (shared)
 
@@ -144,12 +165,14 @@ Discipline packs define codes (`SC@CompetitorPlace`) and worked examples.
 
 ### 3.7 Backend checklist (shared)
 
-- [ ] Y-schedule units (+ CIS medals) in payload  
+- [ ] Competition units + official trainings in the payload; victory ceremonies on CIS only (BE drops them for WMR)  
+- [ ] Full `competitors[]` start list on every competition unit (NOC filter) — §3.3.1  
 - [ ] Status transitions reflected on SSE  
 - [ ] Placeholders resolved to `placeholderOpponents[].name` (discipline rules)  
 - [ ] Placeholder → real competitor on schedule update  
 - [ ] `startText` when `hideStartDate` (once API field exists)  
 - [ ] IRM / WLT from `DT_RESULT` when applicable  
+- [ ] Event-row after: all medallist rows including ties — §3.3.2  
 
 ---
 
@@ -168,7 +191,7 @@ Discipline packs define codes (`SC@CompetitorPlace`) and worked examples.
 
 ### 4.2 Filters (product)
 
-- WMR may hide medal-only / ceremony units client-side; CIS keeps them
+- Render the list the API returns. Victory-ceremony omission for WMR is a backend filter ([§3.1](#31-inclusion)), not a client hide
 - Live only / hide finished use `liveFlag` / statuses
 - Do not list `UNSCHEDULED` units unless a pack explicitly requires it
 

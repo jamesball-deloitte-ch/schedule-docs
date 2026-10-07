@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRIWOLYMPIC-----------FNL-000100--" DocumentType="DT_RESULT" Version="72" ResultStatus="LIVE" FeedFlag="T" TimeStamp="2026-09-09T11:00:01.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<ExtendedInfos>
+			<ExtendedInfo Type="UI" Code="STARTERS" Value="54">
+				<Extension Code="COMPLETE" Pos="1" Value="52" />
+				<Extension Code="COMPLETE" Pos="2" Value="52" />
+				<Extension Code="ORG" Value="33" />
+				<Extension Code="DNS" Value="2" />
+				<Extension Code="LAP" Value="1" />
+				<Extension Code="DNF" Value="1" />
+			</ExtendedInfo>
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT1" Value="52" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT2" Value="52" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT3" Value="52" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT4" Value="50" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT5" Value="41" />
+			<ExtendedInfo Type="UI" Code="WET_SUIT" Value="Y" />
+			<ExtendedInfo Type="UI" Code="CURRENT" Value="SEG3">
+				<Extension Code="INTERMEDIATE" Value="INT5" />
+			</ExtendedInfo>
+			<SportDescription DisciplineName="Triathlon" EventName="Women's Individual" SubEventName="Women's Individual" Gender="W" />
+			<VenueDescription Venue="VBH" VenueName="Venice Beach" Location="VBH" LocationName="Venice Beach" />
+		</ExtendedInfos>
+		<Result SortOrder="1" StartOrder="27" StartSortOrder="27">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="26" SortOrder="26" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="47" SortOrder="47" Diff="+0:14" Move="-21" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="44" SortOrder="44" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="44" SortOrder="44" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:40" Rank="49" SortOrder="49" Diff="+0:16" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:33" Rank="46" SortOrder="46" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="6" SortOrder="6" Diff="+0:13" Move="+43" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:33" Rank="3" SortOrder="3" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="1" SortOrder="1" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:19" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:52" Rank="3" SortOrder="3" Diff="+0:01" />
+			</ExtendedResults>
+			<Competitor Code="9438584" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438584" Order="1" Bib="28">
+						<Description GivenName="Lisa" FamilyName="Tertsch" Gender="F" Organisation="GER" BirthDate="1998-12-01" IFId="79065" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="2" StartOrder="26" StartSortOrder="26">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="27" SortOrder="27" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="46" SortOrder="46" Diff="+0:14" Move="-19" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="42" RankEqual="Y" SortOrder="42" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="42" RankEqual="Y" SortOrder="42" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:41" Rank="50" SortOrder="50" Diff="+0:17" Move="-4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:33" Rank="49" SortOrder="49" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:13" Rank="5" SortOrder="5" Diff="+0:12" Move="+45" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:32" Rank="2" SortOrder="2" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="2" SortOrder="2" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:19" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:52" Rank="2" SortOrder="2" Diff="+0:01" />
+			</ExtendedResults>
+			<Competitor Code="9438540" Type="A" Organisation="AUT">
+				<Composition>
+					<Athlete Code="9438540" Order="1" Bib="5">
+						<Description GivenName="Lisa" FamilyName="Perterer" Gender="F" Organisation="AUT" BirthDate="1991-10-16" IFId="11879" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="3" StartOrder="31" StartSortOrder="31">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:27" Rank="22" SortOrder="22" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="51" SortOrder="51" Diff="+0:14" Move="-29" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="50" SortOrder="50" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="50" SortOrder="50" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:42" Rank="51" SortOrder="51" Diff="+0:18" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:34" Rank="50" SortOrder="50" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:12" Rank="4" SortOrder="4" Diff="+0:11" Move="+47" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:30" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="3" SortOrder="3" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:20" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:51" Rank="1" SortOrder="1" Diff="+0:00" />
+			</ExtendedResults>
+			<Competitor Code="9434411" Type="A" Organisation="COL">
+				<Composition>
+					<Athlete Code="9434411" Order="1" Bib="14">
+						<Description GivenName="Maria Carolina" FamilyName="Velasquez Soto" Gender="F" Organisation="COL" BirthDate="1997-06-09" IFId="83323" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="4" StartOrder="48" StartSortOrder="48">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:20" Rank="7" SortOrder="7" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:57" Rank="5" SortOrder="5" Diff="+0:04" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="15" SortOrder="15" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="15" SortOrder="15" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:24" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:26" Rank="8" SortOrder="8" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:02" Rank="3" SortOrder="3" Diff="+0:01" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:38" Rank="20" SortOrder="20" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="4" SortOrder="4" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:30" Rank="38" SortOrder="38" Diff="+0:11" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:09" Rank="33" SortOrder="33" Diff="+0:18" />
+			</ExtendedResults>
+			<Competitor Code="9433798" Type="A" Organisation="SWE">
+				<Composition>
+					<Athlete Code="9433798" Order="1" Bib="52">
+						<Description GivenName="Tilda" FamilyName="Mansson" Gender="F" Organisation="SWE" BirthDate="2004-05-13" IFId="135877" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="5" StartOrder="47" StartSortOrder="47">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="8" SortOrder="8" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:56" Rank="4" SortOrder="4" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="7" SortOrder="7" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="7" SortOrder="7" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:24" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="15" SortOrder="15" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:02" Rank="2" SortOrder="2" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="17" SortOrder="17" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="5" SortOrder="5" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:31" Rank="39" SortOrder="39" Diff="+0:12" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:08" Rank="32" SortOrder="32" Diff="+0:17" />
+			</ExtendedResults>
+			<Competitor Code="9430352" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430352" Order="1" Bib="55">
+						<Description GivenName="Taylor" FamilyName="Spivey" Gender="F" Organisation="USA" BirthDate="1991-04-13" IFId="81334" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="6" StartOrder="54" StartSortOrder="54">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:16" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:55" Rank="3" SortOrder="3" Diff="+0:01" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="32" SortOrder="32" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="32" SortOrder="32" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:25" Rank="3" SortOrder="3" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="27" SortOrder="27" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:01" Rank="1" SortOrder="1" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:35" Rank="8" SortOrder="8" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:33" Rank="6" SortOrder="6" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:32" Rank="40" SortOrder="40" Diff="+0:13" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:08" Rank="31" SortOrder="31" Diff="+0:17" />
+			</ExtendedResults>
+			<Competitor Code="9436393" Type="A" Organisation="HUN">
+				<Composition>
+					<Athlete Code="9436393" Order="1" Bib="30">
+						<Description GivenName="Zsanett" FamilyName="Kuttor-Bragmayer" Gender="F" Organisation="HUN" BirthDate="1994-03-29" IFId="16368" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="7" StartOrder="17" StartSortOrder="17">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="36" SortOrder="36" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="37" SortOrder="37" Diff="+0:13" Move="-1" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="29" SortOrder="29" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="29" SortOrder="29" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="43" SortOrder="43" Diff="+0:14" Move="-6" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="40" SortOrder="40" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="12" SortOrder="12" Diff="+0:13" Move="+31" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:36" Rank="10" SortOrder="10" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="7" SortOrder="7" Diff="+0:01" Move="+5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:20" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:56" Rank="8" RankEqual="Y" SortOrder="9" Diff="+0:05" />
+			</ExtendedResults>
+			<Competitor Code="9434048" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434048" Order="1" Bib="24">
+						<Description GivenName="Georgia" FamilyName="Taylor-Brown" Gender="F" Organisation="GBR" BirthDate="1994-03-15" IFId="49545" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="8" StartOrder="16" StartSortOrder="16">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="37" SortOrder="37" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="36" SortOrder="36" Diff="+0:13" Move="+1" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="28" SortOrder="28" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="28" SortOrder="28" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="44" SortOrder="44" Diff="+0:14" Move="-8" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="41" SortOrder="41" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="11" SortOrder="11" Diff="+0:13" Move="+33" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:36" Rank="9" SortOrder="9" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="8" SortOrder="8" Diff="+0:02" Move="+3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:20" Rank="5" SortOrder="5" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:56" Rank="8" RankEqual="Y" SortOrder="8" Diff="+0:05" />
+			</ExtendedResults>
+			<Competitor Code="9438310" Type="A" Organisation="BER">
+				<Composition>
+					<Athlete Code="9438310" Order="1" Bib="8">
+						<Description GivenName="Flora" FamilyName="Duffy" Gender="F" Organisation="BER" BirthDate="1987-09-30" IFId="7776" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="9" StartOrder="15" StartSortOrder="15">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="38" SortOrder="38" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="35" SortOrder="35" Diff="+0:13" Move="+3" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="26" SortOrder="26" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="26" SortOrder="26" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:39" Rank="45" SortOrder="45" Diff="+0:15" Move="-10" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:32" Rank="44" SortOrder="44" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="10" SortOrder="10" Diff="+0:13" Move="+35" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:35" Rank="7" SortOrder="7" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="9" SortOrder="9" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:20" Rank="6" SortOrder="6" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:56" Rank="7" SortOrder="7" Diff="+0:05" />
+			</ExtendedResults>
+			<Competitor Code="9435365" Type="A" Organisation="CAN">
+				<Composition>
+					<Athlete Code="9435365" Order="1" Bib="11">
+						<Description GivenName="Emy" FamilyName="Legault" Gender="F" Organisation="CAN" BirthDate="1996-04-05" IFId="69055" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="10" StartOrder="30" StartSortOrder="30">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="23" SortOrder="23" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="50" SortOrder="50" Diff="+0:14" Move="-27" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="47" SortOrder="47" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="47" SortOrder="47" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:39" Rank="46" SortOrder="46" Diff="+0:15" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="42" SortOrder="42" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="9" SortOrder="9" Diff="+0:13" Move="+37" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:34" Rank="6" SortOrder="6" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="10" SortOrder="10" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:21" Rank="7" SortOrder="7" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:56" Rank="6" SortOrder="6" Diff="+0:04" />
+			</ExtendedResults>
+			<Competitor Code="9435657" Type="A" Organisation="GUM">
+				<Composition>
+					<Athlete Code="9435657" Order="1" Bib="29">
+						<Description GivenName="Manami" FamilyName="Iijima" Gender="F" Organisation="GUM" BirthDate="1992-10-20" IFId="165494" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="11" StartOrder="29" StartSortOrder="29">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="24" SortOrder="24" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="49" SortOrder="49" Diff="+0:14" Move="-25" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="46" SortOrder="46" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="46" SortOrder="46" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:39" Rank="47" SortOrder="47" Diff="+0:15" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:32" Rank="43" SortOrder="43" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="8" SortOrder="8" Diff="+0:13" Move="+39" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:34" Rank="5" SortOrder="5" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="11" SortOrder="11" Diff="+0:02" Move="-3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:21" Rank="8" SortOrder="8" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:55" Rank="5" SortOrder="5" Diff="+0:04" />
+			</ExtendedResults>
+			<Competitor Code="9438721" Type="A" Organisation="NOR">
+				<Composition>
+					<Athlete Code="9438721" Order="1" Bib="43">
+						<Description GivenName="Lotte" FamilyName="Miller" Gender="F" Organisation="NOR" BirthDate="1996-01-25" IFId="47631" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="12" StartOrder="28" StartSortOrder="28">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="25" SortOrder="25" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="48" SortOrder="48" Diff="+0:14" Move="-23" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="45" SortOrder="45" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="45" SortOrder="45" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:40" Rank="48" SortOrder="48" Diff="+0:16" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:32" Rank="45" SortOrder="45" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="7" SortOrder="7" Diff="+0:13" Move="+41" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:34" Rank="4" SortOrder="4" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:35" Rank="12" SortOrder="12" Diff="+0:02" Move="-5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:21" Rank="9" SortOrder="9" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:55" Rank="4" SortOrder="4" Diff="+0:04" />
+			</ExtendedResults>
+			<Competitor Code="9433388" Type="A" Organisation="MEX">
+				<Composition>
+					<Athlete Code="9433388" Order="1" Bib="38">
+						<Description GivenName="Lizeth" FamilyName="Rueda Santos" Gender="F" Organisation="MEX" BirthDate="1994-03-07" IFId="73426" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="13" StartOrder="24" StartSortOrder="24">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="29" SortOrder="29" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="44" SortOrder="44" Diff="+0:14" Move="-15" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="40" SortOrder="40" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="40" SortOrder="40" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:37" Rank="36" SortOrder="36" Diff="+0:13" Move="+8" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="31" SortOrder="31" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="19" SortOrder="19" Diff="+0:14" Move="+17" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="18" SortOrder="18" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="13" SortOrder="13" Diff="+0:03" Move="+6" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:21" Rank="10" SortOrder="10" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="10" SortOrder="10" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9438573" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438573" Order="1" Bib="27">
+						<Description GivenName="Laura" FamilyName="Lindemann" Gender="F" Organisation="GER" BirthDate="1996-06-26" IFId="70413" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="14" StartOrder="23" StartSortOrder="23">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="30" SortOrder="30" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="43" SortOrder="43" Diff="+0:14" Move="-13" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="39" SortOrder="39" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="39" SortOrder="39" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:37" Rank="37" SortOrder="37" Diff="+0:13" Move="+6" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="33" SortOrder="33" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="18" SortOrder="18" Diff="+0:14" Move="+19" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="16" SortOrder="16" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="14" SortOrder="14" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:21" Rank="11" SortOrder="11" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="11" SortOrder="11" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9430341" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430341" Order="1" Bib="53">
+						<Description GivenName="Kirsten" FamilyName="Kasper" Gender="F" Organisation="USA" BirthDate="1991-08-31" IFId="89532" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="15" StartOrder="22" StartSortOrder="22">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="31" SortOrder="31" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="42" SortOrder="42" Diff="+0:14" Move="-11" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="38" SortOrder="38" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="38" SortOrder="38" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="38" SortOrder="38" Diff="+0:13" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="34" SortOrder="34" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="17" SortOrder="17" Diff="+0:14" Move="+21" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="15" SortOrder="15" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="15" SortOrder="15" Diff="+0:03" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:22" Rank="12" SortOrder="12" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="12" RankEqual="Y" SortOrder="13" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9434049" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434049" Order="1" Bib="25">
+						<Description GivenName="Kate" FamilyName="Waugh" Gender="F" Organisation="GBR" BirthDate="1999-02-13" IFId="86051" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="16" StartOrder="21" StartSortOrder="21">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="32" SortOrder="32" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="41" SortOrder="41" Diff="+0:14" Move="-9" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="35" SortOrder="35" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="35" SortOrder="35" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="39" SortOrder="39" Diff="+0:13" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="35" SortOrder="35" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="16" SortOrder="16" Diff="+0:14" Move="+23" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="14" SortOrder="14" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="16" SortOrder="16" Diff="+0:03" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:22" Rank="13" SortOrder="13" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="15" SortOrder="15" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9436789" Type="A" Organisation="SUI">
+				<Composition>
+					<Athlete Code="9436789" Order="1" Bib="50">
+						<Description GivenName="Julie" FamilyName="Derron" Gender="F" Organisation="SUI" BirthDate="1996-09-10" IFId="84816" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="17" StartOrder="20" StartSortOrder="20">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="33" SortOrder="33" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="40" SortOrder="40" Diff="+0:14" Move="-7" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="34" SortOrder="34" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="34" SortOrder="34" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="40" SortOrder="40" Diff="+0:14" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="36" RankEqual="Y" SortOrder="36" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="15" SortOrder="15" Diff="+0:14" Move="+25" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:36" Rank="13" SortOrder="13" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="17" SortOrder="17" Diff="+0:04" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:22" Rank="14" SortOrder="14" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="14" SortOrder="14" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9438536" Type="A" Organisation="AUT">
+				<Composition>
+					<Athlete Code="9438536" Order="1" Bib="4">
+						<Description GivenName="Julia" FamilyName="Hauser" Gender="F" Organisation="AUT" BirthDate="1994-02-21" IFId="41079" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="18" StartOrder="19" StartSortOrder="19">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="34" SortOrder="34" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="39" SortOrder="39" Diff="+0:13" Move="-5" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="33" SortOrder="33" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="33" SortOrder="33" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="41" SortOrder="41" Diff="+0:14" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="38" SortOrder="38" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="14" SortOrder="14" Diff="+0:13" Move="+27" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:36" Rank="12" SortOrder="12" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="18" SortOrder="18" Diff="+0:04" Move="-4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:22" Rank="15" SortOrder="15" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="12" RankEqual="Y" SortOrder="12" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9433092" Type="A" Organisation="BEL">
+				<Composition>
+					<Athlete Code="9433092" Order="1" Bib="7">
+						<Description GivenName="Jolien" FamilyName="Vermeylen" Gender="F" Organisation="BEL" BirthDate="1994-05-02" IFId="113106" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="19" StartOrder="18" StartSortOrder="18">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="35" SortOrder="35" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="38" SortOrder="38" Diff="+0:13" Move="-3" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="31" SortOrder="31" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="31" SortOrder="31" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:38" Rank="42" SortOrder="42" Diff="+0:14" Move="-4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="39" SortOrder="39" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:14" Rank="13" SortOrder="13" Diff="+0:13" Move="+29" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:36" Rank="11" SortOrder="11" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:37" Rank="19" SortOrder="19" Diff="+0:04" Move="-6" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:22" Rank="16" SortOrder="16" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:59" Rank="16" SortOrder="16" Diff="+0:08" />
+			</ExtendedResults>
+			<Competitor Code="9435477" Type="A" Organisation="LUX">
+				<Composition>
+					<Athlete Code="9435477" Order="1" Bib="37">
+						<Description GivenName="Jeanne" FamilyName="Lehair" Gender="F" Organisation="LUX" BirthDate="1996-03-30" IFId="56557" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="20" StartOrder="12" StartSortOrder="12">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="41" SortOrder="41" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="32" SortOrder="32" Diff="+0:13" Move="+9" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="22" SortOrder="22" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="22" SortOrder="22" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:36" Rank="30" SortOrder="30" Diff="+0:12" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:29" Rank="25" SortOrder="25" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="24" SortOrder="24" Diff="+0:14" Move="+6" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:39" Rank="24" SortOrder="24" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:38" Rank="20" SortOrder="20" Diff="+0:05" Move="+4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="17" SortOrder="17" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:02" Rank="21" SortOrder="21" Diff="+0:11" />
+			</ExtendedResults>
+			<Competitor Code="9438635" Type="A" Organisation="KAZ">
+				<Composition>
+					<Athlete Code="9438635" Order="1" Bib="36">
+						<Description GivenName="Ekaterina" FamilyName="Shabalina" Gender="F" Organisation="KAZ" BirthDate="1998-05-28" IFId="115050" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="21" StartOrder="10" StartSortOrder="10">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="43" SortOrder="43" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="30" SortOrder="30" Diff="+0:13" Move="+13" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="19" SortOrder="19" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="19" SortOrder="19" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:36" Rank="32" SortOrder="32" Diff="+0:12" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="28" SortOrder="28" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="23" SortOrder="23" Diff="+0:14" Move="+9" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:39" Rank="23" SortOrder="23" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:38" Rank="21" SortOrder="21" Diff="+0:05" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="18" SortOrder="18" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:02" Rank="18" RankEqual="Y" SortOrder="18" Diff="+0:11" />
+			</ExtendedResults>
+			<Competitor Code="9430667" Type="A" Organisation="BRA">
+				<Composition>
+					<Athlete Code="9430667" Order="1" Bib="9">
+						<Description GivenName="Djenyfer" FamilyName="Arnold" Gender="F" Organisation="BRA" BirthDate="1993-03-08" IFId="125061" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="22" StartOrder="9" StartSortOrder="9">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="44" SortOrder="44" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="29" SortOrder="29" Diff="+0:13" Move="+15" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="18" SortOrder="18" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="18" SortOrder="18" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:36" Rank="33" SortOrder="33" Diff="+0:12" Move="-4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="30" SortOrder="30" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="22" SortOrder="22" Diff="+0:14" Move="+11" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:38" Rank="22" SortOrder="22" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:38" Rank="22" SortOrder="22" Diff="+0:05" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="19" SortOrder="19" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:02" Rank="20" SortOrder="20" Diff="+0:11" />
+			</ExtendedResults>
+			<Competitor Code="9433091" Type="A" Organisation="BEL">
+				<Composition>
+					<Athlete Code="9433091" Order="1" Bib="6">
+						<Description GivenName="Claire" FamilyName="Michel" Gender="F" Organisation="BEL" BirthDate="1988-10-13" IFId="72769" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="23" StartOrder="8" StartSortOrder="8">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="45" SortOrder="45" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="28" SortOrder="28" Diff="+0:13" Move="+17" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="16" SortOrder="16" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="16" SortOrder="16" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:36" Rank="34" SortOrder="34" Diff="+0:12" Move="-6" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="32" SortOrder="32" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="21" SortOrder="21" Diff="+0:14" Move="+13" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:38" Rank="21" SortOrder="21" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:39" Rank="23" SortOrder="23" Diff="+0:05" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="20" SortOrder="20" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:02" Rank="18" RankEqual="Y" SortOrder="19" Diff="+0:11" />
+			</ExtendedResults>
+			<Competitor Code="9437739" Type="A" Organisation="SUI">
+				<Composition>
+					<Athlete Code="9437739" Order="1" Bib="51">
+						<Description GivenName="Cathia" FamilyName="Schar" Gender="F" Organisation="SUI" BirthDate="2001-10-20" IFId="115148" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="24" StartOrder="25" StartSortOrder="25">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:28" Rank="28" SortOrder="28" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="45" SortOrder="45" Diff="+0:14" Move="-17" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="41" SortOrder="41" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="41" SortOrder="41" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:37" Rank="35" SortOrder="35" Diff="+0:13" Move="+10" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="29" SortOrder="29" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="20" SortOrder="20" Diff="+0:14" Move="+15" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:37" Rank="19" SortOrder="19" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:39" Rank="24" SortOrder="24" Diff="+0:05" Move="-4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="21" SortOrder="21" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:01" Rank="17" SortOrder="17" Diff="+0:10" />
+			</ExtendedResults>
+			<Competitor Code="9433465" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433465" Order="1" Bib="22">
+						<Description GivenName="Leonie" FamilyName="Periault" Gender="F" Organisation="FRA" BirthDate="1994-07-31" IFId="41158" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="25" StartOrder="52" StartSortOrder="52">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:53" Rank="1" SortOrder="1" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:34" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:34" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:32" Rank="21" SortOrder="21" Diff="+0:08" Move="-20" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:39" Rank="52" SortOrder="52" Diff="+0:15" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="33" SortOrder="33" Diff="+0:15" Move="-12" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:44" Rank="33" SortOrder="33" Diff="+0:13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="25" SortOrder="25" Diff="+0:06" Move="+8" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="22" SortOrder="22" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:07" Rank="30" SortOrder="30" Diff="+0:16" />
+			</ExtendedResults>
+			<Competitor Code="9430255" Type="A" Organisation="CHN">
+				<Composition>
+					<Athlete Code="9430255" Order="1" Bib="12">
+						<Description GivenName="Xinyu" FamilyName="Lin" Gender="F" Organisation="CHN" BirthDate="2002-04-24" IFId="131701" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="26" StartOrder="3" StartSortOrder="3">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:30" Rank="50" SortOrder="50" Diff="+0:13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:05" Rank="23" SortOrder="23" Diff="+0:12" Move="+27" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="9" SortOrder="9" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="9" SortOrder="9" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:33" Rank="22" SortOrder="22" Diff="+0:08" Move="+1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="10" SortOrder="10" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="32" SortOrder="32" Diff="+0:15" Move="-10" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:43" Rank="32" SortOrder="32" Diff="+0:13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="26" SortOrder="26" Diff="+0:06" Move="+6" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:23" Rank="23" SortOrder="23" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:07" Rank="29" SortOrder="29" Diff="+0:16" />
+			</ExtendedResults>
+			<Competitor Code="9430638" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430638" Order="1" Bib="32">
+						<Description GivenName="Alice" FamilyName="Betto" Gender="F" Organisation="ITA" BirthDate="1987-12-10" IFId="39683" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="27" StartOrder="2" StartSortOrder="2">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:30" Rank="51" SortOrder="51" Diff="+0:13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:05" Rank="22" SortOrder="22" Diff="+0:12" Move="+29" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="8" SortOrder="8" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="8" SortOrder="8" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:33" Rank="23" SortOrder="23" Diff="+0:09" Move="-1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="12" SortOrder="12" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="31" SortOrder="31" Diff="+0:15" Move="-8" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:42" Rank="31" SortOrder="31" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="27" SortOrder="27" Diff="+0:06" Move="+4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="24" SortOrder="24" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:06" Rank="28" SortOrder="28" Diff="+0:15" />
+			</ExtendedResults>
+			<Competitor Code="9432912" Type="A" Organisation="DEN">
+				<Composition>
+					<Athlete Code="9432912" Order="1" Bib="16">
+						<Description GivenName="Alberte Kjaer" FamilyName="Pedersen" Gender="F" Organisation="DEN" BirthDate="1998-06-23" IFId="82017" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="28" StartOrder="7" StartSortOrder="7">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="46" SortOrder="46" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="27" SortOrder="27" Diff="+0:13" Move="+19" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="14" SortOrder="14" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="14" SortOrder="14" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:33" Rank="24" SortOrder="24" Diff="+0:09" Move="+3" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="14" SortOrder="14" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="30" SortOrder="30" Diff="+0:15" Move="-6" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:42" Rank="30" SortOrder="30" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="28" SortOrder="28" Diff="+0:06" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="25" SortOrder="25" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:06" Rank="27" SortOrder="27" Diff="+0:15" />
+			</ExtendedResults>
+			<Competitor Code="9433463" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433463" Order="1" Bib="20">
+						<Description GivenName="Cassandre" FamilyName="Beaugrand" Gender="F" Organisation="FRA" BirthDate="1997-05-23" IFId="63163" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="29" StartOrder="6" StartSortOrder="6">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="47" SortOrder="47" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="26" SortOrder="26" Diff="+0:13" Move="+21" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="13" SortOrder="13" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="13" SortOrder="13" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:34" Rank="25" SortOrder="25" Diff="+0:10" Move="+1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="18" SortOrder="18" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="29" SortOrder="29" Diff="+0:15" Move="-4" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:41" Rank="29" SortOrder="29" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="29" SortOrder="29" Diff="+0:07" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="26" SortOrder="26" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:06" Rank="26" SortOrder="26" Diff="+0:15" />
+			</ExtendedResults>
+			<Competitor Code="9430639" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430639" Order="1" Bib="33">
+						<Description GivenName="Bianca" FamilyName="Seregni" Gender="F" Organisation="ITA" BirthDate="2000-03-22" IFId="106581" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="30" StartOrder="5" StartSortOrder="5">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="48" SortOrder="48" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="25" SortOrder="25" Diff="+0:12" Move="+23" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="12" SortOrder="12" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="12" SortOrder="12" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:34" Rank="26" SortOrder="26" Diff="+0:10" Move="-1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="20" SortOrder="20" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="28" SortOrder="28" Diff="+0:15" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:41" Rank="28" SortOrder="28" Diff="+0:11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="30" SortOrder="30" Diff="+0:07" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="27" SortOrder="27" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:06" Rank="25" SortOrder="25" Diff="+0:14" />
+			</ExtendedResults>
+			<Competitor Code="9434044" Type="A" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434044" Order="1" Bib="23">
+						<Description GivenName="Beth" FamilyName="Potter" Gender="F" Organisation="GBR" BirthDate="1991-12-27" IFId="117212" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="31" StartOrder="4" StartSortOrder="4">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="49" SortOrder="49" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:05" Rank="24" SortOrder="24" Diff="+0:12" Move="+25" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="10" SortOrder="10" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="10" SortOrder="10" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:35" Rank="27" SortOrder="27" Diff="+0:10" Move="-3" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:29" Rank="23" SortOrder="23" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="27" SortOrder="27" Diff="+0:14" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:40" Rank="27" SortOrder="27" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="31" SortOrder="31" Diff="+0:07" Move="-4" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="28" SortOrder="28" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:05" Rank="24" SortOrder="24" Diff="+0:14" />
+			</ExtendedResults>
+			<Competitor Code="9438381" Type="A" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438381" Order="1" Bib="19">
+						<Description GivenName="Anna" FamilyName="Godoy Contreras" Gender="F" Organisation="ESP" BirthDate="1992-10-21" IFId="31827" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="32" StartOrder="14" StartSortOrder="14">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="39" SortOrder="39" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="34" SortOrder="34" Diff="+0:13" Move="+5" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="25" SortOrder="25" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="25" SortOrder="25" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:35" Rank="28" SortOrder="28" Diff="+0:11" Move="+6" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="22" SortOrder="22" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="26" SortOrder="26" Diff="+0:14" Move="+2" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:40" Rank="26" SortOrder="26" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="32" SortOrder="32" Diff="+0:07" Move="-6" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="30" SortOrder="30" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:05" Rank="23" SortOrder="23" Diff="+0:14" />
+			</ExtendedResults>
+			<Competitor Code="9433464" Type="A" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433464" Order="1" Bib="21">
+						<Description GivenName="Emma" FamilyName="Lombardi" Gender="F" Organisation="FRA" BirthDate="2001-09-12" IFId="125375" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="33" StartOrder="13" StartSortOrder="13">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="40" SortOrder="40" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="33" SortOrder="33" Diff="+0:13" Move="+7" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="23" SortOrder="23" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="23" SortOrder="23" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:35" Rank="29" SortOrder="29" Diff="+0:11" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:29" Rank="24" SortOrder="24" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:15" Rank="25" SortOrder="25" Diff="+0:14" Move="+4" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:39" Rank="25" SortOrder="25" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:40" Rank="33" SortOrder="33" Diff="+0:07" Move="-8" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="32" SortOrder="32" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:04" Rank="22" SortOrder="22" Diff="+0:13" />
+			</ExtendedResults>
+			<Competitor Code="9435571" Type="A" Organisation="ECU">
+				<Composition>
+					<Athlete Code="9435571" Order="1" Bib="17">
+						<Description GivenName="Elizabeth" FamilyName="Bravo" Gender="F" Organisation="ECU" BirthDate="1987-01-30" IFId="7525" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="34" StartOrder="46" StartSortOrder="46">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="9" SortOrder="9" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:02" Rank="20" SortOrder="20" Diff="+0:09" Move="-11" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:40" Rank="52" SortOrder="52" Diff="+0:07" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:40" Rank="52" SortOrder="52" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:29" Rank="13" SortOrder="13" Diff="+0:05" Move="+7" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:26" Rank="9" SortOrder="9" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="41" SortOrder="41" Diff="+0:15" Move="-28" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:47" Rank="41" SortOrder="41" Diff="+0:17" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:41" Rank="34" SortOrder="34" Diff="+0:08" Move="+7" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="29" SortOrder="29" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:12" Rank="40" SortOrder="40" Diff="+0:21" />
+			</ExtendedResults>
+			<Competitor Code="9430339" Type="A" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430339" Order="1" Bib="54">
+						<Description GivenName="Taylor" FamilyName="Knibb" Gender="F" Organisation="USA" BirthDate="1998-02-14" IFId="80643" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="35" StartOrder="44" StartSortOrder="44">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:22" Rank="10" SortOrder="10" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:02" Rank="19" SortOrder="19" Diff="+0:09" Move="-9" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="48" RankEqual="Y" SortOrder="49" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="48" RankEqual="Y" SortOrder="49" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:29" Rank="14" SortOrder="14" Diff="+0:05" Move="+5" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="11" SortOrder="11" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="40" SortOrder="40" Diff="+0:15" Move="-26" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:47" Rank="40" SortOrder="40" Diff="+0:17" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:41" Rank="35" SortOrder="35" Diff="+0:08" Move="+5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:24" Rank="31" SortOrder="31" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:12" Rank="39" SortOrder="39" Diff="+0:21" />
+			</ExtendedResults>
+			<Competitor Code="9438722" Type="A" Organisation="NOR">
+				<Composition>
+					<Athlete Code="9438722" Order="1" Bib="42">
+						<Description GivenName="Solveig" FamilyName="Lovseth" Gender="F" Organisation="NOR" BirthDate="1999-07-14" IFId="94515" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="36" StartOrder="43" StartSortOrder="43">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:22" Rank="11" SortOrder="11" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:02" Rank="18" SortOrder="18" Diff="+0:09" Move="-7" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="42" RankEqual="Y" SortOrder="43" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="42" RankEqual="Y" SortOrder="43" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:29" Rank="15" SortOrder="15" Diff="+0:05" Move="+3" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:27" Rank="13" SortOrder="13" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="39" SortOrder="39" Diff="+0:15" Move="-24" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:47" Rank="39" SortOrder="39" Diff="+0:16" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:41" Rank="36" SortOrder="36" Diff="+0:08" Move="+3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:25" Rank="33" SortOrder="33" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:12" Rank="38" SortOrder="38" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9433389" Type="A" Organisation="MEX">
+				<Composition>
+					<Athlete Code="9433389" Order="1" Bib="39">
+						<Description GivenName="Rosa Maria" FamilyName="Tapia Vidal" Gender="F" Organisation="MEX" BirthDate="1997-08-27" IFId="80813" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="37" StartOrder="41" StartSortOrder="41">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:23" Rank="12" SortOrder="12" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:02" Rank="17" SortOrder="17" Diff="+0:09" Move="-5" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="36" SortOrder="36" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="36" SortOrder="36" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:30" Rank="16" SortOrder="16" Diff="+0:06" Move="+1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="17" SortOrder="17" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="38" SortOrder="38" Diff="+0:15" Move="-22" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:46" Rank="38" SortOrder="38" Diff="+0:16" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:42" Rank="37" SortOrder="37" Diff="+0:08" Move="+1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:25" Rank="34" SortOrder="34" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:11" Rank="37" SortOrder="37" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9434931" Type="A" Organisation="POL">
+				<Composition>
+					<Athlete Code="9434931" Order="1" Bib="46">
+						<Description GivenName="Roksana" FamilyName="Slupek" Gender="F" Organisation="POL" BirthDate="1999-04-25" IFId="106358" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="38" StartOrder="40" StartSortOrder="40">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:24" Rank="13" SortOrder="13" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:02" Rank="16" SortOrder="16" Diff="+0:08" Move="-3" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="30" SortOrder="30" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="30" SortOrder="30" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:30" Rank="17" SortOrder="17" Diff="+0:06" Move="-1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="19" SortOrder="19" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="37" SortOrder="37" Diff="+0:15" Move="-20" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:46" Rank="37" SortOrder="37" Diff="+0:15" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:42" Rank="38" SortOrder="38" Diff="+0:08" Move="-1" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:25" Rank="35" SortOrder="35" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:11" Rank="36" SortOrder="36" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9438656" Type="A" Organisation="NED">
+				<Composition>
+					<Athlete Code="9438656" Order="1" Bib="41">
+						<Description GivenName="Rachel" FamilyName="Klamer" Gender="F" Organisation="NED" BirthDate="1990-10-08" IFId="22170" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="39" StartOrder="39" StartSortOrder="39">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:24" Rank="14" SortOrder="14" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="15" SortOrder="15" Diff="+0:08" Move="-1" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="24" SortOrder="24" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="24" SortOrder="24" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:30" Rank="18" SortOrder="18" Diff="+0:06" Move="-3" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="21" SortOrder="21" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="36" SortOrder="36" Diff="+0:15" Move="-18" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:45" Rank="36" SortOrder="36" Diff="+0:15" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:42" Rank="39" SortOrder="39" Diff="+0:08" Move="-3" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:25" Rank="36" SortOrder="36" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:11" Rank="35" SortOrder="35" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9433012" Type="A" Organisation="CZE">
+				<Composition>
+					<Athlete Code="9433012" Order="1" Bib="15">
+						<Description GivenName="Petra" FamilyName="Kurikova" Gender="F" Organisation="CZE" BirthDate="1991-11-25" IFId="26478" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="40" StartOrder="50" StartSortOrder="50">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:19" Rank="5" SortOrder="5" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:58" Rank="7" SortOrder="7" Diff="+0:04" Move="-2" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:38" Rank="37" SortOrder="37" Diff="+0:05" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:38" Rank="37" SortOrder="37" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:31" Rank="19" SortOrder="19" Diff="+0:06" Move="-12" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:33" Rank="47" SortOrder="47" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="35" SortOrder="35" Diff="+0:15" Move="-16" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:45" Rank="35" SortOrder="35" Diff="+0:15" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="2:42" Rank="40" SortOrder="40" Diff="+0:08" Move="-5" />
+				<ExtendedResult Type="SECTION" Code="INT5" Pos="5" Value="0:25" Rank="37" SortOrder="37" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="1:11" Rank="34" SortOrder="34" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9433974" Type="A" Organisation="RSA">
+				<Composition>
+					<Athlete Code="9433974" Order="1" Bib="49">
+						<Description GivenName="Vicky" FamilyName="van der Merwe" Gender="F" Organisation="RSA" BirthDate="1989-09-15" IFId="7803" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="41" StartOrder="49" StartSortOrder="49">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:20" Rank="6" SortOrder="6" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:57" Rank="6" SortOrder="6" Diff="+0:04" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:37" Rank="27" SortOrder="27" Diff="+0:04" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:37" Rank="27" SortOrder="27" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:31" Rank="20" SortOrder="20" Diff="+0:07" Move="-14" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:33" Rank="48" SortOrder="48" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:16" Rank="34" SortOrder="34" Diff="+0:15" Move="-14" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:45" Rank="34" SortOrder="34" Diff="+0:14" />
+			</ExtendedResults>
+			<Competitor Code="9430640" Type="A" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430640" Order="1" Bib="34">
+						<Description GivenName="Verena" FamilyName="Steinhauser" Gender="F" Organisation="ITA" BirthDate="1994-10-14" IFId="58449" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="42" StartOrder="1" StartSortOrder="1">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:30" Rank="52" SortOrder="52" Diff="+0:13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:05" Rank="21" SortOrder="21" Diff="+0:12" Move="+31" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="6" SortOrder="6" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="6" SortOrder="6" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:29" Rank="12" SortOrder="12" Diff="+0:04" Move="+9" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:23" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="42" SortOrder="42" Diff="+0:16" Move="-30" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:48" Rank="42" SortOrder="42" Diff="+0:17" />
+			</ExtendedResults>
+			<Competitor Code="9436251" Type="A" Organisation="NZL">
+				<Composition>
+					<Athlete Code="9436251" Order="1" Bib="44">
+						<Description GivenName="Ainsley" FamilyName="Thorpe" Gender="F" Organisation="NZL" BirthDate="1998-02-13" IFId="92305" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="43" StartOrder="35" StartSortOrder="35">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:26" Rank="18" SortOrder="18" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="11" SortOrder="11" Diff="+0:08" Move="+7" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:34" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:34" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:28" Rank="11" SortOrder="11" Diff="+0:04" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:26" Rank="7" SortOrder="7" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="43" SortOrder="43" Diff="+0:16" Move="-32" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:48" Rank="43" SortOrder="43" Diff="+0:18" />
+			</ExtendedResults>
+			<Competitor Code="9438379" Type="A" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438379" Order="1" Bib="18">
+						<Description GivenName="Miriam" FamilyName="Casillas Garcia" Gender="F" Organisation="ESP" BirthDate="1992-06-24" IFId="30383" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="44" StartOrder="36" StartSortOrder="36">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:26" Rank="17" SortOrder="17" Diff="+0:09" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="12" SortOrder="12" Diff="+0:08" Move="+5" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:35" Rank="5" SortOrder="5" Diff="+0:02" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:35" Rank="5" SortOrder="5" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:28" Rank="10" SortOrder="10" Diff="+0:03" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:26" Rank="6" SortOrder="6" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="44" SortOrder="44" Diff="+0:16" Move="-34" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:49" Rank="44" SortOrder="44" Diff="+0:18" />
+			</ExtendedResults>
+			<Competitor Code="9436492" Type="A" Organisation="AUS">
+				<Composition>
+					<Athlete Code="9436492" Order="1" Bib="3">
+						<Description GivenName="Natalie" FamilyName="van Coevorden" Gender="F" Organisation="AUS" BirthDate="1992-12-22" IFId="45907" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="45" StartOrder="37" StartSortOrder="37">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:25" Rank="16" SortOrder="16" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="13" SortOrder="13" Diff="+0:08" Move="+3" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="11" SortOrder="11" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="11" SortOrder="11" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:27" Rank="9" SortOrder="9" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:26" Rank="5" SortOrder="5" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="45" SortOrder="45" Diff="+0:16" Move="-36" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:49" Rank="45" SortOrder="45" Diff="+0:19" />
+			</ExtendedResults>
+			<Competitor Code="9436245" Type="A" Organisation="NZL">
+				<Composition>
+					<Athlete Code="9436245" Order="1" Bib="45">
+						<Description GivenName="Nicole" FamilyName="van der Kaay" Gender="F" Organisation="NZL" BirthDate="1996-02-10" IFId="64750" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="46" StartOrder="38" StartSortOrder="38">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:25" Rank="15" SortOrder="15" Diff="+0:08" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="14" SortOrder="14" Diff="+0:08" Move="+1" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="17" SortOrder="17" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="17" SortOrder="17" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:27" Rank="8" SortOrder="8" Diff="+0:03" Move="+6" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:25" Rank="3" SortOrder="3" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="46" SortOrder="46" Diff="+0:16" Move="-38" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:49" Rank="46" SortOrder="46" Diff="+0:19" />
+			</ExtendedResults>
+			<Competitor Code="9438582" Type="A" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438582" Order="1" Bib="26">
+						<Description GivenName="Nina" FamilyName="Eim" Gender="F" Organisation="GER" BirthDate="1998-08-01" IFId="79066" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="47" StartOrder="51" StartSortOrder="51">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:58" Rank="8" SortOrder="8" Diff="+0:05" Move="-4" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:39" Rank="48" RankEqual="Y" SortOrder="48" Diff="+0:06" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:39" Rank="48" RankEqual="Y" SortOrder="48" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:26" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:28" Rank="16" SortOrder="16" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="47" SortOrder="47" Diff="+0:16" Move="-40" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:50" Rank="47" SortOrder="47" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9430673" Type="A" Organisation="BRA">
+				<Composition>
+					<Athlete Code="9430673" Order="1" Bib="10">
+						<Description GivenName="Vittoria" FamilyName="Lopes" Gender="F" Organisation="BRA" BirthDate="1996-03-15" IFId="81882" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="48" StartOrder="33" StartSortOrder="33">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:27" Rank="20" SortOrder="20" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:00" Rank="9" SortOrder="9" Diff="+0:07" Move="+11" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:33" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:33" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:26" Rank="6" SortOrder="6" Diff="+0:02" Move="+3" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:25" Rank="4" SortOrder="4" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="48" SortOrder="48" Diff="+0:16" Move="-42" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:50" Rank="48" SortOrder="48" Diff="+0:20" />
+			</ExtendedResults>
+			<Competitor Code="9438657" Type="A" Organisation="NED">
+				<Composition>
+					<Athlete Code="9438657" Order="1" Bib="40">
+						<Description GivenName="Maya" FamilyName="Kingma" Gender="F" Organisation="NED" BirthDate="1995-09-08" IFId="55701" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="49" StartOrder="34" StartSortOrder="34">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:27" Rank="19" SortOrder="19" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:01" Rank="10" SortOrder="10" Diff="+0:08" Move="+9" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:33" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:33" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:26" Rank="5" SortOrder="5" Diff="+0:02" Move="+5" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:25" Rank="2" SortOrder="2" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="49" SortOrder="49" Diff="+0:16" Move="-44" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:51" Rank="49" SortOrder="49" Diff="+0:21" />
+			</ExtendedResults>
+			<Competitor Code="9437128" Type="A" Organisation="POR">
+				<Composition>
+					<Athlete Code="9437128" Order="1" Bib="47">
+						<Description GivenName="Melanie" FamilyName="Santos" Gender="F" Organisation="POR" BirthDate="1995-07-12" IFId="47942" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result SortOrder="50" StartOrder="53" StartSortOrder="53">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:17" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:54" Rank="2" SortOrder="2" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="20" SortOrder="20" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="20" SortOrder="20" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:25" Rank="4" SortOrder="4" Diff="+0:01" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:31" Rank="36" RankEqual="Y" SortOrder="37" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="2:17" Rank="50" SortOrder="50" Diff="+0:16" Move="-46" />
+				<ExtendedResult Type="SECTION" Code="INT4" Pos="4" Value="0:52" Rank="50" SortOrder="50" Diff="+0:21" />
+			</ExtendedResults>
+			<Competitor Code="9431928" Type="A" Organisation="JPN">
+				<Composition>
+					<Athlete Code="9431928" Order="1" Bib="35">
+						<Description GivenName="Yuko" FamilyName="Takahashi" Gender="F" Organisation="JPN" BirthDate="1991-08-27" IFId="17285" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DNF" SortOrder="51" StartOrder="11" StartSortOrder="11">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:29" Rank="42" SortOrder="42" Diff="+0:12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:06" Rank="31" SortOrder="31" Diff="+0:13" Move="+11" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:36" Rank="21" SortOrder="21" Diff="+0:03" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:36" Rank="21" SortOrder="21" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:36" Rank="31" SortOrder="31" Diff="+0:12" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:30" Rank="26" SortOrder="26" Diff="+0:06" />
+			</ExtendedResults>
+			<Competitor Code="9437252" Type="A" Organisation="ISL">
+				<Composition>
+					<Athlete Code="9437252" Order="1" Bib="31">
+						<Description GivenName="Edda" FamilyName="Hannesdottir" Gender="F" Organisation="ISL" BirthDate="1994-12-08" IFId="107593" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="LAP" SortOrder="52" StartOrder="32" StartSortOrder="32">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:27" Rank="21" SortOrder="21" Diff="+0:10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="1:07" Rank="52" SortOrder="52" Diff="+0:14" Move="-31" />
+				<ExtendedResult Type="SECTION" Code="INT2" Pos="2" Value="0:40" Rank="51" SortOrder="51" Diff="+0:07" />
+				<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:40" Rank="51" SortOrder="51" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="1:43" Rank="52" SortOrder="52" Diff="+0:19" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:35" Rank="51" SortOrder="51" Diff="+0:11" />
+			</ExtendedResults>
+			<Competitor Code="9437132" Type="A" Organisation="POR">
+				<Composition>
+					<Athlete Code="9437132" Order="1" Bib="48">
+						<Description GivenName="Maria" FamilyName="Tome" Gender="F" Organisation="POR" BirthDate="2001-06-28" IFId="112738" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DNS" SortOrder="53" StartOrder="42" StartSortOrder="42">
+			<Competitor Code="9431462" Type="A" Organisation="ARG">
+				<Composition>
+					<Athlete Code="9431462" Order="1" Bib="1">
+						<Description GivenName="Romina" FamilyName="Biagioli" Gender="F" Organisation="ARG" BirthDate="1989-04-03" IFId="21487" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DNS" SortOrder="54" StartOrder="45" StartSortOrder="45">
+			<Competitor Code="9436493" Type="A" Organisation="AUS">
+				<Composition>
+					<Athlete Code="9436493" Order="1" Bib="2">
+						<Description GivenName="Sophie" FamilyName="Linn" Gender="F" Organisation="AUS" BirthDate="1995-03-13" IFId="123455" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

@@ -1,0 +1,1674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRIXTEAM4-------------FNL-000100--" DocumentType="DT_RESULT" Version="124" ResultStatus="OFFICIAL" FeedFlag="T" TimeStamp="2026-09-09T10:00:01.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<ExtendedInfos>
+			<ExtendedInfo Type="UI" Code="STARTERS" Value="16">
+				<Extension Code="COMPLETE" Value="12" />
+				<Extension Code="ORG" Value="16" />
+				<Extension Code="DSQ" Value="1" />
+				<Extension Code="LAP" Value="1" />
+				<Extension Code="DNF" Value="1" />
+				<Extension Code="DQB" Value="1" />
+			</ExtendedInfo>
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT1" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT2" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT3" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT4" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT5" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT6" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT7" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT8" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT9" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT10" Value="14" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT11" Value="13" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT12" Value="13" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT13" Value="13" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT14" Value="13" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT15" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT16" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT17" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT18" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT19" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT20" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT21" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT22" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT23" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT24" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT25" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT26" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="INT27" Value="12" />
+			<ExtendedInfo Type="DISPLAY" Code="AFTER_INT" Pos="F" Value="12" />
+			<ExtendedInfo Type="UI" Code="WET_SUIT" Value="Y" />
+			<SportDescription DisciplineName="Triathlon" EventName="Mixed Relay" SubEventName="Mixed Relay" Gender="X" />
+			<VenueDescription Venue="VBH" VenueName="Venice Beach" Location="VBH" LocationName="Venice Beach" />
+		</ExtendedInfos>
+		<Result Rank="1" Result="7:49" SortOrder="1" StartOrder="9" StartSortOrder="9" Diff="+0:00">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="7" SortOrder="7" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:35" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:42" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="6" SortOrder="6" Diff="+0:01" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="3" SortOrder="3" Diff="+0:01" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="1" SortOrder="1" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:47" Rank="9" SortOrder="9" Diff="+0:03" Move="-8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="10" SortOrder="10" Diff="+0:16" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="5" SortOrder="5" Diff="+0:01" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="9" SortOrder="9" Diff="+0:01" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="9" SortOrder="9" Diff="+0:00" Move="-4" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:52" Value2="5:16" Rank="9" SortOrder="9" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="5" SortOrder="5" Diff="+0:01" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="5" SortOrder="5" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="8" SortOrder="8" Diff="+0:04" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:49" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:17" Value2="7:49" Rank="1" SortOrder="1" Diff="+0:00" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------ITA01" Type="T" Organisation="ITA">
+				<Composition>
+					<Athlete Code="9430639" Order="1" Bib="9/A">
+						<Description GivenName="Bianca" FamilyName="Seregni" Gender="F" Organisation="ITA" BirthDate="2000-03-22" IFId="106581" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="7" SortOrder="7" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:35" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:16" Rank="8" SortOrder="8" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:42" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="6" SortOrder="6" Diff="+0:01" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="3" SortOrder="3" Diff="+0:01" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:20" Rank="3" RankEqual="Y" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:28" Rank="2" SortOrder="2" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430644" Order="2" Bib="9/B">
+						<Description GivenName="Gianluca" FamilyName="Pozzatti" Gender="M" Organisation="ITA" BirthDate="1993-07-22" IFId="71738" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:14" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:47" Rank="9" SortOrder="9" Diff="+0:03" Move="-8" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:09" Rank="13" SortOrder="13" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="10" SortOrder="10" Diff="+0:16" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:48" Rank="10" SortOrder="10" Diff="+0:19" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="5" SortOrder="5" Diff="+0:01" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:06" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:54" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="9" SortOrder="9" Diff="+0:01" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:46" Rank="9" SortOrder="9" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="9" SortOrder="9" Diff="+0:00" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:44" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="5" RankEqual="Y" SortOrder="7" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430640" Order="3" Bib="9/C">
+						<Description GivenName="Verena" FamilyName="Steinhauser" Gender="F" Organisation="ITA" BirthDate="1994-10-14" IFId="58449" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="5" SortOrder="5" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:12" Rank="5" SortOrder="5" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:08" Rank="8" SortOrder="8" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:04" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="10" RankEqual="Y" SortOrder="11" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:02" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="6" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430646" Order="4" Bib="9/D">
+						<Description GivenName="Alessio" FamilyName="Crociani" Gender="M" Organisation="ITA" BirthDate="2001-11-19" IFId="107730" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="8" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:02" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:04" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="7" RankEqual="Y" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="8" SortOrder="8" Diff="+0:04" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:06" Rank="8" SortOrder="8" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:49" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:00" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:01" Rank="1" SortOrder="1" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="2" Result="7:50" SortOrder="2" StartOrder="8" StartSortOrder="8" Diff="+0:01">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:19" Rank="8" SortOrder="8" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:43" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="7" SortOrder="7" Diff="+0:01" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="5" SortOrder="5" Diff="+0:01" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="4" SortOrder="4" Diff="+0:01" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:43" Rank="14" SortOrder="14" Diff="+0:05" Move="-10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:51" Rank="14" SortOrder="14" Diff="+0:06" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:19" Rank="2" SortOrder="2" Diff="+0:00" Move="+12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:45" Rank="12" SortOrder="12" Diff="+0:04" Move="-10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="12" SortOrder="12" Diff="+0:00" Move="-10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:52" Value2="5:15" Rank="8" SortOrder="8" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="12" SortOrder="12" Diff="+0:07" Move="-10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:25" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:32" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:16" Value2="7:32" Rank="12" SortOrder="12" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="12" SortOrder="12" Diff="+0:01" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:46" Rank="12" SortOrder="12" Diff="+0:04" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:42" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:50" Rank="2" SortOrder="2" Diff="+0:01" Move="+10" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:18" Value2="7:50" Rank="2" SortOrder="2" Diff="+0:01" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------GER01" Type="T" Organisation="GER">
+				<Composition>
+					<Athlete Code="9438584" Order="1" Bib="8/A">
+						<Description GivenName="Lisa" FamilyName="Tertsch" Gender="F" Organisation="GER" BirthDate="1998-12-01" IFId="79065" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:19" Rank="8" SortOrder="8" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="7" SortOrder="7" Diff="+0:02" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:15" Rank="7" SortOrder="7" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:43" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:08" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="7" SortOrder="7" Diff="+0:01" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="10" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="8" SortOrder="8" Diff="+0:02" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="5" SortOrder="5" Diff="+0:01" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="4" SortOrder="4" Diff="+0:01" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:20" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:28" Rank="3" SortOrder="3" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438575" Order="2" Bib="8/B">
+						<Description GivenName="Lasse" FamilyName="Luehrs" Gender="M" Organisation="GER" BirthDate="1996-05-16" IFId="70410" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:43" Rank="14" SortOrder="14" Diff="+0:05" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:20" Rank="14" SortOrder="14" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:51" Rank="14" SortOrder="14" Diff="+0:06" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:07" Rank="10" SortOrder="10" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:19" Rank="2" SortOrder="2" Diff="+0:00" Move="+12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:28" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:45" Rank="12" SortOrder="12" Diff="+0:04" Move="-10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:25" Rank="12" SortOrder="12" Diff="+0:22" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:54" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:42" Rank="2" SortOrder="2" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="12" SortOrder="12" Diff="+0:00" Move="-10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:04" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:42" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="11" RankEqual="Y" SortOrder="11" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438573" Order="3" Bib="8/C">
+						<Description GivenName="Laura" FamilyName="Lindemann" Gender="F" Organisation="GER" BirthDate="1996-06-26" IFId="70413" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="12" SortOrder="12" Diff="+0:07" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:19" Rank="12" SortOrder="12" Diff="+0:08" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:46" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:25" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:02" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="1" RankEqual="Y" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:00" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:32" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:02" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="1" RankEqual="Y" SortOrder="2" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438577" Order="4" Bib="8/D">
+						<Description GivenName="Jonas" FamilyName="Schomburg" Gender="M" Organisation="GER" BirthDate="1994-01-31" IFId="67535" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="12" SortOrder="12" Diff="+0:01" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:03" Rank="12" SortOrder="12" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:02" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:46" Rank="12" SortOrder="12" Diff="+0:04" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:06" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:09" Rank="12" SortOrder="12" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:42" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:00" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:06" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:50" Rank="2" SortOrder="2" Diff="+0:01" Move="+10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:01" Rank="2" SortOrder="2" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:07" Rank="11" SortOrder="11" Diff="+0:06" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="3" Result="7:51" SortOrder="3" StartOrder="15" StartSortOrder="15" Diff="+0:01">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:15" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:37" Rank="13" SortOrder="13" Diff="+0:04" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="11" SortOrder="11" Diff="+0:03" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="13" SortOrder="13" Diff="+0:03" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="11" SortOrder="11" Diff="+0:04" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:05" Rank="12" SortOrder="12" Diff="+0:03" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:26" Rank="11" SortOrder="11" Diff="+0:04" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:40" Rank="8" SortOrder="8" Diff="+0:02" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:48" Rank="10" SortOrder="10" Diff="+0:03" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:20" Rank="3" SortOrder="3" Diff="+0:01" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:45" Rank="11" SortOrder="11" Diff="+0:04" Move="-8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="11" SortOrder="11" Diff="+0:00" Move="-8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:49" Value2="5:15" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="11" SortOrder="11" Diff="+0:07" Move="-8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:25" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:16" Value2="7:31" Rank="11" SortOrder="11" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="11" SortOrder="11" Diff="+0:01" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:42" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:42" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="3" SortOrder="3" Diff="+0:01" Move="+8" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:19" Value2="7:51" Rank="3" SortOrder="3" Diff="+0:01" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------SUI01" Type="T" Organisation="SUI">
+				<Composition>
+					<Athlete Code="9436789" Order="1" Bib="16/A">
+						<Description GivenName="Julie" FamilyName="Derron" Gender="F" Organisation="SUI" BirthDate="1996-09-10" IFId="84816" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:15" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:37" Rank="13" SortOrder="13" Diff="+0:04" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:21" Rank="13" SortOrder="13" Diff="+0:11" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="11" SortOrder="11" Diff="+0:03" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="13" SortOrder="13" Diff="+0:03" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="12" SortOrder="12" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:13" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="11" SortOrder="11" Diff="+0:04" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="11" SortOrder="11" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:05" Rank="12" SortOrder="12" Diff="+0:03" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:26" Rank="11" SortOrder="11" Diff="+0:04" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:29" Rank="7" SortOrder="7" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436760" Order="2" Bib="16/B">
+						<Description GivenName="Adrien" FamilyName="Briffod" Gender="M" Organisation="SUI" BirthDate="1994-08-02" IFId="56550" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:40" Rank="8" SortOrder="8" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:14" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:48" Rank="10" SortOrder="10" Diff="+0:03" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:07" Rank="9" SortOrder="9" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:20" Rank="3" SortOrder="3" Diff="+0:01" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:31" Rank="3" SortOrder="3" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:45" Rank="11" SortOrder="11" Diff="+0:04" Move="-8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:25" Rank="11" SortOrder="11" Diff="+0:21" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:56" Rank="9" RankEqual="Y" SortOrder="9" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:43" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="11" SortOrder="11" Diff="+0:00" Move="-8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:04" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="11" RankEqual="Y" SortOrder="12" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9437739" Order="3" Bib="16/C">
+						<Description GivenName="Cathia" FamilyName="Schar" Gender="F" Organisation="SUI" BirthDate="2001-10-20" IFId="115148" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="11" SortOrder="11" Diff="+0:07" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:18" Rank="11" SortOrder="11" Diff="+0:08" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:46" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:25" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="1" RankEqual="Y" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:00" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:02" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="10" SortOrder="10" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9437778" Order="4" Bib="16/D">
+						<Description GivenName="Max" FamilyName="Studer" Gender="M" Organisation="SUI" BirthDate="1996-01-16" IFId="70032" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="11" SortOrder="11" Diff="+0:01" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:03" Rank="11" SortOrder="11" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:02" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:42" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:02" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="2" RankEqual="Y" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:42" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:00" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:06" Rank="11" SortOrder="11" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="3" SortOrder="3" Diff="+0:01" Move="+8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:01" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:08" Rank="12" SortOrder="12" Diff="+0:06" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="4" Result="7:51" SortOrder="4" StartOrder="3" StartSortOrder="3" Diff="+0:02">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="12" SortOrder="12" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="3" SortOrder="3" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="2" SortOrder="2" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:22" Rank="2" SortOrder="2" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="2" SortOrder="2" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:48" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:21" Rank="5" SortOrder="5" Diff="+0:02" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:44" Rank="9" SortOrder="9" Diff="+0:03" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="9" SortOrder="9" Diff="+0:00" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:53" Value2="5:15" Rank="12" SortOrder="12" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="9" SortOrder="9" Diff="+0:07" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="9" SortOrder="9" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="9" SortOrder="9" Diff="+0:01" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="3" SortOrder="3" Diff="+0:01" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="4" SortOrder="4" Diff="+0:02" Move="+6" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:19" Value2="7:51" Rank="4" SortOrder="4" Diff="+0:02" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------BEL01" Type="T" Organisation="BEL">
+				<Composition>
+					<Athlete Code="9433092" Order="1" Bib="3/A">
+						<Description GivenName="Jolien" FamilyName="Vermeylen" Gender="F" Organisation="BEL" BirthDate="1994-05-02" IFId="113106" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="12" SortOrder="12" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="3" SortOrder="3" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:11" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="8" RankEqual="Y" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="3" SortOrder="3" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="2" SortOrder="2" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:22" Rank="2" SortOrder="2" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:20" Rank="3" RankEqual="Y" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:29" Rank="4" SortOrder="4" Diff="+0:01" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9433087" Order="2" Bib="3/B">
+						<Description GivenName="Jelle" FamilyName="Geens" Gender="M" Organisation="BEL" BirthDate="1993-03-26" IFId="39974" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:48" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:10" Rank="14" SortOrder="14" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:21" Rank="5" SortOrder="5" Diff="+0:02" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:32" Rank="5" SortOrder="5" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:44" Rank="9" SortOrder="9" Diff="+0:03" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:22" Rank="9" SortOrder="9" Diff="+0:18" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:55" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:44" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="9" SortOrder="9" Diff="+0:00" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="5" SortOrder="5" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="5" RankEqual="Y" SortOrder="6" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9433091" Order="3" Bib="3/C">
+						<Description GivenName="Claire" FamilyName="Michel" Gender="F" Organisation="BEL" BirthDate="1988-10-13" IFId="72769" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="9" SortOrder="9" Diff="+0:07" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:18" Rank="9" SortOrder="9" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="3" RankEqual="Y" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:02" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="4" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9435198" Order="4" Bib="3/D">
+						<Description GivenName="Marten" FamilyName="van Riel" Gender="M" Organisation="BEL" BirthDate="1992-12-15" IFId="40311" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="9" SortOrder="9" Diff="+0:01" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:03" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:03" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:02" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="4" RankEqual="Y" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="3" SortOrder="3" Diff="+0:01" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:02" Rank="3" SortOrder="3" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:05" Rank="10" SortOrder="10" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="4" SortOrder="4" Diff="+0:02" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:02" Rank="4" SortOrder="4" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:07" Rank="7" SortOrder="7" Diff="+0:05" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="5" Result="7:51" SortOrder="5" StartOrder="10" StartSortOrder="10" Diff="+0:02">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="6" SortOrder="6" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:35" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:42" Rank="6" SortOrder="6" Diff="+0:02" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="7" SortOrder="7" Diff="+0:01" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="9" SortOrder="9" Diff="+0:02" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="10" SortOrder="10" Diff="+0:03" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:50" Rank="13" SortOrder="13" Diff="+0:06" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:22" Rank="6" SortOrder="6" Diff="+0:02" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="8" SortOrder="8" Diff="+0:02" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="8" SortOrder="8" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:51" Value2="5:15" Rank="5" SortOrder="5" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="8" SortOrder="8" Diff="+0:06" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="8" SortOrder="8" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="8" SortOrder="8" Diff="+0:01" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="4" SortOrder="4" Diff="+0:01" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="5" SortOrder="5" Diff="+0:02" Move="+4" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:20" Value2="7:51" Rank="5" SortOrder="5" Diff="+0:02" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------MEX01" Type="T" Organisation="MEX">
+				<Composition>
+					<Athlete Code="9433389" Order="1" Bib="10/A">
+						<Description GivenName="Rosa Maria" FamilyName="Tapia Vidal" Gender="F" Organisation="MEX" BirthDate="1997-08-27" IFId="80813" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:18" Rank="6" SortOrder="6" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:35" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:17" Rank="9" SortOrder="9" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:42" Rank="6" SortOrder="6" Diff="+0:02" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="10" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:13" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="7" SortOrder="7" Diff="+0:01" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="9" SortOrder="9" Diff="+0:02" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:29" Rank="8" SortOrder="8" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9435342" Order="2" Bib="10/B">
+						<Description GivenName="Aram Michell" FamilyName="Penaflor Moysen" Gender="M" Organisation="MEX" BirthDate="1999-03-11" IFId="103530" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="10" SortOrder="10" Diff="+0:03" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:17" Rank="13" SortOrder="13" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:50" Rank="13" SortOrder="13" Diff="+0:06" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:08" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:22" Rank="6" SortOrder="6" Diff="+0:02" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:31" Rank="2" SortOrder="2" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="8" SortOrder="8" Diff="+0:02" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:21" Rank="8" SortOrder="8" Diff="+0:18" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:52" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:44" Rank="6" SortOrder="6" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="8" SortOrder="8" Diff="+0:00" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="5" RankEqual="Y" SortOrder="8" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9433388" Order="3" Bib="10/C">
+						<Description GivenName="Lizeth" FamilyName="Rueda Santos" Gender="F" Organisation="MEX" BirthDate="1994-03-07" IFId="73426" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="8" SortOrder="8" Diff="+0:06" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:18" Rank="8" SortOrder="8" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="3" RankEqual="Y" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="7" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9433390" Order="4" Bib="10/D">
+						<Description GivenName="Crisanto" FamilyName="Grajales" Gender="M" Organisation="MEX" BirthDate="1987-05-06" IFId="7503" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="8" SortOrder="8" Diff="+0:01" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:03" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="5" SortOrder="5" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:03" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="4" SortOrder="4" Diff="+0:01" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:02" Rank="4" SortOrder="4" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:04" Rank="9" SortOrder="9" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:51" Rank="5" SortOrder="5" Diff="+0:02" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:02" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:07" Rank="8" SortOrder="8" Diff="+0:05" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="6" Result="7:52" SortOrder="6" StartOrder="1" StartSortOrder="1" Diff="+0:02">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:22" Rank="14" SortOrder="14" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:32" Rank="1" SortOrder="1" Diff="+0:00" Move="+13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:53" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="8" SortOrder="8" Diff="+0:01" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="8" SortOrder="8" Diff="+0:02" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="4" SortOrder="4" Diff="+0:01" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="4" SortOrder="4" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:22" Rank="7" SortOrder="7" Diff="+0:03" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="7" SortOrder="7" Diff="+0:02" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="7" SortOrder="7" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="7" SortOrder="7" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="7" SortOrder="7" Diff="+0:00" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:51" Value2="5:15" Rank="6" SortOrder="6" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="7" SortOrder="7" Diff="+0:06" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="7" SortOrder="7" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="5" SortOrder="5" Diff="+0:01" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="6" SortOrder="6" Diff="+0:02" Move="+2" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:20" Value2="7:52" Rank="6" SortOrder="6" Diff="+0:02" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------AUS01" Type="T" Organisation="AUS">
+				<Composition>
+					<Athlete Code="9436492" Order="1" Bib="1/A">
+						<Description GivenName="Natalie" FamilyName="van Coevorden" Gender="F" Organisation="AUS" BirthDate="1992-12-22" IFId="45907" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:22" Rank="14" SortOrder="14" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:32" Rank="1" SortOrder="1" Diff="+0:00" Move="+13" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:10" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:08" Rank="13" SortOrder="13" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="13" SortOrder="13" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:53" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="9" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:03" Rank="8" SortOrder="8" Diff="+0:01" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:10" Rank="14" SortOrder="14" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="8" SortOrder="8" Diff="+0:02" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:31" Rank="14" SortOrder="14" Diff="+0:03" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436491" Order="2" Bib="1/B">
+						<Description GivenName="Matthew" FamilyName="Hauser" Gender="M" Organisation="AUS" BirthDate="1998-04-03" IFId="80795" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:14" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="4" SortOrder="4" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:05" Rank="7" SortOrder="7" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:22" Rank="7" SortOrder="7" Diff="+0:03" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:37" Rank="8" SortOrder="8" Diff="+0:08" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="7" SortOrder="7" Diff="+0:02" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:20" Rank="7" SortOrder="7" Diff="+0:17" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:58" Rank="11" SortOrder="11" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="7" SortOrder="7" Diff="+0:01" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:45" Rank="7" SortOrder="7" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="7" SortOrder="7" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="7" SortOrder="7" Diff="+0:00" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="5" RankEqual="Y" SortOrder="5" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436493" Order="3" Bib="1/C">
+						<Description GivenName="Sophie" FamilyName="Linn" Gender="F" Organisation="AUS" BirthDate="1995-03-13" IFId="123455" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="7" SortOrder="7" Diff="+0:06" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:18" Rank="7" SortOrder="7" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="11" RankEqual="Y" SortOrder="11" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436490" Order="4" Bib="1/D">
+						<Description GivenName="Luke" FamilyName="Willian" Gender="M" Organisation="AUS" BirthDate="1996-10-11" IFId="55495" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:03" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="4" RankEqual="Y" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="5" SortOrder="5" Diff="+0:01" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:03" Rank="5" SortOrder="5" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="8" SortOrder="8" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:04" Rank="8" SortOrder="8" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="6" SortOrder="6" Diff="+0:02" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:02" Rank="6" SortOrder="6" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:07" Rank="9" SortOrder="9" Diff="+0:05" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="7" Result="7:52" SortOrder="7" StartOrder="12" StartSortOrder="12" Diff="+0:03">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:17" Rank="5" SortOrder="5" Diff="+0:02" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="10" SortOrder="10" Diff="+0:03" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="14" SortOrder="14" Diff="+0:03" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:57" Rank="14" SortOrder="14" Diff="+0:04" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:06" Rank="13" SortOrder="13" Diff="+0:04" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:27" Rank="14" SortOrder="14" Diff="+0:05" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="11" SortOrder="11" Diff="+0:04" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:50" Rank="12" SortOrder="12" Diff="+0:05" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:35" Rank="9" SortOrder="9" Diff="+0:16" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="6" SortOrder="6" Diff="+0:02" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="8" SortOrder="8" Diff="+0:01" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="8" SortOrder="8" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:48" Value2="5:16" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:29" Rank="6" SortOrder="6" Diff="+0:02" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="6" SortOrder="6" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="6" SortOrder="6" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="7" SortOrder="7" Diff="+0:03" Move="0" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:20" Value2="7:52" Rank="7" SortOrder="7" Diff="+0:03" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------NOR01" Type="T" Organisation="NOR">
+				<Composition>
+					<Athlete Code="9438722" Order="1" Bib="12/A">
+						<Description GivenName="Solveig" FamilyName="Lovseth" Gender="F" Organisation="NOR" BirthDate="1999-07-14" IFId="94515" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:17" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="10" SortOrder="10" Diff="+0:03" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:18" Rank="10" SortOrder="10" Diff="+0:08" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="14" SortOrder="14" Diff="+0:03" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:08" Rank="14" SortOrder="14" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="14" SortOrder="14" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:57" Rank="14" SortOrder="14" Diff="+0:04" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:06" Rank="14" SortOrder="14" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:06" Rank="13" SortOrder="13" Diff="+0:04" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:09" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:27" Rank="14" SortOrder="14" Diff="+0:05" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:30" Rank="11" SortOrder="11" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438724" Order="2" Bib="12/B">
+						<Description GivenName="Kristian" FamilyName="Blummenfelt" Gender="M" Organisation="NOR" BirthDate="1994-02-14" IFId="41322" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="11" SortOrder="11" Diff="+0:04" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:14" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:50" Rank="12" SortOrder="12" Diff="+0:05" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:07" Rank="11" SortOrder="11" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:35" Rank="9" SortOrder="9" Diff="+0:16" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:45" Rank="9" SortOrder="9" Diff="+0:16" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:43" Rank="6" SortOrder="6" Diff="+0:02" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:07" Rank="6" SortOrder="6" Diff="+0:04" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:52" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="8" SortOrder="8" Diff="+0:01" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:45" Rank="8" SortOrder="8" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="6" SortOrder="6" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="8" SortOrder="8" Diff="+0:00" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="9" RankEqual="Y" SortOrder="10" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438721" Order="3" Bib="12/C">
+						<Description GivenName="Lotte" FamilyName="Miller" Gender="F" Organisation="NOR" BirthDate="1996-01-25" IFId="47631" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:29" Rank="6" SortOrder="6" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:13" Rank="6" SortOrder="6" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:07" Rank="7" SortOrder="7" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="3" RankEqual="Y" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:01" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="8" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438723" Order="4" Bib="12/D">
+						<Description GivenName="Vetle Bergsvik" FamilyName="Thorn" Gender="M" Organisation="NOR" BirthDate="1999-05-22" IFId="96040" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="6" SortOrder="6" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:03" Rank="7" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:44" Rank="6" SortOrder="6" Diff="+0:01" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:03" Rank="6" SortOrder="6" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="7" SortOrder="7" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:04" Rank="7" SortOrder="7" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="7" SortOrder="7" Diff="+0:03" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:03" Rank="7" SortOrder="7" Diff="+0:03" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:07" Rank="10" SortOrder="10" Diff="+0:05" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="8" Result="7:52" SortOrder="8" StartOrder="4" StartSortOrder="4" Diff="+0:03">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="11" SortOrder="11" Diff="+0:06" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="4" SortOrder="4" Diff="+0:01" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:40" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="3" SortOrder="3" Diff="+0:00" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:21" Rank="1" SortOrder="1" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="3" SortOrder="3" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="5" SortOrder="5" Diff="+0:01" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:21" Rank="4" SortOrder="4" Diff="+0:01" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:44" Rank="10" SortOrder="10" Diff="+0:03" Move="-6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="10" SortOrder="10" Diff="+0:00" Move="-6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:53" Value2="5:15" Rank="13" SortOrder="13" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="10" SortOrder="10" Diff="+0:07" Move="-6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:16" Value2="7:31" Rank="10" SortOrder="10" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="10" SortOrder="10" Diff="+0:01" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="7" SortOrder="7" Diff="+0:04" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="8" SortOrder="8" Diff="+0:03" Move="-2" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:21" Value2="7:52" Rank="8" SortOrder="8" Diff="+0:03" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------BRA01" Type="T" Organisation="BRA">
+				<Composition>
+					<Athlete Code="9430667" Order="1" Bib="4/A">
+						<Description GivenName="Djenyfer" FamilyName="Arnold" Gender="F" Organisation="BRA" BirthDate="1993-03-08" IFId="125061" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="11" SortOrder="11" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="4" SortOrder="4" Diff="+0:01" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:12" Rank="4" SortOrder="4" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:40" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="11" SortOrder="11" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:13" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="3" SortOrder="3" Diff="+0:00" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:09" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:21" Rank="1" SortOrder="1" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:20" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:29" Rank="5" SortOrder="5" Diff="+0:01" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430672" Order="2" Bib="4/B">
+						<Description GivenName="Miguel" FamilyName="Hidalgo" Gender="M" Organisation="BRA" BirthDate="2000-08-04" IFId="105480" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:38" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="12" SortOrder="12" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="5" SortOrder="5" Diff="+0:01" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:06" Rank="8" SortOrder="8" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:21" Rank="4" SortOrder="4" Diff="+0:01" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:35" Rank="6" SortOrder="6" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:44" Rank="10" SortOrder="10" Diff="+0:03" Move="-6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:23" Rank="10" SortOrder="10" Diff="+0:19" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:58" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:28" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:44" Rank="4" SortOrder="4" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="10" SortOrder="10" Diff="+0:00" Move="-6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:03" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:43" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="9" RankEqual="Y" SortOrder="9" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430673" Order="3" Bib="4/C">
+						<Description GivenName="Vittoria" FamilyName="Lopes" Gender="F" Organisation="BRA" BirthDate="1996-03-15" IFId="81882" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:34" Rank="10" SortOrder="10" Diff="+0:07" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:18" Rank="10" SortOrder="10" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:36" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:02" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:45" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:03" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="3" RankEqual="Y" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:02" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:29" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:02" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="11" RankEqual="Y" SortOrder="12" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430671" Order="4" Bib="4/D">
+						<Description GivenName="Manoel" FamilyName="Messias" Gender="M" Organisation="BRA" BirthDate="1996-11-19" IFId="69143" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="10" SortOrder="10" Diff="+0:01" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:03" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:39" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:03" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:02" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="2" RankEqual="Y" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="7" SortOrder="7" Diff="+0:04" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:05" Rank="7" SortOrder="7" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="6" SortOrder="6" Diff="+0:00" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:52" Rank="8" SortOrder="8" Diff="+0:03" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:03" Rank="8" SortOrder="8" Diff="+0:03" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:05" Rank="2" SortOrder="2" Diff="+0:03" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="9" Result="7:53" SortOrder="9" StartOrder="14" StartSortOrder="14" Diff="+0:04">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:16" Rank="3" SortOrder="3" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="12" SortOrder="12" Diff="+0:03" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="12" SortOrder="12" Diff="+0:03" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="12" SortOrder="12" Diff="+0:03" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="12" SortOrder="12" Diff="+0:04" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:05" Rank="11" SortOrder="11" Diff="+0:03" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:26" Rank="12" SortOrder="12" Diff="+0:04" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:43" Rank="13" SortOrder="13" Diff="+0:05" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:46" Rank="6" SortOrder="6" Diff="+0:01" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="11" SortOrder="11" Diff="+0:17" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="4" SortOrder="4" Diff="+0:01" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="10" SortOrder="10" Diff="+0:01" Move="-6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="10" SortOrder="10" Diff="+0:00" Move="-6" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:49" Value2="5:16" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="4" SortOrder="4" Diff="+0:01" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:15" Value2="7:31" Rank="4" SortOrder="4" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="9" SortOrder="9" Diff="+0:04" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="9" SortOrder="9" Diff="+0:04" Move="-5" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:22" Value2="7:53" Rank="9" SortOrder="9" Diff="+0:04" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------POR01" Type="T" Organisation="POR">
+				<Composition>
+					<Athlete Code="9437128" Order="1" Bib="15/A">
+						<Description GivenName="Melanie" FamilyName="Santos" Gender="F" Organisation="POR" BirthDate="1995-07-12" IFId="47942" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:16" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="12" SortOrder="12" Diff="+0:03" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:20" Rank="12" SortOrder="12" Diff="+0:10" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="12" SortOrder="12" Diff="+0:03" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="8" SortOrder="8" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="12" SortOrder="12" Diff="+0:03" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="8" RankEqual="Y" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="8" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="12" SortOrder="12" Diff="+0:04" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="12" SortOrder="12" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:05" Rank="11" SortOrder="11" Diff="+0:03" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:26" Rank="12" SortOrder="12" Diff="+0:04" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:29" Rank="6" SortOrder="6" Diff="+0:01" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9437163" Order="2" Bib="15/B">
+						<Description GivenName="Vasco" FamilyName="Vilaca" Gender="M" Organisation="POR" BirthDate="1999-12-21" IFId="86042" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:43" Rank="13" SortOrder="13" Diff="+0:05" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="10" SortOrder="10" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:46" Rank="6" SortOrder="6" Diff="+0:01" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:02" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="11" SortOrder="11" Diff="+0:17" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:50" Rank="11" SortOrder="11" Diff="+0:21" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="4" SortOrder="4" Diff="+0:01" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:05" Rank="4" SortOrder="4" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:56" Rank="6" SortOrder="6" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="10" SortOrder="10" Diff="+0:01" Move="-6" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:46" Rank="10" SortOrder="10" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="4" SortOrder="4" Diff="+0:00" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:02" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="10" SortOrder="10" Diff="+0:00" Move="-6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:44" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="1" SortOrder="1" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9437132" Order="3" Bib="15/C">
+						<Description GivenName="Maria" FamilyName="Tome" Gender="F" Organisation="POR" BirthDate="2001-06-28" IFId="112738" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:12" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:08" Rank="9" SortOrder="9" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:44" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:04" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="12" SortOrder="12" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:28" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:02" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="1" RankEqual="Y" SortOrder="3" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9437133" Order="4" Bib="15/D">
+						<Description GivenName="Ricardo" FamilyName="Batista" Gender="M" Organisation="POR" BirthDate="2000-11-20" IFId="98121" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="9" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:02" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:36" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="9" SortOrder="9" Diff="+0:00" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:04" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="10" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="9" SortOrder="9" Diff="+0:04" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:06" Rank="9" SortOrder="9" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="4" SortOrder="4" Diff="+0:00" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="4" SortOrder="4" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="9" SortOrder="9" Diff="+0:04" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:04" Rank="9" SortOrder="9" Diff="+0:04" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:05" Rank="3" SortOrder="3" Diff="+0:04" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="10" Result="7:53" SortOrder="10" StartOrder="16" StartSortOrder="16" Diff="+0:04">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:14" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:37" Rank="14" SortOrder="14" Diff="+0:04" Move="-13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:51" Rank="14" SortOrder="14" Diff="+0:03" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:04" Rank="9" SortOrder="9" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="7" SortOrder="7" Diff="+0:02" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="5" SortOrder="5" Diff="+0:01" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="3" SortOrder="3" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="12" SortOrder="12" Diff="+0:17" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="3" SortOrder="3" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="11" SortOrder="11" Diff="+0:01" Move="-8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="11" SortOrder="11" Diff="+0:00" Move="-8" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:51" Value2="5:16" Rank="7" SortOrder="7" Diff="+0:03" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:14" Value2="7:31" Rank="3" SortOrder="3" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="10" SortOrder="10" Diff="+0:04" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="10" SortOrder="10" Diff="+0:04" Move="-7" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:22" Value2="7:53" Rank="10" SortOrder="10" Diff="+0:04" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------USA01" Type="T" Organisation="USA">
+				<Composition>
+					<Athlete Code="9430352" Order="1" Bib="17/A">
+						<Description GivenName="Taylor" FamilyName="Spivey" Gender="F" Organisation="USA" BirthDate="1991-04-13" IFId="81334" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:14" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:37" Rank="14" SortOrder="14" Diff="+0:04" Move="-13" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:22" Rank="14" SortOrder="14" Diff="+0:12" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:06" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:51" Rank="14" SortOrder="14" Diff="+0:03" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="13" SortOrder="13" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:13" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="10" SortOrder="10" Diff="+0:03" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="8" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:04" Rank="9" SortOrder="9" Diff="+0:02" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:07" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:24" Rank="7" SortOrder="7" Diff="+0:02" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:20" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:27" Rank="1" SortOrder="1" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430347" Order="2" Bib="17/B">
+						<Description GivenName="Morgan" FamilyName="Pearson" Gender="M" Organisation="USA" BirthDate="1993-09-22" IFId="123392" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="5" SortOrder="5" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:15" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:45" Rank="3" SortOrder="3" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:05" Rank="6" SortOrder="6" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="12" SortOrder="12" Diff="+0:17" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:51" Rank="12" SortOrder="12" Diff="+0:23" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:42" Rank="3" SortOrder="3" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:05" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:56" Rank="9" RankEqual="Y" SortOrder="10" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="11" SortOrder="11" Diff="+0:01" Move="-8" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:47" Rank="11" SortOrder="11" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="3" SortOrder="3" Diff="+0:00" Move="+8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:02" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="11" SortOrder="11" Diff="+0:00" Move="-8" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:44" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="2" RankEqual="Y" SortOrder="4" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430339" Order="3" Bib="17/C">
+						<Description GivenName="Taylor" FamilyName="Knibb" Gender="F" Organisation="USA" BirthDate="1998-02-14" IFId="80643" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:28" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:11" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:09" Rank="10" SortOrder="10" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:44" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:04" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="8" RankEqual="Y" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:02" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="9" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9430350" Order="4" Bib="17/D">
+						<Description GivenName="Seth" FamilyName="Rider" Gender="M" Organisation="USA" BirthDate="1997-03-06" IFId="76425" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="10" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:02" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="10" SortOrder="10" Diff="+0:00" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:04" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="7" RankEqual="Y" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="10" SortOrder="10" Diff="+0:04" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:06" Rank="10" SortOrder="10" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:49" Rank="3" SortOrder="3" Diff="+0:00" Move="+7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="3" SortOrder="3" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="10" SortOrder="10" Diff="+0:04" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:04" Rank="10" SortOrder="10" Diff="+0:04" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:06" Rank="4" SortOrder="4" Diff="+0:04" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="11" Result="7:53" SortOrder="11" StartOrder="2" StartSortOrder="2" Diff="+0:04">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="13" SortOrder="13" Diff="+0:07" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="2" SortOrder="2" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:53" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="1" SortOrder="1" Diff="+0:00" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="6" SortOrder="6" Diff="+0:01" Move="-5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="6" SortOrder="6" Diff="+0:01" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:44" Rank="2" SortOrder="2" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="13" SortOrder="13" Diff="+0:17" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:41" Rank="2" SortOrder="2" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="12" SortOrder="12" Diff="+0:01" Move="-10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="12" SortOrder="12" Diff="+0:00" Move="-10" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:52" Value2="5:16" Rank="10" SortOrder="10" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:27" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:14" Value2="7:31" Rank="2" SortOrder="2" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:48" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:22" Value2="7:53" Rank="11" SortOrder="11" Diff="+0:05" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------AUT01" Type="T" Organisation="AUT">
+				<Composition>
+					<Athlete Code="9438536" Order="1" Bib="2/A">
+						<Description GivenName="Julia" FamilyName="Hauser" Gender="F" Organisation="AUT" BirthDate="1994-02-21" IFId="41079" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:21" Rank="13" SortOrder="13" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:33" Rank="2" SortOrder="2" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:11" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:41" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:07" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="2" SortOrder="2" Diff="+0:00" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="9" SortOrder="9" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:53" Rank="4" SortOrder="4" Diff="+0:00" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="1" SortOrder="1" Diff="+0:00" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:08" Rank="7" SortOrder="7" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="6" SortOrder="6" Diff="+0:01" Move="-5" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="14" SortOrder="14" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:30" Rank="10" SortOrder="10" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438538" Order="2" Bib="2/B">
+						<Description GivenName="Alois" FamilyName="Knabl" Gender="M" Organisation="AUT" BirthDate="1992-05-16" IFId="21622" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:39" Rank="6" SortOrder="6" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="8" SortOrder="8" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:44" Rank="2" SortOrder="2" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:04" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:36" Rank="13" SortOrder="13" Diff="+0:17" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:52" Rank="13" SortOrder="13" Diff="+0:23" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:41" Rank="2" SortOrder="2" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:04" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:56" Rank="8" SortOrder="8" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="12" SortOrder="12" Diff="+0:01" Move="-10" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:47" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="2" SortOrder="2" Diff="+0:00" Move="+10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:02" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="12" SortOrder="12" Diff="+0:00" Move="-10" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:44" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="2" RankEqual="Y" SortOrder="2" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438540" Order="3" Bib="2/C">
+						<Description GivenName="Lisa" FamilyName="Perterer" Gender="F" Organisation="AUT" BirthDate="1991-10-16" IFId="11879" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:27" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:11" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:09" Rank="11" SortOrder="11" Diff="+0:07" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:44" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:04" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="8" RankEqual="Y" SortOrder="8" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:02" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:00" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="1" RankEqual="Y" SortOrder="1" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438537" Order="4" Bib="2/D">
+						<Description GivenName="Tjebbe" FamilyName="Kaindl" Gender="M" Organisation="AUT" BirthDate="1999-03-20" IFId="94563" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="11" SortOrder="11" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:02" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:02" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="11" SortOrder="11" Diff="+0:00" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:04" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:00" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="7" RankEqual="Y" SortOrder="7" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:06" Rank="11" SortOrder="11" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:48" Rank="2" SortOrder="2" Diff="+0:00" Move="+9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:53" Rank="11" SortOrder="11" Diff="+0:04" Move="-9" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:05" Rank="11" SortOrder="11" Diff="+0:05" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:06" Rank="5" SortOrder="5" Diff="+0:04" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result Rank="12" Result="7:54" SortOrder="12" StartOrder="5" StartSortOrder="5" Diff="+0:05">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:20" Rank="10" SortOrder="10" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="5" SortOrder="5" Diff="+0:01" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:40" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="4" SortOrder="4" Diff="+0:00" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="5" SortOrder="5" Diff="+0:01" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:40" Rank="7" SortOrder="7" Diff="+0:02" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:44" Rank="1" SortOrder="1" Diff="+0:00" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:37" Rank="14" SortOrder="14" Diff="+0:18" Move="-13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:41" Rank="1" SortOrder="1" Diff="+0:00" Move="+13" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="13" SortOrder="13" Diff="+0:01" Move="-12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="13" SortOrder="13" Diff="+0:00" Move="-12" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:52" Value2="5:16" Rank="11" SortOrder="11" Diff="+0:05" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:27" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="SEGMENT" Code="LEG3" Pos="3" Value="2:14" Value2="7:31" Rank="1" SortOrder="1" Diff="+0:00" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="12" SortOrder="12" Diff="+0:04" Move="-11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:48" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+				<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:54" Rank="12" SortOrder="12" Diff="+0:05" Move="-11" />
+				<ExtendedResult Type="SEGMENT" Code="LEG4" Pos="4" Value="0:23" Value2="7:54" Rank="12" SortOrder="12" Diff="+0:05" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------ESP01" Type="T" Organisation="ESP">
+				<Composition>
+					<Athlete Code="9438379" Order="1" Bib="5/A">
+						<Description GivenName="Miriam" FamilyName="Casillas Garcia" Gender="F" Organisation="ESP" BirthDate="1992-06-24" IFId="30383" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:20" Rank="10" SortOrder="10" Diff="+0:05" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="5" SortOrder="5" Diff="+0:01" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:13" Rank="5" SortOrder="5" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:40" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:06" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:47" Rank="5" SortOrder="5" Diff="+0:00" Move="-4" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="14" SortOrder="14" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:13" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:52" Rank="1" SortOrder="1" Diff="+0:00" Move="+4" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:01" Rank="4" SortOrder="4" Diff="+0:00" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:09" Rank="10" SortOrder="10" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:23" Rank="5" SortOrder="5" Diff="+0:01" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="13" SortOrder="13" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:30" Rank="13" SortOrder="13" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438389" Order="2" Bib="5/B">
+						<Description GivenName="Antonio" FamilyName="Serrat Seoane" Gender="M" Organisation="ESP" BirthDate="1995-01-24" IFId="63428" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:40" Rank="7" SortOrder="7" Diff="+0:02" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="11" SortOrder="11" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:44" Rank="1" SortOrder="1" Diff="+0:00" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:04" Rank="3" SortOrder="3" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:37" Rank="14" SortOrder="14" Diff="+0:18" Move="-13" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:52" Rank="14" SortOrder="14" Diff="+0:24" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:41" Rank="1" SortOrder="1" Diff="+0:00" Move="+13" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:03" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:56" Rank="7" SortOrder="7" Diff="+0:03" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:29" Rank="13" SortOrder="13" Diff="+0:01" Move="-12" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:48" Rank="13" SortOrder="13" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:31" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:02" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:16" Rank="13" SortOrder="13" Diff="+0:00" Move="-12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:44" Rank="13" SortOrder="13" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="2" RankEqual="Y" SortOrder="3" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438381" Order="3" Bib="5/C">
+						<Description GivenName="Anna" FamilyName="Godoy Contreras" Gender="F" Organisation="ESP" BirthDate="1992-10-21" IFId="31827" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT15" Pos="15" Value="5:27" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="11" Value="0:10" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT16" Pos="16" Value="5:37" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="12" Value="0:10" Rank="12" SortOrder="12" Diff="+0:08" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT17" Pos="17" Value="7:22" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP9" Pos="9" Value="1:44" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT18" Pos="18" Value="7:26" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP10" Pos="10" Value="0:04" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="13" Value="1:49" Rank="10" RankEqual="Y" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT19" Pos="19" Value="7:27" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="14" Value="0:01" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT20" Pos="20" Value="7:30" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP11" Pos="11" Value="0:02" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT21" Pos="21" Value="7:31" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP12" Pos="12" Value="0:00" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="15" Value="0:03" Rank="4" RankEqual="Y" SortOrder="5" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9438387" Order="4" Bib="5/D">
+						<Description GivenName="Roberto" FamilyName="Sanchez Mantecon" Gender="M" Organisation="ESP" BirthDate="1996-02-14" IFId="63429" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT22" Pos="22" Value="7:33" Rank="12" SortOrder="12" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="16" Value="0:02" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT23" Pos="23" Value="7:35" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="17" Value="0:01" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT24" Pos="24" Value="7:40" Rank="12" SortOrder="12" Diff="+0:00" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP13" Pos="13" Value="0:05" Rank="12" SortOrder="12" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT25" Pos="25" Value="7:41" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP14" Pos="14" Value="0:00" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="18" Value="0:05" Rank="11" SortOrder="11" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT26" Pos="26" Value="7:47" Rank="12" SortOrder="12" Diff="+0:04" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="19" Value="0:06" Rank="12" SortOrder="12" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT27" Pos="27" Value="7:48" Rank="1" SortOrder="1" Diff="+0:00" Move="+11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP15" Pos="15" Value="0:01" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="F" Pos="28" Value="7:54" Rank="12" SortOrder="12" Diff="+0:05" Move="-11" />
+							<ExtendedResult Type="SEGMENT" Code="LAP16" Pos="16" Value="0:05" Rank="12" SortOrder="12" Diff="+0:05" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="20" Value="0:06" Rank="6" SortOrder="6" Diff="+0:04" />
+						</ExtendedResults>
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DNF" SortOrder="77" StartOrder="13" StartSortOrder="13">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:16" Rank="4" SortOrder="4" Diff="+0:01" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="11" SortOrder="11" Diff="+0:03" Move="-7" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="13" SortOrder="13" Diff="+0:03" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="11" SortOrder="11" Diff="+0:03" Move="+2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="13" SortOrder="13" Diff="+0:04" Move="-2" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:06" Rank="14" SortOrder="14" Diff="+0:04" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:27" Rank="13" SortOrder="13" Diff="+0:05" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="12" SortOrder="12" Diff="+0:04" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:46" Rank="7" SortOrder="7" Diff="+0:01" Move="+5" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:19" Rank="1" SortOrder="1" Diff="+0:00" Move="+6" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:46" Rank="13" SortOrder="13" Diff="+0:05" Move="-12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:27" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="13" SortOrder="13" Diff="+0:00" Move="-12" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+				<ExtendedResult Type="SEGMENT" Code="LEG2" Pos="2" Value="3:47" Value2="5:15" Rank="1" SortOrder="1" Diff="+0:00" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------NZL01" Type="T" Organisation="NZL">
+				<Composition>
+					<Athlete Code="9436251" Order="1" Bib="14/A">
+						<Description GivenName="Ainsley" FamilyName="Thorpe" Gender="F" Organisation="NZL" BirthDate="1998-02-13" IFId="92305" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:16" Rank="4" SortOrder="4" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:36" Rank="11" SortOrder="11" Diff="+0:03" Move="-7" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:19" Rank="11" SortOrder="11" Diff="+0:09" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:44" Rank="13" SortOrder="13" Diff="+0:03" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:08" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:50" Rank="11" SortOrder="11" Diff="+0:03" Move="+2" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="11" SortOrder="11" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:56" Rank="13" SortOrder="13" Diff="+0:04" Move="-2" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:06" Rank="13" SortOrder="13" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:06" Rank="14" SortOrder="14" Diff="+0:04" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:09" Rank="12" RankEqual="Y" SortOrder="13" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:27" Rank="13" SortOrder="13" Diff="+0:05" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="9" SortOrder="9" Diff="+0:01" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:30" Rank="12" SortOrder="12" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436249" Order="2" Bib="14/B">
+						<Description GivenName="Hayden" FamilyName="Wilde" Gender="M" Organisation="NZL" BirthDate="1997-09-01" IFId="104034" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:42" Rank="12" SortOrder="12" Diff="+0:04" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:15" Rank="5" SortOrder="5" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:46" Rank="7" SortOrder="7" Diff="+0:01" Move="+5" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:03" Rank="2" SortOrder="2" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:19" Rank="1" SortOrder="1" Diff="+0:00" Move="+6" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:32" Rank="4" SortOrder="4" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT11" Pos="11" Value="2:46" Rank="13" SortOrder="13" Diff="+0:05" Move="-12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP6" Pos="6" Value="0:26" Rank="13" SortOrder="13" Diff="+0:23" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="8" Value="0:59" Rank="13" SortOrder="13" Diff="+0:06" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT12" Pos="12" Value="4:27" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="9" Value="1:41" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT13" Pos="13" Value="4:32" Rank="13" SortOrder="13" Diff="+0:00" Move="-12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP7" Pos="7" Value="0:04" Rank="13" SortOrder="13" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT14" Pos="14" Value="5:15" Rank="1" SortOrder="1" Diff="+0:00" Move="+12" />
+							<ExtendedResult Type="SEGMENT" Code="LAP8" Pos="8" Value="0:42" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="10" Value="0:47" Rank="13" SortOrder="13" Diff="+0:00" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9436245" Order="3" Bib="14/C">
+						<Description GivenName="Nicole" FamilyName="van der Kaay" Gender="F" Organisation="NZL" BirthDate="1996-02-10" IFId="64750" />
+					</Athlete>
+					<Athlete Code="9436247" Order="4" Bib="14/D">
+						<Description GivenName="Dylan" FamilyName="McCullough" Gender="M" Organisation="NZL" BirthDate="2001-02-15" IFId="103632" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="LAP" SortOrder="78" StartOrder="7" StartSortOrder="7">
+			<ExtendedResults>
+				<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:19" Rank="9" SortOrder="9" Diff="+0:04" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:43" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:04" Rank="10" SortOrder="10" Diff="+0:02" Move="-1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:25" Rank="10" SortOrder="10" Diff="+0:03" Move="0" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:41" Rank="9" SortOrder="9" Diff="+0:03" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:47" Rank="8" SortOrder="8" Diff="+0:02" Move="+1" />
+				<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:23" Rank="8" SortOrder="8" Diff="+0:04" Move="0" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------GBR01" Type="T" Organisation="GBR">
+				<Composition>
+					<Athlete Code="9434044" Order="1" Bib="7/A">
+						<Description GivenName="Beth" FamilyName="Potter" Gender="F" Organisation="GBR" BirthDate="1991-12-27" IFId="117212" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT1" Pos="1" Value="0:19" Rank="9" SortOrder="9" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT2" Pos="2" Value="0:34" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="2" Value="0:14" Rank="6" SortOrder="6" Diff="+0:04" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT3" Pos="3" Value="0:43" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP1" Pos="1" Value="0:08" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT4" Pos="4" Value="0:49" Rank="6" SortOrder="6" Diff="+0:01" Move="+3" />
+							<ExtendedResult Type="SEGMENT" Code="LAP2" Pos="2" Value="0:06" Rank="1" SortOrder="1" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG3" Pos="3" Value="0:14" Rank="12" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT5" Pos="5" Value="0:54" Rank="9" SortOrder="9" Diff="+0:02" Move="-3" />
+							<ExtendedResult Type="SEGMENT" Code="SEG4" Pos="4" Value="0:05" Rank="10" SortOrder="10" Diff="+0:00" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT6" Pos="6" Value="1:04" Rank="10" SortOrder="10" Diff="+0:02" Move="-1" />
+							<ExtendedResult Type="SEGMENT" Code="LAP3" Pos="3" Value="0:09" Rank="12" RankEqual="Y" SortOrder="12" Diff="+0:01" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT7" Pos="7" Value="1:25" Rank="10" SortOrder="10" Diff="+0:03" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP4" Pos="4" Value="0:21" Rank="6" SortOrder="6" Diff="+0:00" />
+							<ExtendedResult Type="SEGMENT" Code="SEG5" Pos="5" Value="0:30" Rank="9" SortOrder="9" Diff="+0:02" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9434051" Order="2" Bib="7/B">
+						<Description GivenName="Alex" FamilyName="Yee" Gender="M" Organisation="GBR" BirthDate="1998-02-18" IFId="96742" />
+						<ExtendedResults>
+							<ExtendedResult Type="INTERMEDIATE" Code="INT8" Pos="8" Value="1:41" Rank="9" SortOrder="9" Diff="+0:03" />
+							<ExtendedResult Type="SEGMENT" Code="SEG1" Pos="6" Value="0:16" Rank="9" SortOrder="9" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT9" Pos="9" Value="1:47" Rank="8" SortOrder="8" Diff="+0:02" Move="+1" />
+							<ExtendedResult Type="SEGMENT" Code="SEG2" Pos="7" Value="0:05" Rank="5" SortOrder="5" Diff="+0:02" />
+							<ExtendedResult Type="INTERMEDIATE" Code="INT10" Pos="10" Value="2:23" Rank="8" SortOrder="8" Diff="+0:04" Move="0" />
+							<ExtendedResult Type="SEGMENT" Code="LAP5" Pos="5" Value="0:36" Rank="7" SortOrder="7" Diff="+0:07" />
+						</ExtendedResults>
+					</Athlete>
+					<Athlete Code="9434048" Order="3" Bib="7/C">
+						<Description GivenName="Georgia" FamilyName="Taylor-Brown" Gender="F" Organisation="GBR" BirthDate="1994-03-15" IFId="49545" />
+					</Athlete>
+					<Athlete Code="9434032" Order="4" Bib="7/D">
+						<Description GivenName="Samuel" FamilyName="Dickinson" Gender="M" Organisation="GBR" BirthDate="1997-07-11" IFId="88205" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DSQ" SortOrder="79" StartOrder="6" StartSortOrder="6">
+			<ExtendedResults>
+				<ExtendedResult Type="ER" Code="PENALTY" Pos="1" Value="R" />
+			</ExtendedResults>
+			<Competitor Code="TRIXTEAM4-------------FRA01" Type="T" Organisation="FRA">
+				<Composition>
+					<Athlete Code="9433463" Order="1" Bib="6/A">
+						<Description GivenName="Cassandre" FamilyName="Beaugrand" Gender="F" Organisation="FRA" BirthDate="1997-05-23" IFId="63163" />
+					</Athlete>
+					<Athlete Code="9433467" Order="2" Bib="6/B">
+						<Description GivenName="Leo" FamilyName="Bergere" Gender="M" Organisation="FRA" BirthDate="1996-06-28" IFId="63162" />
+					</Athlete>
+					<Athlete Code="9433464" Order="3" Bib="6/C">
+						<Description GivenName="Emma" FamilyName="Lombardi" Gender="F" Organisation="FRA" BirthDate="2001-09-12" IFId="125375" />
+					</Athlete>
+					<Athlete Code="9433469" Order="4" Bib="6/D">
+						<Description GivenName="Pierre" FamilyName="le Corre" Gender="M" Organisation="FRA" BirthDate="1990-02-03" IFId="30249" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+		<Result ResultType="IRM" IRM="DQB" SortOrder="80" StartOrder="11" StartSortOrder="11">
+			<Competitor Code="TRIXTEAM4-------------NED01" Type="T" Organisation="NED">
+				<Composition>
+					<Athlete Code="9438656" Order="1" Bib="11/A">
+						<Description GivenName="Rachel" FamilyName="Klamer" Gender="F" Organisation="NED" BirthDate="1990-10-08" IFId="22170" />
+					</Athlete>
+					<Athlete Code="9438658" Order="2" Bib="11/B">
+						<Description GivenName="Richard" FamilyName="Murray" Gender="M" Organisation="NED" BirthDate="1989-01-04" IFId="16392" />
+					</Athlete>
+					<Athlete Code="9438657" Order="3" Bib="11/C">
+						<Description GivenName="Maya" FamilyName="Kingma" Gender="F" Organisation="NED" BirthDate="1995-09-08" IFId="55701" />
+					</Athlete>
+					<Athlete Code="9438659" Order="4" Bib="11/D">
+						<Description GivenName="Mitch" FamilyName="Kolkman" Gender="M" Organisation="NED" BirthDate="2002-09-19" IFId="135049" />
+					</Athlete>
+				</Composition>
+			</Competitor>
+		</Result>
+	</Competition>
+</OdfBody>

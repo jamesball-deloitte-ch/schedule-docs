@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OdfBody CompetitionCode="OG2028-ITL" DocumentCode="TRI-------------------------------" DocumentType="DT_SCHEDULE_UPDATE" Version="22" FeedFlag="T" TimeStamp="2026-09-09T09:00:00.000+02:00" LogicalDate="2026-09-09" Source="VBHTRI1">
+	<Competition Gen="OG2028-GEN-5.2" Sport="OG2028-TRI-0.4" Codes="OG2028-1.5.0">
+		<Unit Code="TRIMOLYMPIC-----------FNL-000100--" PhaseType="3" ScheduleStatus="FINISHED" Medal="1" Venue="VBH" Location="VBH" SessionCode="TRI02" StartDate="2026-09-09T07:00:00+02:00" EndDate="2026-09-09T09:30:00+02:00">
+			<ItemName Language="ENG" Value="Men's Individual" />
+		</Unit>
+	</Competition>
+</OdfBody>

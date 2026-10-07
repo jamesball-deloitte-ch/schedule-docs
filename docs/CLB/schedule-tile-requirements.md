@@ -14,7 +14,8 @@
 |-------|----------------|
 | Tile type | **Phase/unit session** (Boulder/Lead) or Speed **phase** row — not H2H score card |
 | Results on tile | **N/A** (OSRP schedule) |
-| After | Show **three medallists** (NOC + athlete) when known |
+| After | Show **medallists** (NOC + athlete) when known; ties → all rows ([common §3.3.2](../common/schedule-tile-common.md)) |
+| `competitors[]` | **Full** start list for NOC filter ([common §3.3.1](../common/schedule-tile-common.md)) |
 | Placeholders | Rich `SC@CompetitorPlace` exists in ODF — **not shown on schedule tile** (Speed `S` pairs merge into Finals phase tile) |
 | `liveCurrentProgress` | **N/A** for schedule tile (`SC@Period` empty); live = status highlight |
 | `resultDecision` | **N/A** on schedule tile |
@@ -33,7 +34,7 @@
 
 ### 2.2 After event completed
 
-- Show **three medallists**: NOC (code/flag) + athlete name (+ medal icon per product).
+- Show **medallists**: NOC (code/flag) + athlete name (+ medal icon). Usual case three (G/S/B); on ties show **every** medallist ([common §3.3.2](../common/schedule-tile-common.md)).
 
 ### 2.3 Speed schedule granularity (`CC@Unit` / `CC@Phase`, OG2028)
 
@@ -92,7 +93,7 @@ DT_MEDALLISTS → schedules[] competitors[]
 - [ ] Y (and agreed S) units in payload  
 - [ ] No climbing scores on schedule tile  
 - [ ] Place codes on Speed pairs: not required for schedule tile UI (S → Finals phase)  
-- [ ] After: three medallists from `DT_MEDALLISTS`  
+- [ ] After: all medallist rows from `DT_MEDALLISTS` (incl. ties); full `competitors[]` retained  
 - [ ] Live = `scheduleStatus` / `liveFlag` only  
 
 ---
@@ -105,7 +106,7 @@ DT_MEDALLISTS → schedules[] competitors[]
 |-------|-----|
 | Before | Event/phase, time; **no** H2H / placeholder opponent rows |
 | During | Live highlight; no result block |
-| After | Three medallist rows |
+| After | All medallist rows (`result.medal`; >3 if ties) |
 
 ### 4.1 Card click redirects
 
@@ -128,7 +129,7 @@ Boulder / Lead / Qual heat parents use their own unit RSC (no override unless li
 
 ```
 BEFORE/DURING: DT_SCHEDULE  →  meta/status for Schedule=Y rows; no scores; no H2H placeholders
-AFTER:         DT_MEDALLISTS →  three medallists on tile
+AFTER:         DT_MEDALLISTS →  all medallists on tile (ties → >3); full competitors[] kept
 SPEED (CC):    Phase QFNL/SFNL/FNL = Y → one tile; pair units = S → not listed separately
 SPEED click:   use overrideRsc (shared brackets/finals page) per Schedule RSC overrides
 ```
